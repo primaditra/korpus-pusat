@@ -85190,7 +85190,7 @@ keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini batal
 dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang berarti
 kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan yang telah
-termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA yang atas
 kuasanya dengan hak substitusi untuk mengambil PERALATAN milik PIHAK
 PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak lain yang
@@ -142140,7 +142140,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang
 berarti kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan
-yang telah termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+yang telah termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
 PIHAK PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak
@@ -150611,7 +150611,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang
 berarti kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan
-yang telah termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+yang telah termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
 PIHAK PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak
@@ -158902,7 +158902,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang
 berarti kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan
-yang telah termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+yang telah termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
 PIHAK PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak
@@ -167373,7 +167373,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang
 berarti kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan
-yang telah termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+yang telah termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
 PIHAK PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak
@@ -175893,7 +175893,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang
 berarti kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan
-yang telah termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+yang telah termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
 PIHAK PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak
@@ -184116,7 +184116,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri
 yang berarti kedua belah pihak telah menyetujui untuk melepaskan segala
-ketentuan yang telah termuat dalam pasal 1266 Kitab Undang- Undang
+ketentuan yang telah termuat dalam pasal 1266 Kitab Undang-Undang
 Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
@@ -193542,7 +193542,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri
 yang berarti kedua belah pihak telah menyetujui untuk melepaskan segala
-ketentuan yang telah termuat dalam pasal 1266 Kitab Undang- Undang
+ketentuan yang telah termuat dalam pasal 1266 Kitab Undang-Undang
 Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
@@ -200791,7 +200791,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri
 yang berarti kedua belah pihak telah menyetujui untuk melepaskan segala
-ketentuan yang telah termuat dalam pasal 1266 Kitab Undang- Undang
+ketentuan yang telah termuat dalam pasal 1266 Kitab Undang-Undang
 Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
@@ -207732,7 +207732,7 @@ keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini batal
 dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang berarti
 kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan yang telah
-termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA yang atas
 kuasanya dengan hak substitusi untuk mengambil PERALATAN milik PIHAK PERTAMA,
 baik yang berada di tempat PIHAK KEDUA atau tempat pihak lain yang mendapati hak
@@ -215239,7 +215239,7 @@ bahwa PIHAK KEDUA dalam keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini
 batal dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang
 berarti kedua belah pihak telah menyetujui untuk melepaskan segala ketentuan
-yang telah termuat dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+yang telah termuat dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA
 yang atas kuasanya dengan hak substitusi untuk mengambil PERALATAN milik
 PIHAK PERTAMA, baik yang berada di tempat PIHAK KEDUA atau tempat pihak
@@ -229916,7 +229916,7 @@ keadaan lalai atau wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini batal
 dengan sendirinya tanpa diperlukan putusan dari pengadilan negeri yang berarti kedua
 belah pihak telah menyetujui untuk melepaskan segala ketentuan yang telah termuat
-dalam pasal 1266 Kitab Undang- Undang Hukum Perdata.
+dalam pasal 1266 Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA yang atas
 kuasanya dengan hak subtitusi untuk mengambil PERALATAN milik PIHAK PERTAMA,
 baik yang berada di tempat PIHAK KEDUA atau tempat pihak lain yang mendapati hak
@@ -233203,7 +233203,7 @@ wanprestasi.
 2) Keadaan lalai atau wanprestasi tersebut mengakibatkan perjanjian sewa ini batal dengan
 sendirinya tanpa diperlukan putusan dari pengadilan negeri yang berarti kedua belah pihak
 telah menyetujui untuk melepaskan segala ketentuan yang telah termuat dalam pasal 1266
-Kitab Undang- Undang Hukum Perdata.
+Kitab Undang-Undang Hukum Perdata.
 3) Selanjutnya PIHAK KEDUA memberi kuasa penuh kepada PIHAK PERTAMA yang atas kuasanya
 dengan hak subtitusi untuk mengambil PERALATAN milik PIHAK PERTAMA, baik yang berada
 di tempat PIHAK KEDUA atau tempat pihak lain yang mendapati hak daripadanya.

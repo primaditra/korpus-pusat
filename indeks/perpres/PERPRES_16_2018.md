@@ -67,7 +67,7 @@ Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
 2. Kementerian Negara yang selanjutnya disebut Kementerian adalah perangkat pemerintah yang membidangi urusan tertentu dalam pemerintahan.
 
-3. Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanaka.n tugas tertentu berdasarkan Undang- Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.
+3. Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanaka.n tugas tertentu berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.
 
 4. Perangkat Daerah adalah unsur pembantu Kepala Daerah dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.
 
