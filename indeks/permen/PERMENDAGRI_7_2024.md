@@ -500,7 +500,7 @@ d. badan usaha lainnya.
 
 a. persatuan/perhimpunan pegawai ASN/Tentara Nasional Indonesia/Kepolisian Negara Republik Indonesia;
 
-b. persatuan/perhimpunan istri pegawai ASN Tentara Nasional Indonesia/Kepolisian Negara
+b. persatuan/perhimpunan istri pegawai ASN Tentara Nasional Indonesia/Kepolisian Negara Republik Indonesia; atau
 
 c. unit penunjang kegiatan lainnya.
 
