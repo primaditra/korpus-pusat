@@ -103,7 +103,9 @@ sumber_teks: teks-digital | ocr
 ## Pembukaan
 ## BAB I - <JUDUL BAB>
 ### Pasal 1
+## Penutup
 ## Penjelasan
+### Penjelasan Umum
 ### Penjelasan Pasal 1
 ## Lampiran
 ```
@@ -113,6 +115,9 @@ sumber_teks: teks-digital | ocr
 - Peraturan perubahan disimpan sebagai naskah tersendiri sesuai bunyinya (Pasal I, Pasal II beserta angka perubahannya). Tidak ada versi konsolidasi.
 - SK dan SE yang tidak berpasal memakai heading sesuai diktum (KESATU, KEDUA) atau angka butirnya.
 - Tabel lampiran yang tidak terekstrak rapi cukup dicatat judulnya dengan keterangan "lihat PDF".
+- `## Penutup` memuat bagian setelah pasal terakhir: kalimat pengundangan, tempat dan tanggal penetapan dan pengundangan, penanda tangan, serta nomor Lembaran atau Berita Negara.
+- `### Penjelasan Umum` memuat penjelasan umum sebelum penjelasan pasal demi pasal.
+- Untuk peraturan perubahan berpasal Romawi, heading memakai `### Pasal I`, `### Pasal II`; pasal yang diubah di dalamnya ditulis sebagai baris `Pasal N` di dalam teks.
 
 ## Pemeriksaan otomatis dan status_review
 
@@ -124,7 +129,7 @@ Setiap naskah yang masuk melewati enam pemeriksaan: (1) identitas, (2) naskah fi
 
 ## tag.csv
 
-Kolom: `tag`, `definisi`. Tag ditulis huruf kecil dengan tanda hubung. Tag baru ditambahkan hanya setelah disetujui pemilik korpus.
+Kolom: `tag`, `definisi`. Tag ditulis huruf kecil dengan tanda hubung. Tag baru ditambahkan hanya setelah disetujui pemilik korpus. Kolom `tag_isu` di katalog boleh kosong bila belum ada tag yang sesuai.
 
 ## Laporan
 
