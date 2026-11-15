@@ -26,7 +26,7 @@ perencanaan pembangunan dan keuangan daerah
 digunakan untuk mendukung Sistem Informasi
 Pemerintahan Daerah,
 c. bahwa berdasarkan pertimbangan sebagaimana
-Cimaksud dalam huruf a dan huruf b, perlu menetapkan
+Dimaksud dalam huruf a dan huruf b, perlu menetapkan
 Peraturan Menteri Dalam Negeri tentang Klasif'kasi,
 Kodefikasi, dan Nomenklatur Perencanaan Pembangunan
 dan Keuangan Daerah,
@@ -141,7 +141,7 @@ a. usulan Pemerintah Daerah,
 
 b. perubahan kebijakan, dan/atau C. peraturan perundang-undangan,
 
-(2) Pemutakhiran sebagaimana dimaksud pada ayat (l), dilakukan dengan melakukan verifikasi dan validasi atas —— perubahan klasifikasi, kodefikasi, dan /atau nomenklatur.
+(2) Pemutakhiran sebagaimana dimaksud pada ayat (1), dilakukan dengan melakukan verifikasi dan validasi atas —— perubahan klasifikasi, kodefikasi, dan/atau nomenklatur.
 
 ### Pasal 7
 

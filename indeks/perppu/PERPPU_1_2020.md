@@ -12,7 +12,7 @@ sumber_teks: ocr
 
 PERATURAN PEMERINTAH
 PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
-NOMOR 1 TAHUN 2O2O
+NOMOR 1 TAHUN 2020
 TENTANG
 KEBIJAI(AN KEUANGAN NEGARA DAN
 STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI
@@ -20,7 +20,7 @@ coRoNA WRUS D/SEASE 2019 (COVTD- le) DAN/ATAU
 DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN
 PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN
 DENGAN RAHMAT TUHAN YANG MAHA ESA
-PRESIDEN REPUBLIK TNDONESIA,
+PRESIDEN REPUBLIK INDONESIA,
 Menimbang a. bahwa penyebaran Corona Virus Disease 2019
 (COVID-19) yang dinyatakan oleh Organisasi Kesehatan
 Dunia (World Health Organization) sebagai pandemi pada
@@ -33,7 +33,7 @@ kesej ahteraan masyarakat;
 b. bahwa implikasi pandemi Corona Virus Disease 2019
 (COVID-19) telah berdampak antara lain terhadap
 perlambatan pertumbuhan ekonomi nasional,
-penurLlnan penerimaan negara, dan peningkatan belanja
+penurunan penerimaan negara, dan peningkatan belanja
 negara dan pembiayaan, sehingga diperlukan berbagai
 upaya Pemerintah untuk melakukan penyelamatan
 kesehatan dan perekonomian nasional, dengan fokus
@@ -82,7 +82,7 @@ dalam waktu yang sangat segera, perlu menetapkan
 Peraturan Pemerintah Pengganti Undang-Undang
 tentang Kebijakan Keuangan Negara dan Stabilitas
 Sistem Keuangan untuk Penanganan Pandemi Corona
-Virus Disease 2019 (COVID-19) danlatau Dalam Rangka
+Virus Disease 2019 (COVID-19) dan/atau Dalam Rangka
 Menghadapi Ancaman yang Membahayakan
 Perekonomian Nasional dan/atau Stabilitas Sistem
 Keuangan;
@@ -103,11 +103,11 @@ DAN/ATAU STABILITAS SISTEM KEUANGAN.
 
 (1) Untuk memenuhi kebutuhan penyelenggaraan pemerintahan negara, disusun Anggaran Pendapatan dan Belanja Negara (APBN) yang terdiri atas anggaran pendapatan negara, anggaran belanja negara, dan pembiayaan anggaran.
 
-(2) Untuk (21 Untuk melaksanakan Anggaran Pendapatan dan Belanja Negara (APBN) sebagaimana dimaksud pada ayat (1) telah ditetapkan Undang-Undang Nomor 20 Tahun 2OI9 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2O2O.
+(2) Untuk (21 Untuk melaksanakan Anggaran Pendapatan dan Belanja Negara (APBN) sebagaimana dimaksud pada ayat (1) telah ditetapkan Undang-Undang Nomor 20 Tahun 2019 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2020.
 
 (3) Untuk melaksanakan Anggaran Pendapatan dan Belanja Negara (APBN) sebagaimana dimaksud pada ayat (1) dan ayat (21dalam rangka:
 
-a. penanganan pandemi Corona Vints Disease 2019 (COVID- l9l1' danlatau
+a. penanganan pandemi Corona Vints Disease 2019 (COVID- 1911' dan/atau
 
 b. menghadapi a.ncaman yang membahayakan perekonomian nasional dan/atau stabilitas sistem keuangan, perlu menetapkan kebijakan keuangan negara dan kebijakan stabilitas sistem keuangan. (41 Kebijakan keuangan negara sebagaimana dimaksud pada ayat (3) meliputi kebijakan pendapatan negara termasuk kebijakan di bidang perpajakan, kebijakan belanja negara termasuk kebijakan di bidang keuangan daerah, dan kebijakan pembiayaan.
 
@@ -131,9 +131,9 @@ a. menetapkan batasan defisit anggaran, dengan ketentuan sebagai berikut:
 
 b. melakukan penyesuaian besaran belanja wajib (mandatory spending) sebagaimana diatur dalam ketentuan peraturan perundang-undangan terkait;
 
-c. melakukan pergeseran anggaran antarunit organisasi, antarfungsi, dan / atau antarprogram ;
+c. melakukan pergeseran anggaran antarunit organisasi, antarfungsi, dan/atau antarprogram ;
 
-d. melakukan tindakan yang berakibat pengeluaran atas beban Anggaran Pendapatan dan Belanja Negara (APBN), yang anggaran untuk membiayai pengeluaran tersebut belum tersedia atau tidak cukup tersedia, serta menentukan proses dan metode pengadaan barang ljasa;
+d. melakukan tindakan yang berakibat pengeluaran atas beban Anggaran Pendapatan dan Belanja Negara (APBN), yang anggaran untuk membiayai pengeluaran tersebut belum tersedia atau tidak cukup tersedia, serta menentukan proses dan metode pengadaan barang jasa;
 
 e. menggunakan anggaran yang bersumber dari:
 
@@ -147,7 +147,7 @@ e. menggunakan anggaran yang bersumber dari:
 
 5. dana yang berasal dari pengurangan Penyertaan Modal Negara pada Badan Usaha Milik Negara (BUMN);
 
-f. menerbitkan Surat Utang Negara dan/atau Surat Berharga Syariah Negara dengan tujuan tertentu khususnya dalam rangka pandemi Corona Virus Disease 2Ol9 (COVID-l9) untuk dapat dibeli oleh Bank Indonesia, Badan Usaha Milik Negara (BUMN), investor korporasi, danf atau investor ritel;
+f. menerbitkan Surat Utang Negara dan/atau Surat Berharga Syariah Negara dengan tujuan tertentu khususnya dalam rangka pandemi Corona Virus Disease 2019 (COVID-l9) untuk dapat dibeli oleh Bank Indonesia, Badan Usaha Milik Negara (BUMN), investor korporasi, dan/atau investor ritel;
 
 g. menetapkan sumber-sumber pembiayaan Anggaran yang berasal dari dalam dan/atau luar negeri;
 
@@ -177,13 +177,13 @@ b. perlakuan perpajakan dalam kegiatan Perdagangan Melalui Sistem Elektronik (PM
 
 c. perpanjangan waktu pelaksanaan hak dan pemenuhan kewajiban perpajakan; dan
 
-d. pemberian kewenangan kepada Menteri Keuangan untuk memberikan fasilitas kepabeanan berupa pembebasan atau keringanan bea masuk dalam rangka penanganan kondisi darrrrat serta pemulihan dan penguatan ekonomi nasional. (21 Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1) huruf b merupakan perdagangan yang transaksinya dilakukan melalui serangkaian perangkat dan prosedur elektronik.
+d. pemberian kewenangan kepada Menteri Keuangan untuk memberikan fasilitas kepabeanan berupa pembebasan atau keringanan bea masuk dalam rangka penanganan kondisi darurat serta pemulihan dan penguatan ekonomi nasional. (21 Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1) huruf b merupakan perdagangan yang transaksinya dilakukan melalui serangkaian perangkat dan prosedur elektronik.
 
 ### Pasal 5
 
-(1) Penyesuaian tarif Pajak Penghasilan Wajib Pajak badan dalam negeri dan bentuk usaha tetap sebagaimana dimaksud dalam Pasal 4 ayat (1) hurrrf a berupa penurunan tarif Pasal 17 ayat (1) huruf b Undang- Undang mengenai Pajak Penghasilan menjadi:
+(1) Penyesuaian tarif Pajak Penghasilan Wajib Pajak badan dalam negeri dan bentuk usaha tetap sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a berupa penurunan tarif Pasal 17 ayat (1) huruf b Undang- Undang mengenai Pajak Penghasilan menjadi:
 
-a. sebesar 22o/o (dua puluh dua persen) yang berlaku pada Tahun Pajak 2O2O dan Tahun Pajak 2O2l; dan
+a. sebesar 220/o (dua puluh dua persen) yang berlaku pada Tahun Pajak 2020 dan Tahun Pajak 2021; dan
 
 b. sebesar 2Oo/o (dua puluh persen) yang mulai berlaku pada Tahun Pajak 2022. (21 Wajib Pajak dalam negeri:
 
@@ -203,9 +203,9 @@ a. pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Be
 
 b. pengenaan Pajak Penghasilan atau pajak transaksi elektronik atas kegiatan Perdagangan Melalui Sistem Elektronik (PMSE) yang dilakukan oleh subjek pajak luar negeri yang memenuhi ketentuan kehadiran ekonomi signifikan.
 
-(2) Pengenaan. (21 Pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Berwujud danf atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1) huruf a mengikuti ketentuan sebagaimana dimaksud dalam Undang-Undang mengenai Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.
+(2) Pengenaan. (21 Pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1) huruf a mengikuti ketentuan sebagaimana dimaksud dalam Undang-Undang mengenai Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.
 
-(3) Pajak Pertambahan Nilai yang dikenakan atas pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean sebagaimana dimaksud pada ayat l2l dipungut, disetorkan, dan dilaporkan oleh pedagang luar negeri, penyedia jasa luar negeri, Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, danf atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri, yang ditunjuk oleh Menteri Keuangan. (41 Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) sebagaimana dimaksud pada ayat (3) merupakan pelaku usaha penyedia sarana komunikasi elektronik yang digunakan untuk transaksi perdagangan.
+(3) Pajak Pertambahan Nilai yang dikenakan atas pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean sebagaimana dimaksud pada ayat l2l dipungut, disetorkan, dan dilaporkan oleh pedagang luar negeri, penyedia jasa luar negeri, Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, dan/atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri, yang ditunjuk oleh Menteri Keuangan. (41 Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) sebagaimana dimaksud pada ayat (3) merupakan pelaku usaha penyedia sarana komunikasi elektronik yang digunakan untuk transaksi perdagangan.
 
 (5) Pedagang luar negeri atau penyedia jasa luar negeri sebagaimana dimaksud pada ayat (3) merupakan orang pribadi atau badan yang bertempat tinggal atau bertempat kedudukan di luar Daerah Pabean yang melakukan transaksi dengan pembeli barang atau penerima jasa di dalam Daerah Pabean melalui sistem elektronik.
 
@@ -239,9 +239,9 @@ c. tata cara penunjukan perwakilan sebagaimana dimaksud pada ayat (11), diatur d
 
 ### Pasal 7
 
-(1) Pedagang luar negeri, penyedia jasa luar negeri, Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, dan/atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 6 ayat (3) dan pedagang luar negeri, penyedia jasa luar negeri, dan/atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 6 ayat (10), dikenai sanksi administratif sesuai dengan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-undang Nomor 16 Tahun 2OO9.
+(1) Pedagang luar negeri, penyedia jasa luar negeri, Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, dan/atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 6 ayat (3) dan pedagang luar negeri, penyedia jasa luar negeri, dan/atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 6 ayat (10), dikenai sanksi administratif sesuai dengan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-undang Nomor 16 Tahun 2009.
 
-(2) Ketentuan mengenai penetapan, penagihan, dan upaya hukum atas pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik (PMSE) serta pengenaan Pajak Penghasilan atau pajak transaksi elektronik atas subjek pajak luar negeri yang memenuhi ketentuan kehadiran ekonomi signifikan sebagaimana dimaksud dalam Pasal 6, dilaksanakan sesuai dengan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9.
+(2) Ketentuan mengenai penetapan, penagihan, dan upaya hukum atas pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik (PMSE) serta pengenaan Pajak Penghasilan atau pajak transaksi elektronik atas subjek pajak luar negeri yang memenuhi ketentuan kehadiran ekonomi signifikan sebagaimana dimaksud dalam Pasal 6, dilaksanakan sesuai dengan Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009.
 
 (3) Terhadap pelaku kegiatan Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1), selain dikenai sanksi administratif juga dikenai sanksi berupa pemutusan akses setelah diberi teguran.
 
@@ -257,21 +257,21 @@ b. permintaan pemutusan akses sebagaimana dimaksud pada ayat (5), diatur dengan 
 
 ### Pasal 8
 
-Untuk memberikan kemudahan dalam pelaksanaan hak danf atau pemenuhan kewajiban perpajakan akibat adanya pandemi Corona Virus Disease 2019 (COVID-19), diberikan perpanjangan waktu pelaksanaan hak dan pemenuhan kewajiban perpajakan sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf c dengan ketentuan sebagai berikut:
+Untuk memberikan kemudahan dalam pelaksanaan hak dan/atau pemenuhan kewajiban perpajakan akibat adanya pandemi Corona Virus Disease 2019 (COVID-19), diberikan perpanjangan waktu pelaksanaan hak dan pemenuhan kewajiban perpajakan sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf c dengan ketentuan sebagai berikut:
 
-a. atas pengajuan keberatan Wajib Pajak yang jatuh tempo pengajuan keberatan sebagaimana dimaksud dalam Pasal 25 ayat (3) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9 berakhir dalam periode keadaan kahar akibat pandemi Corona Virus Disease 2019 (COVID-19), jatuh tempo pengajuan keberatan tersebut diperpanjang paling lama 6 (enam) bulan;
+a. atas pengajuan keberatan Wajib Pajak yang jatuh tempo pengajuan keberatan sebagaimana dimaksud dalam Pasal 25 ayat (3) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009 berakhir dalam periode keadaan kahar akibat pandemi Corona Virus Disease 2019 (COVID-19), jatuh tempo pengajuan keberatan tersebut diperpanjang paling lama 6 (enam) bulan;
 
 b. atas
 
-b. atas pengembalian kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 11 ayat (2) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9 yang jatuh tempo pengembalian berakhir dalam periode keadaan kahar akibat pandemi Corona Vints Disease 2019 (COVID-19), jatuh tempo pengembalian tersebut diperpanjang paling lama 1 (satu) bulan;
+b. atas pengembalian kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 11 ayat (2) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009 yang jatuh tempo pengembalian berakhir dalam periode keadaan kahar akibat pandemi Corona Vints Disease 2019 (COVID-19), jatuh tempo pengembalian tersebut diperpanjang paling lama 1 (satu) bulan;
 
 c. atas pelaksanaan hak Wajib Pajak, yang meliputi:
 
-1. permohonan pengembalian kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal L7B ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9;
+1. permohonan pengembalian kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal L7B ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009;
 
-2. pengajuan surat keberatan sebagaimana dimaksud dalam Pasal 26 ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9;
+2. pengajuan surat keberatan sebagaimana dimaksud dalam Pasal 26 ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009;
 
-3. permohonan pengurangan atau penghapusan sanksi administrasi, pengurangan atau pembatalan ketetapan pajak yang tidak benar, pembatalan hasil pemeriksaan, sebagaimana dimaksud dalam Pasal 36 ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9, yang jatuh tempo penerbitan surat ketetapan atau surat keputusan berakhir dalam periode keadaan kahar akibat pandemi Corona Vints Disease 2019 (COVID-19), jatuh tempo penerbitan surat ketetapan atau surat keputusan tersebut diperpanjang paling lama 6 (enam) bulan.
+3. permohonan pengurangan atau penghapusan sanksi administrasi, pengurangan atau pembatalan ketetapan pajak yang tidak benar, pembatalan hasil pemeriksaan, sebagaimana dimaksud dalam Pasal 36 ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009, yang jatuh tempo penerbitan surat ketetapan atau surat keputusan berakhir dalam periode keadaan kahar akibat pandemi Corona Vints Disease 2019 (COVID-19), jatuh tempo penerbitan surat ketetapan atau surat keputusan tersebut diperpanjang paling lama 6 (enam) bulan.
 
 d. penetapan periode waktu keadaan kahar akibat pandemi Corona Virus Disease 2019 (COVID- 19) sebagaimana dimaksud pada huruf a, huruf b, dan huruf c mengacu kepada penetapan Pemerintah melalui Kepala Badan Nasional Penanggulangan Bencana.
 
@@ -279,13 +279,13 @@ d. penetapan periode waktu keadaan kahar akibat pandemi Corona Virus Disease 201
 
 Menteri Keuangan memiliki kewenangan untuk memberikan fasilitas kepabeanan berupa pembebasan atau keringanan bea masuk dalam rangka:
 
-a. penanganan pandemi Corona Vints Disease 2019 (COVID- l9l; danlatau
+a. penanganan pandemi Corona Vints Disease 2019 (COVID- l9l; dan/atau
 
 b. menghadapi ancaman yang membahayakan perekonomian nasional dan/atau stabilitas sistem keuangan.
 
 ### Pasal 10
 
-(1) Perubahan atas barang impor yang diberikan pembebasan bea masuk berdasarkan tujuan pemakaiannya sebagaimana dimaksud dalam Pasal 25 ayat (1) Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 tentang Perrrbahan atas Undang-Undang Nomor 10 Tahun 1995, diatur dengan Peraturan Menteri Keuangan. (21 Perubahan atas barang impor yang dapat diberikan pembebasan atau keringanan bea masuk berdasarkan tujuan pemakaiannya sebagaimana dimaksud dalam Pasal 26 ayat (1) Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995, diatur dengan Peraturan Menteri Keuangan. Bagian
+(1) Perubahan atas barang impor yang diberikan pembebasan bea masuk berdasarkan tujuan pemakaiannya sebagaimana dimaksud dalam Pasal 25 ayat (1) Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995, diatur dengan Peraturan Menteri Keuangan. (21 Perubahan atas barang impor yang dapat diberikan pembebasan atau keringanan bea masuk berdasarkan tujuan pemakaiannya sebagaimana dimaksud dalam Pasal 26 ayat (1) Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995, diatur dengan Peraturan Menteri Keuangan. Bagian
 
 **Bagian Keempat** **Pelaksanaan Program Pemulihan Ekonomi Nasional**
 
@@ -293,9 +293,9 @@ b. menghadapi ancaman yang membahayakan perekonomian nasional dan/atau stabilita
 
 (1) Dalam rangka mendukung kebijakan keuangan negara sebagaimana dimaksud dalam Pasal 1 ayat (4) dan guna melakukan penyelamatan ekonomi nasional, Pemerintah menjalankan program pemulihan ekonomi nasional. (21 Program sebagaimana dimaksud pada ayat (1) bertujuan untuk melindungi, mempertahankan dan meningkatkan kemampuan ekonomi para pelaku usaha dari sektor riil dan sektor keuangan dalam menjalankan usahanya.
 
-(3) Program pemulihan ekonomi nasional sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat dilaksanakan melalui Penyertaan Modal Negara, penempatan dana danf atau investasi Pemerintah, dan/atau kegiatan penjaminan dengan skema yang ditetapkan oleh Pemerintah. (41 Penyertaan Modal Negara sebagaimana dimaksud pada ayat (3) dilakukan melalui Badan Usaha Milik Negara (BUMN) yang ditunjuk.
+(3) Program pemulihan ekonomi nasional sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat dilaksanakan melalui Penyertaan Modal Negara, penempatan dana dan/atau investasi Pemerintah, dan/atau kegiatan penjaminan dengan skema yang ditetapkan oleh Pemerintah. (41 Penyertaan Modal Negara sebagaimana dimaksud pada ayat (3) dilakukan melalui Badan Usaha Milik Negara (BUMN) yang ditunjuk.
 
-(5) Penempatan dana danf atau investasi Pemerintah sebagaimana dimaksud pada ayat (3) dapat dilakukan langsung oleh Pemerintah danlatau melalui lembaga keuangan, manajer investasi, dan/atau lembaga lain yang ditunjuk.
+(5) Penempatan dana dan/atau investasi Pemerintah sebagaimana dimaksud pada ayat (3) dapat dilakukan langsung oleh Pemerintah dan/atau melalui lembaga keuangan, manajer investasi, dan/atau lembaga lain yang ditunjuk.
 
 (6) Skema penjaminan sebagaimana dimaksud pada ayat
 
@@ -321,7 +321,7 @@ Penggunaan anggaran dalam rangka pelaksanaan kebijakan keuangan negara dan langk
 
 ### Pasal 14
 
-Dalam rangka menjaga stabilitas sistem keuangan di tengah-tengah kondisi terjadinya pandemi Corona Vints Disease 2019 (COVID-I9) dan/atau untuk menghadapi ancaman krisis ekonomi danf atau stabilitas sistem keuangan, perlu menetapkan kebijakan stabilitas sistem keuangan sebagaimana dimaksud dalam Pasal 1 ayat (5).
+Dalam rangka menjaga stabilitas sistem keuangan di tengah-tengah kondisi terjadinya pandemi Corona Vints Disease 2019 (COVID-I9) dan/atau untuk menghadapi ancaman krisis ekonomi dan/atau stabilitas sistem keuangan, perlu menetapkan kebijakan stabilitas sistem keuangan sebagaimana dimaksud dalam Pasal 1 ayat (5).
 
 ### Pasal 15
 
@@ -349,7 +349,7 @@ a. memberikan pinjaman likuiditas jangka pendek atau pembiayaan likuiditas jangk
 
 b. memberikan Pinjaman Likuiditas Khusus kepada Bank Sistemik yang mengalami kesulitan likuiditas dan tidak memenuhi persyaratan pemberian pinjaman likuiditas jangka pendek atau pembiayaan likuiditas jangka pendek berdasarkan prinsip syariah yang dijamin oleh Pemerintah dan diberikan berdasarkan Keputusan KSSK;
 
-c. membeli Surat Utang Negara dan/atau Surat Berharga Syariah Negara berjangka panjang di pasar perdana untuk penanganan permasalahan sistem keuangan yang membahayakan perekonomian nasional, termasuk Surat Utang Negara danf atau Surat Berharga Syariah Negara yang diterbitkan dengan tujuan tertentu khususnya dalam rangka pandemi Corona Virus Disease 2019 (covrD-1e);
+c. membeli Surat Utang Negara dan/atau Surat Berharga Syariah Negara berjangka panjang di pasar perdana untuk penanganan permasalahan sistem keuangan yang membahayakan perekonomian nasional, termasuk Surat Utang Negara dan/atau Surat Berharga Syariah Negara yang diterbitkan dengan tujuan tertentu khususnya dalam rangka pandemi Corona Virus Disease 2019 (covrD-1e);
 
 d. membeli/repo surat berharga negara yang dimiliki Lembaga Penjamin Simpanan untuk biaya penanganan permasalahan solvabilitas Bank Sistemik dan bank selain Bank Sistemik;
 
@@ -371,7 +371,7 @@ b. Bank Indonesia bersama Otoritas Jasa Keuangan melakukan penilaian mengenai pe
 
 ### Pasal 18
 
-(1) Da1am hal Bank Sistemik yang telah mendapatkan pinjaman likuiditas jangka pendek sebagaimana dimaksud dalam Pasal L7 ayat (l) masih mengalami kesulitan likuiditas, Bank Sistemik dapat mengajukan permohonan Pinjaman Likuiditas Khusus (PLK) kepada Bank Indonesia.
+(1) Da1am hal Bank Sistemik yang telah mendapatkan pinjaman likuiditas jangka pendek sebagaimana dimaksud dalam Pasal L7 ayat (1) masih mengalami kesulitan likuiditas, Bank Sistemik dapat mengajukan permohonan Pinjaman Likuiditas Khusus (PLK) kepada Bank Indonesia.
 
 (2) Terhadap (21 Terhadap permohonan Bank Sistemik sebagaimana dimaksud pada ayat (1), Bank Indonesia berkoordinasi dengan Otoritas Jasa Keuangan meminta penyelen ggar aan rapat KS S K.
 
@@ -379,11 +379,11 @@ b. Bank Indonesia bersama Otoritas Jasa Keuangan melakukan penilaian mengenai pe
 
 a. Penilaian oleh Otoritas Jasa Keuangan yang berisi paling kurang informasi kondisi keuangan terkini Bank Sistemik yang bersangkutan; dan
 
-b. rekomendasi Bank Indonesia dengan memperhatikan hasil penilaian yang dilakukan oleh Otoritas Jasa Keuangan sebagaimana dimaksud pada hurrrf a. (41 Ketentuan lebih lanjut mengenai skema dan mekanisme pemberian Pinjaman Likuiditas Khusus (PLK) diatur bersama antara Menteri Keuangan dan Gubernur Bank Indonesia.
+b. rekomendasi Bank Indonesia dengan memperhatikan hasil penilaian yang dilakukan oleh Otoritas Jasa Keuangan sebagaimana dimaksud pada huruf a. (41 Ketentuan lebih lanjut mengenai skema dan mekanisme pemberian Pinjaman Likuiditas Khusus (PLK) diatur bersama antara Menteri Keuangan dan Gubernur Bank Indonesia.
 
 ### Pasal 19
 
-(1) Bank Indonesia dapat membeli Surat Utang Negara dan/atau Surat Berharga Syariah Negara berjangka panjang sebagaimana dimaksud dalam Pasal 16 ayat (1) huruf c di pasar perdana yang diperuntukkan sebagai sumber pendanaan bagi Pemerintah. (21 Sumber pendanaan bagi Pemerintah sebagaimana dimaksud pada ayat (1) dipergunakan dalam rangka pemulihan ekonomi nasional termasuk menjaga kesinambungan pengelolaan keuangan rlegara, memberikan pinjaman dan penambahan modal kepada Lembaga Penjamin Simpanan, serta pendanaan untuk restrukturisasi perbankan pada saat krisis.
+(1) Bank Indonesia dapat membeli Surat Utang Negara dan/atau Surat Berharga Syariah Negara berjangka panjang sebagaimana dimaksud dalam Pasal 16 ayat (1) huruf c di pasar perdana yang diperuntukkan sebagai sumber pendanaan bagi Pemerintah. (21 Sumber pendanaan bagi Pemerintah sebagaimana dimaksud pada ayat (1) dipergunakan dalam rangka pemulihan ekonomi nasional termasuk menjaga kesinambungan pengelolaan keuangan negara, memberikan pinjaman dan penambahan modal kepada Lembaga Penjamin Simpanan, serta pendanaan untuk restrukturisasi perbankan pada saat krisis.
 
 (3) Ketentuan lebih lanjut mengenai skema dan mekanisme pembelian Surat Utang Negara dan/atau Surat Berharga Syariah Negara di pasar perdana pada ayat (1) diatur bersama antara Menteri Keuangan dan Gubernur Bank Indonesia dengan mempertimbangkan:
 
@@ -407,7 +407,7 @@ b. melakukan tindakan:
 
 2. penerbitan surat utang;
 
-3. pinjaman kepada pihak lain; dan latau
+3. pinjaman kepada pihak lain; dan/atau
 
 4. pinjaman kepada Pemerintah, dalam hal Lembaga Penjamin Simpanan diperkirakan akan mengalami kesulitan likuiditas untuk penanganan bank gagal;
 
@@ -455,13 +455,13 @@ Pemberian pinjaman oleh Pemerintah kepada Lembaga Penjamin Simpanan sebagaimana 
 
 ### Pasal 26
 
-(1) Setiap orang yang dengan sengaja mengabaikan, tidak memenuhi, tidak melaksanakan atau menghambat pelaksanaan kewenangan Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf a, dipidana dengan pidana penjara paling singkat 4 (empat) tahun dan pidana denda paling sedikit Rp10.000.000.000,00 (sepuluh miliar rupiah) atau pidana penjara paling lama 12 (dua belas) tahun dan pidana denda paling banyak Rp300.000.000.000,00 (tiga ratus miliar rupiah). (21 Apabila pelanggaran sebagaimana dimaksud pada ayat (1) dilakukan oleh korporasi, dipidana dengan pidana denda paling sedikit Rpl.0OO.OOO.O00.000,00 (satu triliun rupiah).
+(1) Setiap orang yang dengan sengaja mengabaikan, tidak memenuhi, tidak melaksanakan atau menghambat pelaksanaan kewenangan Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf a, dipidana dengan pidana penjara paling singkat 4 (empat) tahun dan pidana denda paling sedikit Rp10.000.000.000,00 (sepuluh miliar rupiah) atau pidana penjara paling lama 12 (dua belas) tahun dan pidana denda paling banyak Rp300.000.000.000,00 (tiga ratus miliar rupiah). (21 Apabila pelanggaran sebagaimana dimaksud pada ayat (1) dilakukan oleh korporasi, dipidana dengan pidana denda paling sedikit Rpl.0OO.OOO.000.000,00 (satu triliun rupiah).
 
 ## BAB V - KETENTUAN PENUTUP
 
 ### Pasal 27
 
-(1) Biaya yang telah dikeluarkan Pemerintah dan/atau lembaga anggota KSSK dalam rangka pelaksanaan kebijakan pendapatan negara termasuk kebijakan di bidang perpajakan, kebijakan belanja negara termasuk kebijakan di bidang keuangan daerah, kebijakan pembiayaan, kebijakan stabilitas sistem keuangan, dan program pemulihan ekonomi nasional, merupakan bagian dari biaya ekonomi untuk penyelamatan perekonomian dari krisis dan bukan merrrpakan kerrrgian negara.
+(1) Biaya yang telah dikeluarkan Pemerintah dan/atau lembaga anggota KSSK dalam rangka pelaksanaan kebijakan pendapatan negara termasuk kebijakan di bidang perpajakan, kebijakan belanja negara termasuk kebijakan di bidang keuangan daerah, kebijakan pembiayaan, kebijakan stabilitas sistem keuangan, dan program pemulihan ekonomi nasional, merupakan bagian dari biaya ekonomi untuk penyelamatan perekonomian dari krisis dan bukan merupakan kerugian negara.
 
 (2) Anggota . (21 Anggota KSSK, Sekretaris KSSK, anggota sekretariat KSSK, dan pejabat atau pegawai Kementerian Keuangan, Bank Indonesia, Otoritas Jasa Keuangan, serta Lembaga Penjamin Simpanan, dan pejabat lainnya, yang berkaitan dengan pelaksanaan Peraturan Pemerintah Pengganti Undang-Undang ini, tidak dapat dituntut baik secara perdata maupun pidana jika dalam melaksanakan tugas didasarkan pada iktikad baik dan sesuai dengan ketentuan peraturan perrrndang-undangan.
 
@@ -471,19 +471,19 @@ Pemberian pinjaman oleh Pemerintah kepada Lembaga Penjamin Simpanan sebagaimana 
 
 Pada saat Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku:
 
-1. ketentuan jangka waktu yang diatur dalam Pasal 11 ayat (21, Pasal l7B ayat (1), Pasal 25 ayat (3), Pasal 26 ayat (1), dan Pasal 36 ayat (1c) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 32621 sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor a9991;
+1. ketentuan jangka waktu yang diatur dalam Pasal 11 ayat (21, Pasal l7B ayat (1), Pasal 25 ayat (3), Pasal 26 ayat (1), dan Pasal 36 ayat (1c) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 32621 sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor a9991;
 
-2. Pasal. 2 Pasal 55 ayat (41 Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran Negara Republik lndonesia Tahun 1999 Nomor 66, Tambahan Lembaran Negara Republik Indonesia Nomor 3843), sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2OO9 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2008 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun L999 tentang Bank Indonesia menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor a9621; 3 Pasal 12 ayat (3) beserta penjelasannya, Pasal 15 ayat (5), Pasal 22 ayat (3), Pasal 23 ayat (1), Pasal 27 ayat (3), dan Pasal 28 ayat (3) dalam Undang-Undang Nomor 17 Tahun 2OO3 tentang Keuangan Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 47, Tambahan l,embaran Negara Republik Indonesia Nomor 4286); 4 Pasal 3 ayat (3) Undang-Undang Nomor 1 Tahun 2OO4 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor a355); 5 Pasal 22 ayat (2) dan ayat (3) Undang-Undang Nomor 24 Tahun 2OO4 tentang Lembaga Penjamin Simpanan (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 96, Tambahan Lembaran Negara Republik Indonesia Nomor 44201 sebagaimana telah diubah dengan Undang-Undang Nomor 7 Tahun 2OO9 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 3 Tahun 2008 tentang Perubahan atas Undang-Undang Nomor 24 Tahun 2OO4 tentang Lembaga Penjamin Simpanan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 8, Tambahan Lembaran Negara Republik Indonesia Nomor 49631;
+2. Pasal. 2 Pasal 55 ayat (41 Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 66, Tambahan Lembaran Negara Republik Indonesia Nomor 3843), sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2008 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor a9621; 3 Pasal 12 ayat (3) beserta penjelasannya, Pasal 15 ayat (5), Pasal 22 ayat (3), Pasal 23 ayat (1), Pasal 27 ayat (3), dan Pasal 28 ayat (3) dalam Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 47, Tambahan l,embaran Negara Republik Indonesia Nomor 4286); 4 Pasal 3 ayat (3) Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor a355); 5 Pasal 22 ayat (2) dan ayat (3) Undang-Undang Nomor 24 Tahun 2004 tentang Lembaga Penjamin Simpanan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 96, Tambahan Lembaran Negara Republik Indonesia Nomor 44201 sebagaimana telah diubah dengan Undang-Undang Nomor 7 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 3 Tahun 2008 tentang Perubahan atas Undang-Undang Nomor 24 Tahun 2004 tentang Lembaga Penjamin Simpanan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 8, Tambahan Lembaran Negara Republik Indonesia Nomor 49631;
 
-6. Pasal 6 Pasal 27 ayat (1) beserta penjelasannya, Pasal 36, Pasal 83, dan Pasal lO7 ayat (2) Undang-Undang Nomor 33 Tahun 2OO4 tentang Perimbangan Keuangan Antara Pemerintah Pusat dan Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor aa3$; 7 Pasal l7l Undang-Undang Nomor 36 Tahun 2OO9 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063); 8 Pasal 72 ayat (2) beserta penjelasannya Undang-Undang Nomor 6 Tahun 2Ol4 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5a95); 9 Pasal 316 dan Pasal 317 Undang-Undang Nomor 23 Tahun 2OI4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor
+6. Pasal 6 Pasal 27 ayat (1) beserta penjelasannya, Pasal 36, Pasal 83, dan Pasal lO7 ayat (2) Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan Antara Pemerintah Pusat dan Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor aa3$; 7 Pasal l7l Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063); 8 Pasal 72 ayat (2) beserta penjelasannya Undang-Undang Nomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5a95); 9 Pasal 316 dan Pasal 317 Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor
 
-5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679\;
+5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679\;
 
 10. Pasal . FRES tDEN
 
-10. Pasal 177 huruf c angka 2, Pasal 180 ayat (6), dan Pasal 182 Undang-Undang Nomor 17 Tahun 2Ol4 tentang Majelis Permusyawaratan Ralqrat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 5568) sebagaimana telah beberapa kali 'diubah terakhir dengan Undang-Undang Nomor 13 Tahun 2OI9 tentang Perubahan Ketiga atas Undang-Undang Nomor L7 Tahun 2Ol4 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Ralryat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Ralryat Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 181, Tambahan Lembaran Negara Republik Indonesia Nomor 63e6); 1 1. Pasal 20 ayat (2) dan ayat (3) Undang-Undang Nomor 9 Tahun 2016 tentang Pencegahan dan Penanganan Krisis Sistem Keuangan (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 5872); dan
+10. Pasal 177 huruf c angka 2, Pasal 180 ayat (6), dan Pasal 182 Undang-Undang Nomor 17 Tahun 2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 5568) sebagaimana telah beberapa kali 'diubah terakhir dengan Undang-Undang Nomor 13 Tahun 2019 tentang Perubahan Ketiga atas Undang-Undang Nomor L7 Tahun 2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 181, Tambahan Lembaran Negara Republik Indonesia Nomor 63e6); 1 1. Pasal 20 ayat (2) dan ayat (3) Undang-Undang Nomor 9 Tahun 2016 tentang Pencegahan dan Penanganan Krisis Sistem Keuangan (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 5872); dan
 
-12. Pasal 11 ayat (221, Pasal 40, Pasal 42, dan Pasal 46 Undang-Undang Nomor 20 Tahun 2Ol9 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2O2O (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 198, Tambahan Lembaran Negara Republik Indonesia Nomor 6410), dinyatakan tidak berlaku sepanjang berkaitan dengan kebijakan keuangan negara untuk penanganan penyebaran Corona Virus Disease 2019 (COVID-I9) danlatau dalam rangka menghadapi ancaman yang membahayakan perekonomian nasional dan/atau stabilitas sistem keuangan berdasarkan Peraturan Pemerintah Pengganti Undang- Undang ini.
+12. Pasal 11 ayat (221, Pasal 40, Pasal 42, dan Pasal 46 Undang-Undang Nomor 20 Tahun 2019 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2020 (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 198, Tambahan Lembaran Negara Republik Indonesia Nomor 6410), dinyatakan tidak berlaku sepanjang berkaitan dengan kebijakan keuangan negara untuk penanganan penyebaran Corona Virus Disease 2019 (COVID-I9) dan/atau dalam rangka menghadapi ancaman yang membahayakan perekonomian nasional dan/atau stabilitas sistem keuangan berdasarkan Peraturan Pemerintah Pengganti Undang- Undang ini.
 
 ### Pasal 29
 
@@ -496,19 +496,19 @@ pengundangan Peraturan Pemerintah Pengganti Undang-
 Undang ini dengan penempatannya dalam Lembaran Negara
 Republik Indonesia.
 Ditetapkan di Jakarta
-pada tanggal 31 Maret 2O2O
+pada tanggal 31 Maret 2020
 PRESIDEN REPUBLIK INDONESIA,
 ttd.
 JOKO WIDODO
 Diundangkan di Jakarta
-pada tanggal 31 Maret 2O2O
+pada tanggal 31 Maret 2020
 MENTERI HUKUM DAN HAK ASASI MANUSIA
 REPUBLIK INDONESIA,
 ttd
 YASONNA H. LAOLY
-LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2O2O NOMOR 87
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2020 NOMOR 87
 Salinan sesuai dengan aslinya
-KEMENTEzuAN SEKRETARIAT NEGARA
+KEMENTERIAN SEKRETARIAT NEGARA
 REPUBLIK INDONESIA
 ti Bidang Hukum dan
 ;undangan
@@ -527,7 +527,7 @@ PENJELASAN
 ATAS
 PERATURAN PEMERINTAH
 PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
-NOMOR 1 TAHUN 2O2O
+NOMOR 1 TAHUN 2020
 TENTANG
 KEBIJAKAN KEUANGAN NEGARA DAN
 STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI
@@ -535,7 +535,7 @@ coRoNA WRUS D/SEASE 2019 (COVTD- 19) DAN/ATAU
 DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN
 PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN
 I. UMUM
-Pada tahun 2O2O ini, dunia mengalami bencana pandemi Corona Virus
+Pada tahun 2020 ini, dunia mengalami bencana pandemi Corona Virus
 Disease 2019 (COVID-l9). Penyebaran Corona Virus Disease 2019 (COVID-
 19) membawa risiko bagi kesehatan masyarakat dan bahkan telah
 merenggut korban jiwa bagi yang terinfeksi di berbagai belahan penjuru
@@ -555,20 +555,20 @@ pandemi Corona Virus Disease 2019 (COVID- 19) mempengaruhi atau
 bahkan melumpuhkan kegiatan masyarakat dan aktivitas ekonomi.
 Terganggunya aktivitas ekonomi akan berimplikasi kepada perubahan
 dalam postur Anggaran Pendapatan dan Belanja Negara (APBN) Tahun
-Anggaran 2O2O baik sisi Pendapatan Negara, sisi Belanja Negara, maupun
-sisi Pembiayaan. Potensi perubahan APBN Tahun Anggaran 2O2O berasal
+Anggaran 2020 baik sisi Pendapatan Negara, sisi Belanja Negara, maupun
+sisi Pembiayaan. Potensi perubahan APBN Tahun Anggaran 2020 berasal
 dari terganggunya aktivitas ekonomi atau pun sebaliknya. Gangguan
 aktivitas ekonomi akan banyak berpotensi mengganggu APBN Tahun
-Anggaran 2O2O dari sisi Pendapatan Negara.
+Anggaran 2020 dari sisi Pendapatan Negara.
 Respon kebijakan keuangan negara dan fiskal dibutuhkan untuk
 menghadapi risiko pandemi Corona Virus Disease 2019 (COVID-19), antara
 lain berupa peningkatan belanja untuk mitigasi risiko kesehatan,
 melindungi masyarakat dan menjaga aktivitas usaha. Tekanan pada sektor
-keuangan akan mempengaruhi APBN Tahun Anggaran 2O2O terutama sisi
+keuangan akan mempengaruhi APBN Tahun Anggaran 2020 terutama sisi
 Pembiayaan.
 Implikasi pandemi Corona Vints Disease 2019 (COVID-l9) telah
 berdampak pula terhadap ancaman semakin memburuknya sistem
-keuangan yang ditunjukkan dengan penurulnan berbagai aktivitas ekonomi
+keuangan yang ditunjukkan dengan penurunan berbagai aktivitas ekonomi
 domestik karena langkah-langkah penanganan pandemi Corona Vints
 Disease 2019 (COVID-19) yang berisiko pada ketidakstabilan
 makroekonomi dan sistem keuangan yang perlu dimitigasi bersama oleh
@@ -585,13 +585,13 @@ dan keuangan daerah, dan sektor keuangan, yang harus segera diambil
 Pemerintah dan lembaga-lembaga terkait guna mengatasi kondisi
 mendesak tersebut dalam rangka penyelamatan kesehatan, perekonomian
 nasional, dengan fokus pada belanja kesehatan, jaring pengaman sosial
-(social safetg netl, serta pemulihan dunia usaha yang terdampak. Oleh
+(social safety netl, serta pemulihan dunia usaha yang terdampak. Oleh
 karena itu, diperlukan perangkat hukum yang memadai untuk
 memberikan landasan yang kuat bagi Pemerintah dan lembaga-lembaga
 terkait untuk pengambilan kebijakan dan langkah-langkah dimaksud.
 Sesuai
 e
-Sesuai Putusan Mahkamah Konstitusi Nomor 138/PUU-VII|2OO9,
+Sesuai Putusan Mahkamah Konstitusi Nomor 138/PUU-VII|2009,
 kondisi tersebut di atas telah memenuhi parameter sebagai kegentingan
 yang memaksa dalam rangka penetapan Peraturan Pemerintah Pengganti
 Undang-Undang antara lain:
@@ -623,17 +623,17 @@ Dalam rangka penanganan pandemi Corona Virus Disease 2019 (COVID-19) yang antara
 
 a. perlambatan pertumbuhan ekonomi nasional, penurunan penerimaan negara, dan peningkatan belanja negara dan pembiayaan; dan
 
-b. memburuknya sistem keuangan, yang ditunjukkan dengan penurunan berbagai aktivitas ekonomi domestik, Pemerintah perlu segera mengambil kebijakan dan langkah-langkah luar biasa (ertraordinaryl di bidang keuangan negara dalam rangka penyelamatan kesehatan, dan perekonomian nasional, dengan fokus pada belanja untuk kesehatan, jaring pengaman sosial (social safetg netl, dan pemulihan perekonomian termasuk untuk dunia usaha dan masyarakat yang terdampak, serta menjaga stabilitas sektor keuangan. Untuk itu, perlu dilakukan penyesuaian besaran defisit anggaran yang melampaui 3o/o (tiga persen) dari Produk Domestik Bruto (PDB). Setelah masa penanganan pandemi Corona Virus Disease 2019 (COVID- 19) dan/ atau dalam rangka menghadapi ancaman yang membahayakan perekonomian nasional, besaran defisit secara bertahap kembali menjadi paling tinggi sebesar 3%o (tiga persen) dari Produk Domestik Bruto (PDB) pada Tahun Anggaran 2023. Jumlah pinjaman yang dilakukan dalam rangka pelaksanaan pelebaran defrsit tersebut dibatasi maksimal 600/o (enam puluh persen) dari Produk Domestik Bruto (PDB).
+b. memburuknya sistem keuangan, yang ditunjukkan dengan penurunan berbagai aktivitas ekonomi domestik, Pemerintah perlu segera mengambil kebijakan dan langkah-langkah luar biasa (ertraordinaryl di bidang keuangan negara dalam rangka penyelamatan kesehatan, dan perekonomian nasional, dengan fokus pada belanja untuk kesehatan, jaring pengaman sosial (social safety netl, dan pemulihan perekonomian termasuk untuk dunia usaha dan masyarakat yang terdampak, serta menjaga stabilitas sektor keuangan. Untuk itu, perlu dilakukan penyesuaian besaran defisit anggaran yang melampaui 3o/o (tiga persen) dari Produk Domestik Bruto (PDB). Setelah masa penanganan pandemi Corona Virus Disease 2019 (COVID- 19) dan/atau dalam rangka menghadapi ancaman yang membahayakan perekonomian nasional, besaran defisit secara bertahap kembali menjadi paling tinggi sebesar 3%o (tiga persen) dari Produk Domestik Bruto (PDB) pada Tahun Anggaran 2023. Jumlah pinjaman yang dilakukan dalam rangka pelaksanaan pelebaran defisit tersebut dibatasi maksimal 600/o (enam puluh persen) dari Produk Domestik Bruto (PDB).
 
 Huruf b
 
 Dengan berlakunya Peraturan Pemerintah Pengganti Undang-Undang ini, besaran belanja wajib (mandatory spendingl yang terdapat dalam berbagai undang-undang dapat disesuaikan oleh Pemerintah, antara lain:
 
-a. Anggaran kesehatan sebesar 5o/o (lima persen) dari anggaran pendapatan dan belanja negara di luar gaji, yang diatur dalam Undang-Undang Nomor 36 Tahun 2OO9 tentang Kesehatan;
+a. Anggaran kesehatan sebesar 5o/o (lima persen) dari anggaran pendapatan dan belanja negara di luar gaji, yang diatur dalam Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan;
 
-b. Anggaran untuk desa yang bersumber dari Anggaran Pendapatan dan Belanja Negara sebesar 10% (sepuluh persen) dari dan di luar dana Transfer Daerah, yang diatur dalam Undang-Undang Nomor 6 Tahun 2Ol4 tentang Desa; dan
+b. Anggaran untuk desa yang bersumber dari Anggaran Pendapatan dan Belanja Negara sebesar 10% (sepuluh persen) dari dan di luar dana Transfer Daerah, yang diatur dalam Undang-Undang Nomor 6 Tahun 2014 tentang Desa; dan
 
-c. Besaran Dana Alokasi Umum terhadap Pendapatan Dalam Negeri Bersih sebagaimana diatur dalam Undang- Undang Nomor 33 Tahun 2OO4 tentang Perimbangan Keuangan antara Pemerintah dan Pemerintahan Daerah. Penyesuaian besaran belanja wajib (mandatory spendingl sebagaimana dimaksud dalam pasal ini tidak dilakukan terhadap pengalokasian anggaran pendidikan sebesar 2Oo/o (dua puluh persen) dalam tahun berjalan sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Terhadap daerah yang dilanda maupun yang belum dilanda pandemi Corona Vints Disease 2019 (COVID-l9) dapat menggunakan sebagian atau seluruh belanja infrastruktur sebesar 25o/o (dua puluh lima persen) dari Dana Transfer Umum (DTU) untuk penanganan pandemi Corona Vints Disease 2019 (COVID-l9), baik untuk sektor kesehatan maupun untuk jaring pengaman sosial (social safetg netl dalam bentuk penyediaan logistik beserta pendistribusiannya danf atau belanja lain yang bersifat mendesak yang ditetapkan Pemerintah.
+c. Besaran Dana Alokasi Umum terhadap Pendapatan Dalam Negeri Bersih sebagaimana diatur dalam Undang- Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah dan Pemerintahan Daerah. Penyesuaian besaran belanja wajib (mandatory spendingl sebagaimana dimaksud dalam pasal ini tidak dilakukan terhadap pengalokasian anggaran pendidikan sebesar 2Oo/o (dua puluh persen) dalam tahun berjalan sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Terhadap daerah yang dilanda maupun yang belum dilanda pandemi Corona Vints Disease 2019 (COVID-l9) dapat menggunakan sebagian atau seluruh belanja infrastruktur sebesar 250/o (dua puluh lima persen) dari Dana Transfer Umum (DTU) untuk penanganan pandemi Corona Vints Disease 2019 (COVID-l9), baik untuk sektor kesehatan maupun untuk jaring pengaman sosial (social safety netl dalam bentuk penyediaan logistik beserta pendistribusiannya dan/atau belanja lain yang bersifat mendesak yang ditetapkan Pemerintah.
 
 Huruf c
 
@@ -681,7 +681,7 @@ Huruf i
 
 Yang dimaksud dengan "penyesuaian alokasi Transfer ke Daerah dan Dana Desa" antara lain berupa:
 
-1. penyesuaian alokasi Dana Bagi Hasil dilakukan berdasarkan perkembangan perekonomian danfatau penerimaan negara;
+1. penyesuaian alokasi Dana Bagi Hasil dilakukan berdasarkan perkembangan perekonomian dan/atau penerimaan negara;
 
 2. penyesuaian
 
@@ -721,7 +721,7 @@ Ayat (1)
 
 Huruf a
 
-Contoh penghitungan pajak yang terutang untuk Wajib Pajak badan dalam negeri dan bentuk usaha tetap: Penghasilan Kena Pajak PT A pada Tahun Pajak 2O2O sebesar Rp 1 .000.000.000,00. Pajak Penghasilan yang terutang untuk Tahun Pajak 2O2O: 22o/o x Rp 1 .000. 000. 000,00 : Rp22O. OO0. 000,00.
+Contoh penghitungan pajak yang terutang untuk Wajib Pajak badan dalam negeri dan bentuk usaha tetap: Penghasilan Kena Pajak PT A pada Tahun Pajak 2020 sebesar Rp 1 .000.000.000,00. Pajak Penghasilan yang terutang untuk Tahun Pajak 2020: 220/o x Rp 1 .000. 000. 000,00 : Rp22O. OO0. 000,00.
 
 Huruf b
 
@@ -747,7 +747,7 @@ Cukup jelas.
 
 Ayat (3)
 
-Pedagang luar negeri atau penyedia jasa luar negeri dapat melakukan transaksi penjualan menggunakan sarana Perdagangan Melalui Sistem Elektronik (PMSE) milik sendiri, misalnya pedagang eceran secara daring (retail onlinel. Selain itu, pedagang luar negeri atau penyedia jasa luar negeri dapat melakukan transaksi penjualan menggunakan sarana Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri. Model bisnis Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) antara lain marketplace atau penyedia platformlpelantar sebagai wadah tempat pedagang luar negeri atau penyedia jasa luar negeri dapat memasang penawaran barang danlatau jasa. Ayat (a)
+Pedagang luar negeri atau penyedia jasa luar negeri dapat melakukan transaksi penjualan menggunakan sarana Perdagangan Melalui Sistem Elektronik (PMSE) milik sendiri, misalnya pedagang eceran secara daring (retail onlinel. Selain itu, pedagang luar negeri atau penyedia jasa luar negeri dapat melakukan transaksi penjualan menggunakan sarana Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri. Model bisnis Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) antara lain marketplace atau penyedia platformlpelantar sebagai wadah tempat pedagang luar negeri atau penyedia jasa luar negeri dapat memasang penawaran barang dan/atau jasa. Ayat (a)
 
 Cukup jelas.
 
@@ -777,7 +777,7 @@ Cukup jelas.
 
 Ayat (11)
 
-Yang dimaksud dengan "perwakilan" adalah pihak yang ditunjuk oleh pedagang luar negeri, penyedia jasa luar negeri, danfatau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, yang antara lain dapat berupa badan di Indonesia
+Yang dimaksud dengan "perwakilan" adalah pihak yang ditunjuk oleh pedagang luar negeri, penyedia jasa luar negeri, dan/atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, yang antara lain dapat berupa badan di Indonesia
 
 Ayat (12)
 
@@ -845,7 +845,7 @@ Huruf b .
 
 Huruf b
 
-Skema pemberian dukungan Pemerintah yang ditetapkan oleh KSSK merupakan bentuk peran serta dan kehadiran negara dalam rangka mengatasi permasalahan sistem keuangan yang membahayakan perekonomian nasional dengan mengalokasikan anggaran pada Anggaran Pendapatan dan Belanja Negara (APBN) untuk mendukung upaya mewujudkan stabilitas sistem keuangan. Ayat (21 Transkrip rapat dicetak oleh Sekretaris KSSK dan dokumen hasil cetakan tersebut disampaikan kepada Anggota KSSK untuk dilakukan pemarafan danlatau penandatanganan kemudian yang mempunyai kekuatan hukum mengikat sejak pengambilan keputusan dalam rapat KSSK tersebut.
+Skema pemberian dukungan Pemerintah yang ditetapkan oleh KSSK merupakan bentuk peran serta dan kehadiran negara dalam rangka mengatasi permasalahan sistem keuangan yang membahayakan perekonomian nasional dengan mengalokasikan anggaran pada Anggaran Pendapatan dan Belanja Negara (APBN) untuk mendukung upaya mewujudkan stabilitas sistem keuangan. Ayat (21 Transkrip rapat dicetak oleh Sekretaris KSSK dan dokumen hasil cetakan tersebut disampaikan kepada Anggota KSSK untuk dilakukan pemarafan dan/atau penandatanganan kemudian yang mempunyai kekuatan hukum mengikat sejak pengambilan keputusan dalam rapat KSSK tersebut.
 
 Ayat (3)
 
@@ -901,7 +901,7 @@ Cukup jelas.
 
 Ayat (1)
 
-Hurrrf a
+Huruf a
 
 Cukup jelas.
 
@@ -915,7 +915,7 @@ Cukup jelas.
 
 Huruf d
 
-Kelompok nasabah penyimpan berdasarkan kepemilikannya antara lain nasabah individu, Pemerintah Pusat/Daerah, dan Badanllembaga yang dibentuk oleh Undang-Undang untuk melakukan pengelolaan dana masyarakat. Ayat (21
+Kelompok nasabah penyimpan berdasarkan kepemilikannya antara lain nasabah individu, Pemerintah Pusat/Daerah, dan Badan/lembaga yang dibentuk oleh Undang-Undang untuk melakukan pengelolaan dana masyarakat. Ayat (21
 
 Cukup jelas.
 
@@ -937,7 +937,7 @@ Perintah tertulis kepada lembaga jasa keuangan berlaku baik untuk lembaga jasa k
 
 Huruf b
 
-Yang dimaksud dengan "pihak tertentu" adalah emiten atau perusahaan publik yang pernyataan pendaftaran telah menjadi efektif menurut Undang-Undang mengenai pasar modal. Hurrrf c Ketentuan yang dapat diatur oleh Otoritas Jasa Keuangan antara lain mengenai bentuk dan cara interaksi serta partisipasi antar peserta serta bentuk risalah rapat. Ayat (21
+Yang dimaksud dengan "pihak tertentu" adalah emiten atau perusahaan publik yang pernyataan pendaftaran telah menjadi efektif menurut Undang-Undang mengenai pasar modal. Huruf c Ketentuan yang dapat diatur oleh Otoritas Jasa Keuangan antara lain mengenai bentuk dan cara interaksi serta partisipasi antar peserta serta bentuk risalah rapat. Ayat (21
 
 Cukup jelas.
 
