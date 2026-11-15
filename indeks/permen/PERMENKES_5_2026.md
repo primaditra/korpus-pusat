@@ -148,9 +148,7 @@ f. pembinaan dan pengawasan.
 
 (2) Perencanaan Perbekalan Kesehatan melalui pendekatan kebutuhan sebagaimana dimaksud pada ayat (1) menghasilkan rencana kebutuhan Perbekalan Kesehatan nasional.
 
-(3) Perencanaan Perbekalan Kesehatan melalui pendekatan suplai sebagaimana dimaksud pada ayat
-
-(1) menghasilkan rencana produksi dan/atau impor yang mendukung pemenuhan rencana kebutuhan Perbekalan Kesehatan nasional.
+(3) Perencanaan Perbekalan Kesehatan melalui pendekatan suplai sebagaimana dimaksud pada ayat (1) menghasilkan rencana produksi dan/atau impor yang mendukung pemenuhan rencana kebutuhan Perbekalan Kesehatan nasional.
 
 **Bagian Kedua** **Rencana Kebutuhan**
 
@@ -184,21 +182,15 @@ g. risiko kondisi darurat, Bencana, KLB, Wabah, atau Krisis Kesehatan.
 
 (7) Rencana kebutuhan Perbekalan Kesehatan dapat ditinjau mengikuti perkembangan ilmu pengetahuan dan teknologi.
 
-(8) Fasilitas pengelolaan kefarmasian milik Pemerintah Pusat atau Pemerintah Daerah dan Fasilitas Pelayanan Kesehatan dalam menyusun rencana kebutuhan Perbekalan Kesehatan sebagaimana dimaksud pada ayat
+(8) Fasilitas pengelolaan kefarmasian milik Pemerintah Pusat atau Pemerintah Daerah dan Fasilitas Pelayanan Kesehatan dalam menyusun rencana kebutuhan Perbekalan Kesehatan sebagaimana dimaksud pada ayat (1) dapat melibatkan organisasi atau asosiasi terkait.
 
-(1) dapat melibatkan organisasi atau asosiasi terkait.
-
-(9) Fasilitas pengelolaan kefarmasian milik Pemerintah Pusat atau Pemerintah Daerah dan Fasilitas Pelayanan Kesehatan harus menyampaikan rencana kebutuhan Perbekalan Kesehatan sebagaimana dimaksud pada ayat
-
-(1) kepada Menteri untuk menghasilkan rencana kebutuhan Perbekalan Kesehatan nasional.
+(9) Fasilitas pengelolaan kefarmasian milik Pemerintah Pusat atau Pemerintah Daerah dan Fasilitas Pelayanan Kesehatan harus menyampaikan rencana kebutuhan Perbekalan Kesehatan sebagaimana dimaksud pada ayat (1) kepada Menteri untuk menghasilkan rencana kebutuhan Perbekalan Kesehatan nasional.
 
 (10) Penyusunan rencana kebutuhan Perbekalan Kesehatan sebagaimana dimaksud pada ayat (1) berdasarkan rencana induk bidang kesehatan sesuai dengan ketentuan peraturan perundang-undangan dan menggunakan Sistem Informasi Kesehatan yang terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 
 ### Pasal 6
 
-(1) Pola penyakit sebagaimana dimaksud dalam Pasal 5 ayat
-
-(1) huruf a mempertimbangkan perubahan insiden atau prevalensi, tingkat kematian, dan tingkat kedisabilitasan akibat penyakit.
+(1) Pola penyakit sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a mempertimbangkan perubahan insiden atau prevalensi, tingkat kematian, dan tingkat kedisabilitasan akibat penyakit.
 
 (2) Jumlah sasaran sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b mempertimbangkan target sasaran.
 
@@ -208,9 +200,7 @@ g. risiko kondisi darurat, Bencana, KLB, Wabah, atau Krisis Kesehatan.
 
 (5) Ketersediaan di Fasilitas Pelayanan Kesehatan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf e mempertimbangkan ketersediaan stok.
 
-(6) Aksesibilitas sebagaimana dimaksud dalam Pasal 5 ayat
-
-(1) huruf f mempertimbangkan jarak, waktu tempuh, dan biaya transportasi untuk mendistribusikan Perbekalan Kesehatan sesuai kondisi wilayah dan geografis.
+(6) Aksesibilitas sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf f mempertimbangkan jarak, waktu tempuh, dan biaya transportasi untuk mendistribusikan Perbekalan Kesehatan sesuai kondisi wilayah dan geografis.
 
 (7) Risiko kondisi darurat, Bencana, KLB, Wabah, atau Krisis Kesehatan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf g mempertimbangkan analisis risiko kesehatan sesuai kondisi wilayah dan geografis.
 
@@ -302,9 +292,7 @@ c. ketersediaan dan peningkatan utilitas produksi pada tahun berjalan; dan/atau
 
 d. stok penyangga, cadangan strategis, dan waktu tunggu (lead time).
 
-(2) Penyusunan rencana produksi dan/atau impor Perbekalan Kesehatan sebagaimana dimaksud pada ayat
-
-(1) dapat memperhatikan faktor lain sesuai dengan kebutuhan.
+(2) Penyusunan rencana produksi dan/atau impor Perbekalan Kesehatan sebagaimana dimaksud pada ayat (1) dapat memperhatikan faktor lain sesuai dengan kebutuhan.
 
 (3) Rencana produksi dan/atau impor disusun untuk jangka waktu 5 (lima) tahun dan dapat ditinjau setiap tahun, termasuk untuk kondisi darurat, Bencana, KLB, Wabah, atau Krisis Kesehatan.
 
@@ -422,9 +410,7 @@ Dalam rangka percepatan pengembangan untuk mencapai ketahanan dan kemandirian in
 
 ### Pasal 25
 
-(1) Obat generik sebagaimana dimaksud dalam Pasal 23 ayat
-
-(3) berupa Obat generik international nonproprietary name yang diedarkan di Indonesia hanya dapat diproduksi oleh industri farmasi dalam negeri.
+(1) Obat generik sebagaimana dimaksud dalam Pasal 23 ayat (3) berupa Obat generik international nonproprietary name yang diedarkan di Indonesia hanya dapat diproduksi oleh industri farmasi dalam negeri.
 
 (2) Industri farmasi dalam negeri merupakan industri farmasi yang berlokasi di Indonesia, baik dalam bentuk penanaman modal dalam negeri maupun penanaman modal asing.
 
@@ -488,9 +474,7 @@ Radiofarmaka sebagaimana dimaksud dalam Pasal 23 ayat (3) diproduksi oleh indust
 
 ### Pasal 32
 
-(1) Fitofarmaka sebagaimana dimaksud dalam Pasal 23 ayat
-
-(3) diproduksi oleh industri Obat Bahan Alam dan usaha Obat Bahan Alam yang memiliki perizinan berusaha.
+(1) Fitofarmaka sebagaimana dimaksud dalam Pasal 23 ayat (3) diproduksi oleh industri Obat Bahan Alam dan usaha Obat Bahan Alam yang memiliki perizinan berusaha.
 
 (2) Produksi fitofarmaka harus mengutamakan penggunaan bahan Obat Bahan Alam produksi dalam negeri.
 
@@ -1138,9 +1122,7 @@ i. fasilitas lain.
 
 (4) Perbekalan Kesehatan yang dapat diserahkan oleh fasilitas lain berupa Obat bebas, Obat bebas terbatas, Obat Bahan Alam, Suplemen Kesehatan, Obat Kuasi, Kosmetik, dan Alat Kesehatan tertentu.
 
-(5) Perbekalan Kesehatan sebagaimana dimaksud pada ayat
-
-(4) dikecualikan bagi Obat Bahan Alam dan Suplemen Kesehatan untuk keperluan khusus.
+(5) Perbekalan Kesehatan sebagaimana dimaksud pada ayat (4) dikecualikan bagi Obat Bahan Alam dan Suplemen Kesehatan untuk keperluan khusus.
 
 (6) Pedoman teknis penyerahan Perbekalan Kesehatan oleh fasilitas lain serta penyerahan melalui mesin jual otomatis ditetapkan oleh Menteri.
 
@@ -1152,9 +1134,7 @@ Penyerahan Perbekalan Kesehatan dapat dilakukan antar fasilitas pelayanan kefarm
 
 (1) Untuk memudahkan akses masyarakat terhadap swamedikasi, toko obat dapat menyerahkan Obat bebas dan Obat bebas terbatas kepada hypermarket, supermarket, dan minimarket serta fasilitas lain yang ditetapkan oleh Menteri.
 
-(2) Pedoman teknis penyerahan Obat bebas dan Obat bebas terbatas oleh toko obat sebagaimana dimaksud pada ayat
-
-(1) ditetapkan oleh Menteri.
+(2) Pedoman teknis penyerahan Obat bebas dan Obat bebas terbatas oleh toko obat sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri.
 
 ### Pasal 77
 
@@ -1362,9 +1342,7 @@ a. potensi penyalahgunaan produk, bahan baku, atau kemasan; dan b. dampak terhad
 
 (1) Fasilitas yang memproduksi, mengimpor, mendistribusikan, dan/atau menyerahkan Perbekalan Kesehatan dan fasilitas pengelolaan kefarmasian yang melakukan pemusnahan Perbekalan Kesehatan, harus mendokumentasikan dan melaporkan kepada Menteri atau kepala lembaga pemerintah nonkementerian yang menyelenggarakan urusan pemerintahan di bidang pengawasan obat dan makanan sesuai dengan kewenangannya.
 
-(2) Pelaporan pemusnahan sebagaimana dimaksud pada ayat
-
-(1) dilakukan melalui Sistem Informasi Kesehatan yang terintegrasi dengan Sistem Informasi Kesehatan Nasional.
+(2) Pelaporan pemusnahan sebagaimana dimaksud pada ayat (1) dilakukan melalui Sistem Informasi Kesehatan yang terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 
 (3) Dalam hal Sistem Informasi Kesehatan belum terintegrasi dengan Sistem Informasi Kesehatan Nasional, pelaporan dapat dilakukan melalui Sistem Informasi Kesehatan atau secara elektronik.
 
@@ -1504,9 +1482,7 @@ d. vigilans.
 
 (2) Dalam rangka mendukung farmakovigilans dan vigilans di Fasilitas Pelayanan Kesehatan, tenaga medis dan/atau tenaga kesehatan dapat melaporkan kejadian tidak diinginkan atau efek samping Sediaan Farmasi dan/atau Alat Kesehatan kepada kepala lembaga pemerintah nonkementerian yang menyelenggarakan urusan pemerintahan di bidang pengawasan obat dan makanan dan Menteri sesuai dengan kewenangannya.
 
-(3) Pelaporan sebagaimana dimaksud pada ayat (1) dan ayat
-
-(2) dilakukan melalui Sistem Informasi Kesehatan yang terintegrasi dengan Sistem Informasi Kesehatan Nasional sesuai dengan tenggat waktu yang ditentukan oleh Menteri atau kepala lembaga pemerintah nonkementerian yang menyelenggarakan urusan pemerintahan di bidang pengawasan obat dan makanan sesuai dengan kewenangannya.
+(3) Pelaporan sebagaimana dimaksud pada ayat (1) dan ayat (2) dilakukan melalui Sistem Informasi Kesehatan yang terintegrasi dengan Sistem Informasi Kesehatan Nasional sesuai dengan tenggat waktu yang ditentukan oleh Menteri atau kepala lembaga pemerintah nonkementerian yang menyelenggarakan urusan pemerintahan di bidang pengawasan obat dan makanan sesuai dengan kewenangannya.
 
 (4) Laporan farmakovigilans dan vigilans sebagaimana dimaksud pada ayat (1) dan ayat (2) dilakukan kajian oleh Menteri dan kepala lembaga pemerintah nonkementerian yang menyelenggarakan urusan pemerintahan di bidang pengawasan obat dan makanan sesuai dengan kewenangannya.
 
@@ -1562,9 +1538,7 @@ c. penetapan formula batasan tertinggi harga jual Obat di Fasilitas Pelayanan Ke
 
 (1) Formula batasan tertinggi harga jual Obat di Fasilitas Pelayanan Kesehatan dan fasilitas lain sebagaimana dimaksud dalam Pasal 106 ayat (3) huruf c merupakan harga perolehan Obat termasuk pajak pertambahan nilai ditambah biaya pelayanan kefarmasian dari harga perolehan Obat.
 
-(2) Harga perolehan Obat sebagaimana dimaksud pada ayat
-
-(1) merupakan harga pokok dikurangi potongan harga dan/atau insentif lainnya.
+(2) Harga perolehan Obat sebagaimana dimaksud pada ayat (1) merupakan harga pokok dikurangi potongan harga dan/atau insentif lainnya.
 
 (3) Biaya pelayanan kefarmasian sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri.
 
@@ -1684,9 +1658,7 @@ g. tidak melakukan pemusnahan terhadap produk yang tidak memenuhi standar dan/at
 
 h. tidak memproduksi atau mengimpor Perbekalan Kesehatan untuk memenuhi ketersediaan dan akses Perbekalan Kesehatan sebagaimana dimaksud dalam Pasal 96 ayat (1) huruf a;
 
-i. tidak menyampaikan laporan produksi dan/atau importasi sebagaimana dimaksud dalam Pasal 96 ayat
-
-(1) huruf b;
+i. tidak menyampaikan laporan produksi dan/atau importasi sebagaimana dimaksud dalam Pasal 96 ayat (1) huruf b;
 
 j. tidak menyampaikan laporan potensi kekosongan Perbekalan Kesehatan sebagaimana dimaksud dalam Pasal 96 ayat (1) huruf c;
 

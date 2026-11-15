@@ -140,9 +140,7 @@ b. pegawai pemerintah dengan perjanjian kerja,sesuai dengan ketentuan peraturan 
 
 (9) Pengangkatan kembali untuk periode masa jabatan berikutnya paling tinggi berusia 60 (enam puluh) tahun.
 
-(10) Pengadaan Pejabat Pengelola dan pegawai yang berasal dari profesional lainnya sebagaimana dimaksud pada ayat
-
-(5) dilaksanakan sesuai dengan jumlah dan komposisi yang telah disetujui PPKD.
+(10) Pengadaan Pejabat Pengelola dan pegawai yang berasal dari profesional lainnya sebagaimana dimaksud pada ayat (5) dilaksanakan sesuai dengan jumlah dan komposisi yang telah disetujui PPKD.
 
 ### Pasal 4
 
@@ -200,9 +198,7 @@ h. tugas lainnya yang ditetapkan oleh kepala daerah sesuai dengan kewenangannya.
 
 (1) Pemimpin bertindak selaku kuasa pengguna anggaran/kuasa pengguna barang.
 
-(2) Dalam hal pemimpin sebagaimana dimaksud pada ayat
-
-(1) tidak berasal dari pegawai negeri sipil, pejabat keuangan ditunjuk sebagai kuasa pengguna anggaran/kuasa pengguna barang.
+(2) Dalam hal pemimpin sebagaimana dimaksud pada ayat (1) tidak berasal dari pegawai negeri sipil, pejabat keuangan ditunjuk sebagai kuasa pengguna anggaran/kuasa pengguna barang.
 
 ### Pasal 10
 
@@ -236,9 +232,7 @@ j. tugas lainnya yang ditetapkan oleh kepala daerah dan/atau pemimpin sesuai den
 
 ### Pasal 11
 
-(1) Pejabat teknis sebagaimana dimaksud dalam Pasal 6 ayat
-
-(1) huruf c mempunyai tugas:
+(1) Pejabat teknis sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c mempunyai tugas:
 
 a. menyusun perencanaan kegiatan teknis operasional dan pelayanan di bidangnya;
 
@@ -702,9 +696,7 @@ d. pengelolaan sumber daya manusia.
 
 (1) Unit Pelaksana Teknis Dinas/Badan Daerah yang akanmenerapkan BLUD, menyusun Renstra sesuai dengan ketentuan peraturan perundang-undangan sebagai bagian dari Renstra SKPD.
 
-(2) Penyusunan Renstra sebagaimana dimaksud pada ayat
-
-(1) memuat:
+(2) Penyusunan Renstra sebagaimana dimaksud pada ayat (1) memuat:
 
 a. rencana pengembangan layanan;
 
@@ -754,9 +746,7 @@ e. catatan atas laporan keuangan.
 
 (2) Kepala SKPD sebagaimana dimaksud pada ayat (1) mengajukan permohonan kepada kepala daerah melalui sekretaris daerah.
 
-(3) Pengajuan permohonan sebagaimana dimaksud pada ayat
-
-(1) dan ayat (2) dengan melampirkan dokumen persyaratan administratif sebagaimana dimaksud dalam Pasal 36.
+(3) Pengajuan permohonan sebagaimana dimaksud pada ayat (1) dan ayat (2) dengan melampirkan dokumen persyaratan administratif sebagaimana dimaksud dalam Pasal 36.
 
 ### Pasal 47
 
@@ -780,9 +770,7 @@ e. kepala SKPD yang membidangi pengawasan di pemerintah daerah sebagai anggota.
 
 ### Pasal 48
 
-(1) Tim penilai sebagaimana dimaksud dalam Pasal 47 ayat
-
-(2) bertugas untuk menilai permohonan penerapan BLUD paling lama 3 (tiga) bulan.
+(1) Tim penilai sebagaimana dimaksud dalam Pasal 47 ayat (2) bertugas untuk menilai permohonan penerapan BLUD paling lama 3 (tiga) bulan.
 
 (2) Tim penilai sebagaimana dimaksud pada ayat (1), dalam melaksanakan tugasnya dapat berkoordinasi dengan Menteri melalui Direktur Jenderal Bina Keuangan Daerah.
 
@@ -916,9 +904,7 @@ c. kebutuhan belanja dan kemampuan pendapatan yang diperkirakan akan diperoleh d
 
 (3) Anggaran berbasis kinerja sebagaimana dimaksud pada ayat (2) huruf a merupakan analisis kegiatan yang berorientasi pada pencapaian output dengan penggunaan sumber daya secara efisien.
 
-(4) Standar satuan harga sebagaimana dimaksud pada ayat
-
-(2) huruf b merupakan harga satuan setiap unit barang/jasa yang berlaku disuatu daerah.
+(4) Standar satuan harga sebagaimana dimaksud pada ayat (2) huruf b merupakan harga satuan setiap unit barang/jasa yang berlaku disuatu daerah.
 
 (5) Dalam hal BLUD belum menyusun standar satuan harga sebagaimana dimaksud pada ayat (4), BLUD menggunakan standar satuan harga yang ditetapkan oleh KeputusanKepala Daerah.
 
@@ -1006,9 +992,7 @@ BLUD menyusun DPA berdasarkan peraturan daerah tentang APBD untuk diajukan kepad
 
 (2) Pelaksanaan anggaran yang bersumber dari APBD sebagaimana dimaksud pada ayat (1) digunakan untuk belanja pegawai, belanja modal dan belanja barang dan/atau jasa yang mekanismenya dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Pelaksanaan anggaran sebagaimana dimaksud pada ayat
-
-(2) dilakukan secara berkala sesuai dengan kebutuhan yang telah ditetapkan, dengan memperhatikan anggaran kas dalam DPA, dan memperhitungkan:
+(3) Pelaksanaan anggaran sebagaimana dimaksud pada ayat (2) dilakukan secara berkala sesuai dengan kebutuhan yang telah ditetapkan, dengan memperhatikan anggaran kas dalam DPA, dan memperhitungkan:
 
 a. jumlah kas yang tersedia;
 
@@ -1152,13 +1136,9 @@ b. Peraturan Kepala Daerah sebagaimana dimaksud dalam Pasal 77 sepanjang disetuj
 
 (1) Pengadaan barang dan/atau jasa sebagaimana dimaksud dalam Pasal 76 ayat (2) dilakukan oleh pelaksana pengadaan.
 
-(2) Pelaksana pengadaan sebagaimana dimaksud pada ayat
+(2) Pelaksana pengadaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh panitia atau unit yang dibentuk oleh pemimpin untuk melaksanakan pengadaan barang dan/atau jasa BLUD.
 
-(1) dilaksanakan oleh panitia atau unit yang dibentuk oleh pemimpin untuk melaksanakan pengadaan barang dan/atau jasa BLUD.
-
-(3) Pelaksana pengadaan sebagaimana dimaksud pada ayat
-
-(2) terdiri atas personil yang memahami tata cara pengadaan, substansi pekerjaan/kegiatan yang bersangkutan dan bidang lain yang diperlukan.
+(3) Pelaksana pengadaan sebagaimana dimaksud pada ayat (2) terdiri atas personil yang memahami tata cara pengadaan, substansi pekerjaan/kegiatan yang bersangkutan dan bidang lain yang diperlukan.
 
 **Bagian Kedua** **Pengelolaan Barang**
 
@@ -1180,9 +1160,7 @@ a. perhitungan biaya per unit layanan; atau
 
 b. hasil per investasi dana.
 
-(4) Tarif Layanan yang disusun atas dasar perhitungan biayaper unit layanan sebagaimana dimaksud pada ayat
-
-(3) huruf a bertujuan untuk menutup seluruh atau sebagian dari biaya yang dikeluarkan untuk menghasilkan barang/jasa atas layanan yang disediakan oleh BLUD.
+(4) Tarif Layanan yang disusun atas dasar perhitungan biayaper unit layanan sebagaimana dimaksud pada ayat (3) huruf a bertujuan untuk menutup seluruh atau sebagian dari biaya yang dikeluarkan untuk menghasilkan barang/jasa atas layanan yang disediakan oleh BLUD.
 
 (5) Tarif Layanan sebagaimana dimaksud pada ayat (4) dihitung dengan akuntansi biaya.
 
@@ -1208,13 +1186,9 @@ b. presentase atas harga patokan, indeks harga, kurs, pendapatan kotor/bersih, d
 
 (2) Pemimpin mengusulkan Tarif Layanan BLUD sebagaimana dimaksud pada ayat (1) kepada kepala daerah.
 
-(3) Usulan Tarif Layanan sebagaimana dimaksud pada ayat
+(3) Usulan Tarif Layanan sebagaimana dimaksud pada ayat (2) berupa usulan Tarif Layanan baru dan/atau usulan perubahan Tarif Layanan.
 
-(2) berupa usulan Tarif Layanan baru dan/atau usulan perubahan Tarif Layanan.
-
-(4) Usulan Tarif Layanan sebagaimana dimaksud pada ayat
-
-(2) dilakukan secara keseluruhan atau per unit layanan.
+(4) Usulan Tarif Layanan sebagaimana dimaksud pada ayat (2) dilakukan secara keseluruhan atau per unit layanan.
 
 (5) Untuk penyusunan Tarif Layanan BLUD sebagaimana dimaksud pada ayat (2), pemimpin dapat membentuk tim yang keanggotaannya berasal dari:
 
@@ -1296,9 +1270,7 @@ a. kerjasama operasional; dan
 
 b. pemanfaatan barang milik daerah.
 
-(2) Kerjasama operasional sebagaimana dimaksud pada ayat
-
-(1) huruf a dilakukan melalui pengelolaan manajemen dan proses operasional secara bersama dengan mitra kerjasama dengan tidak menggunakan barang milik daerah.
+(2) Kerjasama operasional sebagaimana dimaksud pada ayat (1) huruf a dilakukan melalui pengelolaan manajemen dan proses operasional secara bersama dengan mitra kerjasama dengan tidak menggunakan barang milik daerah.
 
 (3) Pemanfaatan barang milik daerah sebagaimana dimaksud pada ayat (1) huruf b dilakukan melalui pendayagunaan barang milik daerah dan/atau optimalisasi barang milik daerah dengan tidak mengubah status kepemilikan untuk memperoleh pendapatan dan tidak mengurangi kualitas pelayanan umum yang menjadi kewajiban BLUD.
 
@@ -1308,9 +1280,7 @@ b. pemanfaatan barang milik daerah.
 
 (6) Tata cara kerja sama dengan pihak lain sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Kepala Daerah.
 
-(7) Pelaksanaan kerjasama sebagaimana dimaksud pada ayat
-
-(1) dibuat dalam bentuk perjanjian.
+(7) Pelaksanaan kerjasama sebagaimana dimaksud pada ayat (1) dibuat dalam bentuk perjanjian.
 
 ## BAB XII - INVESTASI, SISA LEBIH PERHITUNGAN ANGGARAN DAN DEFISIT ANGGARAN BADAN LAYANAN UMUM DAERAH
 
@@ -1466,9 +1436,7 @@ b. kebijakan kepala daerah sesuai dengan kewenangannya dan berdasarkan ketentuan
 
 ### Pasal 104
 
-(1) Tim penilai sebagaimana dimaksud dalam Pasal 103 ayat
-
-(4) bertugas untuk menilai usulan pencabutan penerapan BLUD paling lama 3 (tiga) bulan.
+(1) Tim penilai sebagaimana dimaksud dalam Pasal 103 ayat (4) bertugas untuk menilai usulan pencabutan penerapan BLUD paling lama 3 (tiga) bulan.
 
 (2) Hasil penilaian oleh tim penilai sebagaimana dimaksud pada ayat (1) disampaikan kepada kepala daerah sebagai bahan pertimbangan pencabutan BLUD.
 

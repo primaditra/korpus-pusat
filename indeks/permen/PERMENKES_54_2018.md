@@ -105,9 +105,7 @@ d. meningkatkan peran tenaga kesehatan dalam melakukan pemantauan dan evaluasi p
 
 (1) Pelayanan obat untuk peserta jaminan kesehatan pada Fasilitas Kesehatan berpedoman pada Formularium Nasional.
 
-(2) Formularium Nasional sebagaimana dimaksud pada ayat
-
-(1) ditetapkan oleh Menteri.
+(2) Formularium Nasional sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri.
 
 (3) Menteri dalam menetapkan Formularium Nasional sebagaimana dimaksud pada ayat (2) membentuk komite nasional.
 
@@ -169,9 +167,7 @@ d. unit di Kementerian Kesehatan dan Badan Koordinasi Keluarga Berencana Nasiona
 
 (2) Usulan sebagaimana dimaksud pada ayat (1) disampaikan kepada Direktur Jenderal Kefarmasian dan Alat Kesehatan.
 
-(3) Penyampaian usulan sebagaimana dimaksud pada ayat
-
-(2) dapat dilakukan secara tertulis atau secara daring menggunakan sistem aplikasi E-Fornas melalui www.e-fornas.binfar.kemkes.go.id.
+(3) Penyampaian usulan sebagaimana dimaksud pada ayat (2) dapat dilakukan secara tertulis atau secara daring menggunakan sistem aplikasi E-Fornas melalui www.e-fornas.binfar.kemkes.go.id.
 
 ### Pasal 8
 

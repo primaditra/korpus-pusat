@@ -369,9 +369,7 @@ h. biaya atribusi.
 
 (5) Dikecualikan dari ayat (4) apabila sistem aplikasi belum tersedia penelitian dapat dilakukan melalui lembar verifikasi.
 
-(6) Berdasarkan penelitian sebagaimana dimaksud pada ayat
-
-(4) dan ayat (5) Pengurus Barang Pengguna atau Pengurus Barang Pembantu membuat surat pernyataan telah dilakukan pencatatan sebagai BMD.
+(6) Berdasarkan penelitian sebagaimana dimaksud pada ayat (4) dan ayat (5) Pengurus Barang Pengguna atau Pengurus Barang Pembantu membuat surat pernyataan telah dilakukan pencatatan sebagai BMD.
 
 (7) Surat pernyataan sebagaimana dimaksud pada ayat (6) dilampirkan dalam pengajuan pembayaran.
 
@@ -557,9 +555,7 @@ b. BMD berupa Aset Tetap yang tidak digunakan dalam operasional Pemerintahan Dae
 
 ### Pasal 22
 
-(1) Pembukuan BMD atas reklasifikasi karena rusak berat atau usang sebagaimana dimaksud dalam Pasal 19 ayat
-
-(3) huruf c dilakukan apabila terdapat Aset Tetap yang dihentikan dari penggunaan aktif Pemerintahan Daerah karena rusak berat atau usang.
+(1) Pembukuan BMD atas reklasifikasi karena rusak berat atau usang sebagaimana dimaksud dalam Pasal 19 ayat (3) huruf c dilakukan apabila terdapat Aset Tetap yang dihentikan dari penggunaan aktif Pemerintahan Daerah karena rusak berat atau usang.
 
 (2) Aset Tetap yang dihentikan dari penggunaan aktif Pemerintahan Daerah karena rusak berat atau usang sebagaimana dimaksud ayat (1) direklasifikasi ke Aset Lainnya.
 
@@ -573,9 +569,7 @@ b. BMD berupa Aset Tetap yang tidak digunakan dalam operasional Pemerintahan Dae
 
 ### Pasal 24
 
-(1) Pembukuan BMD atas reklasifikasi karena Aset bersejarah sebagaimana dimaksud dalam Pasal 19 ayat
-
-(3) huruf e dilakukan apabila Aset Tetap merupakan Aset bersejarah untuk kepentingan budaya, lingkungan, dan sejarah.
+(1) Pembukuan BMD atas reklasifikasi karena Aset bersejarah sebagaimana dimaksud dalam Pasal 19 ayat (3) huruf e dilakukan apabila Aset Tetap merupakan Aset bersejarah untuk kepentingan budaya, lingkungan, dan sejarah.
 
 (2) Aset bersejarah sebagaimana dimaksud pada ayat (1) mempunyai karakteristik, meliputi:
 
@@ -947,9 +941,7 @@ d. tindak lanjut hasil Inventarisasi.
 
 ### Pasal 53
 
-Tahap persiapan sebagaimana dimaksud dalam Pasal 52 ayat
-
-(2) huruf a, meliputi:
+Tahap persiapan sebagaimana dimaksud dalam Pasal 52 ayat (2) huruf a, meliputi:
 
 a. pembentukan tim Inventarisasi; dan
 
@@ -1053,9 +1045,7 @@ Tanggung jawab penuh sebagaimana dimaksud dalam Pasal 61 ayat (2) didukung melal
 
 (1) Laporan hasil Inventarisasi memuat objek Inventarisasi BMD sebagaimana dimaksud dalam Pasal 49 ayat (1) huruf b sampai dengan huruf g.
 
-(2) Laporan hasil Inventarisasi terhadap objek Inventarisasi BMD berupa persediaan dan konstruksi dalam pengerjaan sebagaimana dimaksud dalam Pasal 49 ayat
-
-(1) huruf a dan huruf h disampaikan berdasarkan hasil Inventarisasi sesuai periode Pelaporan.
+(2) Laporan hasil Inventarisasi terhadap objek Inventarisasi BMD berupa persediaan dan konstruksi dalam pengerjaan sebagaimana dimaksud dalam Pasal 49 ayat (1) huruf a dan huruf h disampaikan berdasarkan hasil Inventarisasi sesuai periode Pelaporan.
 
 **Bagian Keempat** **Tindak Lanjut Hasil Inventarisasi**
 

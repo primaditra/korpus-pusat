@@ -125,21 +125,15 @@ Dalam Peraturan Menteri ini yang dimaksud dengan:
 
 (2) Rumah Sakit statis sebagaimana dimaksud pada ayat (1) merupakan Rumah Sakit yang didirikan di suatu lokasi dan bersifat permanen yang menyediakan pelayanan rawat inap, rawat jalan, dan gawat darurat.
 
-(3) Rumah Sakit bergerak sebagaimana dimaksud pada ayat
+(3) Rumah Sakit bergerak sebagaimana dimaksud pada ayat (1) merupakan Rumah Sakit yang memberikan Pelayanan Kesehatan yang dapat dipindahkan dari satu lokasi ke lokasi lain dalam jangka waktu tertentu.
 
-(1) merupakan Rumah Sakit yang memberikan Pelayanan Kesehatan yang dapat dipindahkan dari satu lokasi ke lokasi lain dalam jangka waktu tertentu.
-
-(4) Rumah Sakit bergerak sebagaimana dimaksud pada ayat
-
-(3) dapat berbentuk bus, pesawat, kapal, karavan, gerbong kereta api, tenda, kontainer, atau bentuk lain yang ditetapkan oleh Menteri.
+(4) Rumah Sakit bergerak sebagaimana dimaksud pada ayat (3) dapat berbentuk bus, pesawat, kapal, karavan, gerbong kereta api, tenda, kontainer, atau bentuk lain yang ditetapkan oleh Menteri.
 
 ### Pasal 4
 
 (1) Selama kondisi darurat atau selama pelaksanaan kegiatan tertentu dapat didirikan Rumah Sakit lapangan.
 
-(2) Rumah Sakit lapangan sebagaimana dimaksud pada ayat
-
-(1) dapat berbentuk tenda, kontainer, atau bangunan permanen yang difungsikan sementara sebagai Rumah Sakit.
+(2) Rumah Sakit lapangan sebagaimana dimaksud pada ayat (1) dapat berbentuk tenda, kontainer, atau bangunan permanen yang difungsikan sementara sebagai Rumah Sakit.
 
 ### Pasal 5
 
@@ -195,23 +189,15 @@ b. memiliki paling sedikit 200 (dua ratus) tempat tidur rawat inap dan menyeleng
 
 (5) Rumah Sakit yang memiliki pelayanan unggulan berupa pelayanan gigi dan mulut harus memiliki paling sedikit 5 (lima) tempat tidur rawat inap.
 
-(6) Dalam hal Rumah Sakit sebagaimana dimaksud pada ayat
+(6) Dalam hal Rumah Sakit sebagaimana dimaksud pada ayat (4) dan ayat (5) merupakan Rumah Sakit dengan penanaman modal dalam negeri, pelayanan unggulan tersebut harus memiliki klasifikasi madya.
 
-(4) dan ayat (5) merupakan Rumah Sakit dengan penanaman modal dalam negeri, pelayanan unggulan tersebut harus memiliki klasifikasi madya.
-
-(7) Dalam hal Rumah Sakit sebagaimana dimaksud pada ayat
-
-(4) dan ayat (5) merupakan Rumah Sakit dengan penanaman modal asing, pelayanan unggulan tersebut harus memiliki klasifikasi paripurna.
+(7) Dalam hal Rumah Sakit sebagaimana dimaksud pada ayat (4) dan ayat (5) merupakan Rumah Sakit dengan penanaman modal asing, pelayanan unggulan tersebut harus memiliki klasifikasi paripurna.
 
 (8) Jumlah tempat tidur rawat inap sebagaimana dimaksud pada ayat (4) dan ayat (5) sudah termasuk 1 (satu) tempat tidur intensive care unit dengan ventilator.
 
-(9) Dalam hal Rumah Sakit sebagaimana dimaksud pada ayat
+(9) Dalam hal Rumah Sakit sebagaimana dimaksud pada ayat (4) dan ayat (5) menambah pelayanan unggulan di luar pelayanan mata, pelayanan telinga, hidung, dan tenggorok, atau pelayanan gigi dan mulut, ketentuan mengenai jumlah tempat tidur rawat inap dan kemampuan pelayanan harus memenuhi sesuai ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2).
 
-(4) dan ayat (5) menambah pelayanan unggulan di luar pelayanan mata, pelayanan telinga, hidung, dan tenggorok, atau pelayanan gigi dan mulut, ketentuan mengenai jumlah tempat tidur rawat inap dan kemampuan pelayanan harus memenuhi sesuai ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2).
-
-(10) Ketentuan sebagaimana dimaksud pada ayat (2) dan ayat
-
-(7) dikecualikan bagi Rumah Sakit dengan penanaman modal asing yang dilakukan dalam bentuk investasi pada grup Rumah Sakit yang diselenggarakan untuk mendukung pemenuhan kebutuhan Pelayanan Kesehatan.
+(10) Ketentuan sebagaimana dimaksud pada ayat (2) dan ayat (7) dikecualikan bagi Rumah Sakit dengan penanaman modal asing yang dilakukan dalam bentuk investasi pada grup Rumah Sakit yang diselenggarakan untuk mendukung pemenuhan kebutuhan Pelayanan Kesehatan.
 
 (11) Pengecualian bagi Rumah Sakit dengan penanaman modal asing yang dilakukan dalam bentuk investasi pada grup Rumah Sakit sebagaimana dimaksud pada ayat (10) dilaksanakan dengan mempertimbangkan kriteria:
 
@@ -231,9 +217,7 @@ Sumber Daya Manusia Kesehatan pada Rumah Sakit sebagaimana dimaksud dalam Pasal 
 
 (1) Rumah Sakit ditetapkan klasifikasinya berdasarkan kemampuan pelayanan.
 
-(2) Kemampuan pelayanan sebagaimana dimaksud pada ayat
-
-(1) merupakan kemampuan Pelayanan Kesehatan pada kelompok pelayanan berdasarkan diagnosis dan prosedur yang dilakukan oleh Tenaga Medis dan Tenaga Kesehatan yang memiliki kompetensi di bidangnya, serta ketersediaan sarana, prasarana, dan peralatan kesehatan yang dibutuhkan.
+(2) Kemampuan pelayanan sebagaimana dimaksud pada ayat (1) merupakan kemampuan Pelayanan Kesehatan pada kelompok pelayanan berdasarkan diagnosis dan prosedur yang dilakukan oleh Tenaga Medis dan Tenaga Kesehatan yang memiliki kompetensi di bidangnya, serta ketersediaan sarana, prasarana, dan peralatan kesehatan yang dibutuhkan.
 
 (3) Klasifikasi sebagaimana dimaksud pada ayat (1) ditetapkan untuk setiap kelompok pelayanan yang terdiri atas:
 
@@ -325,9 +309,7 @@ b. kelas rawat inap eksekutif.
 
 (1) Pelayanan rawat jalan sebagaimana dimaksud dalam Pasal 14 ayat (1) merupakan pelayanan terhadap Pasien untuk keperluan observasi, diagnosis, pengobatan, rehabilitasi medik, dan Pelayanan Kesehatan lainnya, tanpa perlu menginap.
 
-(2) Pelayanan rawat jalan sebagaimana dimaksud pada ayat
-
-(1) menyesuaikan dengan ketersediaan Sumber Daya Manusia Kesehatan dengan kebutuhan pelayanan.
+(2) Pelayanan rawat jalan sebagaimana dimaksud pada ayat (1) menyesuaikan dengan ketersediaan Sumber Daya Manusia Kesehatan dengan kebutuhan pelayanan.
 
 ### Pasal 17
 
@@ -727,9 +709,7 @@ c. tenaga profesional, yang memiliki kompetensi manajemen Rumah Sakit.
 
 ### Pasal 40
 
-Unsur pimpinan sebagaimana dimaksud dalam Pasal 38 ayat
-
-(1) huruf a menyelenggarakan fungsi paling sedikit:
+Unsur pimpinan sebagaimana dimaksud dalam Pasal 38 ayat (1) huruf a menyelenggarakan fungsi paling sedikit:
 
 a. menetapkan kebijakan penyelenggaraan;
 
@@ -891,9 +871,7 @@ b. pengelolaan dan pemeliharaan sarana dan prasarana; dan
 
 c. fungsi lain yang diberikan oleh pimpinan Rumah Sakit.
 
-(3) Instalasi atau unit kerja sebagaimana dimaksud pada ayat
-
-(1) dibentuk sesuai kebutuhan Rumah Sakit yang dipimpin oleh seorang kepala yang diangkat dan ditetapkan oleh pimpinan tertinggi Rumah Sakit.
+(3) Instalasi atau unit kerja sebagaimana dimaksud pada ayat (1) dibentuk sesuai kebutuhan Rumah Sakit yang dipimpin oleh seorang kepala yang diangkat dan ditetapkan oleh pimpinan tertinggi Rumah Sakit.
 
 ### Pasal 50
 
@@ -985,9 +963,7 @@ d. memberikan persetujuan perencanaan dan penggunaan anggaran Rumah Sakit; dan
 
 e. melakukan tugas lain yang diberikan oleh pemilik Rumah Sakit.
 
-(3) Dewan pengawas melaporkan pelaksanaan tugas dan fungsinya sebagaimana dimaksud pada ayat (1) dan ayat
-
-(2) kepada pemilik Rumah Sakit paling sedikit 1 (satu) kali dalam satu semester dan sewaktu-sewaktu bila diperlukan.
+(3) Dewan pengawas melaporkan pelaksanaan tugas dan fungsinya sebagaimana dimaksud pada ayat (1) dan ayat (2) kepada pemilik Rumah Sakit paling sedikit 1 (satu) kali dalam satu semester dan sewaktu-sewaktu bila diperlukan.
 
 (4) Selain melaporkan pelaksanaan tugas dan fungsinya kepada pemilik Rumah Sakit sebagaimana dimaksud pada ayat (3), dewan pengawas juga harus melaporkan hasil pengawasan Rumah Sakit ke Kementerian Kesehatan sebanyak 1 (satu) kali dalam setahun dan sewaktu-sewaktu bila diperlukan.
 
@@ -1071,9 +1047,7 @@ b. kepemilikan dan pengelolaan Rumah Sakit; dan
 
 c. struktur organisasi Rumah Sakit.
 
-(2) Identitas Rumah Sakit sebagaimana dimaksud pada ayat
-
-(1) huruf a mencakup tujuan pendirian, visi, misi, serta prinsip tata kerja organisasi.
+(2) Identitas Rumah Sakit sebagaimana dimaksud pada ayat (1) huruf a mencakup tujuan pendirian, visi, misi, serta prinsip tata kerja organisasi.
 
 (3) Kepemilikan dan pengelolaan Rumah Sakit sebagaimana dimaksud pada ayat (1) huruf b mengatur mengenai tugas, fungsi, kewenangan, tanggung jawab pemilik, dewan pengawas, dan kepala/direktur Rumah Sakit, tata cara pengambilan keputusan, pelaporan, pelimpahan wewenang, serta mekanisme koordinasi dalam penyelenggaraan Rumah Sakit.
 
@@ -1183,9 +1157,7 @@ b. keadilan; dan
 
 c. keberlanjutan pelayanan.
 
-(2) Prinsip keterjangkauan sebagaimana dimaksud pada ayat
-
-(1) huruf a merupakan penerapan tarif dengan mempertimbangkan kemampuan membayar Pasien, mekanisme pembiayaan Pelayanan Kesehatan, dan unit cost pelayanan untuk menjamin akses masyarakat terhadap Pelayanan Kesehatan yang bermutu.
+(2) Prinsip keterjangkauan sebagaimana dimaksud pada ayat (1) huruf a merupakan penerapan tarif dengan mempertimbangkan kemampuan membayar Pasien, mekanisme pembiayaan Pelayanan Kesehatan, dan unit cost pelayanan untuk menjamin akses masyarakat terhadap Pelayanan Kesehatan yang bermutu.
 
 (3) Prinsip keadilan sebagaimana dimaksud pada ayat (1) huruf b merupakan penerapan tarif secara proporsional, nondiskriminatif, dan transparan dengan memperhatikan kebutuhan medis, kelas pelayanan, dan perlindungan terhadap kelompok rentan.
 

@@ -771,9 +771,7 @@ b. berorientasi kepada keluaran; dan
 
 c. pembayaran didasarkan pada tahapan produk/keluaran yang dihasilkan sesuai dengan Kontrak.
 
-(4) Kontrak Harga Satuan sebagaimana dimaksud pada ayat
-
-(1) huruf b merupakan kontrak Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan harga satuan yang tetap untuk setiap satuan atau unsur pekerjaan dengan spesifikasi teknis tertentu atas penyelesaian seluruh pekerjaan dalam batas waktu yang telah ditetapkan dengan ketentuan sebagai berikut:
+(4) Kontrak Harga Satuan sebagaimana dimaksud pada ayat (1) huruf b merupakan kontrak Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan harga satuan yang tetap untuk setiap satuan atau unsur pekerjaan dengan spesifikasi teknis tertentu atas penyelesaian seluruh pekerjaan dalam batas waktu yang telah ditetapkan dengan ketentuan sebagai berikut:
 
 a. volume atau kuantitas pekerjaannya masih bersifat perkiraan pada saat Kontrak ditandatangani;
 
@@ -895,9 +893,7 @@ c. harus dicairkan oleh penerbit jaminan paling lambat 14 (empat belas) hari ker
 
 (1) Jaminan Pelaksanaan sebagaimana dimaksud dalam Pasal 30 ayat (1) huruf c diberlakukan untuk Kontrak Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah).
 
-(2) Jaminan Pelaksanaan sebagaimana dimaksud pada ayat
-
-(1) tidak diperlukan, dalam hal:
+(2) Jaminan Pelaksanaan sebagaimana dimaksud pada ayat (1) tidak diperlukan, dalam hal:
 
 a. Pengadaan Jasa Lainnya yang aset Penyedia sudah dikuasai oleh Pengguna; atau
 
@@ -929,9 +925,7 @@ b. untuk nilai penawaran di bawah 80% (delapan puluh persen) dari nilai Pagu Ang
 
 (1) Jaminan Pemeliharaan sebagaimana dimaksud dalam Pasal 30 ayat (1) huruf e diberlakukan untuk Pekerjaan Konstruksi atau Jasa Lainnya yang membutuhkan masa pemeliharaan, dalam hal Penyedia menerima uang retensi pada serah terima pekerjaan pertama (Provisional Hand Over).
 
-(2) Jaminan Pemeliharaan sebagaimana dimaksud pada ayat
-
-(1) dikembalikan 14 (empat belas) hari kerja setelah masa pemeliharaan selesai.
+(2) Jaminan Pemeliharaan sebagaimana dimaksud pada ayat (1) dikembalikan 14 (empat belas) hari kerja setelah masa pemeliharaan selesai.
 
 (3) Besaran
 
@@ -987,17 +981,11 @@ e. Tender.
 
 (2) E-purchasing sebagaimana dimaksud pada ayat (1) huruf a dilaksanakan untuk Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang sudah tercantum dalam katalog elektronik.
 
-(3) Pengadaan Langsung sebagaimana dimaksud pada ayat
+(3) Pengadaan Langsung sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan untuk Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 
-(1) huruf b dilaksanakan untuk Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
+(4) Penunjukan Langsung sebagaimana dimaksud pada ayat (1) huruf c dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya dalam keadaan tertentu.
 
-(4) Penunjukan Langsung sebagaimana dimaksud pada ayat
-
-(1) huruf c dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya dalam keadaan tertentu.
-
-(5) Kriteria Barang/ Pekerj aan Konstruksi/Jasa Lainnya untuk keadaan tertentu sebagaimana dimaksud pada ayat
-
-(4) meliputi:
+(5) Kriteria Barang/ Pekerj aan Konstruksi/Jasa Lainnya untuk keadaan tertentu sebagaimana dimaksud pada ayat (4) meliputi:
 
 a. penyelenggaraan penyiapan kegiatan yang mendadak untuk menindaklanjuti komitmen internasional yang dihadiri oleh Presiden/Wakil Presiden;
 
@@ -1077,13 +1065,9 @@ c. Penunjukan Langsung.
 
 (2) Seleksi sebagaimana dimaksud pada ayat (1) huruf a dilaksanakan untuk Jasa Konsultansi bernilai paling sedikit di atas Rp100.000.000,00 (seratus juta rupiah).
 
-(3) Pengadaan Langsung sebagaimana dimaksud pada ayat
+(3) Pengadaan Langsung sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan untuk Jasa Konsultansi yang bernilai sampai dengan paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
-(1) huruf b dilaksanakan untuk Jasa Konsultansi yang bernilai sampai dengan paling banyak Rp100.000.000,00 (seratus juta rupiah).
-
-(4) Penunjukan Langsung sebagaimana dimaksud pada ayat
-
-(1) huruf c dilaksanakan untuk Jasa Konsultansi dalam keadaan tertentu.
+(4) Penunjukan Langsung sebagaimana dimaksud pada ayat (1) huruf c dilaksanakan untuk Jasa Konsultansi dalam keadaan tertentu.
 
 (5) Kriteria Jasa Konsultansi dalam keadaan tertentu sebagaimana dimaksud pada ayat (4) meliputi:
 
@@ -1283,9 +1267,7 @@ b. persetujuan RKA Perangkat Daerah sesuai dengan ketentuan peraturan perundang-
 
 (10) Pelaksanaan
 
-(10) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat
-
-(9) dilakukan setelah RUP diumumkan terlebih dahulu melalui aplikasi SIRUP.
+(10) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat (9) dilakukan setelah RUP diumumkan terlebih dahulu melalui aplikasi SIRUP.
 
 (11) Penawaran harga dapat dilakukan dengan metode penawaran harga secara berulang (E-reverse Auction).
 
@@ -1345,9 +1327,7 @@ c. Tender/Seleksi ulang.
 
 (8) Penyampaian penawaran ulang sebagaimana dimaksud pada ayat (6) huruf b dilakukan untuk Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf d dan huruf h.
 
-(9) Tender/ Seleksi ulang sebagaimana dimaksud pada ayat
-
-(6) huruf c, dilakukan untuk Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf b, huruf c, huruf e, huruf f, huruf g, dan huruf i.
+(9) Tender/ Seleksi ulang sebagaimana dimaksud pada ayat (6) huruf c, dilakukan untuk Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf b, huruf c, huruf e, huruf f, huruf g, dan huruf i.
 
 (10) Dalam hal Tender/ Seleksi ulang sebagaimana dimaksud pada ayat (9) gagal, Pokja Pemilihan dengan persetujuan PA/ KPA melakukan Penunjukan Langsung dengan kriteria:
 
@@ -1647,9 +1627,7 @@ d. Pengadaan Barang/Jasa yang dibiayai oleh Lembaga Penjamin Kredit Ekspor atau 
 
 (3) Perhitungan TKDN dan BMP sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
-(4) Ketentuan sebagaimana,dimaksud pada ayat (2) dan ayat
-
-(3) dicantumkan dalam RUP, spesifikasi teknis/KAK, dan Dokumen Pemilihan.
+(4) Ketentuan sebagaimana,dimaksud pada ayat (2) dan ayat (3) dicantumkan dalam RUP, spesifikasi teknis/KAK, dan Dokumen Pemilihan.
 
 (5) Pengadaan barang impor dapat dilakukan, dalam hal:
 

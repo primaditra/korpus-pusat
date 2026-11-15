@@ -190,9 +190,7 @@ f. janda, duda, atau anak yatim dan/atau piatu dari Veteran atau Perintis Kemerd
 
 g. BP yang tidak termasuk huruf a sampai dengan huruf f yang mampu membayar Iuran.
 
-(5) Penerima pensiun sebagaimana dimaksud pada ayat
-
-(4) huruf c terdiri atas:
+(5) Penerima pensiun sebagaimana dimaksud pada ayat (4) huruf c terdiri atas:
 
 a. Pejabat Negara yang berhenti dengan hak pensiun;
 
@@ -414,9 +412,7 @@ d. PHK karena Pekerja mengalami sakit yang berkepanjangan dan tidak mampu bekerj
 
 (5) Peserta sebagaimana dimaksud pada ayat (1) yang telah bekerja kembali wajib memperpanjang status kepesertaannya dengan membayar Iuran.
 
-(6) Dalam hal Peserta sebagaimana dimaksud pada ayat
-
-(1) dan ayat (2) tidak bekerja kembali clan tidak mampu, didaftarkan menjadi Peserta PBI Jaminan Kesehatan.
+(6) Dalam hal Peserta sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak bekerja kembali clan tidak mampu, didaftarkan menjadi Peserta PBI Jaminan Kesehatan.
 
 ## BAB III - I URAN
 
@@ -490,9 +486,7 @@ b. 1 % (satu persen) dibayar oleh Peserta.
 
 (3) Gaji atau Upah yang digunakan sebagai dasar perhitungan Iuran bagi Peserta PPU selain Peserta sebagaimana dimaksud pada ayat (1) dan ayat (2) terdiri atas Gaji atau Upah pokok dan tunjangan tetap.
 
-(4) Tunjangan tetap sebagaimana dimaksud pada ayat
-
-(3) merupakan tunjangan yang dibayarkan kepada Pekerja tanpa memperhitungkan kehadiran Pekerja.
+(4) Tunjangan tetap sebagaimana dimaksud pada ayat (3) merupakan tunjangan yang dibayarkan kepada Pekerja tanpa memperhitungkan kehadiran Pekerja.
 
 ### Pasal 34
 
@@ -640,9 +634,7 @@ BPJS Kesehatan wajib mencatat dan menagih tunggakan Iuran sebagai piutang BPJS K
 
 (3) Manfaat medis sebagaimana dimaksud pada ayat (2) diberikan sesuai dengan indikasi medis dan standar pelayanan serta tidak dibedakan berdasarkan besaran Iuran Peserta.
 
-(4) Manfaat nonmedis sebagaimana dimaksud pada ayat
-
-(2) diberikan berdasarkan besaran Iuran Peserta.
+(4) Manfaat nonmedis sebagaimana dimaksud pada ayat (2) diberikan berdasarkan besaran Iuran Peserta.
 
 (5) Manfaat Jaminan Kesehatan sebagaimana dimaksud pada ayat (1) juga berlaku bagi bayi baru lahir dari Peserta paling lama 28 (dua puluh delapan) hari sejak dilahirkan.
 
@@ -884,15 +876,11 @@ a. berada di luar wilayah FKTP tempat Peserta terdaftar; atau
 
 b. dalam keadaan kegawatdaruratan medis.
 
-(3) Peserta yang berada di luar wilayah FKTP tempat Peserta terdaftar sebagaimana dimaksud pada ayat
-
-(2) huruf a dapat mengakses pelayanan rawat jalan tingkat pertama pada FKTP lain untuk paling banyak 3 (tiga) kali kunjungan dalam waktu paling lama 1 (satu) bulan di FKTP yang sama.
+(3) Peserta yang berada di luar wilayah FKTP tempat Peserta terdaftar sebagaimana dimaksud pada ayat (2) huruf a dapat mengakses pelayanan rawat jalan tingkat pertama pada FKTP lain untuk paling banyak 3 (tiga) kali kunjungan dalam waktu paling lama 1 (satu) bulan di FKTP yang sama.
 
 (4) Dalam hal Peserta memerlukan pelayanan kesehatan tingkat lanjutan, FKTP wajib merujuk ke FKRTL sesuai dengan kasus dan kompetensi Fasilitas Kesehatan serta sistem rujukan.
 
-(5) Pelayanan yang diberikan kepada Peserta yang dirujuk ke FKRTL sebagaimana dimaksud pada ayat
-
-(4) dilakukan paling lama 3 (tiga) bulan.
+(5) Pelayanan yang diberikan kepada Peserta yang dirujuk ke FKRTL sebagaimana dimaksud pada ayat (4) dilakukan paling lama 3 (tiga) bulan.
 
 (6) FKRTL yang melakukan pelayanan sebagaimana dimaksud pada ayat (5) wajib melakukan rujuk balik ke FKTP dimana Peserta terdaftar.
 
@@ -928,9 +916,7 @@ b. dalam keadaan kegawatdaruratan medis.
 
 (2) Menteri dalam menetapkan daftar obat, alat kesehatan, dan bahan medis habis pakai sebagaimana dimaksud pada ayat (1) membentuk komite nasional.
 
-(3) Komite nasional sebagaimana dimaksud pada ayat
-
-(2) terdiri atas unsur Kementerian Kesehatan, Badan Pengawas Obat dan Makanan, Badan Kependudukan dan Keluarga Berencana Nasional, BPJS Kesehatan, organisasi profesi, perguruan tinggi, dan tenaga ahli.
+(3) Komite nasional sebagaimana dimaksud pada ayat (2) terdiri atas unsur Kementerian Kesehatan, Badan Pengawas Obat dan Makanan, Badan Kependudukan dan Keluarga Berencana Nasional, BPJS Kesehatan, organisasi profesi, perguruan tinggi, dan tenaga ahli.
 
 (4) Daftar obat, alat kesehatan, dan bahan medis habis pakai sebagaimana dimaksud pada ayat (1) dituangkan dalam formularium nasional atau kompendium alat kesehatan.
 
@@ -950,9 +936,7 @@ b. dalam keadaan kegawatdaruratan medis.
 
 (6) Dalam hal terjadi kegagalan pengadaan obat dengan katalog elektronik sehingga terjadi kekosongan obat maka Fasilitas Kesehatan dapat mengadakan obat dengan zat aktif yang sama sesuai dengan ketentuan peraturan perundang-undangan.
 
-(7) Pembayaran obat sebagaimana dimaksud pada ayat
-
-(6) yang dapat diklaim tersendiri oleh Fasilitas Kesehatan kepada BPJS Kesehatan, berpedoman pada harga katalog elektronik atau harga yang ditetapkan oleh Menteri.
+(7) Pembayaran obat sebagaimana dimaksud pada ayat (6) yang dapat diklaim tersendiri oleh Fasilitas Kesehatan kepada BPJS Kesehatan, berpedoman pada harga katalog elektronik atau harga yang ditetapkan oleh Menteri.
 
 ### Pasal 61
 
@@ -1108,15 +1092,11 @@ Asosiasi fasilitas kesehatan sebagaimana dimaksud dalam Pasal 69 ayat (2) huruf 
 
 (2) BPJS Kesehatan harus mengeluarkan berita acara kelengkapan berkas klaim paling lam bat 10 (sepuluh) hari sejak klaim diajukan oleh FKRTL dan diterima oleh BPJS Kesehatan.
 
-(3) Dalam hal BPJS Kesehatan tidak mengeluarkan berita acara kelengkapan berkas klaim dalam waktu 10 (sepuluh) hari sebagaimana dimaksud pada ayat
-
-(2) maka berkas klaim dinyatakan lengkap.
+(3) Dalam hal BPJS Kesehatan tidak mengeluarkan berita acara kelengkapan berkas klaim dalam waktu 10 (sepuluh) hari sebagaimana dimaksud pada ayat (2) maka berkas klaim dinyatakan lengkap.
 
 (4) BPJS Kesehatan wajib melakukan pembayaran kepada FKRTL berdasarkan klaim yang diajukan dan telah:
 
-a. diverifikasi sebagaimana dimaksud pada ayat
-
-(2) paling lambat 15 (lima belas) hari sejak diterbitkannya berita acara kelengkapan berkas klaim; atau
+a. diverifikasi sebagaimana dimaksud pada ayat (2) paling lambat 15 (lima belas) hari sejak diterbitkannya berita acara kelengkapan berkas klaim; atau
 
 b. memenuhi ketentuan sebagaimana dimaksud pada ayat (3) paling lambat 15 (lima belas) hari sejak terpenuhinya ketentuan sebagaimana dimaksud pada ayat (3).
 
@@ -1258,9 +1238,7 @@ Ketentuan lebih lanjut mengenai kendali mutu dan kendali biaya pelayanan Jaminan
 
 (3) Fasilitas Kesehatan dan BPJS Kesehatan wajib menyediakan unit pengaduan yang dikelola secara bersarna-sarna atau sendiri-seridiri oleh Fasilitas Kesehatan dan BPJS Kesehatan.
 
-(4) Unit pengaduan sebagaimana dimaksud pada ayat
-
-(2) dapat berupa:
+(4) Unit pengaduan sebagaimana dimaksud pada ayat (2) dapat berupa:
 
 a. unit pengendali mutu pelayanan dan penanganan pengaduan untuk BPJS Kesehatan;
 
@@ -1446,9 +1424,7 @@ Pada saat Peraturan Presiden ini mulai berlaku, ketentuan mengenai Pegawai Pemer
 
 ### Pasal 104
 
-Ketentuan sebagaimana dimaksud dalam Pasal 16 ayat
-
-(1) dan ayat (2), Pasal 28 ayat (6), Pasal 42 ayat (1) sampai dengan ayat (6), dan Pasal 80 ayat (4) mulai berlaku setelah 3 (tiga) bulan terhitung sejak Peraturan Presiden ini diundangkan.
+Ketentuan sebagaimana dimaksud dalam Pasal 16 ayat (1) dan ayat (2), Pasal 28 ayat (6), Pasal 42 ayat (1) sampai dengan ayat (6), dan Pasal 80 ayat (4) mulai berlaku setelah 3 (tiga) bulan terhitung sejak Peraturan Presiden ini diundangkan.
 
 ### Pasal 105
 

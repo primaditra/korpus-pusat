@@ -166,13 +166,9 @@ a. pemilihan metode akuntansi atas kebijakan akuntansi dalam SAP;dan
 
 b. pengaturan yang lebih rinci atas kebijakan akuntansi dalam SAP.
 
-(4) Kebijakan akuntansi pemerintah daerah sebagaimana dimaksud pada ayat
+(4) Kebijakan akuntansi pemerintah daerah sebagaimana dimaksud pada ayat (1) berlaku bagi entitas akuntansi dan entitas pelaporan pemerintah daerah.
 
-(1) berlaku bagi entitas akuntansi dan entitas pelaporan pemerintah daerah.
-
-(5) Kebijakan akuntansi pemerintah daerah sebagaimana dimaksud pada ayat
-
-(1) diatur lebih lanjut dengan peraturan kepala daerah.
+(5) Kebijakan akuntansi pemerintah daerah sebagaimana dimaksud pada ayat (1) diatur lebih lanjut dengan peraturan kepala daerah.
 
 (6) Panduan penyusunan kebijakan akuntansi pemerintah daerah sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran I sebagai bagian yang tidak terpisahkan dari Peraturan Menteri ini.
 

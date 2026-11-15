@@ -226,9 +226,7 @@ b. barang milik daerah yang berasal dari perolehan lainnya yang sah.
 
 (2) barang milik daerah yang berasal dari perolehan lainnya yang sah sebagaimana dimaksud dalam Pasal 3 huruf b, dilengkapi dokumen perolehan.
 
-(3) Barang milik daerah sebagaimana dimaksud pada ayat
-
-(1) dan ayat (2) bersifat berwujud maupun tidak berwujud.
+(3) Barang milik daerah sebagaimana dimaksud pada ayat (1) dan ayat (2) bersifat berwujud maupun tidak berwujud.
 
 ### Pasal 6
 
@@ -578,9 +576,7 @@ c. standar harga.
 
 (5) Standar harga sebagaimana dimaksud pada ayat (2) huruf c adalah besaran harga yang ditetapkan sebagai acuan pengadaan barang milik daerah dalam perencanaan kebutuhan.
 
-(6) Standar barang, standar kebutuhan dan standar harga sebagaimana dimaksud pada ayat (3), ayat (4) dan ayat
-
-(5) ditetapkan oleh Gubernur/Bupati/Walikota.
+(6) Standar barang, standar kebutuhan dan standar harga sebagaimana dimaksud pada ayat (3), ayat (4) dan ayat (5) ditetapkan oleh Gubernur/Bupati/Walikota.
 
 ### Pasal 21
 
@@ -822,9 +818,7 @@ e. rencana kebutuhan barang milik daerah yang disetujui.
 
 (2) Pengguna Barang menyusun RKBMD Pemeliharaan berdasarkan hasil penelaahan sebagaimana dimaksud pada ayat (1).
 
-(3) RKBMD Pemeliharaan sebagaimana dimaksud pada ayat
-
-(2) disampaikan oleh Pengguna Barang kepada Pengelola Barang paling lambat minggu ketiga bulan Juni.
+(3) RKBMD Pemeliharaan sebagaimana dimaksud pada ayat (2) disampaikan oleh Pengguna Barang kepada Pengelola Barang paling lambat minggu ketiga bulan Juni.
 
 ### Pasal 38
 
@@ -1180,9 +1174,7 @@ b. melakukan penghapusan terhadap barang milik daerah yang telah dialihkan dari 
 
 (3) Berdasarkan Berita Acara Serah Terima (BAST) sebagaimana dimaksud pada ayat (2), Pengguna Barang lama melakukan usulan penghapusan kepada Pengelola Barang atas barang milik daerah yang dialihkan status penggunaannya kepada Pengguna Barang baru dari daftar barang pada Pengguna Barang.
 
-(4) Usulan penghapusan sebagaimana dimaksud pada ayat
-
-(3) paling lama 1 (satu) minggu sejak tanggal Berita Acara Serah Terima (BAST).
+(4) Usulan penghapusan sebagaimana dimaksud pada ayat (3) paling lama 1 (satu) minggu sejak tanggal Berita Acara Serah Terima (BAST).
 
 (5) Penghapusan barang milik daerah sebagaimana dimaksud pada ayat (3) ditetapkan dengan Keputusan Pengelola Barang.
 
@@ -1272,17 +1264,13 @@ a. Pengguna Barang sementara mengembalikan barang milik daerah kepada Pengguna B
 
 b. dilakukan pengalihan status penggunaan kepada Pengguna Barang yang menggunakan sementara barang milik daerah.
 
-(2) Mekanisme pengalihan status penggunaan barang milik daerah sebagaimana dimaksud dalam Pasal 54 sampai dengan Pasal 60 berlaku mutatis mutandis terhadap mekanisme pengalihan status penggunaan kepada pengguna sementara sebagaimana dimaksud pada ayat
-
-(1) huruf b.
+(2) Mekanisme pengalihan status penggunaan barang milik daerah sebagaimana dimaksud dalam Pasal 54 sampai dengan Pasal 60 berlaku mutatis mutandis terhadap mekanisme pengalihan status penggunaan kepada pengguna sementara sebagaimana dimaksud pada ayat (1) huruf b.
 
 ### Pasal 67
 
 (1) Pengguna Barang Sementara dapat mengajukan permohonan perpanjangan waktu penggunaan sementara atas barang milik daerah sebagaimana dimaksud dalam Pasal 61 ayat (2).
 
-(2) Perpanjangan waktu sebagaimana dimaksud pada ayat
-
-(1) diajukan Pengguna Barang kepada Gubernur/ Bupati/Walikota paling lambat 3 (tiga) bulan sebelum jangka waktu penggunaan sementara barang milik daerah berakhir.
+(2) Perpanjangan waktu sebagaimana dimaksud pada ayat (1) diajukan Pengguna Barang kepada Gubernur/ Bupati/Walikota paling lambat 3 (tiga) bulan sebelum jangka waktu penggunaan sementara barang milik daerah berakhir.
 
 (3) Mekanisme pengajuan permohonan, penelitian, persetujuan, dan penetapan oleh Gubernur/Bupati/ Walikota sebagaimana dimaksud dalam Pasal 63 sampai dengan Pasal 66 berlaku mutatis mutandis pada mekanisme pengajuan permohonan, penelitian, persetujuan dan penetapan oleh Gubernur/Bupati/ Walikota terhadap perpanjangan penggunaan sementara barang milik daerah.
 
@@ -1532,9 +1520,7 @@ a. tanah dan/atau bangunan; dan
 
 b. selain tanah dan/atau bangunan.
 
-(2) Objek pemanfaatan barang milik daerah berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat
-
-(1) huruf a, dapat dilakukan untuk sebagian atau keseluruhannya.
+(2) Objek pemanfaatan barang milik daerah berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat (1) huruf a, dapat dilakukan untuk sebagian atau keseluruhannya.
 
 (3) Dalam hal objek pemanfaatan barang milik daerah berupa sebagiafn tanah dan/atau bangunan sebagaimana dimaksud pada ayat (2), luas tanah dan/atau bangunan yang menjadi objek pemanfaatan barang milik daerah adalah sebesar luas bagian tanah dan/atau bangunan yang dimanfaatkan.
 
@@ -2052,9 +2038,7 @@ c. barang milik daerah berupa sebagian tanah dan bangunan; dan
 
 d. barang milik daerah selain tanah dan/atau bangunan.
 
-(3) Tarif pokok sewa barang milik daerah berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat
-
-(2) huruf a, huruf b dan huruf c dapat termasuk formula sewa barang milik daerah berupa prasarana bangunan.
+(3) Tarif pokok sewa barang milik daerah berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat (2) huruf a, huruf b dan huruf c dapat termasuk formula sewa barang milik daerah berupa prasarana bangunan.
 
 (4) Tarif pokok sewa barang milik daerah ditetapkan oleh Gubernur/Bupati/Walikota.
 
@@ -2076,23 +2060,17 @@ c. nilai tanah (Nt).
 
 ### Pasal 120
 
-(1) Luas tanah sebagaimana dimaksud dalam Pasal 119 ayat
-
-(3) dihitung dalam meter persegi.
+(1) Luas tanah sebagaimana dimaksud dalam Pasal 119 ayat (3) dihitung dalam meter persegi.
 
 (2) Dalam hal tanah yang disewakan hanya sebagian tanah, maka luas tanah sebagaimana dimaksud dalam Pasal 119 ayat (3) adalah sebesar luas bagian tanah yang disewakan.
 
 (3) Dalam hal pemanfaatan bagian tanah yang disewakan memiliki dampak terhadap bagian tanah yang lainnya, maka luas tanah sebagaimana dimaksud dalam Pasal 119 ayat (3) dapat ditambahkan jumlah tertentu yang diyakini terkena dampak pemanfaatan tersebut.
 
-(4) Nilai tanah sebagaimana dimaksud dalam Pasal 119 ayat
-
-(4) dihitung dalam rupiah per meter persegi.
+(4) Nilai tanah sebagaimana dimaksud dalam Pasal 119 ayat (4) dihitung dalam rupiah per meter persegi.
 
 ### Pasal 121
 
-(1) Tarif pokok sewa untuk barang milik daerah berupa bangunan sebagaimana dimaksud dalam Pasal 118 ayat
-
-(2) huruf b merupakan hasil perkalian dari:
+(1) Tarif pokok sewa untuk barang milik daerah berupa bangunan sebagaimana dimaksud dalam Pasal 118 ayat (2) huruf b merupakan hasil perkalian dari:
 
 a. faktor variabel sewa bangunan;
 
@@ -2154,13 +2132,9 @@ b. bentuk kelembagaan penyewa; dan
 
 c. periodesitas sewa.
 
-(2) Faktor penyesuai sewa sebagaimana dimaksud pada ayat
+(2) Faktor penyesuai sewa sebagaimana dimaksud pada ayat (1) dihitung dalam persentase.
 
-(1) dihitung dalam persentase.
-
-(3) Faktor penyesuai sewa sebagaimana dimaksud pada ayat
-
-(1) ditetapkan oleh Gubernur/Bupati/Walikota.
+(3) Faktor penyesuai sewa sebagaimana dimaksud pada ayat (1) ditetapkan oleh Gubernur/Bupati/Walikota.
 
 **Paragraf Keempat** **Jenis Kegiatan Usaha Penyewa**
 
@@ -2348,9 +2322,7 @@ c. jangka waktu penyewaan, termasuk periodesitas Sewa; dan
 
 d. peruntukan Sewa.
 
-(3) Dokumen pendukung sebagaimana dimaksud pada ayat
-
-(1) terdiri dari:
+(3) Dokumen pendukung sebagaimana dimaksud pada ayat (1) terdiri dari:
 
 a. Pernyataan/persetujuan dari pemilik/pengurus, perwakilan pemilik/pengurus, atau kuasa pemilik/pengurus dalam hal calon penyewa berbentuk hukum/badan usaha;
 
@@ -2492,9 +2464,7 @@ b. estimasi perhitungan tarif dasar sewa dengan menggunakan formula sewa diangga
 
 (5) Dalam hal yang diusulkan untuk disewakan merupakan barang milik daerah berupa selain tanah dan/atau bangunan, Pengelola Barang melakukan penelitian atas besaran sewa yang diusulkan oleh Pengguna Barang.
 
-(6) Pelaksanaan penilaian sebagaimana dimaksud pada ayat
-
-(3) dilakukan dengan berpedoman pada standar penilaian dan ketentuan peraturan perundang-undangan.
+(6) Pelaksanaan penilaian sebagaimana dimaksud pada ayat (3) dilakukan dengan berpedoman pada standar penilaian dan ketentuan peraturan perundang-undangan.
 
 (7) Hasil penilaian sebagaimana dimaksud pada ayat (6) dipergunakan oleh Pengelola Barang dalam melakukan kajian kelayakan penyewaan sebagaimana dimaksud pada ayat (1) dan perhitungan besaran sewa.
 
@@ -2582,9 +2552,7 @@ Penyewa dikenakan sanksi administratif berupa surat teguran apabila:
 
 a. penyewa belum menyerahkan barang milik daerah yang disewa pada saat berakhirnya jangka waktu sewa;
 
-b. perbaikan sebagaimana dimaksud dalam Pasal 147 ayat
-
-(4) belum dilakukan atau diperkirakan belum selesai menjelang berakhirnya jangka waktu sewa; dan/atau
+b. perbaikan sebagaimana dimaksud dalam Pasal 147 ayat (4) belum dilakukan atau diperkirakan belum selesai menjelang berakhirnya jangka waktu sewa; dan/atau
 
 c. penggantian sebagaimana dimaksud dalam Pasal 149 belum selesai dilaksanakan paling lambat sebelum berakhirnya jangka waktu sewa.
 
@@ -3306,9 +3274,7 @@ a. Rencana Umum Tata Ruang Wilayah dan penataan kota; dan
 
 b. bukti kepemilikan atau dokumen yang dipersamakan.
 
-(5) Kelengkapan informasi sebagaimana dimaksud pada ayat
-
-(4) tidak diberlakukan untuk KSP dalam rangka mengoperasionalkan barang milik daerah.
+(5) Kelengkapan informasi sebagaimana dimaksud pada ayat (4) tidak diberlakukan untuk KSP dalam rangka mengoperasionalkan barang milik daerah.
 
 ### Pasal 198
 
@@ -3462,9 +3428,7 @@ b. Pelaksanaan KSP barang milik daerah tidak akan mengganggu pelaksanaan tugas d
 
 (5) Dalam hal Pengguna Barang mengusulkan penetapan mitra KSP melalui mekanisme penunjukan langsung sebagaimana dimaksud dalam Pasal 170 ayat (4), maka pengajuan permohonan dari Pengguna Barang kepada Pengelola Barang sebagaimana dimaksud pada ayat (1) disertai data calon mitra KSP.
 
-(6) Data calon mitra KSP sebagaimana dimaksud pada ayat
-
-(5) meliputi:
+(6) Data calon mitra KSP sebagaimana dimaksud pada ayat (5) meliputi:
 
 a. nama;
 
@@ -3544,9 +3508,7 @@ c. melaksanakan kegiatan lain yang ditugaskan oleh Gubernur/Bupati/Walikota.
 
 (2) Penilai atau pihak yang berkompeten sebagaimana dimaksud pada ayat (1) menyampaikan laporan analisis kelayakan perpanjangan yang merupakan hasil pelaksanaan tugas kepada Gubernur/Bupati/Walikota melalui Pengelola Barang.
 
-(3) Tim KSP sebagaimana dimaksud dalam Pasal 211 ayat
-
-(5) menyampaikan laporan hasil pelaksanaan tugas kepada Gubernur/Bupati/Walikota melalui Pengelola Barang.
+(3) Tim KSP sebagaimana dimaksud dalam Pasal 211 ayat (5) menyampaikan laporan hasil pelaksanaan tugas kepada Gubernur/Bupati/Walikota melalui Pengelola Barang.
 
 (4) Apabila laporan hasil pelaksanaan tugas Tim KSP sebagaimana dimaksud pada ayat (3) menunjukkan bahwa permohonan perpanjangan jangka waktu KSP tidak dapat disetujui, Gubernur/Bupati/Walikota menerbitkan surat penolakan perpanjangan jangka waktu KSP yang ditujukan kepada mitra KSP disertai dengan alasan.
 
@@ -3590,9 +3552,7 @@ b. menugaskan Penilai.
 
 ### Pasal 215
 
-(1) Tim KSP sebagaimana dimaksud dalam Pasal 214 ayat
-
-(4) huruf a bertugas antara lain:
+(1) Tim KSP sebagaimana dimaksud dalam Pasal 214 ayat (4) huruf a bertugas antara lain:
 
 a. menyiapkan perjanjian perpanjangan KSP;
 
@@ -3780,9 +3740,7 @@ Hasil pemilihan mitra BGS/BSG sebagaimana dimaksud dalam Pasal 227 ditetapkan ol
 
 (1) Pelaksanaan BGS/BSG dituangkan dalam perjanjian.
 
-(2) Perjanjian BGS/BSG sebagaimana dimaksud pada ayat
-
-(1) ditandatangani antara Gubernur/Bupati/Walikota dengan mitra BGS/BSG.
+(2) Perjanjian BGS/BSG sebagaimana dimaksud pada ayat (1) ditandatangani antara Gubernur/Bupati/Walikota dengan mitra BGS/BSG.
 
 (3) Perjanjian sebagaimana dimaksud pada ayat (1) paling sedikit memuat:
 
@@ -3812,9 +3770,7 @@ l. penyelesaian perselisihan; dan
 
 m. persyaratan lain yang dianggap perlu.
 
-(4) Perjanjian BGS/BSG sebagaimana dimaksud pada ayat
-
-(3) dituangkan dalam bentuk Akta Notaris.
+(4) Perjanjian BGS/BSG sebagaimana dimaksud pada ayat (3) dituangkan dalam bentuk Akta Notaris.
 
 (5) Penandatanganan perjanjian BGS/BSG dilakukan setelah mitra BGS/BSG menyampaikan bukti setor pembayaran kontribusi tahunan pertama kepada pemerintah daerah.
 
@@ -4028,9 +3984,7 @@ a. inisiatif Pengguna Barang; atau
 
 b. permohonan dari pihak lain.
 
-(2) Inisiatif Pengguna Barang atas pelaksanaan BGS/BSG barang milik daerah sebagaimana dimaksud pada ayat
-
-(1) huruf a, disampaikan dalam bentuk surat permohonan pelaksanaan BGS/BSG yang ditujukan kepada Gubernur/Bupati/Walikota.
+(2) Inisiatif Pengguna Barang atas pelaksanaan BGS/BSG barang milik daerah sebagaimana dimaksud pada ayat (1) huruf a, disampaikan dalam bentuk surat permohonan pelaksanaan BGS/BSG yang ditujukan kepada Gubernur/Bupati/Walikota.
 
 (3) Permohonan dari pihak lain sebagaimana dimaksud pada ayat (1) huruf b, disampaikan dalam bentuk surat permohonan pelaksanaan BGS/BSG yang ditujukan kepada Pengguna Barang.
 
@@ -4338,9 +4292,7 @@ b. menugaskan Penilai untuk melakukan penilaian barang milik daerah yang akan di
 
 ### Pasal 265
 
-(1) Tim KSPI sebagaimana dimaksud dalam Pasal 264 ayat
-
-(2) huruf a berjumlah gasal dan beranggotakan antara lain:
+(1) Tim KSPI sebagaimana dimaksud dalam Pasal 264 ayat (2) huruf a berjumlah gasal dan beranggotakan antara lain:
 
 a. Pengelola Barang;
 
@@ -4392,9 +4344,7 @@ e. penunjukan PJPK KSPI atas barang milik daerah.
 
 (1) Gubernur/Bupati/Walikota menyerahkan barang milik daerah yang menjadi objek KSPI kepada PJPK penyediaan infrastruktur berdasarkan keputusan sebagaimana dimaksud dalam Pasal 267 ayat (1).
 
-(2) Penyerahan objek KSPI sebagaimana dimaksud pada ayat
-
-(1) dituangkan dalam Berita Acara Serah Terima (BAST) yang ditandatangani oleh Gubernur/Bupati/Walikota dan PJPK penyediaan infrastruktur atas barang milik daerah.
+(2) Penyerahan objek KSPI sebagaimana dimaksud pada ayat (1) dituangkan dalam Berita Acara Serah Terima (BAST) yang ditandatangani oleh Gubernur/Bupati/Walikota dan PJPK penyediaan infrastruktur atas barang milik daerah.
 
 (3) Penyerahan objek KSPI kepada PJPK penyediaan infrastruktur sebagaimana dimaksud pada ayat (1) hanya dalam rangka KSPI atas barang milik daerah dan bukan sebagai pengalihan kepemilikan barang milik daerah.
 
@@ -4480,9 +4430,7 @@ b. barang hasil KSPI atas barang milik daerah berdasarkan perjanjian.
 
 (2) Bagian pemerintah daerah atas pembagian kelebihan keuntungan (clawback) yang terjadi pada tahun terakhir dalam jangka waktu perjanjian KSPI disetorkan oleh mitra KSPI ke rekening Kas Umum Daerah paling lambat 10 (sepuluh) hari sebelum berakhirnya jangka waktu perjanjian.
 
-(3) Bagian pemerintah daerah atas pembagian kelebihan keuntungan (clawback) sebagaimana dimaksud pada ayat
-
-(1) disetorkan oleh mitra KSPI sepanjang terdapat kelebihan keuntungan (clawback) yang diperoleh dari yang ditentukan pada saat perjanjian KSPI dimulai.
+(3) Bagian pemerintah daerah atas pembagian kelebihan keuntungan (clawback) sebagaimana dimaksud pada ayat (1) disetorkan oleh mitra KSPI sepanjang terdapat kelebihan keuntungan (clawback) yang diperoleh dari yang ditentukan pada saat perjanjian KSPI dimulai.
 
 ### Pasal 277
 
@@ -4514,9 +4462,7 @@ b. tidak memenuhi kewajiban selain dari sebagaimana dimaksud pada huruf a sebaga
 
 (4) Apabila mitra KSPI tidak melaksanakan teguran ketiga sebagaimana dimaksud pada ayat (3) dalam jangka waktu 30 (tiga puluh) hari sejak teguran tertulis ketiga diterbitkan, Gubernur/Bupati/Walikota menerbitkan surat pengakhiran KSPI.
 
-(5) Surat teguran sebagaimana dimaksud pada ayat (1), ayat
-
-(2) dan ayat (3) serta surat pengakhiran sebagaimana dimaksud pada ayat (4) ditembuskan kepada PJPK.
+(5) Surat teguran sebagaimana dimaksud pada ayat (1), ayat (2) dan ayat (3) serta surat pengakhiran sebagaimana dimaksud pada ayat (4) ditembuskan kepada PJPK.
 
 (6) Mitra KSPI harus menyerahkan objek KSPI kepada Gubernur/Bupati/Walikota dengan tembusan PJPK berdasarkan surat pengakhiran KSPI atas barang milik daerah sebagaimana dimaksud pada ayat (4) dalam jangka waktu paling lama 30 (tiga puluh) hari setelah menerima surat pengakhiran perjanjian KSPI.
 
@@ -4524,9 +4470,7 @@ b. tidak memenuhi kewajiban selain dari sebagaimana dimaksud pada huruf a sebaga
 
 (1) Mitra KSPI harus melaporkan akan mengakhiri KSPI paling lambat 2 (dua) tahun sebelum jangka waktu KSPI berakhir kepada PJPK.
 
-(2) Berdasarkan laporan sebagaimana dimaksud pada ayat
-
-(1) dilakukan audit oleh auditor independen/aparat pengawasan intern pemerintah atas pelaksanaan KSPI atas barang milik daerah berdasarkan permintaan PJPK.
+(2) Berdasarkan laporan sebagaimana dimaksud pada ayat (1) dilakukan audit oleh auditor independen/aparat pengawasan intern pemerintah atas pelaksanaan KSPI atas barang milik daerah berdasarkan permintaan PJPK.
 
 (3) Auditor independen/aparat pengawasan intern pemerintah sebagaimana dimaksud pada ayat (2) menyampaikan hasil audit kepada PJPK penyediaan infrastruktur atas barang milik daerah.
 
@@ -5092,9 +5036,7 @@ a. membatasi pemberian kode akses hanya kepada pihak-pihak tertentu yang berwena
 
 b. melakukan penambahan security system terhadap aplikasi yang dianggap strategis oleh pemerintah daerah.
 
-(2) Pengamanan adminstrasi barang milik daerah berupa barang tak berwujud sebagaimana dimaksud pada ayat
-
-(1) melalui:
+(2) Pengamanan adminstrasi barang milik daerah berupa barang tak berwujud sebagaimana dimaksud pada ayat (1) melalui:
 
 a. menghimpun, mencatat, menyimpan, dan menatausahakan secara tertib dan teratur atas dokumen sebagai berikut:
 
@@ -5282,9 +5224,7 @@ e. dikuasai pemerintah daerah berdasarkan keputusan pengadilan yang telah memili
 
 ### Pasal 333
 
-Bangunan yang harus dihapuskan karena anggaran untuk bangunan pengganti sudah disediakan dalam dokumen penganggaran sebagaimana dimaksud dalam Pasal 331 ayat
-
-(2) huruf b, dimaksudkan bahwa yang dihapuskan adalah bangunan yang berdiri di atas tanah tersebut dirobohkan untuk selanjutnya didirikan bangunan baru di atas tanah yang sama (rekonstruksi) sesuai dengan alokasi anggaran yang telah disediakan dalam dokumen penganggaran.
+Bangunan yang harus dihapuskan karena anggaran untuk bangunan pengganti sudah disediakan dalam dokumen penganggaran sebagaimana dimaksud dalam Pasal 331 ayat (2) huruf b, dimaksudkan bahwa yang dihapuskan adalah bangunan yang berdiri di atas tanah tersebut dirobohkan untuk selanjutnya didirikan bangunan baru di atas tanah yang sama (rekonstruksi) sesuai dengan alokasi anggaran yang telah disediakan dalam dokumen penganggaran.
 
 ### Pasal 334
 
@@ -5540,9 +5480,7 @@ b. terhitung mulai tanggal, bulan, dan tahun pembuatannya sesuai dokumen kepemil
 
 (3) Dalam hal barang milik daerah berupa kendaraan bermotor rusak berat dengan sisa kondisi fisik setinggi-tingginya 30 % (tiga puluh persen), maka penjualan kendaraan bermotor dapat dilakukan sebelum berusia 7 (tujuh) tahun.
 
-(4) Penjualan kendaraan bermotor dilakukan sebelum berusia 7 (tujuh) tahun sebagaimana dimaksud pada ayat
-
-(3) berdasarkan surat keterangan tertulis dari instansi yang berkompeten
+(4) Penjualan kendaraan bermotor dilakukan sebelum berusia 7 (tujuh) tahun sebagaimana dimaksud pada ayat (3) berdasarkan surat keterangan tertulis dari instansi yang berkompeten
 
 **Paragraf Ketiga** **Tata Cara Penjualan Barang Milik Daerah Pada Pengelola Barang**
 
@@ -5622,9 +5560,7 @@ b. selain tanah dan/atau bangunan sebagaimana dimaksud dalam Pasal 331 ayat (1) 
 
 (1) Gubernur/Bupati/Walikota menetapkan barang milik daerah yang akan dijual berdasarkan hasil penelitian yang dituangkan dalam Berita Acara Penelitian sebagaimana dimaksud dalam Pasal 350 ayat (3) dan persetujuan sebagaimana dimaksud dalam 352 ayat (1) dan ayat (2).
 
-(2) Keputusan penjualan sebagaimana dimaksud pada ayat
-
-(1) paling sedikit memuat:
+(2) Keputusan penjualan sebagaimana dimaksud pada ayat (1) paling sedikit memuat:
 
 a. data barang milik daerah yang akan dijual;
 
@@ -5634,9 +5570,7 @@ c. nilai limit penjualan dari barang milik daerah.
 
 ### Pasal 354
 
-(1) Apabila keputusan penjualan oleh Gubernur/Bupati/ Walikota sebagaimana dimaksud dalam Pasal 353 ayat
-
-(1) merupakan penjualan barang milik daerah yang dilakukan secara lelang, Pengelola Barang mengajukan permintaan penjualan barang milik daerah dengan cara lelang kepada Kantor Pelayanan Kekayaan Negara dan Lelang.
+(1) Apabila keputusan penjualan oleh Gubernur/Bupati/ Walikota sebagaimana dimaksud dalam Pasal 353 ayat (1) merupakan penjualan barang milik daerah yang dilakukan secara lelang, Pengelola Barang mengajukan permintaan penjualan barang milik daerah dengan cara lelang kepada Kantor Pelayanan Kekayaan Negara dan Lelang.
 
 (2) Apabila keputusan penjualan oleh Gubernur/Bupati/ Walikota sebagaimana dimaksud dalam Pasal 353 ayat (1) merupakan penjualan barang milik daerah yang dilakukan tanpa lelang, Pengelola Barang melakukan penjualan barang milik daerah secara langsung kepada calon pembeli.
 
@@ -5710,9 +5644,7 @@ a. Gubernur/Bupati/Walikota;
 
 b. Wakil Gubernur/Wakil Bupati/Wakil Walikota.
 
-(3) Mantan Pejabat Negara sebagaimana dimaksud pada ayat
-
-(1) huruf b , yaitu:
+(3) Mantan Pejabat Negara sebagaimana dimaksud pada ayat (1) huruf b , yaitu:
 
 a. Mantan Gubernur/mantan Bupati/mantan Walikota;
 
@@ -5730,9 +5662,7 @@ a. telah memiliki masa kerja atau masa pengabdian selama 4 (empat) tahun atau le
 
 b. tidak sedang atau tidak pernah dituntut tindak pidana dengan ancaman hukuman pidana penjara paling singkat 5 (lima) tahun.
 
-(2) Secara berturut-turut sebagaimana dimaksud pada ayat
-
-(1) huruf a adalah secara berkelanjutan menjalani masa jabatan pada instansi yang sama atau pada instansi yang berbeda.
+(2) Secara berturut-turut sebagaimana dimaksud pada ayat (1) huruf a adalah secara berkelanjutan menjalani masa jabatan pada instansi yang sama atau pada instansi yang berbeda.
 
 ### Pasal 361
 
@@ -5754,9 +5684,7 @@ c. tidak sedang atau tidak pernah dituntut tindak pidana dengan ancaman hukuman 
 
 d. tidak diberhentikan dengan tidak hormat dari jabatannya.
 
-(2) Secara berturut-turut sebagaimana dimaksud pada ayat
-
-(1) huruf a adalah secara berkelanjutan menjalani masa jabatan pada instansi yang sama atau pada instansi yang berbeda.
+(2) Secara berturut-turut sebagaimana dimaksud pada ayat (1) huruf a adalah secara berkelanjutan menjalani masa jabatan pada instansi yang sama atau pada instansi yang berbeda.
 
 ### Pasal 363
 
@@ -5862,9 +5790,7 @@ b. alasan permohonan pembelian kendaraan perorangan dinas.
 
 (1) Surat Permohonan sebagaimana dimaksud dalam Pasal 372 ayat (3) dilampiri dokumen pendukung.
 
-(2) Dokumen pendukung sebagaimana dimaksud pada ayat
-
-(1) bagi Pejabat Negara/mantan pejabat negara, antara lain:
+(2) Dokumen pendukung sebagaimana dimaksud pada ayat (1) bagi Pejabat Negara/mantan pejabat negara, antara lain:
 
 a. fotokopi surat keputusan pengangkatan bagi Pejabat Negara atau surat keputusan pemberhentian bagi mantan Pejabat Negara;
 
@@ -5878,9 +5804,7 @@ e. surat pernyataan yang menyatakan belum pernah membeli kendaraan perorangan di
 
 f. surat pernyataan yang menyatakan tidak sedang atau tidak pernah dituntut tindak pidana dengan ancaman hukuman pidana penjara paling singkat 5 (lima) tahun.
 
-(3) Dokumen pendukung sebagaimana dimaksud pada ayat
-
-(1) bagi pegawai ASN, antara lain:
+(3) Dokumen pendukung sebagaimana dimaksud pada ayat (1) bagi pegawai ASN, antara lain:
 
 a. fotokopi surat keputusan pengangkatan menjadi Sekretaris Daerah Provinsi;
 
@@ -5928,9 +5852,7 @@ b. melakukan penelitian fisik, dengan cara mencocokkan fisik kendaraan peroranga
 
 ### Pasal 375
 
-(1) Pengelola Barang mengajukan permohonan persetujuan penjualan berdasarkan hasil penelitian dan penilaian sebagaimana dimaksud dalam Pasal 374 ayat (5) dan ayat
-
-(7) kepada Gubernur/Bupati/Walikota sesuai batas kewenangannya.
+(1) Pengelola Barang mengajukan permohonan persetujuan penjualan berdasarkan hasil penelitian dan penilaian sebagaimana dimaksud dalam Pasal 374 ayat (5) dan ayat (7) kepada Gubernur/Bupati/Walikota sesuai batas kewenangannya.
 
 (2) Apabila persetujuan Gubernur/Bupati/Walikota sebagaimana dimaksud pada ayat (1), melebihi batas waktu hasil penilaian, maka sebelum dilakukan penjualan terlebih dahulu harus dilakukan penilaian ulang.
 
@@ -6096,9 +6018,7 @@ d. selain tanah dan/atau bangunan.
 
 (2) Apabila nilai barang pengganti lebih kecil daripada nilai wajar barang milik daerah yang dilepas, mitra tukar menukar wajib menyetorkan ke rekening Kas Umum Daerah atas sejumlah selisih nilai antara nilai wajar barang milik daerah yang dilepas dengan nilai barang pengganti.
 
-(3) Penyetoran selisih nilai sebagaimana dimaksud pada ayat
-
-(2) dilaksanakan paling lambat 2 (dua) hari kerja sebelum Berita Acara Serah Terima (BAST) ditandatangani.
+(3) Penyetoran selisih nilai sebagaimana dimaksud pada ayat (2) dilaksanakan paling lambat 2 (dua) hari kerja sebelum Berita Acara Serah Terima (BAST) ditandatangani.
 
 (4) Selisih nilai sebagaimana dimaksud pada ayat (2) dan ayat (3) dituangkan dalam perjanjian tukar menukar.
 
@@ -6106,9 +6026,7 @@ d. selain tanah dan/atau bangunan.
 
 (1) Apabila pelaksanaan tukar menukar mengharuskan mitra tukar menukar membangun bangunan barang pengganti, mitra tukar menukar menunjuk konsultan pengawas dengan persetujuan Gubernur/Bupati/ Walikota berdasarkan pertimbangan dari SKPD terkait.
 
-(2) Konsultan pengawas sebagaimana dimaksud pada ayat
-
-(1) merupakan badan hukum yang bergerak di bidang pengawasan konstruksi.
+(2) Konsultan pengawas sebagaimana dimaksud pada ayat (1) merupakan badan hukum yang bergerak di bidang pengawasan konstruksi.
 
 (3) Biaya konsultan pengawas sebagaimana dimaksud pada ayat (1) menjadi tanggung jawab mitra tukar menukar.
 
@@ -6138,9 +6056,7 @@ b. penelitian data administratif; dan
 
 c. penelitian fisik.
 
-(3) Penelitian administratif sebagaimana dimaksud pada ayat
-
-(2) huruf b dilakukan untuk meneliti:
+(3) Penelitian administratif sebagaimana dimaksud pada ayat (2) huruf b dilakukan untuk meneliti:
 
 a. status penggunaan dan bukti kepemilikan, gambar situasi termasuk lokasi tanah, luas, peruntukan, kode barang, kode register, nama barang, dan nilai perolehan, untuk data barang milik daerah berupa tanah;
 
@@ -6614,9 +6530,7 @@ b. Barang milik daerah lebih optimal apabila dikelola oleh Badan Usaha Milik Neg
 
 (3) Penyertaan modal pemerintah daerah ditetapkan dengan Peraturan Daerah.
 
-(4) Barang milik daerah sebagaimana dimaksud pada ayat
-
-(2) yang telah disertakan dalam penyertaan modal pemerintah daerah kepada Badan Usaha Milik Negara/Daerah atau badan hukum lainnya yang dimiliki Negara menjadi kekayaan yang dipisahkan mengikuti ketentuan peraturan perundang-undangan.
+(4) Barang milik daerah sebagaimana dimaksud pada ayat (2) yang telah disertakan dalam penyertaan modal pemerintah daerah kepada Badan Usaha Milik Negara/Daerah atau badan hukum lainnya yang dimiliki Negara menjadi kekayaan yang dipisahkan mengikuti ketentuan peraturan perundang-undangan.
 
 ### Pasal 412
 

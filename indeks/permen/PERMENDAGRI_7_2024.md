@@ -564,9 +564,7 @@ a. mengikuti ketentuan jangka waktu yang diatur dalam Undang-Undang; atau
 
 b. paling lama 10 (sepuluh) tahun dalam hal jangka waktu tidak diatur dalam Undang-Undang dan dapat diperpanjang.
 
-(7) Jenis infrastruktur sebagaimana dimaksud pada ayat
-
-(3) huruf a berpedoman pada ketentuan peraturan perundang-undangan.
+(7) Jenis infrastruktur sebagaimana dimaksud pada ayat (3) huruf a berpedoman pada ketentuan peraturan perundang-undangan.
 
 (8) Kegiatan dengan karakteristik usaha sebagaimana dimaksud pada ayat (3) huruf b ditetapkan oleh gubernur/bupati/wali kota.
 
@@ -784,9 +782,7 @@ c. tidak ada perubahan pihak Penyewa; dan
 
 d. perubahan perjanjian Sewa yang ditandatangani para pihak yang terikat dalam perjanjian.
 
-(7) Kondisi bencana sebagaimana dimaksud pada ayat
-
-(4) dan ayat (5), penyewa mengajukan permohonan yang dilampiri:
+(7) Kondisi bencana sebagaimana dimaksud pada ayat (4) dan ayat (5), penyewa mengajukan permohonan yang dilampiri:
 
 a. surat pernyataan bahwa kegiatan usaha yang dilakukan terdampak atas kondisi bencana; dan
 
@@ -1016,9 +1012,7 @@ Pasal 145
 
 (2) Dalam hal Pengelola Barang menyetujui permohonan Sewa yang diajukan Pengguna Barang sebagaimana dimaksud dalam Pasal 140 ayat (5), Pengelola Barang menerbitkan surat persetujuan penyewaan Barang Milik Daerah.
 
-(3) Surat persetujuan sebagaimana dimaksud pada ayat
-
-(2) paling sedikit memuat:
+(3) Surat persetujuan sebagaimana dimaksud pada ayat (2) paling sedikit memuat:
 
 a. data Barang Milik Daerah yang akan disewakan;
 
@@ -1316,9 +1310,7 @@ c. terjadi ketidaksesuaian sebagaimana yang tertuang dalam klausul pada perjanji
 
 d. ketentuan lain sesuai peraturan perundang-undangan.
 
-(2) Pengakhiran KSP sebagaimana dimaksud pada ayat
-
-(1) huruf b, dapat dilakukan dalam hal mitra KSP:
+(2) Pengakhiran KSP sebagaimana dimaksud pada ayat (1) huruf b, dapat dilakukan dalam hal mitra KSP:
 
 a. tidak membayar kontribusi tetap selama 3 (tiga) tahun berturut-turut;
 
@@ -1328,9 +1320,7 @@ c. tidak melaksanakan pembangunan sebagaimana yang tertuang dalam perjanjian KSP
 
 d. tidak memenuhi kewajiban selain sebagaimana dimaksud pada huruf a, huruf b, dan huruf c sebagaimana tertuang dalam perjanjian KSP.
 
-(3) Pengakhiran KSP sebagaimana dimaksud pada ayat
-
-(2) dilakukan oleh gubernur/bupati/wali kota atau Pengelola Barang secara tertulis tanpa melalui pengadilan, setelah terlebih dahulu diberikan peringatan/pemberitahuan tertulis kepada mitra.
+(3) Pengakhiran KSP sebagaimana dimaksud pada ayat (2) dilakukan oleh gubernur/bupati/wali kota atau Pengelola Barang secara tertulis tanpa melalui pengadilan, setelah terlebih dahulu diberikan peringatan/pemberitahuan tertulis kepada mitra.
 
 (4) Dalam hal terjadi pengakhiran KSP sebagaimana dimaksud pada ayat (1) huruf b dan huruf c, gubernur/bupati/wali kota membentuk tim untuk melakukan evaluasi terhadap investasi dan kewajiban mitra KSP.
 
@@ -1398,9 +1388,7 @@ Pasal 209
 
 (3) Pemberian persetujuan sebagaimana dimaksud pada ayat (1) dilakukan oleh gubernur/bupati/wali kota dengan menerbitkan surat persetujuan.
 
-(4) Surat Persetujuan sebagaimana dimaksud pada ayat
-
-(3) paling sedikit memuat:
+(4) Surat Persetujuan sebagaimana dimaksud pada ayat (3) paling sedikit memuat:
 
 a. objek KSP;
 
@@ -1468,9 +1456,7 @@ c. melaksanakan kegiatan lain yang ditugaskan oleh gubernur/bupati/wali kota.
 
 Pasal 216
 
-(1) Penilai sebagaimana dimaksud dalam Pasal 214 ayat
-
-(4) huruf b bertugas melakukan penghitungan nilai Barang Milik Daerah yang akan dijadikan objek KSP, besaran kontribusi tetap, dan persentase pembagian keuntungan KSP.
+(1) Penilai sebagaimana dimaksud dalam Pasal 214 ayat (4) huruf b bertugas melakukan penghitungan nilai Barang Milik Daerah yang akan dijadikan objek KSP, besaran kontribusi tetap, dan persentase pembagian keuntungan KSP.
 
 (2) Penilai sebagaimana dimaksud pada ayat (1) menyampaikan laporan Penilaian yang merupakan hasil pelaksanaan tugas kepada gubernur/bupati/wali kota.
 
@@ -1790,9 +1776,7 @@ d. jangka waktu peminjaman; dan
 
 e. pernyataan kesediaan untuk mengembalikan dokumen asli kepemilikan Barang Milik Daerah sesuai jangka waktu peminjaman dan bertanggungjawab penuh selama jangka waktu
 
-(3) peminjaman. EN Dalam hal permohonan sebagaimana dimaksud ayat
-
-(1) disetujui, Pengurus Barang Pengelola dapat menyerahkan dokumen asli kepemilikan.
+(3) peminjaman. EN Dalam hal permohonan sebagaimana dimaksud ayat (1) disetujui, Pengurus Barang Pengelola dapat menyerahkan dokumen asli kepemilikan.
 
 (4) Penyerahan dokumen asli kepemilikan dituangkan dalam bentuk Berita Acara Serah Terima (BAST) peminjaman yang memuat paling sedikit:
 
@@ -1914,9 +1898,7 @@ b. kendaraan dinas jabatan; dan
 
 c. kendaraan dinas operasional.
 
-69. Ketentuan huruf b ayat (1) Pasal 326 diubah dan setelah ayat (4) Pasal 326 ditambahkan 1 (satu) ayat, yakni ayat
-
-(5) sehingga Pasal 326 berbunyi sebagai berikut:
+69. Ketentuan huruf b ayat (1) Pasal 326 diubah dan setelah ayat (4) Pasal 326 ditambahkan 1 (satu) ayat, yakni ayat (5) sehingga Pasal 326 berbunyi sebagai berikut:
 
 Pasal 326
 
@@ -1958,9 +1940,7 @@ Pasal 328
 
 (2) Kondisi tertentu sebagaimana dimaksud pada ayat (1) yakni perbedaan nilai material antara nilai tercatat Barang Milik Daerah dengan nilai wajarnya.
 
-(3) Penilaian kembali sebagaimana dimaksud pada ayat
-
-(1) merupakan proses revaluasi sesuai standar akuntansi pemerintahan yang metode penilaiannya dilaksanakan sesuai standar Penilaian.
+(3) Penilaian kembali sebagaimana dimaksud pada ayat (1) merupakan proses revaluasi sesuai standar akuntansi pemerintahan yang metode penilaiannya dilaksanakan sesuai standar Penilaian.
 
 (4) Penilaian kembali atas nilai Barang Milik Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -2040,13 +2020,9 @@ Pasal 337
 
 (2) Pemindahtanganan Barang Milik Daerah selain tanah dan/atau bangunan yang bernilai lebih dari Rp5.000.000.000,00 (lima miliar rupiah) dilakukan oleh Pengelola Barang setelah mendapat persetujuan DPRD.
 
-(3) Nilai sebagaimana dimaksud pada ayat (1) dan ayat
+(3) Nilai sebagaimana dimaksud pada ayat (1) dan ayat (2) merupakan nilai wajar atau nilai taksiran sebagaimana dimaksud dalam Pasal 327 ayat (4) untuk pemindahtanganan dalam bentuk Penjualan, Tukar Menukar dan Penyertaan Modal Pemerintah Daerah.
 
-(2) merupakan nilai wajar atau nilai taksiran sebagaimana dimaksud dalam Pasal 327 ayat (4) untuk pemindahtanganan dalam bentuk Penjualan, Tukar Menukar dan Penyertaan Modal Pemerintah Daerah.
-
-(4) Nilai sebagaimana dimaksud pada ayat (1) dan ayat
-
-(2) merupakan nilai perolehan untuk Pemindahtanganan dalam bentuk Hibah.
+(4) Nilai sebagaimana dimaksud pada ayat (1) dan ayat (2) merupakan nilai perolehan untuk Pemindahtanganan dalam bentuk Hibah.
 
 (5) Usul untuk memperoleh persetujuan DPRD sebagaimana dimaksud pada ayat (2) diajukan oleh gubernur/bupati/wali kota.
 
@@ -2364,9 +2340,7 @@ Pasal 370
 
 (1) Biaya yang telah dikeluarkan oleh Pemerintah Daerah untuk perbaikan kendaraan perorangan dinas yang akan dibeli dalam jangka waktu 1 (satu) tahun sebelum adanya persetujuan Penjualan, menjadi tanggungan pejabat negara, pimpinan DPRD, atau Pegawai ASN yang membeli kendaraan perorangan dinas tersebut dan harus dibayar sebagai tambahan
 
-(2) harga jual sebagaimana dimaksud dalam Pasal 365. Biaya yang telah dikeluarkan oleh Pemerintah Daerah untuk perbaikan sebagaimana dimaksud pada ayat
-
-(1) adalah biaya selain pemeliharaan rutin atas kendaraan perorangan dinas.
+(2) harga jual sebagaimana dimaksud dalam Pasal 365. Biaya yang telah dikeluarkan oleh Pemerintah Daerah untuk perbaikan sebagaimana dimaksud pada ayat (1) adalah biaya selain pemeliharaan rutin atas kendaraan perorangan dinas.
 
 89. Ketentuan Pasal 371 diubah sehingga berbunyi sebagai berikut:
 
@@ -2400,9 +2374,7 @@ b. mantan pejabat negara atau mantan pimpinan DPRD kepada gubernur/bupati/wali k
 
 c. Pegawai ASN kepada Pengguna Barang.
 
-(3) Surat permohonan sebagaimana dimaksud pada ayat
-
-(2) memuat antara lain:
+(3) Surat permohonan sebagaimana dimaksud pada ayat (2) memuat antara lain:
 
 a. data pribadi, berupa nama, jabatan, alamat, dan tempat/tanggal lahir; dan
 
@@ -2526,9 +2498,7 @@ c. pelaksanaan Hibah sebagaimana dimaksud huruf a dituangkan dalam suatu naskah 
 
 d. serah terima objek Hibah dan objek Tukar Menukar dilaksanakan dalam waktu bersamaan.
 
-(6) Selisih nilai lebih sebagaimana dimaksud pada ayat
-
-(5) huruf a berupa selisih nilai objek Tukar Menukar Barang Milik Daerah.
+(6) Selisih nilai lebih sebagaimana dimaksud pada ayat (5) huruf a berupa selisih nilai objek Tukar Menukar Barang Milik Daerah.
 
 95. Ketentuan ayat (2) dan ayat (6) Pasal 388 diubah sehingga Pasal 388 berbunyi sebagai berikut:
 
@@ -2634,17 +2604,13 @@ c. kesesuaian tujuan Penyertaan Modal Pemerintah Daerah sebagaimana dimaksud dal
 
 (5) Dalam hal berdasarkan hasil kajian sebagaimana dimaksud pada ayat (4), Penyertaan Modal Pemerintah Daerah layak dilaksanakan, calon penerima Penyertaan Modal Pemerintah Daerah menyampaikan surat pernyataan kesediaan menerima Penyertaan Modal Pemerintah Daerah yang berasal dari Barang Milik Daerah.
 
-(6) Tim menyampaikan dokumen hasil kajian sebagaimana dimaksud pada ayat (4) dan surat pernyataan kesediaan menerima Penyertaan Modal Pemerintah Daerah sebagaimana dimaksud pada ayat
-
-(5) kepada gubernur/bupati/wali kota.
+(6) Tim menyampaikan dokumen hasil kajian sebagaimana dimaksud pada ayat (4) dan surat pernyataan kesediaan menerima Penyertaan Modal Pemerintah Daerah sebagaimana dimaksud pada ayat (5) kepada gubernur/bupati/wali kota.
 
 100. Ketentuan Pasal 433 diubah sehingga berbunyi sebagai berikut:
 
 Pasal 433
 
-(1) Penghapusan Barang Milik Daerah yang sudah tidak berada dalam penguasaan Pengelola Barang, Pengguna Barang, dan/atau Kuasa Pengguna Barang sebagaimana dimaksud pada Pasal 432 ayat
-
-(1) dan ayat (2) disebabkan karena:
+(1) Penghapusan Barang Milik Daerah yang sudah tidak berada dalam penguasaan Pengelola Barang, Pengguna Barang, dan/atau Kuasa Pengguna Barang sebagaimana dimaksud pada Pasal 432 ayat (1) dan ayat (2) disebabkan karena:
 
 a. penyerahan Barang Milik Daerah;
 
@@ -2888,9 +2854,7 @@ a. penelitian kelayakan pertimbangan dan alasan permohonan Penghapusan;
 
 b. penelitian data administratif sedikitnya terhadap tahun perolehan, spesifikasi/identitas barang milik daerah, penetapan status Penggunaan, bukti kepemilikan untuk Barang Milik Daerah yang harus dilengkapi dengan bukti kepemilikan, nilai buku, dan/atau nilai perolehan; dan
 
-c. penelitian fisik untuk permohonan Penghapusan karena alasan sebagaimana dimaksud pada ayat
-
-(3) huruf b dan huruf c jika diperlukan.
+c. penelitian fisik untuk permohonan Penghapusan karena alasan sebagaimana dimaksud pada ayat (3) huruf b dan huruf c jika diperlukan.
 
 108. Di antara Pasal 471 dan Pasal 472 disisipkan 1 (satu) pasal, yakni Pasal 471A sehingga berbunyi sebagai berikut:
 
@@ -3268,9 +3232,7 @@ Pasal 500
 
 (3) Pembayaran harga Rumah Negara golongan III dapat dilaksanakan secara angsuran dan disetor ke kas umum daerah.
 
-(4) Apabila rumah yang dialihkan haknya terkena rencana tata ruang sebagaimana dimaksud pada ayat
-
-(1) pembayarannya dapat dilakukan secara tunai.
+(4) Apabila rumah yang dialihkan haknya terkena rencana tata ruang sebagaimana dimaksud pada ayat (1) pembayarannya dapat dilakukan secara tunai.
 
 (5) Pembayaran angsuran pertama ditetapkan paling sedikit 5% (lima persen) dari harga Rumah Negara golongan III dan dibayar penuh pada saat perjanjian Sewa beli ditandatangani, sedang sisanya diangsur dalam jangka waktu paling singkat 5 (lima) tahun dan paling lama 20 (dua puluh) tahun dan sesuai dengan ketentuan peraturan perundang-undangan.
 

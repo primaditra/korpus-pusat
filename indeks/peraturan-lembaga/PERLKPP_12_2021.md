@@ -129,9 +129,7 @@ PA/KPA dengan pertimbangan untuk mengatasi kekosongan hukum dan/atau stagnasi pe
 
 (1) Pelaksanaan Pengadaan Barang/Jasa Pemerintah melalui Penyedia dilakukan melalui aplikasi Sistem Pengadaan Secara Elektronik (SPSE) dan sistem pendukung.
 
-(2) Sistem Pengadaan Secara Elektronik (SPSE) dan sistem pendukung sebagaimana dimaksud pada ayat
-
-(1) terdiri atas:
+(2) Sistem Pengadaan Secara Elektronik (SPSE) dan sistem pendukung sebagaimana dimaksud pada ayat (1) terdiri atas:
 
 a. syarat dan ketentuan penggunaan SPSE dan sistem pendukung; dan
 

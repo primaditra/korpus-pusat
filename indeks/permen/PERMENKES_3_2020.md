@@ -137,29 +137,17 @@ b. badan hukum dengan tujuan profit yang berbentuk perseroan terbatas atau perse
 
 (2) Rumah Sakit statis sebagaimana dimaksud pada ayat (1) merupakan Rumah Sakit yang didirikan di suatu lokasi dan bersifat permanen untuk jangka waktu lama dalam menyelenggarakan pelayanan kesehatan perorangan secara paripurna yang menyediakan pelayanan rawat inap, rawat jalan, dan kegawatdaruratan.
 
-(3) Rumah Sakit bergerak sebagaimana dimaksud pada ayat
+(3) Rumah Sakit bergerak sebagaimana dimaksud pada ayat (1) merupakan Rumah Sakit yang siap guna dan bersifat sementara dalam jangka waktu tertentu dan dapat dipindahkan dari satu lokasi ke lokasi lain.
 
-(1) merupakan Rumah Sakit yang siap guna dan bersifat sementara dalam jangka waktu tertentu dan dapat dipindahkan dari satu lokasi ke lokasi lain.
+(4) Rumah Sakit bergerak sebagaimana dimaksud pada ayat (3) dapat berbentuk bus, pesawat, kapal laut, karavan, gerbong kereta api, atau kontainer.
 
-(4) Rumah Sakit bergerak sebagaimana dimaksud pada ayat
+(5) Rumah Sakit bergerak sebagaimana dimaksud pada ayat (3) difungsikan pada daerah tertinggal, perbatasan, kepulauan, daerah yang tidak mempunyai Rumah Sakit, dan/atau kondisi bencana dan situasi darurat lainnya.
 
-(3) dapat berbentuk bus, pesawat, kapal laut, karavan, gerbong kereta api, atau kontainer.
+(6) Rumah sakit bergerak sebagaimana dimaksud pada ayat (3) dalam memberikan pelayanan kesehatan harus melapor kepada kepala dinas kesehatan daerah kabupaten/kota tempat pelayanan kesehatan diberikan.
 
-(5) Rumah Sakit bergerak sebagaimana dimaksud pada ayat
+(7) Rumah Sakit lapangan sebagaimana dimaksud pada ayat (1) merupakan Rumah Sakit yang didirikan di lokasi tertentu dan bersifat sementara selama kondisi darurat dan masa tanggap darurat bencana, atau selama pelaksanaan kegiatan tertentu.
 
-(3) difungsikan pada daerah tertinggal, perbatasan, kepulauan, daerah yang tidak mempunyai Rumah Sakit, dan/atau kondisi bencana dan situasi darurat lainnya.
-
-(6) Rumah sakit bergerak sebagaimana dimaksud pada ayat
-
-(3) dalam memberikan pelayanan kesehatan harus melapor kepada kepala dinas kesehatan daerah kabupaten/kota tempat pelayanan kesehatan diberikan.
-
-(7) Rumah Sakit lapangan sebagaimana dimaksud pada ayat
-
-(1) merupakan Rumah Sakit yang didirikan di lokasi tertentu dan bersifat sementara selama kondisi darurat dan masa tanggap darurat bencana, atau selama pelaksanaan kegiatan tertentu.
-
-(8) Rumah Sakit lapangan sebagaimana dimaksud pada ayat
-
-(7) dapat berbentuk tenda, kontainer, atau bangunan permanen yang difungsikan sementara sebagai Rumah Sakit.
+(8) Rumah Sakit lapangan sebagaimana dimaksud pada ayat (7) dapat berbentuk tenda, kontainer, atau bangunan permanen yang difungsikan sementara sebagai Rumah Sakit.
 
 (9) Rumah sakit bergerak dan Rumah Sakit lapangan sebagaimana dimaksud pada ayat (3) dan ayat (7) diselenggarakan sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -261,9 +249,7 @@ m. tenaga nonkesehatan.
 
 (1) Rumah Sakit khusus sebagaimana dimaksud dalam Pasal 6 huruf b memberikan pelayanan utama pada satu bidang atau satu jenis penyakit tertentu berdasarkan disiplin ilmu, golongan umur, organ, jenis penyakit, atau kekhususan lainnya.
 
-(2) Rumah Sakit khusus sebagaimana dimaksud pada ayat
-
-(1) dapat menyelenggarakan pelayanan lain di luar kekhususannya.
+(2) Rumah Sakit khusus sebagaimana dimaksud pada ayat (1) dapat menyelenggarakan pelayanan lain di luar kekhususannya.
 
 (3) Pelayanan lain di luar kekhususannya sebagaimana dimaksud pada ayat (2) meliputi pelayanan rawat inap, rawat jalan, dan kegawatdaruratan.
 
@@ -321,9 +307,7 @@ c. pelayanan nonmedik.
 
 (3) Pelayanan keperawatan dan/atau kebidanan sebagaimana dimaksud pada ayat (1) huruf b meliputi asuhan keperawatan generalis, asuhan keperawatan spesialis, dan/atau asuhan kebidanan, sesuai kekhususannya.
 
-(4) Pelayanan nonmedik sebagaimana dimaksud pada ayat
-
-(1) huruf c meliputi pelayanan farmasi, pelayanan laundry/binatu, pengolahan makanan/gizi, pemeliharaan sarana prasarana dan alat kesehatan, informasi dan komunikasi, pemulasaran jenazah, dan pelayanan nonmedik lainnya.
+(4) Pelayanan nonmedik sebagaimana dimaksud pada ayat (1) huruf c meliputi pelayanan farmasi, pelayanan laundry/binatu, pengolahan makanan/gizi, pemeliharaan sarana prasarana dan alat kesehatan, informasi dan komunikasi, pemulasaran jenazah, dan pelayanan nonmedik lainnya.
 
 ### Pasal 15
 
@@ -431,13 +415,9 @@ Ketentuan lebih lanjut mengenai klasifikasi Rumah Sakit umum dan Rumah Sakit khu
 
 ### Pasal 25
 
-(1) Kefarmasian sebagaimana dimaksud dalam Pasal 21 ayat
+(1) Kefarmasian sebagaimana dimaksud dalam Pasal 21 ayat (2) merupakan pelayanan kefarmasian yang menjamin ketersediaan sediaan farmasi, alat kesehatan, dan bahan medis habis pakai yang aman, bermutu, bermanfaat, dan terjangkau.
 
-(2) merupakan pelayanan kefarmasian yang menjamin ketersediaan sediaan farmasi, alat kesehatan, dan bahan medis habis pakai yang aman, bermutu, bermanfaat, dan terjangkau.
-
-(2) Pelayanan kefarmasian sebagaimana dimaksud pada ayat
-
-(1) dilaksanakan di instalasi farmasi sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Pelayanan kefarmasian sebagaimana dimaksud pada ayat (1) dilaksanakan di instalasi farmasi sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 26
 
@@ -517,21 +497,15 @@ e. surat pernyataan yang mencantumkan komitmen jumlah tempat tidur untuk Rumah S
 
 (1) Pemilik Rumah Sakit harus mengajukan pendaftaran melalui sistem OSS untuk mendapatkan nomor induk berusaha.
 
-(2) Nomor induk berusaha sebagaimana dimaksud pada ayat
-
-(1) merupakan identitas berusaha dan digunakan oleh pemilik Rumah Sakit untuk mendapatkan Izin Mendirikan dan Izin Operasional.
+(2) Nomor induk berusaha sebagaimana dimaksud pada ayat (1) merupakan identitas berusaha dan digunakan oleh pemilik Rumah Sakit untuk mendapatkan Izin Mendirikan dan Izin Operasional.
 
 (3) Pemilik Rumah Sakit yang telah mendapatkan nomor induk berusaha sebagaimana dimaksud pada ayat (1) dapat diterbitkan Izin Mendirikan oleh Lembaga OSS.
 
 (4) Pemilik Rumah Sakit harus melakukan pemenuhan komitmen untuk mendapatkan Izin Mendirikan yang berlaku efektif.
 
-(5) Pemenuhan komitmen sebagaimana dimaksud pada ayat
+(5) Pemenuhan komitmen sebagaimana dimaksud pada ayat (4) dipenuhi paling lama 2 (dua) tahun.
 
-(4) dipenuhi paling lama 2 (dua) tahun.
-
-(6) Pemenuhan komitmen sebagaimana dimaksud pada ayat
-
-(4) dilakukan dengan menyampaikan persyaratan Izin Mendirikan sebagaimana dimaksud dalam Pasal 31 kepada Kementerian Kesehatan untuk Rumah Sakit kelas A dan penanaman modal asing, Pemerintah Daerah provinsi untuk Rumah Sakit kelas B, dan Pemerintah Daerah kabupaten/kota untuk Rumah Sakit kelas C dan kelas D.
+(6) Pemenuhan komitmen sebagaimana dimaksud pada ayat (4) dilakukan dengan menyampaikan persyaratan Izin Mendirikan sebagaimana dimaksud dalam Pasal 31 kepada Kementerian Kesehatan untuk Rumah Sakit kelas A dan penanaman modal asing, Pemerintah Daerah provinsi untuk Rumah Sakit kelas B, dan Pemerintah Daerah kabupaten/kota untuk Rumah Sakit kelas C dan kelas D.
 
 (7) Pemenuhan komitmen kepada Kementerian Kesehatan sebagaimana dimaksud pada ayat (6) dapat dilakukan melalui sistem perizinan online Kementerian Kesehatan.
 
@@ -551,9 +525,7 @@ e. surat pernyataan yang mencantumkan komitmen jumlah tempat tidur untuk Rumah S
 
 (15) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (14), Kementerian Kesehatan, Pemerintah Daerah provinsi, atau Pemerintah Daerah kabupaten/kota memberikan notifikasi persetujuan atau penolakan Izin Mendirikan kepada pemilik Rumah Sakit melalui sistem OSS.
 
-(16) Notifikasi persetujuan sebagaimana dimaksud pada ayat
-
-(15) merupakan pemenuhan komitmen Izin Mendirikan.
+(16) Notifikasi persetujuan sebagaimana dimaksud pada ayat (15) merupakan pemenuhan komitmen Izin Mendirikan.
 
 ### Pasal 34
 
@@ -583,9 +555,7 @@ c. Tim yang dibentuk oleh dinas kesehatan daerah kabupaten/kota, terdiri atas un
 
 (10) Berdasarkan hasil verifikasi dan visitasi sebagaimana dimaksud pada ayat (7), Kementerian Kesehatan, Pemerintah Daerah provinsi, atau Pemerintah Daerah kabupaten/kota mengeluarkan notifikasi persetujuan atau penolakan melalui sistem OSS paling lama 10 (sepuluh) hari sejak dilakukan visitasi.
 
-(11) Notifikasi persetujuan sebagaimana dimaksud pada ayat
-
-(10) merupakan pemenuhan komitmen Izin Operasional.
+(11) Notifikasi persetujuan sebagaimana dimaksud pada ayat (10) merupakan pemenuhan komitmen Izin Operasional.
 
 ### Pasal 35
 
@@ -689,9 +659,7 @@ c. jumlah tempat tidur perawatan intensif paling sedikit 8% (delapan persen) dar
 
 (1) Rumah Sakit milik Pemerintah Pusat dan Pemerintah Daerah dapat menyelenggarakan unit transfusi darah.
 
-(2) Unit transfusi darah sebagaimana dimaksud pada ayat
-
-(1) memiliki izin yang melekat dengan Izin Operasional.
+(2) Unit transfusi darah sebagaimana dimaksud pada ayat (1) memiliki izin yang melekat dengan Izin Operasional.
 
 (3) Penyelenggaraan unit transfusi darah sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan dan dilaksanakan sesuai dengan ketentuan peraturan-perundangan.
 
@@ -837,9 +805,7 @@ b. reviu kelas Rumah Sakit yang dilakukan berdasarkan laporan Badan Penyelenggar
 
 (1) Menteri, gubernur, bupati/wali kota dalam melaksanakan pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 55 dapat mengenakan tindakan administratif terhadap Rumah Sakit yang tidak menaati ketentuan dalam Peraturan Menteri ini.
 
-(2) Tindakan administratif sebagaimana dimaksud pada ayat
-
-(1) dapat berupa teguran lisan, teguran tertulis, penyesuaian Izin Operasional, pemberhentian sementara sebagian kegiatan Rumah Sakit, pencabutan izin praktik tenaga kesehatan, dan/atau pencabutan Izin Operasional.
+(2) Tindakan administratif sebagaimana dimaksud pada ayat (1) dapat berupa teguran lisan, teguran tertulis, penyesuaian Izin Operasional, pemberhentian sementara sebagian kegiatan Rumah Sakit, pencabutan izin praktik tenaga kesehatan, dan/atau pencabutan Izin Operasional.
 
 ## BAB VII - KETENTUAN PERALIHAN
 

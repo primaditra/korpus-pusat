@@ -271,9 +271,7 @@ b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang tel
 
 7. Ketentuan . . . SK No 254837 A jdih.lkpp.go.id s 165
 
-7. Ketentuan ayat (1) huruf i Pasal 11 diubah, di antara ayat
-
-(1) dan ayat (3) disisipkan 1 (satu) ayat yakni ayat (2a), dan ditambahkan 2 (dua) ayat yakni ayat (5) dan ayat (6), sehingga Pasal 11 berbunyi sebagai berikut:
+7. Ketentuan ayat (1) huruf i Pasal 11 diubah, di antara ayat (1) dan ayat (3) disisipkan 1 (satu) ayat yakni ayat (2a), dan ditambahkan 2 (dua) ayat yakni ayat (5) dan ayat (6), sehingga Pasal 11 berbunyi sebagai berikut:
 
 Pasal 11
 
@@ -427,9 +425,7 @@ Pasal 21
 
 (3) Kepala LKPP melaksanakan Konsolidasi Pengadaan Barang/Jasa secara nasional dan dapat menyerahkan tugas dan kewenangan kepada menteri/kepala lembaga.
 
-14. Ketentuan ayat (5) dan ayat (7) Pasal 26 diubah, serta ayat
-
-(8) dihapus, sehingga Pasal 26 berbunyi sebagai berikut:
+14. Ketentuan ayat (5) dan ayat (7) Pasal 26 diubah, serta ayat (8) dihapus, sehingga Pasal 26 berbunyi sebagai berikut:
 
 Pasal 26
 
@@ -503,11 +499,7 @@ b. putar kunci;
 
 c. modifikasi putar kunci; dan
 
-d. Kontrak berbasis kinerja. () Kontrak lumsum sebagaimana dimaksud pada ayat
-
-(1) huruf a, ayat (2) huruf a, ayat (3) huruf a, dan ayat
-
-(4) huruf a merupakan Kontrak dengan ruang lingkup pekerjaan dan jumlah harga yang pasti dan tetap dalam batas waktu tertentu, dengan ketentuan sebagai berikut: risiko ditanggung oleh Penyedia; berorientasi kepada keluaran; dan
+d. Kontrak berbasis kinerja. () Kontrak lumsum sebagaimana dimaksud pada ayat (1) huruf a, ayat (2) huruf a, ayat (3) huruf a, dan ayat (4) huruf a merupakan Kontrak dengan ruang lingkup pekerjaan dan jumlah harga yang pasti dan tetap dalam batas waktu tertentu, dengan ketentuan sebagai berikut: risiko ditanggung oleh Penyedia; berorientasi kepada keluaran; dan
 
 c. pembayaran didasarkan pada tahapan Produk/keluaran yang dihasilkan sesuai dengan Kontrak. X
 
@@ -517,9 +509,7 @@ a. volume atau kuantitas pekerjaannya masih bersifat perkiraan pada saat Kontrak
 
 b. pembayaran berdasarkan hasil pengukuran bersama atas realisasi volume pekerjaan; dan
 
-c. nilai akhir Kontrak ditetapkan setelah seluruh pekerjaan diselesaikan. @) Kontrak gabungan lumsum dan harga satuan sebagaimana dimaksud pada ayat (1) huruf c dan ayat
-
-(2) huruf c merupakan Kontrak Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya gabungan lumsum dan harga satuan dalam 1 (satu) pekerjaan yang diperjanjikan.
+c. nilai akhir Kontrak ditetapkan setelah seluruh pekerjaan diselesaikan. @) Kontrak gabungan lumsum dan harga satuan sebagaimana dimaksud pada ayat (1) huruf c dan ayat (2) huruf c merupakan Kontrak Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya gabungan lumsum dan harga satuan dalam 1 (satu) pekerjaan yang diperjanjikan.
 
 (8) Kontrak payung sebagaimana dimaksud pada ayat (1) huruf d, ayat (2) huruf g, dan ayat (3) huruf c dapat berupa Kontrak harga satuan dalam periode waktu tertentu untuk:
 
@@ -553,9 +543,7 @@ b. pekerjaan yang penyelesaiannya lebih dari 1 (satu) tahun anggaran; atau
 
 c. pekerjaan yang memberikan manfaat lebih apabila dikontrakkan untuk jangka waktu lebih dari 1 (satu) tahun anggaran dan paling lama 3 (tiga) tahun anggaran.
 
-16. Ketentuan huruf e ayat (1) diubah, ayat (4), ayat (5), dan ayat (6) Pasal 28 diubah, serta di antara ayat (6) dan ayat
-
-(7) disisipkan 1 (satu) ayat yakni ayat (6a), sehingga Pasal 28 berbunyi sebagai berikut:
+16. Ketentuan huruf e ayat (1) diubah, ayat (4), ayat (5), dan ayat (6) Pasal 28 diubah, serta di antara ayat (6) dan ayat (7) disisipkan 1 (satu) ayat yakni ayat (6a), sehingga Pasal 28 berbunyi sebagai berikut:
 
 Pasal 28
 
@@ -869,9 +857,7 @@ g. penetapan dan pengumuman pemenang; dan
 
 h. sanggah.
 
-(2) Selain ketentuan sebagaimana dimaksud pada ayat
-
-(1) untuk pelaksanaan pemilihan Pekerjaan Konstruksi ditambahkan tahapan sanggah banding.
+(2) Selain ketentuan sebagaimana dimaksud pada ayat (1) untuk pelaksanaan pemilihan Pekerjaan Konstruksi ditambahkan tahapan sanggah banding.
 
 (3) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat (1), untuk Seleksi Jasa Konsultansi dilakukan Klarifikasi dan negosiasi terhadap penawaran teknis dan biaya setelah masa sanggah selesai.
 
@@ -1025,9 +1011,7 @@ e. pemberian bantuan kemanusiaan kepada daerah di Indonesia atau negara lain yan
 
 (3) Penetapan keadaan darurat sebagaimana dimaksud pada ayat (2) huruf a dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
-(4) Keadaan darurat sebagaimana dimaksud pada ayat
-
-(2) huruf a meliputi siaga darurat, tanggap darurat, dan transisi darurat ke pemulihan.
+(4) Keadaan darurat sebagaimana dimaksud pada ayat (2) huruf a meliputi siaga darurat, tanggap darurat, dan transisi darurat ke pemulihan.
 
 (5) Untuk penanganan keadaan darurat sebagaimana dimaksud pada ayat (2), PPK menunjuk Penyedia terdekat yang sedang melaksanakan Pengadaan Barang/Jasa sejenis atau Pelaku Usaha lain yang dinilai mampu dan memenuhi kualifikasi untuk melaksanakan Pengadaan Barang/Jasa sejenis.
 
@@ -1117,9 +1101,7 @@ Pasal 64A
 
 (1) Pengadaan Barang/Jasa desa dilaksanakan untuk meningkatkan pertumbuhan ekonomi desa sesuai dengan kewenangan desa.
 
-(2) Kewenangan desa sebagaimana dimaksud pada ayat
-
-(1) mengutamakan Penyedia di desa setempat dan penggunaan material yang ada di desa.
+(2) Kewenangan desa sebagaimana dimaksud pada ayat (1) mengutamakan Penyedia di desa setempat dan penggunaan material yang ada di desa.
 
 Pasal 64B
 
@@ -1249,13 +1231,9 @@ b. dituangkan dalam spesifikasi teknis dengan menggunakan Produk Ramah Lingkunga
 
 (2c) Aspek ekonomi sebagaimana dimaksud pada ayat (2) meliputi penerapan/pencapaian value for money, pemberdayaan Usaha Mikro dan Usaha Kecil serta koperasi, dan pemberdayaan Produk Dalam Negeri.
 
-(2d) Aspek institusional sebagaimana dimaksud pada ayat
+(2d) Aspek institusional sebagaimana dimaksud pada ayat (2) meliputi tata kelola perusahaan yang baik (good corporate governance), etika bisnis, dan persaingan usaha yang sehat.
 
-(2) meliputi tata kelola perusahaan yang baik (good corporate governance), etika bisnis, dan persaingan usaha yang sehat.
-
-(2e) Pemenuhan aspek lingkungan, aspek sosial, aspek ekonomi, dan/atau aspek institusional sebagaimana dimaksud pada ayat (2a), ayat (2b), ayat (2c), dan ayat
-
-(2d) dituangkan dalam dokumen pengadaan.
+(2e) Pemenuhan aspek lingkungan, aspek sosial, aspek ekonomi, dan/atau aspek institusional sebagaimana dimaksud pada ayat (2a), ayat (2b), ayat (2c), dan ayat (2d) dituangkan dalam dokumen pengadaan.
 
 (3) Pengadaan Berkelanjutan dilaksanakan oleh:
 
@@ -1393,13 +1371,9 @@ c. Aparatur Sipil Negara selain huruf a dan huruf b.
 
 a. sumber daya pengelola fungsi Pengadaan Barang/Jasa dilakukan oleh prajurit Tentara Nasional Indonesia dan anggota Kepolisian Negara Republik Indonesia; atau
 
-b. sumber daya pengelola fungsi Pengadaan Barang/Jasa dilakukan oleh pegawai Lembaga lainnya yang ditetapkan oleh Kepala LKPP. (5) Dalam hal pengecualian sebagaimana dimaksud pada ayat (4), pengelolaan Pengadaan Barang/Jasa dilakukan oleh Personel Lainnya sebagaimana dimaksud pada ayat (1) huruf b. (5a) Personel Lainnya sebagaimana dimaksud pada ayat
+b. sumber daya pengelola fungsi Pengadaan Barang/Jasa dilakukan oleh pegawai Lembaga lainnya yang ditetapkan oleh Kepala LKPP. (5) Dalam hal pengecualian sebagaimana dimaksud pada ayat (4), pengelolaan Pengadaan Barang/Jasa dilakukan oleh Personel Lainnya sebagaimana dimaksud pada ayat (1) huruf b. (5a) Personel Lainnya sebagaimana dimaksud pada ayat (5) dapat ditugaskan sebagai Pejabat Pengadaan dan/atau PPK, membantu tugas PA/KPA dalam perencanaan, pengelolaan Kontrak, dan serah terima, melaksanakan persiapan pencantuman Barang/jasa dalam katalog elektronik, dan ditugaskan sebagai sumber daya pendukung ekosistem Pengadaan Barang/Jasa.
 
-(5) dapat ditugaskan sebagai Pejabat Pengadaan dan/atau PPK, membantu tugas PA/KPA dalam perencanaan, pengelolaan Kontrak, dan serah terima, melaksanakan persiapan pencantuman Barang/jasa dalam katalog elektronik, dan ditugaskan sebagai sumber daya pendukung ekosistem Pengadaan Barang/Jasa.
-
-(6) Personel Lainnya sebagaimana dimaksud pada ayat
-
-(5) wajib memiliki Sertifikat Kompetensi di bidang Pengadaan Barang/Jasa. @) Dalam hal Personel Lainnya belum memiliki Sertifikat Kompetensi di bidang Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (6) wajib memiliki sertifikat Pengadaan Barang/Jasa tingkat dasar/level-1.
+(6) Personel Lainnya sebagaimana dimaksud pada ayat (5) wajib memiliki Sertifikat Kompetensi di bidang Pengadaan Barang/Jasa. @) Dalam hal Personel Lainnya belum memiliki Sertifikat Kompetensi di bidang Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (6) wajib memiliki sertifikat Pengadaan Barang/Jasa tingkat dasar/level-1.
 
 (8) Pengelola Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf a berkedudukan di UKPBJ.
 
@@ -1449,9 +1423,7 @@ b. pelaksanaan. .. SK No 254786 A jdih.lkpp.go.id X s 6T
 
 b. pelaksanaan tugas Pejabat Pengadaan yang tidak dapat dilakukan oleh Personel Lainnya yang memiliki Sertifikat Kompetensi, dilakukan oleh Personel Lainnya yang memiliki sertifikat keahlian tingkat dasar/level-1 di bidang Pengadaan Barang/Jasa.
 
-(4) Ketentuan lebih lanjut mengenai rencana aksi pemenuhan Pengelola Pengadaan Barang/Jasa dan Personel Lainnya sebagaimana dimaksud pada ayat
-
-(1) dan ayat (3a) diatur dalam Peraturan Kepala Lembaga. S0. Ketentuan ayat (1), ayat (5), dan ayat (7) Pasal 75 diubah, di antara ayat (1) dan ayat (2) disisipkan 2 (dua) ayat yakni ayat (1a) dan ayat (1b), di antara ayat (3a) dan ayat (4) disisipkan 1 (satu) ayat yakni ayat (3b), serta ditambahkan 1 (satu) ayat yakni ayat (8), sehingga Pasal 75 berbunyi sebagai berikut:
+(4) Ketentuan lebih lanjut mengenai rencana aksi pemenuhan Pengelola Pengadaan Barang/Jasa dan Personel Lainnya sebagaimana dimaksud pada ayat (1) dan ayat (3a) diatur dalam Peraturan Kepala Lembaga. S0. Ketentuan ayat (1), ayat (5), dan ayat (7) Pasal 75 diubah, di antara ayat (1) dan ayat (2) disisipkan 2 (dua) ayat yakni ayat (1a) dan ayat (1b), di antara ayat (3a) dan ayat (4) disisipkan 1 (satu) ayat yakni ayat (3b), serta ditambahkan 1 (satu) ayat yakni ayat (8), sehingga Pasal 75 berbunyi sebagai berikut:
 
 Pasal 75
 
@@ -1547,9 +1519,7 @@ d. sanksi ganti kerugian; dan/atau
 
 e. sanksi denda.
 
-(4a) Pengenaan sanksi sebagaimana dimaksud pada ayat
-
-(4) dikenakan pada perorangan, badan usaha, dan/atau pengurus badan usaha.
+(4a) Pengenaan sanksi sebagaimana dimaksud pada ayat (4) dikenakan pada perorangan, badan usaha, dan/atau pengurus badan usaha.
 
 (4b) Ketentuan lebih lanjut mengenai sanksi sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dalam Peraturan Kepala Lembaga.
 
@@ -1579,9 +1549,7 @@ a. pemberian surat peringatan;
 
 b. penghentian dalam sistem transaksi E-purchasing; atau C. penurunan pencantuman Penyedia.
 
-(4) Pengenaan sanksi sebagaimana dimaksud pada ayat
-
-(3) dikenakan pada perorangan, badan usaha, dan/atau pengurus badan usaha.
+(4) Pengenaan sanksi sebagaimana dimaksud pada ayat (3) dikenakan pada perorangan, badan usaha, dan/atau pengurus badan usaha.
 
 (5) Ketentuan lebih lanjut mengenai sanksi sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dalam Peraturan Kepala Lembaga.
 

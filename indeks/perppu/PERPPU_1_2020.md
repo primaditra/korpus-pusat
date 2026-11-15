@@ -297,9 +297,7 @@ b. menghadapi ancaman yang membahayakan perekonomian nasional dan/atau stabilita
 
 (5) Penempatan dana dan/atau investasi Pemerintah sebagaimana dimaksud pada ayat (3) dapat dilakukan langsung oleh Pemerintah dan/atau melalui lembaga keuangan, manajer investasi, dan/atau lembaga lain yang ditunjuk.
 
-(6) Skema penjaminan sebagaimana dimaksud pada ayat
-
-(3) dapat dijalankan oleh langsung oleh Pemerintah dan/atau melalui satu atau beberapa badan usaha penjaminan yang ditunjuk.
+(6) Skema penjaminan sebagaimana dimaksud pada ayat (3) dapat dijalankan oleh langsung oleh Pemerintah dan/atau melalui satu atau beberapa badan usaha penjaminan yang ditunjuk.
 
 (7) Pelaksanaan program pemulihan ekonomi nasional diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -333,9 +331,7 @@ a. menyelenggarakan rapat melalui tatap muka atau melalui pemanfaaan teknologi i
 
 b. menetapkan skema pemberian dukungan oleh Pemerintah untuk penanganan permasalahan lembaga jasa keuangan dan stabilitas sistem keuangan yang membahayakan perekonomian nasional.
 
-(2) Apabila dalam rapat sebagaimana dimaksud pada ayat
-
-(1) huruf a dilakukan melalui pemanfaatan teknologi informasi, pendapat setiap anggota KSSK, pengambilan keputusan, dan keputusan KSSK disampaikan dalam rapat secara lisan dan direkam, serta keputusan rapat diparaf dan/atau ditandatangani kemudian oleh anggota KSSK dan mengikat seluruh anggota KSSK.
+(2) Apabila dalam rapat sebagaimana dimaksud pada ayat (1) huruf a dilakukan melalui pemanfaatan teknologi informasi, pendapat setiap anggota KSSK, pengambilan keputusan, dan keputusan KSSK disampaikan dalam rapat secara lisan dan direkam, serta keputusan rapat diparaf dan/atau ditandatangani kemudian oleh anggota KSSK dan mengikat seluruh anggota KSSK.
 
 (3) Ketentuan lebih lanjut mengenai skema pemberian dukungan sebagaimana dimaksud pada ayat (1) huruf b diatur dengan Peraturan Pemerintah.
 

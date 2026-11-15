@@ -428,9 +428,7 @@ a. I-umsum; dan
 
 b. Waktu Penugasan.
 
-(5) Kontrak Lumsum .sebagaimana dimaksud pada ayat
-
-(1) huruf a, ayat (2) huruf a, ayat (3) huruf a, dan ayat (a) huruf a merupakan Kontrak dengan ru.ang lingkup pekerjaan dan jumlah harga yang pasti dan tetap dalam batas waktu tertentu, dengan ketentuan sebagai berikut:
+(5) Kontrak Lumsum .sebagaimana dimaksud pada ayat (1) huruf a, ayat (2) huruf a, ayat (3) huruf a, dan ayat (a) huruf a merupakan Kontrak dengan ru.ang lingkup pekerjaan dan jumlah harga yang pasti dan tetap dalam batas waktu tertentu, dengan ketentuan sebagai berikut:
 
 a. ser:ua risiko sepenuhnya ditanggung oleh Penyedia;
 
@@ -446,9 +444,7 @@ b. pembaya-ran berdasarkan hasil pengukuran bersama atas realisasi volume pekerj
 
 c. nilai akhir Kontrak ditetapkan setelah seluruh pekerjaan diselesaikan.
 
-(7) Kontrak Gabungan Lumsum dan Harga Satuan sebagaimana dimaksud pada ayat (1)huruf c dan ayat
-
-(2) huruf c merupakan Kontrak Pengadaan Barang/Pekerjaan Konstruksi/jasa Lainnya gabungan Lumsum dan Harga Satuan dalam 1 (satu) pekerj aan yang diperjanjikan.
+(7) Kontrak Gabungan Lumsum dan Harga Satuan sebagaimana dimaksud pada ayat (1)huruf c dan ayat (2) huruf c merupakan Kontrak Pengadaan Barang/Pekerjaan Konstruksi/jasa Lainnya gabungan Lumsum dan Harga Satuan dalam 1 (satu) pekerj aan yang diperjanjikan.
 
 (8) I(ontrak Payung sebagaimana dimaksud pada ayat (1) huruf d dan ayat (3) huruf c dapat berupa kontrak harga satuan dalam periode waktu tertentu untuk barang/jasa yang belum dapat ditentukan volume dan/atau waktu pengirimannya pada saat Kontrak ditandata:rgani.
 
@@ -524,9 +520,7 @@ e. Jaminan Pemeliharaan.
 
 (3) Jaminan sebagaimana dimaksud pada ayat (1) dapat berupa bank garansi atau surety bond.
 
-(4) Bentuk Jaminan sebagaimana dimaksud pada ayat
-
-(3) bersifat:
+(4) Bentuk Jaminan sebagaimana dimaksud pada ayat (3) bersifat:
 
 a. tida.k bersyarat;
 
@@ -702,9 +696,7 @@ f. Evaluasi Dckumen Penawaran;
 
 g. Penetapan dan Pengumuman Pemenang; dan
 
-h. Sanggah. (21 Selain ketentuan sebagaimana dimaksud pada ayat
-
-(1) untuk pelaksanaan pemilihan Pekerjaan Konstruksi ditambahkan tahapan Sanggah Banding.
+h. Sanggah. (21 Selain ketentuan sebagaimana dimaksud pada ayat (1) untuk pelaksanaan pemilihan Pekerjaan Konstruksi ditambahkan tahapan Sanggah Banding.
 
 (3) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat (1), untuk Seleksi Jasa Konsultansi dilakukan klarifikasi dan negosiasi terhadap penawaran teknis dan biaya setelah masa sanggah selesai.
 
@@ -900,9 +892,7 @@ f. dalam hal terdapat2 (dua) atau lebih penawaran dengan HEA terendah yang sama,
 
 (1) Katalog elektronik dapat berupa katalog elektronik nasional, katalog elektronik sektoral, dan katalog elektronik lokal.
 
-(2) Katalog elektronik sebagaimana dimaksud pada ayat
-
-(1) memuat informasi berupa daftar, jenis, spesifikasi teknis, TKDN, produk dalam negeri, produk SNI, produk ramah lingkungan hidup, negara asal, harga, Penyedia, dan informasi lainnya terkait barang/jasa.
+(2) Katalog elektronik sebagaimana dimaksud pada ayat (1) memuat informasi berupa daftar, jenis, spesifikasi teknis, TKDN, produk dalam negeri, produk SNI, produk ramah lingkungan hidup, negara asal, harga, Penyedia, dan informasi lainnya terkait barang/jasa.
 
 (3) Pengelolaan katalog elektronik dilaksanakan oleh Kementerian/Lembaga/Pemerintah Daerah atau LKPP. (41 Dihapus.
 
@@ -962,9 +952,7 @@ b. Sumber Daya Pengelola Fungsi Pengadaan Barang/Jasa dilakukan oleh prajurit 'T
 
 (5) Dalam hal pengecualian sebagaimana dimaksud pada ayat (41, pengelolaan pengadaan Barang/Jasa dilakukan oleh Personel Lainnya sebagaimana dimaksud pada ayat (1) hu;rrf b.
 
-(6) Personel Lainnya sebagaimane. di ksud pada ayat
-
-(5) u,ajib memiliki sertifikat kcmpetensi di bidang Pengadaan Barang/Jasa.
+(6) Personel Lainnya sebagaimane. di ksud pada ayat (5) u,ajib memiliki sertifikat kcmpetensi di bidang Pengadaan Barang/Jasa.
 
 (7) Dalam hal Personel Lainnya belum memiliki sertifikat kompetensi di bidang Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (6) wajib memiliki sertifikat Pengadaan Barang/Jasa tingkat dasar/level- 1.
 
@@ -1116,9 +1104,7 @@ c. ayat (2) atas pelanggaran surat pesanan dikenakan sanksi penghentian sementar
 
 d. ayat (21 atas pelanggaran Kontrak pada katalog elektronik dikenakan sanksi penurunan pencantuman Penyedia dari katalog elektronik selama 1 (satu) tahun.
 
-(5) Pengenaan sanksi sebagaimana dimaksud pada ayat
-
-(4) ditetapkan oleh Kementerian/Lembaga/Perangkat Daerah atas usulan Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan dan/atau PPK.
+(5) Pengenaan sanksi sebagaimana dimaksud pada ayat (4) ditetapkan oleh Kementerian/Lembaga/Perangkat Daerah atas usulan Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan dan/atau PPK.
 
 36. Ketentuan ayat (1) dan ayat (3) Pasal 82 diubah, sehingga Pasal 82 berbunyi sebagai berikut:
 
