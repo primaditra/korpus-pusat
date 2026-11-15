@@ -30,6 +30,25 @@ Jenis yang diterima:
 
 Jenis di luar daftar ini tidak dimasukkan tanpa persetujuan pemilik korpus.
 
+## Google Drive
+
+Naskah PDF disimpan di Google Drive akun khusus, di bawah folder induk `Peraturan/`:
+
+```
+Peraturan/
+├── Kotak-Masuk/              PDF yang belum diproses, nama file bebas (pusat maupun daerah)
+│   └── duplikat/             PDF duplikat dari Kotak-Masuk; tidak dipindai, dikosongkan pemilik korpus secara berkala
+├── Korpus-Pusat/naskah/<jenis>/<ID>.pdf
+└── Korpus-Daerah/<provinsi>/<entitas>/<ID>.pdf
+```
+
+- Kotak-Masuk bukan bagian korpus dan tidak dicatat di katalog. Identitas naskah dibaca dari isi PDF, bukan dari nama file.
+- PDF yang sudah terindeks dipindah dari Kotak-Masuk ke folder korpusnya dengan nama `<ID>.pdf`.
+- PDF di Kotak-Masuk yang ID-nya sudah ada di katalog dipindah ke `Kotak-Masuk/duplikat/` dengan nama asli, bila korpus sudah memiliki PDF atau tautan sumber resmi. Bila salinan itu satu-satunya PDF, ia diproses sebagai PDF korpus. Bila versinya berbeda atau mutunya lebih baik dari yang terindeks, ia dibiarkan di Kotak-Masuk dan dicantumkan di daftar perlu dicek.
+- File yang bukan peraturan atau tidak terbaca dibiarkan di Kotak-Masuk dan dicantumkan di daftar perlu dicek.
+- PDF wajib disimpan hanya untuk naskah yang tidak tersedia di sumber resmi daring.
+- File di Drive tidak dihapus.
+
 ## Konvensi penamaan
 
 - ID peraturan sekaligus menjadi nama file: `<ID>.md` di repositori, `<ID>.pdf` di Google Drive.
@@ -94,7 +113,7 @@ sumber_teks: teks-digital | ocr
 
 ## Pemeriksaan otomatis dan status_review
 
-Setiap naskah yang masuk melewati enam pemeriksaan: (1) identitas, (2) naskah final, (3) mutu OCR, (4) urutan pasal, (5) duplikat, (6) masa berlaku.
+Setiap naskah yang masuk melewati enam pemeriksaan: (1) identitas, (2) naskah final, (3) mutu OCR, (4) urutan pasal, (5) duplikat, (6) masa berlaku. Pada pemeriksaan identitas, nama file hanya dicocokkan bila sudah berpola `<ID>.pdf`; nama bebas dari Kotak-Masuk tidak dinilai.
 
 - Semua lulus: `lolos-otomatis`.
 - Ada yang gagal: `perlu-dicek`; `catatan_cek` memuat nomor pemeriksaan yang gagal dan alasannya.
@@ -106,7 +125,7 @@ Kolom: `tag`, `definisi`. Tag ditulis huruf kecil dengan tanda hubung. Tag baru 
 
 ## Laporan
 
-`laporan/AAAA-BB.md` berisi lima bagian tetap: naskah masuk, perubahan status, perlu dicek, usulan tag baru, dan kendala akses. Laporan bulan yang sama diperbarui dengan menambah, bukan menimpa.
+`laporan/AAAA-BB.md` berisi enam bagian tetap: naskah masuk, perubahan status, perlu dicek, usulan tag baru, kendala akses, dan duplikat dipindah. Laporan bulan yang sama diperbarui dengan menambah, bukan menimpa.
 
 ## Pesan commit
 
