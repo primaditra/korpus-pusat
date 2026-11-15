@@ -29394,7 +29394,7 @@ Jenis izin lainnya disesuaikan dengan bidang usaha yang dipersyaratkan dalam LDK
 1. Diisi dengan jenis izin, nomor dan tanggal penerbitannya.
 2. Diisi dengan masa berlaku izin.
 3. Diisi dengan nama instansi penerbit izin.
-Paraf 1 Paraf 2 Paraf 3
+
 F. Data Keuangan
 1. Diisi dengan nama, nomor Kartu Tanda Penduduk (KTP)/Paspor/Surat Keterangan
 Domisili Tinggal, alamat pemilik saham/persero, dan persentase kepemilikan
@@ -44225,7 +44225,7 @@ Penunjukan Langsung telah terkualifikasi dalam SIKaP,
 maka Pelaku Usaha tersebut dapat langsung diundang
 untuk menyampaikan Penawaran tanpa melalui proses
 Prakualifikasi.
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 ii
@@ -44239,7 +44239,7 @@ Kelompok Kerja Pemilihan : __________
 Kementerian/Lembaga/Pemerintah Daerah : __________________
 Tahun Anggaran: __________
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 DAFTAR ISI
 BAB I. UMUM ................................................................................................................................. 1
@@ -44284,7 +44284,7 @@ PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI PESERTA PERORANGAN ...............
 BAB VIII. TATA CARA EVALUASI KUALIFIKASI...................................................................... - 29 -
 BAB IX. SURAT PERJANJIAN KEMITRAAN............................................................................. - 30 -
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB I. UMUM
 A. Dokumen Kualifikasi ini disusun berdasarkan Peraturan Presiden Republik Indonesia
@@ -44324,12 +44324,12 @@ SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara Elektronik
 (SPSE) berbasis web yang dapat diakses melalui website unit kerja
 yang melaksanakan fungsi layanan pengadaan secara elektronik.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 D. Penunjukan Langsung dengan Prakualifikasi ini dikuti oleh peserta berbentuk badan usaha
 atau perorangan yang diundang.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB II. UNDANGAN PRAKUALIFIKASI PENUNJUKAN LANGSUNG
 CONTOH
@@ -44361,7 +44361,7 @@ Demikian disampaikan, atas perhatian dan kerjasama Saudara diucapkan terima kasi
 ...................................................
 [nama lengkap]
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
@@ -44404,7 +44404,7 @@ dengan Kualifikasi usaha nonkecil;
 b. Peserta Kemitraan memiliki Kualifikasi usaha nonkecil
 dengan Kualifikasi usaha kecil;
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 c. Peserta Kemitraan memiliki Kualifikasi usaha nonkecil
 dengan koperasi;
@@ -44457,7 +44457,7 @@ kualifikasi
 8. Biaya 8.1 Peserta menanggung semua biaya dalam penyiapan dan
 kualifikasi penyampaian data kualifikasi ini.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 8.2 Pokja Pemilihan tidak bertanggungjawab dan tidak menanggung
 kerugian apapun yang dialami oleh Peserta.
@@ -44504,7 +44504,7 @@ kebutuhan penambahan waktu penyiapan data kualifikasi maka
 Pokja Pemilihan memperpanjang batas akhir penyampaian data
 kualifikasi.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 C. PENYIAPAN DATA KUALIFIKASI
 13. Bentuk Data 13.1 Data Kualifikasi yang disampaikan oleh peserta berupa Data
@@ -44557,7 +44557,7 @@ D. PENYAMPAIAN DATA KUALIFIKASI
 Data Kualifikasi elektronik kualifikasi yang tersedia pada SPSE sesuai jadwal yang
 ditetapkan dalam LDK.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 16.2 Pokja Pemilihan tidak diperkenankan mengubah waktu batas
 akhir atau memberikan perpanjangan waktu penyampaian Data
@@ -44604,7 +44604,7 @@ Kualifikasi kualifikasi.
 20.2 Pelaksanaan pembuktian kualifikasi dilakukan secara daring,
 dengan langkah-langkah sebagai berikut:
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 a. Peserta Pemilihan/Calon pemenang mengirimkan foto
 dokumen asli yang diperlukan secara elektronik kepada akun
@@ -44634,7 +44634,7 @@ Kualifikasi
 Hasil
 Kualifikasi
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB IV. LEMBAR DATA KUALIFIKASI (LDK)
 Catatan dalam pengisian lembar data kualifikasi (LDK)
@@ -44646,7 +44646,7 @@ Pemilihan harus mengisi informasi dalam LDK ini yang
 terkait Instruksi Kepada Peserta (IKP). Semua informasi harus
 diisi tanpa ada isian yang dikosongkan.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 LEMBAR DATA KUALIFIKASI (LDK)
 A. UMUM
@@ -44689,7 +44689,7 @@ kecil), atau non kecil (menengah dan besar)].
 2. Memiliki status valid keterangan Wajib Pajak berdasarkan hasil Konfirmasi Status
 Wajib Pajak.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 3. Mempunyai atau menguasai tempat usaha/kantor dengan alamat yang benar,
 tetap dan jelas berupa milik sendiri atau sewa.
@@ -44740,7 +44740,7 @@ kegiatan/usaha.
 2) memiliki identitas kewarganegaraan Indonesia seperti Kartu Tanda Penduduk
 (KTP)/ Paspor/Surat Keterangan Domisili Tempat Tinggal.
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 3) mempunyai status valid keterangan Wajib Pajak berdasarkan hasil konfirmasi
 status Wajib Pajak
@@ -44794,7 +44794,7 @@ paling kurang sama dengan 50%
 (lima puluh persen) nilai
 HPS/Pagu Anggaran;
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 d) untuk usaha kecil/koperasi yang
 mengikuti paket pengadaan
@@ -44843,7 +44843,7 @@ Hari: _______
 Tanggal : _______
 Waktu :__________
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB V. PAKTA INTEGRITAS
 [Contoh Pakta Integritas Badan Usaha]
@@ -44868,7 +44868,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 ____________
 [jabatan]
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Barang
 [Contoh Pakta Integritas Perorangan]
 PAKTA INTEGRITAS
@@ -44891,7 +44891,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [tanda tangan] ,
 ____________
 [nama lengkap]
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB VI. FORMULIR ISIAN KUALIFIKASI
@@ -44929,7 +44929,7 @@ No. Telepon : __________
 3.
 No. Fax : __________
 E-Mail : __________
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 Alamat Kantor Cabang : __________
@@ -44971,7 +44971,7 @@ Penduduk
 (KTP)/Paspor/Surat
 Keterangan Domisili
 Tinggal
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 D. Izin Usaha
@@ -45010,7 +45010,7 @@ No Nama dalam Sertifikat/
 lahir Pendidikan Kerja (tahun) keahlian
 pekerjaan Ijazah
 1 2 3 4 5 6 7 8
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 H. Data Fasilitas/Peralatan/Perlengkapan (apabila diperlukan)
@@ -45057,7 +45057,7 @@ Nam
 a
 on al (%) (%)
 (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 Demikian Formulir Isian Kualifikasi ini saya buat dengan sebenarnya dan penuh rasa tanggung
@@ -45072,7 +45072,7 @@ ____________________[pilih yang sesuai dan cantumkan nama]
 tanda tangan]
 (nama lengkap wakil sah badan usaha )
 [jabatan dalam badan usaha]
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 FORMULIR ISIAN KUALIFIKASI PESERTA PERORANGAN
@@ -45110,7 +45110,7 @@ E-Mail : __________
 B. Izin Lainnya [apabila dipersyaratkan]
 1. Izin ____________ : No_______Tanggal ______
 2. Masa berlaku izin : __________
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 3. Instansi pemberi izin : __________
@@ -45151,7 +45151,7 @@ n a
 (1) (2) (5) (6) (7) (8) (9) (10) (12)
 )
 dst
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 F. Data Pekerjaan yang sedang dilaksanakan
@@ -45177,7 +45177,7 @@ ____________________
 [rekatkan meterai Rp 10.000,-
 tanda tangan]
 (nama lengkap)
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB VII. PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI
@@ -45222,7 +45222,7 @@ F. Data Keuangan
 Domisili Tinggal, alamat pemilik saham/persero, dan persentase kepemilikan
 saham/persero.
 2. Pajak
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 a. Diisi dengan NPWP Badan Usaha/perorangan.
@@ -45275,7 +45275,7 @@ atau anggota dalam Kemitraan), atau
 9. Nilai kontrak,
 10. Persentase progres menurut rencana sesuai kontrak, dan
 11. Persentase progres terakhir.
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI PESERTA PERORANGAN
@@ -45324,7 +45324,7 @@ F. Data Pekerjaan yang sedang dilaksanakan
 Diisi dengan:
 1. Nomor Urut,
 2. Nama paket pekerjaan,
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 3. Ringkasan lingkup pekerjaan
@@ -45340,7 +45340,7 @@ atau anggota dalam Kemitraan), atau
 9. Nilai kontrak,
 10. Persentase progres menurut rencana sesuai kontrak, dan
 11. Persentase progres terakhir.
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB VIII. TATA CARA EVALUASI KUALIFIKASI
@@ -45356,7 +45356,7 @@ D. Formulir Isian Kualifikasi untuk anggota Kemitraan yang tidak dibubuhi metera
 untuk membayar denda meterai sesuai ketentuan peraturan perundang–undangan.
 E. Peserta yang memenuhi persyaratan kualifikasi dilanjutkan dengan pembuktian
 kualifikasi.
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 BAB IX. SURAT PERJANJIAN KEMITRAAN
@@ -45405,7 +45405,7 @@ c. akan mengikuti proses pengadaan secara bersih, transparan, dan profesional un
 memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-undangan; dan
 d. Apabila melanggar hal-hal yang dinyatakan dalam huruf a, b, dan/atau c maka
 bersedia dikenakan sanksi sesuai dengan peraturan perundang-undangan.
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 7. Wewenang menandatangani untuk dan atas nama Kemitraan diberikan kepada
@@ -45426,7 +45426,7 @@ bulan_____________, tahun_____
 (_________________)
 Catatan:.
 - Surat Perjanjian Kemitraan ini harus dibuat diatas kertas segel/bermeterai.
-Model Dokumen Pemilihan Paraf I Paraf II Paraf III
+Model Dokumen Pemilihan
 Dokumen Kualifikasi
 Penunjukan Langsung Barang
 Model Dokumen Pemilihan
@@ -46456,7 +46456,7 @@ PENAWARAN 1. __________________________
 3. _______dst
 [diisi, apabila ada bagian pekerjaan yang dapat
 disubkontrakkan dan bukan merupakan pekerjaan
-utama] Paraf I Paraf II Paraf III
+utama]
 Model Dokumen Pemilihan
 Penunjukan Langsung Barang
 Penyedia berkewajiban melaksanakan subkontrak
@@ -48948,7 +48948,7 @@ Pengadaan
 Jasa Lainnya
 - Penunjukan Langsung-
 Model Dokumen Pemilihan
-Dokumen Kualifikasi Paraf I Paraf II Paraf III
+Dokumen Kualifikasi
 Penunjukan Langsung Jasa Lainnya
 ii
 PETUNJUK PENGGUNAAN MODEL DOKUMEN PEMILIHAN
@@ -49772,7 +49772,7 @@ B. Izin Lainnya [apabila dipersyaratkan]
 3. Instansi pemberi izin : __________
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 C. Data Keuangan
 Pajak
 __________
@@ -49811,7 +49811,7 @@ a
 dst
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 F. Data Pekerjaan yang sedang dilaksanakan
 Pemberi Status
 Pekerjaan Penyedia Kontrak Progres Terakhir
@@ -49841,7 +49841,7 @@ tanda tangan]
 (nama lengkap)
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 BAB VII. PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI
 PETUNJUK PENGISIAN ISIAN FORMULIR KUALIFIKASI BADAN USAHA
 A. Data Administrasi
@@ -49887,7 +49887,7 @@ saham/persero.
 a. Diisi dengan NPWP Badan Usaha/perorangan.
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 b. Diisi dengan status valid keterangan Wajib Pajak berdasarkan hasil Konfirmasi
 Status Wajib Pajak.
 G. Data Personalia [apabila diperlukan]
@@ -49939,7 +49939,7 @@ atau anggota dalam Kemitraan), atau
 11. Persentase progres terakhir.
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI PESERTA PERORANGAN
 A. Data Administrasi
 1. Diisi dengan nama Peserta perorangan.
@@ -49989,7 +49989,7 @@ Diisi dengan:
 3. Ringkasan lingkup pekerjaan
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 4. Lokasi tempat pelaksanaan pekerjaan,
 5. Nama pemberi Pekerjaan
 6. Alamat/telepon dari pemberi pekerjaan,
@@ -50004,7 +50004,7 @@ atau anggota dalam Kemitraan), atau
 11. Persentase progres terakhir.
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 BAB VIII. TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi akan dievaluasi sesuai dengan pesyaratan yang tercantum dalam LDK.
 B. Evaluasi kualifikasi administrasi/legalitas, dan evaluasi kualifikasi teknis menggunakan
@@ -50020,7 +50020,7 @@ E. Peserta yang memenuhi persyaratan kualifikasi dilanjutkan dengan pembuktian
 kualifikasi.
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 BAB IX. SURAT PERJANJIAN KEMITRAAN
 SURAT PERJANJIAN KEMITRAAN
 CONTOH
@@ -50072,7 +50072,7 @@ secara perdata dan/atau dilaporkan secara pidana sesuai dengan peraturan
 perundang-undangan.
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 7. Wewenang menandatangani untuk dan atas nama Kemitraan diberikan kepada
 _________________________[nama wakil peserta] dalam kedudukannya sebagai direktur
 utama/direktur pelaksana/pengurus koperasi _________________________ [nama peserta
@@ -50093,7 +50093,7 @@ Catatan:.
 - Surat Perjanjian Kemitraan ini harus dibuat diatas kertas segel/bermaterai.
 Model Dokumen Pemilihan
 Dokumen Kualifikasi
-Penunjukan Langsung Jasa Lainnya Paraf I Paraf II Paraf III
+Penunjukan Langsung Jasa Lainnya
 Model Dokumen Pemilihan
 (DOKUMEN PENUNJUKAN LANGSUNG)
 Pengadaan
@@ -53470,7 +53470,7 @@ Jasa Konsultansi Nonkonstruksi
 Badan Usaha
 Penunjukan Langsung
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 PETUNJUK PENGGUNAAN STANDAR DOKUMEN PEMILIHAN
 1. Standar Dokumen Kualifikasi ini ditujukan untuk Penunjukan
 Langsung dengan nilai paling sedikit di atas
@@ -53484,7 +53484,7 @@ Langsung telah terkualifikasi dalam SIKaP, maka Pelaku
 Usaha tersebut dapat langsung diundang untuk
 menyampaikan Penawaran tanpa melalui proses
 Prakualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN KUALIFIKASI
 Nomor : __________
 Tanggal : __________
@@ -53494,7 +53494,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: __________
 Tahun Anggaran : __________
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM .................................................................................................................. - 5 -
 BAB II. UNDANGAN PRAKUALIFIKASI JASA KONSULTANSI BADAN USAHA .............. - 6 -
@@ -53533,7 +53533,7 @@ BAB VII. FORMULIR ISIAN KUALIFIKASI ............................................
 BAB VIII. PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI ............................... - 24 -
 BAB IX. TATA CARA EVALUASI KUALIFIKASI ............................................................... - 27 -
 BAB X. SURAT PERJANJIAN KEMITRAAN ...................................................................... - 28 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Kualifikasi ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perbuhannya dan aturan turunannya.
@@ -53558,7 +53558,7 @@ Penandatangan perjanjian atau menandatangani Kontrak dengan Penyedia,
 Kontrak dapat berasal dari PA, KPA, atau PPK.
 C. Penunjukan Langsung dengan prakualifikasi ini diikuti oleh Peserta yang berbentuk badan
 usaha atau Kemitraan.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PRAKUALIFIKASI
 JASA KONSULTANSI BADAN USAHA
 [kop surat K/L/PD] CONTOH
@@ -53586,7 +53586,7 @@ Demikian disampaikan, atas perhatian dan kerjasama Saudara diucapkan terima kasi
 [tanda tangan]
 ...................................................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup 1.1 Pokja Pemilihan mengumumkan kepada Peserta untuk
@@ -53626,7 +53626,7 @@ persetujuan bersama dari masing-masing anggota Kemitraan.
 3.5 Kemitraan dapat dilaksanakan dengan ketentuan:
 a. Peserta Kemitraan memiliki Kualifikasi usaha nonkecil
 dengan Kualifikasi usaha nonkecil;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Peserta Kemitraan memiliki Kualifikasi usaha nonkecil
 dengan Kualifikasi usaha kecil;
 c. Peserta Kemitraan memiliki Kualifikasi usaha nonkecil
@@ -53675,7 +53675,7 @@ Kualifikasi tiap
 Peserta
 7. Berlakunya Kualifikasi ini hanya berlaku untuk paket pengadaan ini.
 Kualifikasi
-Paraf 1 Paraf 2 Paraf 3
+
 8. Biaya Kualifikasi 8.1 Peserta menanggung semua biaya dalam penyiapan dan
 penyampaian data kualifikasi ini.
 8.2 Pokja Pemilihan tidak bertanggung jawab atas kerugian
@@ -53720,7 +53720,7 @@ ketentuan baru atau perubahan tersebut dianggap tidak ada
 dan ketentuan yang berlaku adalah Dokumen Kualifikasi
 yang awal.
 12.3 Peseta mengunduh (download) Adendum Dokumen
-Paraf 1 Paraf 2 Paraf 3
+
 Kualifikasi yang diunggah oleh Pokja Pemilihan pada SPSE
 (apabila ada).
 12.4 Apabila Adendum Dokumen Kualifikasi mengakibatkan
@@ -53770,7 +53770,7 @@ dikemudian hari ditemukan bahwa data/dokumen
 yang disampaikan tidak benar dan ada pemalsuan
 maka peserta bersedia dikenakan sanksi administratif,
 sanksi pencantuman dalam daftar hitam, gugatan
-Paraf 1 Paraf 2 Paraf 3
+
 secara perdata, dan/atau pelaporan secara pidana
 kepada pihak berwenang sesuai dengan ketentuan
 peraturan perundang undangan. Untuk peserta yang
@@ -53815,7 +53815,7 @@ b. Evaluasi kualifikasi teknis.
 19.2 Evaluasi kualifikasi dilakukan dengan menggunakan Sistem
 Gugur.
 19.3 Tata cara evaluasi kualifikasi dilakukan sesuai dengan Bab IX
-Paraf 1 Paraf 2 Paraf 3
+
 mengenai Tata Cara Evaluasi Kualifikasi.
 19.4 Pokja Pemilihan melakukan evaluasi Data Kualifikasi dengan
 membandingkan Data Kualifikasi dengan persyaratan yang
@@ -53854,7 +53854,7 @@ F. HASIL KUALIFIKASI
 Kualifikasi mengundang peserta untuk menyampaikan penawaran.
 22. Pengumuman Pokja Pemilihan menyampaikan hasil kualifikasi kepada Peserta.
 Hasil Kualifikasi
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA KUALIFIKASI (LDK)
 Catatan dalam pengisian lembar data kualifikasi (LDK)
 Lembar Data Kualifikasi (LDK) diisi oleh Pokja Pemilihan
@@ -53864,7 +53864,7 @@ penyedia pada paket pengadaan yang dimaksud. Pokja
 Pemilihan harus mengisi informasi dalam LDK ini yang
 terkait Instruksi Kepada Peserta (IKP). Semua informasi harus
 diisi tanpa ada isian yang dikosongkan.
-Paraf 1 Paraf 2 Paraf 3
+
 LEMBAR DATA KUALIFIKASI (LDK)
 A. UMUM
 1. LINGKUP 1.1. Kode RUP: __________
@@ -53899,7 +53899,7 @@ b) Bidang Usaha:_____________
 berdasarkan KBLI atau kode usaha lainnya. Contoh:
 konsultan manajemen, konsultan asesmen, dll].
 2. Mempunyai status valid keterangan Wajib Pajak
-Paraf 1 Paraf 2 Paraf 3
+
 berdasarkan hasil Konfirmasi Status Wajib Pajak.
 3. Mempunyai atau menguasai tempat usaha/kantor dengan
 alamat yang benar, tetap dan jelas berupa milik sendiri atau
@@ -53947,7 +53947,7 @@ h) data kualifikasi yang diisikan dan dokumen penawaran
 yang disampaikan benar, dan jika dikemudian hari
 ditemukan bahwa data/dokumen yang disampaikan
 tidak benar dan ada pemalsuan maka peserta bersedia
-Paraf 1 Paraf 2 Paraf 3
+
 dikenakan sanksi administratif, sanksi pencantuman
 dalam daftar hitam, gugatan secara perdata, dan/atau
 pelaporan secara pidana kepada pihak berwenang
@@ -53983,7 +53983,7 @@ a) Manajerial; dan
 b) tenaga kerja (jika diperlukan).
 4) Memiliki kemampuan untuk menyediakan peralatan (jika
 diperlukan).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. LEMBAR KRITERIA EVALUASI KUALIFIKASI
 Berikut ini merupakan contoh lembar kerja evaluasi kualifikasi Jasa Konsultansi Badan Usaha
 yang dapat digunakan oleh Pokja Pemilihan.
@@ -54019,7 +54019,7 @@ terakhir paling kurang sama dengan 50% nilai HPS
 d. Memiliki Sumber Daya Manusia Manajerial
 e. Memiliki tenaga kerja (apabila diperlukan)
 f. Kemampuan menyediakan peralatan (apabila diperlukan)
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. PAKTA INTEGRITAS
 [Contoh Pakta Integritas Badan Usaha]
 Saya yang bertanda tangan di bawah ini:
@@ -54042,7 +54042,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [nama lengkap]
 ____________
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. FORMULIR ISIAN KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI
 Saya yang bertanda tangan di bawah ini:
@@ -54069,7 +54069,7 @@ yang terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. badan usaha yang saya wakili tidak sedang dikenakan sanksi Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit atau kegiatan usahanya tidak sedang dihentikan;
 6. data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : __________
 2. Status Badan Usaha : Pusat Cabang
@@ -54106,7 +54106,7 @@ d. Bukti perubahan : __________
 laporan dari Kementerian
 Hukum dan HAM untuk yang
 berbentuk PT]
-Paraf 1 Paraf 2 Paraf 3
+
 C. Pengurus Badan Usaha
 1. Komisaris untuk Perseroan Terbatas (PT)
 No. Nama nomor Kartu Tanda Jabatan dalam
@@ -54141,7 +54141,7 @@ Paspor/Surat
 Saham
 Keterangan
 Domisili Tinggal
-Paraf 1 Paraf 2 Paraf 3
+
 2. Pajak
 __________
 a. Nomor Pokok Wajib Pajak :
@@ -54179,7 +54179,7 @@ Nama Nilai Kontrak Serah
 Telepon Tanggal
 Terima
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 J. Data Pekerjaan yang sedang dilaksanakan
 Pemberi Pekerjaan Status Penyedia Kontrak Progres Terakhir
 ringkasan dalam
@@ -54201,7 +54201,7 @@ ____________________[pilih yang sesuai dan cantumkan nama]
 tanda tangan]
 (nama lengkap wakil sah badan usaha )
 [jabatan dalam badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI
 PETUNJUK PENGISIAN ISIAN FORMULIR KUALIFIKASI BADAN USAHA
 A. Data Administrasi
@@ -54234,7 +54234,7 @@ Tabel Izin Usaha :
 3. Diisi dengan nama instansi penerbit izin usaha.
 4. Diisi dengan klasifikasi usaha.
 5. Diisi dengan nomor Tanda Daftar Perusahaan (TDP).
-Paraf 1 Paraf 2 Paraf 3
+
 E. Izin Lainnya [apabila dipersyaratkan]
 Jenis izin lainnya disesuaikan dengan bidang usaha yang dipersyaratkan dalam LDK.
 1. Diisi dengan jenis izin, nomor dan tanggal penerbitannya.
@@ -54275,7 +54275,7 @@ atau anggota dalam Kemitraan); atau
 - melaksanakan pekerjaan sebagai Sub penyedia.
 10. tanggal selesai paket pekerjaan menurut kontrak,
 11. tanggal berita acara serah terima pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 J. Data Pengalaman Sejenis Perusahaan dalam kurun waktu 10 tahun terakhir yang
 nilainya paling kurang sama dengan 50% (lima puluh persen) nilai total HPS
 Diisi dengan:
@@ -54294,7 +54294,7 @@ atau anggota dalam Kemitraan); atau
 - melaksanakan pekerjaan sebagai Sub penyedia.
 10. tanggal selesai paket pekerjaan menurut kontrak,
 11. tanggal berita acara serah terima pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi akan dievaluasi sesuai dengan persyaratan yang tercantum dalam Lembar
 Data Kualifikasi (LDK).
@@ -54309,7 +54309,7 @@ D. Formulir Isian Kualifikasi untuk anggota Kemitraan yang tidak dibubuhi matera
 untuk membayar denda materai sesuai ketentuan peraturan perundang–undangan.
 E. Peserta yang memenuhi persyaratan Kualifikasi dilanjutkan dengan Pembuktian
 Kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SURAT PERJANJIAN KEMITRAAN
 SURAT PERJANJIAN KEMITRAAN
 CONTOH
@@ -54355,7 +54355,7 @@ kolusi, dan/atau nepotisme dalam proses pengadaan ini;
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional untuk
 memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-undangan; dan
 Apabila melanggar hal-hal yang dinyatakan dalam huruf a, b, dan c maka bersedia
-Paraf 1 Paraf 2 Paraf 3
+
 dikenakan sanksi sesuai dengan peraturan perundang-undangan.
 7. Wewenang menandatangani untuk dan atas nama Kemitraan diberikan kepada
 _________________________[nama wakil peserta] dalam kedudukannya sebagai direktur
@@ -54375,7 +54375,7 @@ tahun_____
 (_________________)
 Catatan:.
 - Surat Perjanjian Kemitraan ini harus dibuat diatas kertas segel/bermaterai
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN PENUNJUKAN LANGSUNG)
 Pengadaan
@@ -57365,7 +57365,7 @@ Jasa Konsultansi
 Perorangan
 -Penunjukan Langsung-
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 PETUNJUK PENGGUNAAN MODEL DOKUMEN PEMILIHAN
 1. Model Dokumen Kualifikasi ini ditujukan untuk
 Penunjukan Langsung dengan nilai paling sedikit di atas
@@ -57379,7 +57379,7 @@ Langsung telah terkualifikasi dalam SIKaP, maka Pelaku
 Usaha tersebut dapat langsung diundang untuk
 menyampaikan Penawaran tanpa melalui proses
 Prakualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN KUALIFIKASI
 Nomor : __________
 Tanggal : __________
@@ -57389,7 +57389,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: __________
 Tahun Anggaran : __________
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ............................................................................................................................. - 5 -
 BAB II. UNDANGAN PRAKUALIFIKASI PENUNJUKAN LANGSUNG ........................................... - 6 -
@@ -57428,7 +57428,7 @@ BAB VI. PAKTA INTEGRITAS .......................................................
 BAB VII. FORMULIR ISIAN KUALIFIKASI ................................................................................. - 17 -
 BAB VIII. PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI ........................................ - 20 -
 BAB IX. TATA CARA EVALUASI KUALIFIKASI ......................................................................... - 22 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Kualifikasi ini disusun berdasarkan Peraturan Presiden Republik Indonesia
 Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahan
@@ -57456,7 +57456,7 @@ SPSE : Elektronik (SPSE) berbasis web yang dapat diakses melalui
 website unit kerja yang melaksanakan fungsi layanan
 pengadaan secara elektronik.
 C. Penunjukan Langsung dengan prakualifikasi ini diikuti oleh Peserta orang perorangan.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PRAKUALIFIKASI PENUNJUKAN LANGSUNG
 JASA KONSULTANSI PERORANGAN
 CONTOH
@@ -57486,7 +57486,7 @@ Demikian disampaikan, atas perhatian dan kerjasama Saudara diucapkan terima kasi
 [tanda tangan]
 ...................................................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup 1.1 Pokja Pemilihan mengumumkan kepada Peserta untuk
@@ -57527,7 +57527,7 @@ pemilihan Penyedia.
 dimaksud dalam klausul 4.1 dikenakan tindakan sebagai
 berikut:
 a. sanksi digugurkan dari proses kualifikasi atau
-Paraf 1 Paraf 2 Paraf 3
+
 pembatalan kelulusan kualifikasi;
 b. sanksi Daftar Hitam;
 c. gugatan secara perdata; dan/atau
@@ -57573,7 +57573,7 @@ Kualifikasi LDK Klausul 16.
 diperlukan) 11.2 Pokja Pemilihan memberikan informasi yang dianggap
 penting terkait dengan dokumen kualifikasi.
 11.3 Pokja Pemilihan membuat Berita Acara Pemberian
-Paraf 1 Paraf 2 Paraf 3
+
 Penjelasan Kualifikasi.
 12. Perubahan 12.1 Apabila pada saat pemberian penjelasan terdapat hal-
 Dokumen hal/ketentuan baru atau perubahan yang perlu ditampung,
@@ -57621,7 +57621,7 @@ dikemudian hari ditemukan bahwa data/dokumen
 yang disampaikan tidak benar dan ada pemalsuan
 maka yang bersangkutan bersedia dikenakan sanksi
 administratif, sanksi pencantuman dalam daftar
-Paraf 1 Paraf 2 Paraf 3
+
 hitam, gugatan secara perdata, dan/atau pelaporan
 secara pidana kepada pihak berwenang sesuai
 dengan ketentuan peraturan perundang-undangan.
@@ -57664,7 +57664,7 @@ dengan membandingkan Data Kualifikasi dengan
 persyaratan yang tercantum dalam Dokumen Kualifikasi.
 19.5 Data Kualifikasi yang kurang masih dapat dilengkapi
 setelah Pokja Pemilihan menyampaikan hasil evaluasi
-Paraf 1 Paraf 2 Paraf 3
+
 kualifikasi.
 19.6 Pokja Pemilihan menetapkan hasil evaluasi kualifikasi.
 19.7 Apabila peserta yang tidak memenuhi persyaratan
@@ -57699,7 +57699,7 @@ Kualifikasi selanjutnya mengundang peserta untuk menyampaikan
 penawaran.
 21.2 Pokja Pemilihan menyampaikan hasil kualifikasi kepada
 peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA KUALIFIKASI (LDK)
 Catatan dalam pengisian lembar data kualifikasi (LDK)
 Lembar Data Kualifikasi (LDK) diisi oleh Pokja Pemilihan
@@ -57709,7 +57709,7 @@ penyedia pada paket pengadaan yang dimaksud. Pokja
 Pemilihan harus mengisi informasi dalam LDK ini yang
 terkait Instruksi Kepada Peserta (IKP). Semua informasi harus
 diisi tanpa ada isian yang dikosongkan.
-Paraf 1 Paraf 2 Paraf 3
+
 LEMBAR DATA KUALIFIKASI (LDK)
 A. UMUM
 1. LINGKUP 1.1. Kode RUP: __________
@@ -57748,7 +57748,7 @@ untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
 d) apabila melanggar hal-hal yang dinyatakan dalam huruf a, b, dan/atau c maka
 bersedia dikenakan sanksi sesuai dengan peraturan perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 5) menyetujui surat pernyataan peserta yang berisi:
 a) tidak dikenakan Sanksi Daftar Hitam;
 b) keikutsertaannya tidak menimbulkan pertentangan kepentingan pihak yang
@@ -57793,7 +57793,7 @@ Tanggal : _______
 Waktu :__________
 4.2 Jadwal sebagaiamana dimaksud pada butir 4.1
 tercantum dalam SPSE
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. LEMBAR KRITERIA EVALUASI KUALIFIKASI
 Berikut ini merupakan contoh lembar kerja evaluasi kualifikasi jasa konsultansi perorangan
 yang dapat digunakan oleh Pokja Pemilihan.
@@ -57824,7 +57824,7 @@ a. Memiliki pendidikan (Ijazah)
 b. Memiliki sertifikat keahlian/teknis
 c. Memiliki sertifikat pelatihan/kursus
 d. Memiliki kompetensi bidang
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. PAKTA INTEGRITAS
 [Contoh Pakta Integritas Perorangan]
 PAKTA INTEGRITAS
@@ -57848,7 +57848,7 @@ __________[tempat], __[tanggal] __________[bulan] _____[tahun]
 Nama Peserta
 tanda tangan,
 nama lengkap
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. FORMULIR ISIAN KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI
 Saya yang bertanda tangan di bawah ini:
@@ -57884,7 +57884,7 @@ identitas
 5. No. Telepon : ______________________
 6. No. Fax : ______________________
 7. E-mail : ______________________
-Paraf 1 Paraf 2 Paraf 3
+
 B. Izin Lainnya [apabila dipersyaratkan]
 1. Izin ____________ : No_______Tanggal ______
 2. Masa berlaku izin : __________
@@ -57927,7 +57927,7 @@ Pekerjaan Nama (Rencana) Kerja
 pekerjaan Telepon Tanggal
 (%) (%)
 1 2 3 4 5 6 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 Demikian Formulir Isian Kualifikasi ini saya buat dengan sebenarnya dan penuh rasa
 tanggung jawab. Jika dikemudian hari ditemui bahwa data/dokumen yang saya sampaikan
 tidak benar dan ada pemalsuan, maka saya bersedia dikenakan sanksi berupa sanksi
@@ -57938,7 +57938,7 @@ undangan.
 [rekatkan meterai Rp 10.000,-
 tanda tangan]
 (nama lengkap penyedia )
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. PETUNJUK PENGISIAN FORMULIR ISIAN KUALIFIKASI
 PETUNJUK PENGISIAN ISIAN FORMULIR KUALIFIKASI PERORANGAN
 A. Data Administrasi
@@ -57985,11 +57985,11 @@ Diisi dengan:
 5. nama pemberi pekerjaan;
 6. alamat/telepon pemberi pekerjaan;
 7. nomor/tanggal kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 8. nilai kontrak;
 9. persentase Progres menurut rencana sesuai Kontrak; dan
 10. persentase Progres terakhir prestasi kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi akan dievaluasi sesuai dengan persyaratan yang tercantum dalam
 Lembar Data Kualifikasi (LDK).
@@ -58003,7 +58003,7 @@ Kualifikasi dengan data kualifikasi peserta yang meliputi :
 2. pemenuhan persyaratan kualifikasi.
 D. Peserta yang memenuhi persyaratan Kualifikasi dilanjutkan dengan Pembuktian
 Kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Jasa Konsultansi
@@ -60679,7 +60679,7 @@ Barang
 - Pengadaan Langsung -
 [Untuk yang menggunakan Surat Perintah Kerja (SPK) dan Surat Perjanjian]
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Pengadaan Langsung
 untuk
@@ -60688,7 +60688,7 @@ __________
 Pejabat Pengadaan pada
 Kementerian/Lembaga/Pemerintah Daerah: __________________
 Tahun Anggaran: __________
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 D O K U M E N P E M I L I H A N .............................................................. - 2 -
 BAB I. UMUM .................................................................................................... - 6 -
@@ -60754,7 +60754,7 @@ BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK) ......................................-
 21. PENGIRIMAN .......................................................................................................................- 43 -
 22. ASURANSI............................................................................................................................- 43 -
 23. TRANSPORTASI.....................................................................................................................- 43 -
-Paraf 1 Paraf 2 Paraf 3
+
 24. RISIKO ................................................................................................................................- 43 -
 25. PEMERIKSAAN DAN/ATAU PENGUJIAN ...................................................................................- 43 -
 26. UJI COBA ............................................................................................................................- 44 -
@@ -60824,7 +60824,7 @@ BAB XI. SYARAT-SYARAT KHUSUS KONTRAK (SSKK) ...................................-
 40. HAK DAN KEWAJIBAN PEJABAT PENANDATANGAN KONTRAK .....................................................- 65 -
 45. PENANGGUNGAN DAN RISIKO ...................................................................................................- 65 -
 48. ASURANSI KHUSUS DAN PIHAK KETIGA .....................................................................................- 65 -
-Paraf 1 Paraf 2 Paraf 3
+
 49. TINDAKAN PENYEDIA YANG MENSYARATKAN PERSETUJUAN PEJABAT PENANDATANGAN KONTRAK....-
 65 -
 50. KERJASAMA PENYEDIA DENGAN USAHA KECIL SEBAGAI SUBPENYEDIA ....................................- 66 -
@@ -60855,7 +60855,7 @@ E. BENTUK JAMINAN UANG MUKA DARI BANK ..........................................
 F. BENTUK JAMINAN UANG MUKA DARI ASURANSI/PERUSAHAAN PENJAMINAN ...- 85 -
 G. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA .........................................- 86 -
 H. BENTUK SURAT PERINTAH PENGIRIMAN ....................................................................- 87 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pengadaan Langsung ini disusun berdasarkan Peraturan Presiden No. 16
 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahan dan aturan
@@ -60889,7 +60889,7 @@ Elektronik (LPSE)
 SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara Elektronik
 (SPSE) berbasis web yang terpasang di server LPSE yang dapat
 diakses melalui website LPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PENGADAAN LANGSUNG
 [kop surat K/L/PD]
 Nomor : _____ _________ [tempat], __[tanggal] _____ [bulan] ___ [tahun]
@@ -60926,7 +60926,7 @@ Pejabat Pengadaan pada _____________[K/L/PD]
 [tanda tangan]
 ...........................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup 1.1 Peserta menyampaikan penawaran atas paket Pengadaan Barang
@@ -60969,7 +60969,7 @@ a. Pengurus/manajer koperasi merangkap sebagai Pejabat
 Penandatangan Kontrak/Pejabat Pengadaan pada
 pelaksanaan pengadaan di Kementerian/Lembaga/
 Perangkat Daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pejabat Penandatangan Kontrak /Pejabat Pengadaan baik
 langsung maupun tidak langsung mengendalikan atau
 menjalankan badan usaha Penyedia.
@@ -61025,7 +61025,7 @@ pertentangan kepentingan;
 sedang dalam menjalani sanksi pidana;
 6) Pimpinan dan pengurus badan usaha bukan sebagai
 pegawai Kementerian/Lembaga/Perangkat Daerah
-Paraf 1 Paraf 2 Paraf 3
+
 atau pimpinan dan pengurus badan usaha sebagai
 pegawai Kementerian/Lembaga/Perangkat Daerah
 yang sedang mengambil cuti diluar tanggungan
@@ -61082,7 +61082,7 @@ Teknis Peserta a. Memiliki pengalaman dengan ketentuan sebagai berikut:
 1 (satu) pekerjaan dalam kurun waktu 1 (satu) tahun
 terakhir baik di lingkungan pemerintah maupun swasta,
 termasuk pengalaman subkontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 2) Penyediaan barang sekurang-kurangnya dalam
 kelompok/grup yang sama paling kurang 1 (satu)
 pekerjaan dalam kurun waktu 3 (tiga) tahun terakhir
@@ -61135,7 +61135,7 @@ b) Penerima kuasa dari direktur utama/pimpinan
 perusahaan/pengurus koperasi yang nama penerima
 c) kuasanya tercantum dalam akta pendirian/anggaran
 dasar;
-Paraf 1 Paraf 2 Paraf 3
+
 d) Pihak lain yang bukan direktur utama/pimpinan
 perusahaan/pengurus koperasi yang namanya tidak
 tercantum dalam akta pendirian/anggaran dasar,
@@ -61184,7 +61184,7 @@ F. PEMBUKAAN PENAWARAN, EVALUASI, KLARIFIKASI DAN NEGOSIASI
 Penawaran penawaran sesuai jadwal sebagaimana tercantum dalam SPSE.
 10.2 Pejabat Pengadaan memeriksa kelengkapan Dokumen Penawaran,
 yang meliputi:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Surat penawaran;
 b. Surat kuasa (apabila dikuasakan);
 c. Dokumen penawaran teknis;
@@ -61240,7 +61240,7 @@ c. Apabila klarifikasi dan negosiasi tidak mencapai kesepakatan,
 Pejabat Pengadaan menyatakan Pengadaan Langsung gagal,
 dan dilakukan Pengadaan Langsung ulang mengundang
 Pelaku Usaha lain.
-Paraf 1 Paraf 2 Paraf 3
+
 12 Pembuatan 12.1 Pejabat Pengadaan membuat Berita Acara Hasil Pengadaan
 Berita Acara Langsung.
 Hasil
@@ -61288,13 +61288,13 @@ ditandatangani oleh penyedia barang; dan
 2) Kontrak asli kedua untuk penyedia barang dibubuhi
 meterai pada bagian yang ditandatangani oleh Pejabat
 Penandatangan Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Rangkap kontrak lainnya tanpa dibubuhi meterai, apabila
 diperlukan.
 14.3 Pihak yang berwenang menandatangani kontrak atas nama
 Penyedia adalah sebagaimana dimaksud pada klausul 8.2 huruf
 a butir 4).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 LEMBAR DATA PEMILIHAN
 Bagian IKP No. Isian Ketentuan
@@ -61336,7 +61336,7 @@ KUALIFIKASI Langsung sampai dengan penandatanganan SPK]
 (_____) hari kalender.
 [diisi waktu yang diperlukan untuk menyelesaikan
 pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. DAFTAR KUANTITAS, SPESIFIKASI TEKNIS DAN/ATAU GAMBAR
 Keterangan
 - Daftar Kuantitas, Spesifikasi Teknis dan/atau gambar diisi oleh Pejabat
@@ -61358,7 +61358,7 @@ dan/atau
 Gambar
 1. [Diisi uraian jenis [diisi satuan [diisi volume unit
 Barang] unit Barang] Barang]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. FORMULIR DOKUMEN PENAWARAN
 A. FORMULIR SURAT PENAWARAN
 [Kop Surat]
@@ -61387,7 +61387,7 @@ Penyedia,
 [PT/CV/Firma/Koperasi/Perorangan]
 ..........................
 Nama Lengkap
-Paraf 1 Paraf 2 Paraf 3
+
 B. FORMULIR PENAWARAN TEKNIS
 No Uraian Spesifikasi Satuan Volume Identitas
 Barang Teknis Barang yang
@@ -61404,7 +61404,7 @@ Harga
 Jumlah (Sebelum PPN)
 PPN (10%)
 Jumlah total setelah PN
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. PAKTA INTEGRITAS
 [Pakta Integritas Badan Usaha]
 Saya yang bertanda tangan di bawah ini:
@@ -61428,7 +61428,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [nama lengkap]
 ____________
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 [Pakta Integritas Perorangan]
 PAKTA INTEGRITAS
 Saya yang bertanda tangan di bawah ini:
@@ -61450,7 +61450,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [tanda tangan] ,
 ____________
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. FORMULIR ISIAN KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI UNTUK PESERTA BERBENTUK BADAN USAHA
 Saya yang bertanda tangan di bawah ini:
@@ -61475,7 +61475,7 @@ yang terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. Badan usaha yang saya wakili tidak sedang dikenakan Sanksi Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit atau kegiatan usahanya tidak sedang dihentikan;
 6. Data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : __________
 2. Status : Pusat Cabang
@@ -61517,7 +61517,7 @@ Tanda Penduduk Usaha
 Paspor/Surat
 Keterangan
 Domisili Tinggal
-Paraf 1 Paraf 2 Paraf 3
+
 2. Direksi/Pengurus Badan Usaha
 No. Nama Nomor Kartu Jabatan dalam Badan
 Tanda Penduduk Usaha
@@ -61551,7 +61551,7 @@ a. Nomor Pokok Wajib Pajak : __________
 b. Bukti laporan Pajak Tahun
 : No.______tanggal _______
 terakhir (SPT tahunan)
-Paraf 1 Paraf 2 Paraf 3
+
 G. Data Personalia (Tenaga ahli/teknis/terampil badan usaha) [apabila diperlukan]
 Jabatan Tahun
 Tgl/bln/thn Tingkat Pengalaman Profesi/
@@ -61594,7 +61594,7 @@ No Lokas Pekerjaan Penyedia
 Paket Kontrak Progres Terakhir
 . i dalam
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 Ringkasa pelaksana
 n Alamat an Presta
 No/ Kontrak
@@ -61617,7 +61617,7 @@ ____________________[pilih yang sesuai dan cantumkan nama]
 tanda tangan]
 (nama lengkap wakil sah badan usaha )
 [jabatan dalam badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 FORMULIR ISIAN KUALIFIKASI UNTUK PESERTA PERORANGAN
 Saya yang bertanda tangan di bawah ini:
 Nama : __________
@@ -61653,7 +61653,7 @@ B. Izin Lainnya [apabila dipersyaratkan]
 1. Izin ____________ : No_______Tanggal ______
 2. Masa berlaku izin : __________
 3. Instansi pemberi izin : __________
-Paraf 1 Paraf 2 Paraf 3
+
 C. Data Keuangan
 Pajak
 __________
@@ -61700,7 +61700,7 @@ Pekerjaan
 Pekerjaa Nama / Tangga Nilai (Rencana) Kerja
 n Telepon l (%) (%)
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 Demikian pernyataan ini saya buat dengan sebenarnya dan penuh rasa tanggung jawab. Jika
 dikemudian hari ditemui bahwa data/dokumen yang saya sampaikan tidak benar dan ada
 pemalsuan, maka saya bersedia dikenakan sanksi administratif, dikenakan sanksi Daftar Hitam,
@@ -61712,7 +61712,7 @@ ____________________
 [rekatkan meterai Rp 6.000,-
 tanda tangan]
 (nama lengkap)
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. RANCANGAN SURAT PERINTAH KERJA (SPK)
 [kop surat satuan kerja Pejabat Penandatangan Kontrak]
 SATUAN KERJA : ________________
@@ -61749,7 +61749,7 @@ Kontrak maka rekatkan meterai Rp
 [jabatan]
 [nama lengkap]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 SYARAT UMUM
 SURAT PERINTAH KERJA (SPK)
 1. LINGKUP PEKERJAAN
@@ -61795,7 +61795,7 @@ seluruh pekerjaan. Pengalihan seluruh pekerjaan hanya diperbolehkan dalam hal
 pergantian nama penyedia, baik sebagai akibat peleburan (merger) atau akibat
 lainnya.
 8. JADWAL
-Paraf 1 Paraf 2 Paraf 3
+
 a. SPK ini berlaku efektif pada tanggal penandatanganan oleh para pihak atau pada
 tanggal yang ditetapkan dalam Surat Perintah Pengiriman.
 b. Waktu pelaksanaan SPK adalah sejak tanggal mulai kerja yang tercantum dalam
@@ -61850,7 +61850,7 @@ oleh penyedia.
 Jika Pejabat Penandatangan Kontrak atau Pengawas Pekerjaan memerintahkan
 penyedia untuk melakukan pengujian Cacat Mutu yang tidak tercantum dalam
 Spesifikasi Teknis dan Gambar, dan hasil uji coba menunjukkan adanya Cacat Mutu
-Paraf 1 Paraf 2 Paraf 3
+
 maka penyedia berkewajiban untuk menanggung biaya pengujian tersebut. Jika tidak
 ditemukan adanya Cacat Mutu maka uji coba tersebut dianggap sebagai Peristiwa
 Kompensasi.
@@ -61906,7 +61906,7 @@ e. Jika Penyedia tidak memperbaiki, mengganti, atau melengkapi Barang akibat cac
 mutu dalam jangka waktu sesuai dengan syarat dan ketentuan dalam Sertifikat
 Garansi, Pejabat Penandatangan Kontrak akan menghitung biaya perbaikan yang
 diperlukan, dan Pejabat Penandatangan Kontrak secara langsung atau melalui
-Paraf 1 Paraf 2 Paraf 3
+
 pihak ketiga yang ditunjuk oleh Pejabat Penandatangan Kontrak akan melakukan
 perbaikan tersebut. Penyedia berkewajiban untuk membayar biaya perbaikan atau
 penggantian tersebut sesuai dengan klaim yang diajukan secara tertulis oleh Pejabat
@@ -61963,7 +61963,7 @@ perpanjangan tanggal penyelesaian berdasarkan data penunjang. Pejabat
 Penandatangan Kontrak berdasarkan pertimbangan Pengawas Pekerjaan
 memperpanjang tanggal penyelesaian pekerjaan secara tertulis. Perpanjangan
 tanggal penyelesaian harus dilakukan melalui adendum SPK.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pejabat Penandatangan Kontrak dapat menyetujui perpanjangan waktu
 pelaksanaan setelah melakukan penelitian terhadap usulan tertulis yang diajukan
 oleh penyedia.
@@ -62020,7 +62020,7 @@ permintaan pembayaran kepada Pejabat Penandatangan Surat Perintah Membayar
 (PPSPM).
 d. Bila terdapat ketidaksesuaian dalam perhitungan angsuran, tidak akan menjadi
 alasan untuk menunda pembayaran. Pejabat Penandatangan Kontrak dapat
-Paraf 1 Paraf 2 Paraf 3
+
 meminta penyedia untuk menyampaikan perhitungan prestasi sementara dengan
 mengesampingkan hal-hal yang sedang menjadi perselisihan.
 22. DENDA
@@ -62048,7 +62048,7 @@ bahwa pelanggaran syarat ini merupakan pelanggaran yang mendasar terhadap SPK
 ini.
 BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK)
 A. KETENTUAN UMUM
-Paraf 1 Paraf 2 Paraf 3
+
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat Umum Kontrak ini
 harus mempunyai arti atau tafsiran seperti yang dimaksudkan sebagai
 berikut:
@@ -62101,7 +62101,7 @@ Indonesia.
 1.12 Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut
 Kontrak adalah perjanjian tertulis antara PA/KPA/PPK dengan
 Penyedia Barang/Jasa.
-Paraf 1 Paraf 2 Paraf 3
+
 1.13 Bagian Kontrak adalah bagian pekerjaan dari satu pekerjaan
 yang ditetapkan dalam dokumen pemilihan. Penyelesaian
 masing-masing pekerjaan yang tercantum pada bagian
@@ -62151,7 +62151,7 @@ ketentuan pengiriman yang digunakan.
 barang tetapi tidak dapat bertentangan dengan ketentuan-ketentuan
 dalam Dokumen Kontrak lain yang lebih tinggi berdasarkan urutan
 hierarki dalam Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 3. Bahasa dan 3.1 Bahasa kontrak dan bahasa korespondensi harus dalam bahasa
 Hukum Indonesia.
 3.2 Hukum yang digunakan adalah hukum yang berlaku di
@@ -62200,7 +62200,7 @@ dalam Daftar Inventarisasi Barang/Jasa produksi Dalam Negeri
 dari Penawaran Penyedia.
 5.5 Pengadaan barang impor harus mencantumkan persyaratan
 kelengkapan dokumen barang:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Surat Keterangan Asal (Certificate of Origin); dan
 b. Sertifikat Produksi.
 5.6 Surat Keterangan Asal (Certificate of Origin) dan Sertifikat
@@ -62249,7 +62249,7 @@ tertentu Kontrak oleh Pihak yang lain maka pengabaian tersebut tidak
 menjadi pengabaian yang terus-menerus selama Masa Kontrak atau
 seketika menjadi pengabaian terhadap pelanggaran ketentuan yang
 lain. Pengabaian hanya dapat mengikat jika dapat dibuktikan secara
-Paraf 1 Paraf 2 Paraf 3
+
 tertulis dan ditandatangani oleh Para Pihak atau Wakil Sah Pihak yang
 melakukan pengabaian.
 11. Penyedia Penyedia berdasarkan Kontrak ini bertanggungjawab penuh terhadap
@@ -62297,7 +62297,7 @@ dari kedua belah pihak;
 b. pemutakhiran/pembaharuan rencana pekerjaan seperti
 tanggal efektif pelaksanaan, dan tahapan pelaksanaan
 kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 c. reviu rencana penilaian kinerja pekerjaan sebagai dasar
 melakukan evaluasi kemajuan pekerjaan;
 d. diskusi bagaimana dan kapan dilakukan pelaporan
@@ -62343,7 +62343,7 @@ SSKK.
 20.2 Penyedia harus melakukan pengepakan, penandaan, dan
 penyertaan dokumen yang berisi identitas Barang di dalam dan
 di luar paket Barang sebagaimana ditetapkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 21. Pengiriman 21.1 Penyedia berkewajiban untuk menyelesaikan pengiriman
 barang sesuai dengan jadwal pengiriman. Dokumen rincian
 pengiriman dan dokumen terkait lainnya diatur dalam SSKK.
@@ -62387,7 +62387,7 @@ diatur dalam SSKK.
 nilai Kontrak.
 25.5 Pemeriksaan dan/atau pengujian dilakukan di tempat yang
 ditentukan dalam SSKK, dan dihadiri oleh Pejabat
-Paraf 1 Paraf 2 Paraf 3
+
 Penandatangan Kontrak dan/atau pihak lain yang terkait.
 Penyedia berkewajiban untuk memberikan akses kepada Pejabat
 Penandatangan Kontrak dan/atau pihak lain yang terkait tanpa
@@ -62438,7 +62438,7 @@ e. Penyedia belum bisa masuk ke lokasi sesuai jadwal dalam kontrak;
 f. Pejabat Penandatangan Kontrak memerintahkan penundaaan
 pelaksanaan pekerjaan; atau
 g. ketentuan lain yang diatur dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 29. Perpanjangan 29.1 Jika terjadi Peristiwa Kompensasi sehingga penyelesaian
 Waktu pekerjaan akan melampaui tanggal penyelesaian maka Penyedia
 berhak untuk meminta perpanjangan tanggal penyelesaian
@@ -62487,7 +62487,7 @@ denda keterlambatan kepada Penyedia, dan perpanjangan masa
 berlaku Jaminan Pelaksanaan (apabila ada).
 30.5 Pemberian kesempatan kepada Penyedia untuk menyelesaikan
 pekerjaan dapat melampaui tahun anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 C. PENYELESAIAN KONTRAK
 31. Serah Terima 31.1 Setelah pekerjaan selesai sesuai dengan ketentuan yang tertuang
 Barang dalam Kontrak, Penyedia mengajukan permintaan secara
@@ -62532,7 +62532,7 @@ Cacat Mutu/ (jika ada) berkewajiban untuk menjamin bahwa selama
 Garansi penggunaan secara wajar, Barang tidak mengandung cacat
 mutu yang disebabkan oleh tindakan atau kelalaian Penyedia,
 atau cacat mutu akibat desain, bahan, dan cara kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 32.2 Jaminan bebas cacat mutu/garansi ini berlaku selama masa
 garansi berlaku.
 32.3 Pejabat Penandatangan Kontrak menyampaikan pemberitahuan
@@ -62581,7 +62581,7 @@ d. mengubah jadwal pelaksanaan.
 34.3 Selain adendum/perubahan Kontrak yang diatur pada klausul
 34.2, addendum/perubahan Kontrak dapat dilakukan untuk
 hal-hal yang disebabkan masalah administrasi, antara lain
-Paraf 1 Paraf 2 Paraf 3
+
 pergantian Pejabat Penandatangan Kontrak, perubahan
 rekening Penyedia, dan sebagainya.
 34.4 Pekerjaan tambah tidak melebihi 10% (sepuluh persen) dari
@@ -62629,7 +62629,7 @@ c. Bencana sosial;
 d. Pemogokan;
 e. Kebakaran;
 f. Kondisi cuaca ekstrim; dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 g. Gangguan industri lainnya sebagaimana dinyatakan
 melalui keputusan bersama Menteri Keuangan dan menteri
 teknis terkait.
@@ -62680,7 +62680,7 @@ b. permanen apabila akibat keadaan kahar tidak
 memungkinkan dilanjutkan/diselesaikannya pekerjaan.
 35.10 Penghentian pekerjaan akibat keadaan kahar tetap
 mempertimbangkan efektifitas pekerjaan dan tahun anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 E. PENGHENTIAN DAN PEMUTUSAN KONTRAK
 36. Penghentian Penghentian Kontrak dapat dilakukan karena terjadi Keadaan Kahar
 Kontrak sebagaimana dimaksud pada klausul 35.
@@ -62733,7 +62733,7 @@ k. Penyedia menghentikan pekerjaan melebihi waktu yang
 ditentukan dalam SSKK dan penghentian ini tidak tercantum
 dalam program mutu serta tanpa persetujuan pengawas
 pekerjaan (apabila ada).
-Paraf 1 Paraf 2 Paraf 3
+
 38.2 Dalam hal terjadi pemutusan Kontrak sebagaimana dimaksud
 pada klausul 37.1, maka:
 a. Jaminan Pelaksanaan dicairkan;
@@ -62776,7 +62776,7 @@ terpenuhi.
 dimaksud pada klausul 40.1 adalah terkait dengan pembayaran
 yang seharusnya dilakukan akibat dari pelaksanaan kontrak.
 F. PEJABAT YANG BERWENANG UNTUK MENANDATANGANI KONTRAK
-Paraf 1 Paraf 2 Paraf 3
+
 41. Hak dan 41.1 Pejabat Penandatangan Kontrak mempunyai hak:
 Kewajiban a. mengawasi dan memeriksa pekerjaan yang dilaksanakan
 Pejabat oleh penyedia;
@@ -62831,7 +62831,7 @@ f. mengambil langkah-langkah yang cukup memadai untuk
 melindungi lingkungan tempat kerja dan membatasi
 perusakan dan gangguan kepada masyarakat maupun
 miliknya akibat kegiatan Penyedia; dan
-Paraf 1 Paraf 2 Paraf 3
+
 g. menghindari pertentangan kepentingan (conflict of
 interest).
 43. Tanggung Penyedia bertanggungjawab/berkewajiban untuk menyerahkan
@@ -62883,7 +62883,7 @@ kelalaian Penyedia.
 Tenaga Kerja untuk mengikutsertakan Personelnya pada program jaminan
 (apabila sosial kesehatan dan jaminan sosial tenaga kerja sebagaimana
 diperlukan) diatur dalam peraturan perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 47.2 Penyedia berkewajiban untuk mematuhi dan memerintahkan
 Personelnya untuk mematuhi ketentuan mengenai keselamatan
 kerja sebagaimana diatur peraturan perundang-undangan.
@@ -62933,7 +62933,7 @@ lokasi kerja kerja bersama-sama dengan Penyedia yang lain (jika ada) dan pihak-
 (apabila ada) pihak lainnya yang berkepentingan atas lokasi kerja. Jika dipandang
 perlu, Pejabat Penandatangan Kontrak dapat memberikan jadwal kerja
 Penyedia yang lain di lokasi kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 53. Keselamatan Penyedia bertanggung jawab atas keselamatan semua pihak di lokasi
 kerja (apabila ada).
 54. Sanksi Finansial 54.1 Sanksi finansial bagi Penyedia dapat berupa sanksi ganti rugi,
@@ -62977,7 +62977,7 @@ tersebut di atas disesuaikan dengan ketentuan dalam Dokumen
 Pemilihan.
 56. Laporan Hasil 56.1 Pemeriksaan pekerjaan dilakukan selama pelaksanaan Kontrak
 Pekerjaan untuk menetapkan volume pekerjaan atas kegiatan yang telah
-Paraf 1 Paraf 2 Paraf 3
+
 dilaksanakan guna pembayaran hasil pekerjaan. Hasil
 pemeriksaan pekerjaan dituangkan dalam laporan kemajuan
 hasil pekerjaan.
@@ -63022,7 +63022,7 @@ sejak diminta oleh Pejabat Penandatangan Kontrak.
 58.7 Personel berkewajiban untuk menjaga kerahasiaan
 pekerjaannya.
 H. PEMBAYARAN KEPADA PENYEDIA
-Paraf 1 Paraf 2 Paraf 3
+
 59. Nilai Kontrak 59.1 Pejabat Penandatangan Kontrak membayar kepada Penyedia
 atas pelaksanaan pekerjaan dalam kontrak sebesar nilai kontrak
 atau berdasarkan hasil perhitungan akhir.
@@ -63079,7 +63079,7 @@ diterima;
 b) pembayaran bahan/material dan/atau peralatan
 yang menjadi bagian dari hasil pekerjaan yang
 akan diserahterimakan yang telah berada dilokasi
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan dan dicantumkan dalam kontrak namun
 belum terpasang; atau
 c) pembayaran pekerjaan yang belum selesai
@@ -63133,7 +63133,7 @@ Penyedia gagal atau lalai memenuhi kewajibannya.
 62.2 Pejabat Penandatangan Kontrak secara tertulis memberitahukan
 kepada Penyedia tentang penangguhan hak pembayaran,
 disertai alasan-alasan yang jelas mengenai penangguhan
-Paraf 1 Paraf 2 Paraf 3
+
 tersebut. Penyedia diberi kesempatan untuk memperbaiki dalam
 jangka waktu tertentu.
 62.3 Pembayaran yang ditangguhkan disesuaikan dengan proporsi
@@ -63177,7 +63177,7 @@ Hn = Harga Satuan pada saat pekerjaan dilaksanakan;
 H0 = Harga Satuan pada saat harga penawaran;
 a = Koefisien tetap yang terdiri atas keuntungan dan
 overhead;
-Paraf 1 Paraf 2 Paraf 3
+
 Dalam hal penawaran tidak mencantumkan besaran
 komponen keuntungan dan overhead maka
 a = 0,15.
@@ -63225,7 +63225,7 @@ Kontrak atau unsur pengawas memerintahkan Penyedia untuk
 menemukan dan mengungkapkan Cacat Mutu, serta menguji hasil
 pekerjaan yang dianggap oleh Pejabat Penandatangan Kontrak atau
 unsur pengawas (apabila ada) mengandung Cacat Mutu. Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 bertanggung jawab atas perbaikan Cacat Mutu selama Masa Kontrak
 dan Masa Garansi.
 67. Pengujian Pejabat Penandatangan Kontrak atau unsur pengawas (apabila ada)
@@ -63273,7 +63273,7 @@ kepentingan masing-masing pihak.
 69.3 Apabila selama Kontrak, salah satu pihak merasa dirugikan,
 maka diupayakan tindakan yang terbaik untuk mengatasi
 keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 69.4 Pejabat Penandatangan Kontrak dan Penyedia berkewajiban
 untuk bertindak dengan itikad baik sehubungan dengan hak-
 hak Pihak lain, dan mengambil semua langkah yang diperlukan
@@ -63293,7 +63293,7 @@ atau Pengadilan Negeri.
 70.4 Pejabat Penandatangan Kontrak dan Penyedia bersama-sama
 memilih dan menetapkan tempat penyelesaian sengketa dan
 dicantumkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. SYARAT-SYARAT KHUSUS KONTRAK (SSKK)
 Klausul dalam SSUK Pengaturan dalam SSKK
 4. Perbuatan yang 4.3.b Jaminan Pelaksanaan dicairkan dan di setor ke
@@ -63338,7 +63338,7 @@ Pelaksanaan _______(_______) (hari kalender); atau
 Pekerjaan Penyedia harus menyelesaikan pekerjaan sejak
 Tanggal SPP disetujui oleh Penyedia sampai dengan tanggal
 Tanggal _______(_______)
-Paraf 1 Paraf 2 Paraf 3
+
 [diisi dengan memilih salah satu, menggunakan jumlah hari
 atau menggunakan tanggal]
 18. Inspeksi 18.1 Apakah inspeksi atas proses pabrikasi diperlukan
@@ -63382,7 +63382,7 @@ hal pemeriksaan dan/atau pengujian diwakilkan kepada
 pihak ketiga]
 24.3 Pemeriksaan dan/atau pengujian yang dilaksanakan
 meliputi: _______________
-Paraf 1 Paraf 2 Paraf 3
+
 24.5 Pemeriksaan dan/atau pengujian dilaksanakan di:
 _______________
 27. Peristiwa Penyedia dapat memperoleh kompensasi apabila
@@ -63431,7 +63431,7 @@ Persetujuan ______________________________________
 Pejabat
 Penandatangan
 Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 50. Kerjasama 50.2 Bagian Pekerjaan yang wajib dikerjasamakan dengan usaha
 Penyedia dengan kecil:
 Usaha Kecil 1. ____________
@@ -63470,7 +63470,7 @@ Besar ganti rugi akibat jaminan (jaminan pelaksanaan
 dan/atau jaminan uang muka) tidak bisa dicairkan:
 _________________
 [diisi dengan nilai kerugian yang dtimbulkan]
-Paraf 1 Paraf 2 Paraf 3
+
 59.3.b Denda Keterlambatan
 Apabila terjadi keterlambatan penyelesaian pekerjaan,
 besarnya denda keterlambatan adalah:
@@ -63495,7 +63495,7 @@ LKPP/Lembaga Arbitrase/Pengadilan Negeri]
 Dalam hal penyelesaian sengketa dilakukan pada
 Pengadilan Negeri _______________
 [disebutkan Nama Pengadilan Negeri]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. RANCANGAN SURAT PERJANJIAN
 A. RANCANGAN SURAT PERJANJIAN DENGAN PENYEDIA BERBENTUK BADAN USAHA
 SURAT PERJANJIAN
@@ -63543,7 +63543,7 @@ Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
 tercantum dalam lampiran Kontrak ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 2
 Ruang Lingkup Pekerjaan
 Ruang lingkup pekerjaan Pengadaan Barang terdiri atas:
@@ -63589,7 +63589,7 @@ dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat d
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
 sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
 tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Untuk dan atas nama
 Pejabat Penandatangan Kontrak Penyedia
 __________ __________
@@ -63601,7 +63601,7 @@ Catatan:
 Kontrak untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan untuk
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERJANJIAN DENGAN PENYEDIA BERBENTUK KEMITRAAN
 SURAT PERJANJIAN
 untuk melaksanakan
@@ -63650,7 +63650,7 @@ Maka oleh karena itu, Pejabat Penandatangan Kontrak dan Penyedia dengan ini bers
 menyetujui hal-hal sebagai berikut:
 Pasal 1
 Istilah dan Ungkapan
-Paraf 1 Paraf 2 Paraf 3
+
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
 tercantum dalam lampiran Kontrak ini.
 Pasal 2
@@ -63696,7 +63696,7 @@ Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat unt
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam 2
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
-Paraf 1 Paraf 2 Paraf 3
+
 sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
 tanpa dibubuhi meterai.
 Untuk dan atas nama Untuk dan atas nama
@@ -63710,7 +63710,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan untuk
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 C. RANCANGAN SURAT PERJANJIAN DENGAN PENYEDIA PERORANGAN
 SURAT PERJANJIAN
 untuk melaksanakan
@@ -63756,7 +63756,7 @@ Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
 tercantum dalam lampiran Kontrak ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 2
 Ruang Lingkup Pekerjaan
 Ruang lingkup pekerjaan Pengadaan Barang terdiri atas:
@@ -63800,7 +63800,7 @@ Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat unt
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam 2
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
-Paraf 1 Paraf 2 Paraf 3
+
 sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
 tanpa dibubuhi meterai.
 Untuk dan atas nama Untuk dan atas nama
@@ -63814,7 +63814,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan
 untuk Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA
 [kop surat K/L/PD]
@@ -63845,7 +63845,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pejabat Pengadaan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK PERJANJIAN KEMITRAAN
 SURAT PERJANJIAN KEMITRAAN
 Sehubungan dengan Tender pekerjaan ____________________[diisi nama paket pengadaan]
@@ -63893,7 +63893,7 @@ d. apabila melanggar hal-hal yang dinyatakan dalam huruf a, b, dan/atau c maka b
 menerima sanksi sesuai dengan peraturan peraturan perundang-undangan.
 7. Wewenang menandatangani untuk dan atas nama Kemitraan diberikan kepada
 _________________________ [nama wakil peserta] dalam kedudukannya sebagai direktur
-Paraf 1 Paraf 2 Paraf 3
+
 utama/direktur pelaksana/pengurus koperasi _____________________ [nama peserta 1]
 berdasarkan persetujuan tertulis dari seluruh anggota Kemitraan.
 8. Perjanjian ini mulai berlaku sejak tanggal ditandatangani.
@@ -63907,7 +63907,7 @@ hari_____ tanggal_______ bulan_____________, tahun_____
 (_________________)
 Catatan:.
 - Surat Perjanjian Kemitraan ini harus dibuat diatas kertas segel/bermeterai.
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN PELAKSANAAN DARI BANK
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -63956,7 +63956,7 @@ sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 _____________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di: ___________
 Pada tanggal : ____________
 [Bank]
@@ -63965,7 +63965,7 @@ Untuk keyakinan, pemegang ____________
 Garansi Bank disarankan untuk
 mengkorfimasi Garansi ini ke [Nama & Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK JAMINAN PELAKSANAAN DARI ASURANSI/PERUSAHAAN PENJAMINAN/
 LEMBAGA KEUANGAN KHUSUS DI BIDANG PEMBIAYAAN, PENJAMINAN, ASURANSI
 [Kop Penerbit Jaminan]
@@ -64010,7 +64010,7 @@ _________[penerbit jaminan]
 Meterai Rp10.000,00
 _____________ _________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK JAMINAN UANG MUKA DARI BANK
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -64055,7 +64055,7 @@ Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ___________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : ____________
 Untuk keyakinan, pemegang
 Garansi Bank disarankan untuk
@@ -64066,7 +64066,7 @@ _____[bank]
 Meterai Rp10.000,00
 ____________
 [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK JAMINAN UANG MUKA DARI ASURANSI/PERUSAHAAN PENJAMINAN
 JAMINAN UANG MUKA
 Nomor Jaminan: ____________________ Nilai: ___________________
@@ -64108,7 +64108,7 @@ mengkonfirmasi Jaminan ini ke Meterai Rp10.000,00
 _________[penerbit jaminan]
 __________________ _________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 G. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA
 Surat Penunjukan Penyedia Barang/Jasa disampaikan melalui Form Isian Elektronik yang
 tersedia dalam SPSE.
@@ -64140,7 +64140,7 @@ Tembusan Yth. :
 5. ____________ [APIP K/L/PD]
 6. ____________ [Pokja Pemilihan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 H. BENTUK SURAT PERINTAH PENGIRIMAN
 [kop surat K/L/PD]
 SURAT PERINTAH PENGIRIMAN (SPP)
@@ -64172,7 +64172,7 @@ termasuk PPN).
 _________ [tempat], __[tanggal] _____ [bulan] ___ [tahun]
 Semua jenis harga yang tercantum dalam Daftar Kuantitas dan Harga adalah harga sebelum PPN (Pajak
 Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama __________
 Pejabat Penandatangan Kontrak
 [tanda tangan]
@@ -64184,14 +64184,14 @@ Untuk dan atas nama __________[nama Penyedia]
 [tanda tangan]
 [nama lengkap]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Jasa Lainnya
 - Pengadaan Langsung -
 [Untuk yang menggunakan Surat Perintah Kerja (SPK) dan Surat Perjanjian]
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerinta
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Pengadaan Langsung
 untuk
@@ -64200,7 +64200,7 @@ __________
 Pejabat Pengadaan pada: _____________
 Kementerian/Lembaga/Pemerintah Daerah: __________________
 Tahun Anggaran: __________
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ............................................................................................................................- 5 -
 BAB II. UNDANGAN PENGADAAN LANGSUNG .......................................................................- 6 -
@@ -64267,7 +64267,7 @@ KLAUSUL DALAM SSUK .............................................................
 27. SERAH TERIMA PEKERJAAN........................................................................................................................................... - 62 -
 34. PEMUTUSAN KONTRAK OLEH PEJABAT PENANDATANGAN KONTRAK ............................................................................ - 62 -
 35. PEMUTUSAN KONTRAK OLEH PENYEDIA ...................................................................................................................... - 62 -
-Paraf 1 Paraf 2 Paraf 3
+
 38. HAK DAN KEWAJIBAN PEJABAT PENANDATANGAN KONTRAK ........................................................................................ - 63 -
 43. PENANGGUNGAN DAN RISIKO ................................................................................................................................... - 63 -
 46. ASURANSI KHUSUS DAN PIHAK KETIGA ................................................................................................................... - 63 -
@@ -64294,7 +64294,7 @@ G. BENTUK JAMINAN PEMELIHARAAN DARI ASURANSI/PERUSAHAAN PENJAMINAN/ PERUSAHAAN A
 DI BIDANG LEMBAGA PEMBIAYAAN EKSPOR INDONESIA ............................................................................ - 84 -
 H. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA .............................................................................. - 85 -
 I. BENTUK SURAT PERINTAH MULAI KERJA ......................................................................................................... - 86 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pengadaan Langsung ini disusun berdasarkan Peraturan Presiden No. 16 Tahun
 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahan dan aturan
@@ -64329,7 +64329,7 @@ Elektronik (LPSE)
 SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara Elektronik
 (SPSE) berbasis web yang terpasang di server LPSE yang dapat
 diakses melalui website LPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PENGADAAN LANGSUNG
 [kop surat K/L/PD]
 Nomor : _____ __________, __ _________ 20__
@@ -64366,7 +64366,7 @@ Pejabat Pengadaan pada _____________[Kementerian/Lembaga/Perangkat Daerah]
 [tanda tangan]
 ...........................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup 1.1 Peserta menyampaikan penawaran atas paket Pengadaan Jasa
@@ -64409,7 +64409,7 @@ a. Pengurus/manajer koperasi merangkap sebagai Pejabat
 Penandatangan Kontrak/Pejabat Pengadaan pada
 pelaksanaan pengadaan di Kementerian/Lembaga/
 Perangkat Daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pejabat Penandatangan Kontrak/Pejabat Pengadaan baik
 langsung maupun tidak langsung mengendalikan atau
 menjalankan badan usaha Penyedia.
@@ -64464,7 +64464,7 @@ sedang dalam menjalani sanksi pidana;
 6) pimpinan dan pengurus badan usaha bukan sebagai
 pegawai Kementerian/Lembaga/Perangkat Daerah atau
 pimpinan dan pengurus badan usaha sebagai pegawai
-Paraf 1 Paraf 2 Paraf 3
+
 Kementerian/Lembaga/Perangkat Daerah yang sedang
 mengambil cuti di luar tanggungan Negara; dan
 7) Pernyataan bahwa data kualifikasi yang diisikan dan
@@ -64521,7 +64521,7 @@ Rp.2.500.000.000,00 (dua miliar lima ratus juta rupiah)
 c. Memiliki kemampuan untuk menyediakan sumber daya
 manusia dan peralatan yang dibutuhkan dalam proses
 penyediaan termasuk layanan purna jual (jika diperlukan).
-Paraf 1 Paraf 2 Paraf 3
+
 6.2 Untuk peserta perorangan, persyaratan kualifikasi teknis meliputi:
 a) Memiliki kemampuan untuk memenuhi kebutuhan jasa
 lainnya; dan
@@ -64574,7 +64574,7 @@ pusat.
 b. Surat Kuasa dari direktur utama/pimpinan
 perusahaan/pengurus koperasi kepada penerima kuasa
 (apabila dikuasakan);
-Paraf 1 Paraf 2 Paraf 3
+
 8.3 Dokumen Penawaran Teknis yang terdiri dari:
 a. Spesifikasi teknis barang (karakteristik fisik, detail desain,
 toleransi, material yang digunakan, persyaratan
@@ -64622,7 +64622,7 @@ f. Formulir Isian Kualifikasi.
 Negosiasi a. evaluasi administrasi dan kualifikasi;
 Penawaran b. evaluasi teknis; dan
 c. klarifikasi dan negosiasi teknis dan harga.
-Paraf 1 Paraf 2 Paraf 3
+
 11.2 Evaluasi Administrasi dan Kualifikasi :
 a. Penawaran dinyatakan memenuhi persyaratan administrasi,
 apabila surat penawaran memenuhi ketentuan sebagai berikut:
@@ -64679,7 +64679,7 @@ c. harga penawaran dan harga hasil negosiasi;
 d. unsur-unsur yang dievaluasi (apabila ada); dan
 e. keterangan-keterangan lain yang dianggap perlu (apabila
 ada).
-Paraf 1 Paraf 2 Paraf 3
+
 G. PENERBITAN SPPBJ DAN PENANDATANGANAN KONTRAK
 13 Penerbitan 13.1 Pejabat Pengadaan menyampaikan laporan hasil Pengadaan
 SPPBJ Langsung kepada Pejabat Penandatangan Kontrak dengan
@@ -64724,7 +64724,7 @@ diperlukan.
 14.3 Pihak yang berwenang menandatangani kontrak atas nama
 Penyedia adalah sebagaimana dimaksud pada klausul 8.2 huruf
 a butir 4).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 LEMBAR DATA PEMILIHAN
 Bagian IKP No. Isian Ketentuan
@@ -64765,7 +64765,7 @@ KUALIFIKASI Langsung sampai dengan penandatanganan SPK]
 8.3.j Jangka waktu pelaksanaan pekerjaan: ______ (______) hari
 kalender
 [diisi waktu yang diperlukan untuk menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. DAFTAR KUANTITAS, SPESIFIKASI TEKNIS DAN/ATAU GAMBAR
 Keterangan
 Daftar Kuantitas, Spesifikasi Teknis dan/atau Gambar diisi oleh Pejabat Pengadaan
@@ -64788,7 +64788,7 @@ Gambar
 1. [Diisi uraian jenis [diisi satuan [diisi volume unit
 pekerjaan] unit pekerjaan]
 pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. FORMULIR DOKUMEN PENAWARAN
 A. FORMULIR SURAT PENAWARAN
 [Kop Surat]
@@ -64816,7 +64816,7 @@ Penyedia,
 [PT/CV/Firma/Koperasi/Perorangan]
 ..........................
 Nama Lengkap
-Paraf 1 Paraf 2 Paraf 3
+
 B. FORMULIR PENAWARAN TEKNIS
 N Uraian Spesifikasi Satuan Volume Identitas
 o. Pekerjaan Teknis yang
@@ -64835,7 +64835,7 @@ No Uraian Pekerjaan Satuan Volume Jumlah Harga
 Jumlah (Sebelum PPN)
 PPN (10%)
 Jumlah total setelah PPN
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. PAKTA INTEGRITAS
 [Pakta Integritas Badan Usaha]
 Saya yang bertanda tangan di bawah ini:
@@ -64858,7 +64858,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [nama lengkap]
 ____________
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 [Pakta Integritas Perorangan]
 PAKTA INTEGRITAS
 Saya yang bertanda tangan di bawah ini:
@@ -64880,7 +64880,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [tanda tangan],
 ____________
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. FORMULIR ISIAN KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI UNTUK PESERTA BERBENTUK BADAN USAHA
 Saya yang bertanda tangan di bawah ini:
@@ -64908,7 +64908,7 @@ terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. badan usaha yang saya wakili tidak sedang dikenakan Sanksi Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit atau kegiatan usahanya tidak sedang dihentikan;
 6. data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : __________
 2. Status Badan Usaha : Pusat Cabang
@@ -64950,7 +64950,7 @@ Tanda Penduduk Usaha
 Paspor/Surat
 Keterangan
 Domisili Tinggal
-Paraf 1 Paraf 2 Paraf 3
+
 2. Direksi/Pengurus Badan Usaha
 No. Nama Nomor Kartu Jabatan dalam Badan
 Tanda Penduduk Usaha
@@ -64984,7 +64984,7 @@ a. Nomor Pokok Wajib Pajak : __________
 b. Bukti laporan Pajak Tahun
 : No.______tanggal _______
 terakhir (SPT tahunan)
-Paraf 1 Paraf 2 Paraf 3
+
 G. Data Personalia (Tenaga ahli/teknis/terampil badan usaha) [apabila diperlukan]
 Jabatan Tahun
 Tgl/bln/thn Tingkat Pengalaman Profesi/
@@ -65033,7 +65033,7 @@ Telepo
 l (%) (%)
 n
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 Demikian Formulir Isian Kualifikasi ini saya buat dengan sebenarnya dan penuh rasa tanggung
 jawab. Jika dikemudian hari ditemui bahwa data/dokumen yang saya sampaikan tidak benar
 dan ada pemalsuan, maka saya dan badan usaha yang saya wakili bersedia dikenakan sanksi
@@ -65047,7 +65047,7 @@ ____________________[pilih yang sesuai dan cantumkan nama]
 tanda tangan]
 (nama lengkap wakil sah badan usaha)
 [jabatan dalam badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 FORMULIR ISIAN KUALIFIKASI PESERTA PERORANGAN
 Saya yang bertanda tangan di bawah ini:
 Nama : __________
@@ -65083,7 +65083,7 @@ B. Izin Lainnya [apabila dipersyaratkan]
 1. Izin ____________ : No_______Tanggal ______
 2. Masa berlaku izin : __________
 3. Instansi pemberi izin : __________
-Paraf 1 Paraf 2 Paraf 3
+
 C. Data Keuangan
 Pajak
 __________
@@ -65132,7 +65132,7 @@ Pekerjaa a Telep
 n al (%) (%)
 on
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 Demikian pernyataan ini saya buat dengan sebenarnya dan penuh rasa tanggung jawab. Jika
 dikemudian hari ditemui bahwa data/dokumen yang saya sampaikan tidak benar dan ada
 pemalsuan, maka saya bersedia dikenakan sanksi administratif, dikenakan sanksi Daftar Hitam,
@@ -65144,7 +65144,7 @@ ____________________
 [rekatkan meterai Rp 10.000
 tanda tangan]
 (nama lengkap)
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. RANCANGAN SURAT PERINTAH KERJA (SPK)
 [kop surat satuan kerja Pejabat Penandatangan Kontrak]
 SATUAN KERJA : ________________
@@ -65183,7 +65183,7 @@ Kontrak maka rekatkan meterai
 [jabatan]
 [nama lengkap]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 SYARAT UMUM
 SURAT PERINTAH KERJA (SPK)
 1. LINGKUP PEKERJAAN
@@ -65234,7 +65234,7 @@ Perintah Mulai Kerja.
 c. Penyedia harus menyelesaikan pekerjaan sesuai jadwal yang ditentukan.
 d. Apabila penyedia tidak dapat menyelesaikan pekerjaan sesuai jadwal karena keadaan
 diluar pengendaliannya dan penyedia telah melaporkan kejadian tersebut kepada
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Penandatangan Kontrak, maka Pejabat Penandatangan Kontrak dapat
 melakukan penjadwalan kembali pelaksanaan tugas penyedia dengan adendum SPK.
 9. ASURANSI
@@ -65287,7 +65287,7 @@ Cacat Mutu maka uji coba tersebut dianggap sebagai Peristiwa Kompensasi.
 a. Pemeriksaan pekerjaan dilakukan selama pelaksanaan Kontrak terhadap kemajuan
 pekerjaan dalam rangka pengawasan kualitas dan waktu pelaksanaan pekerjaan. Hasil
 pemeriksaan pekerjaan dituangkan dalam laporan kemajuan hasil pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Untuk merekam pelaksanaan pekerjaan, Pejabat Penandatangan Kontrak dapat
 menugaskan Pengawas Pekerjaan dan/atau tim teknis membuat foto-foto
 dokumentasi pelaksanaan pekerjaan di lokasi pekerjaan.
@@ -65344,7 +65344,7 @@ a. SPK hanya dapat diubah melalui adendum SPK.
 b. Perubahan SPK dapat dilaksanakan dalam hal terdapat perbedaan antara kondisi
 lapangan pada saat pelaksanaan dengan SPK dan disetujui oleh para pihak, meliputi:
 1) menambah atau mengurangi volume yang tercantum dalam SPK;
-Paraf 1 Paraf 2 Paraf 3
+
 2) menambah dan/atau mengurangi jenis kegiatan;
 3) mengubah spesifikasi teknis sesuai dengan kondisi lapangan; dan/atau
 4) mengubah jadwal pelaksanaan pekerjaan.
@@ -65402,7 +65402,7 @@ c. Pemutusan SPK dapat dilakukan oleh pihak Pejabat Penandatangan Kontrak atau p
 penyedia.
 d. Menyimpang dari Pasal 1266 dan 1267 Kitab Undang-Undang Hukum Perdata,
 pemutusan SPK melalui pemberitahuan tertulis dapat dilakukan apabila:
-Paraf 1 Paraf 2 Paraf 3
+
 1) penyedia terbukti melakukan KKN, kecurangan dan/atau pemalsuan dalam
 proses Pengadaan yang diputuskan oleh instansi yang berwenang;
 2) pengaduan tentang penyimpangan prosedur, dugaan KKN dan/atau pelanggaran
@@ -65461,7 +65461,7 @@ PPN).
 b. Pejabat Penandatangan Kontrak mengenakan Denda dengan memotong pembayaran
 prestasi pekerjaan penyedia. Pembayaran Denda tidak mengurangi tanggung jawab
 kontraktual penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 23. PENYELESAIAN PERSELISIHAN
 Pejabat Penandatangan Kontrak dan penyedia berkewajiban untuk berupaya sungguh-
 sungguh menyelesaikan secara damai semua perselisihan yang timbul dari atau
@@ -65474,7 +65474,7 @@ Penyedia menjamin bahwa tidak satu pun personel satuan kerja Pejabat Penandatang
 Kontrak telah atau akan menerima komisi atau keuntungan tidak sah lainnya baik
 langsung maupun tidak langsung dari SPK ini. Penyedia menyetujui bahwa pelanggaran
 syarat ini merupakan pelanggaran yang mendasar terhadap SPK ini.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK)
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat Umum Kontrak ini
@@ -65521,7 +65521,7 @@ yang masing-masing pihak mempunyai hak, kewajiban dan
 tanggung jawab yang jelas berdasarkan perjanjian tertulis.
 1.11 Surat Jaminan yang selanjutnya disebut Jaminan adalah
 jaminan tertulis yang dikeluarkan oleh Bank Umum/
-Paraf 1 Paraf 2 Paraf 3
+
 Perusahaan Penjaminan/Perusahaan Asuransi/lembaga
 keuangan khusus yang menjalankan usaha di bidang
 pembiayaan, penjaminan, dan asuransi untuk mendorong
@@ -65571,7 +65571,7 @@ logis, realistis dan dapat dilaksanakan.
 terhitung sejak tanggal penandatanganan kontrak sampai
 dengan selesainya pekerjaan dan terpenuhinya seluruh hak
 dan kewajiban Para Pihak.
-Paraf 1 Paraf 2 Paraf 3
+
 1.23 Tanggal mulai kerja adalah tanggal Penyedia mulai bekerja
 yang sama dengan tanggal penandatangan SPMK yang
 diterbitkan oleh Pejabat Penandatangan Kontrak.
@@ -65619,7 +65619,7 @@ Penandatangan Kontrak kepada PA/KPA.
 4.5 Pejabat Penandatangan Kontrak yang terlibat dalam korupsi,
 kolusi, dan/atau nepotisme dan penipuan dikenakan sanksi
 berdasarkan ketentuan peraturan perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Korespondensi Semua pemberitahuan, permohonan, persetujuan, dan/atau
 korespondensi lainnya harus dibuat secara tertulis dalam Bahasa
 Indonesia, dan dianggap telah diberitahukan kepada Para Pihak atau
@@ -65667,7 +65667,7 @@ Mandiri terhadap personel dan subpenyedianya (jika ada) serta pekerjaan
 yang dilakukan oleh personel dan subpenyedianya.
 11. Kemitraan Kemitraan memberi kuasa kepada salah satu anggota yang disebut
 dalam Surat Perjanjian Kemitraan untuk bertindak untuk dan atas
-Paraf 1 Paraf 2 Paraf 3
+
 nama Kemitraan dalam pelaksanaan hak dan kewajiban terhadap
 Pejabat Penandatangan Kontrak.
 B. PELAKSANAAN KONTRAK
@@ -65714,7 +65714,7 @@ f. pelaksana kerja.
 jika terjadi adendum Kontrak dan Peristiwa Kompensasi.
 15.5 Pemutakhiran program mutu harus menunjukkan
 perkembangan kemajuan setiap pekerjaan dan dampaknya
-Paraf 1 Paraf 2 Paraf 3
+
 terhadap penjadwalan sisa pekerjaan. Pemutakhiran program
 mutu harus mendapatkan persetujuan Pejabat Penandatangan
 Kontrak.
@@ -65764,7 +65764,7 @@ Sah Pejabat Penandatangan Kontrak.
 Pengawas Pekerjaan yang sesuai dengan kewenangan
 Pengawas Pekerjaan dalam Kontrak inidan saran atau
 rekomendasi dari Tim Teknis.
-Paraf 1 Paraf 2 Paraf 3
+
 18. Persetujuan 18.1 Semua gambar yang digunakan untuk mendapatkan hasil
 Pengawas pekerjaan baik yang permanen maupun sementara harus
 Pekerjaan mendapatkan persetujuan Pengawas Pekerjaan.
@@ -65816,7 +65816,7 @@ yang telah ditentukan dalam Kontrak.
 penyedia dan disaksikan oleh Pejabat Penandatangan Kontrak
 atau diwakilkan kepada pihak ketiga sebagaimana diatur
 dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 22.3 Pemeriksaan dan/atau Pengujian dilaksanakan sebagaimana
 diatur dalam SSKK.
 22.4 Biaya pemeriksaan dan/atau pengujian telah termasuk pada
@@ -65868,7 +65868,7 @@ e. Penyedia belum bisa masuk ke lokasi sesuai jadwal dalam
 kontrak;
 f. Pejabat Penandatangan Kontrak memerintahkan penundaaan
 pelaksanaan pekerjaan; atau
-Paraf 1 Paraf 2 Paraf 3
+
 g. ketentuan lain dalam SSKK.
 25. Perpanjangan 25.1 Jika terjadi Peristiwa Kompensasi sehingga penyelesaian
 Waktu pekerjaan akan melampaui tanggal Penyelesaian maka
@@ -65917,7 +65917,7 @@ didalamnya mengatur waktu penyelesaian pekerjaan,
 pengenaan sanksi denda keterlambatan kepada Penyedia, dan
 perpanjangan masa berlaku Jaminan Pelaksanaan (apabila
 ada).
-Paraf 1 Paraf 2 Paraf 3
+
 C. PENYELESAIAN KONTRAK
 27. Serah Terima 27.1 Setelah pekerjaan selesai, penyedia mengajukan permintaan
 Pekerjaan secara tertulis kepada Pejabat Penandatangan Kontrak untuk
@@ -65963,7 +65963,7 @@ Cacat Mutu/ penggunaan secara wajar oleh Pejabat Penandatangan
 Garansi Kontrak, hasil pekerjaan tidak mengandung cacat mutu yang
 disebabkan oleh tindakan atau kelalaian Penyedia, atau cacat
 mutu akibat desain, bahan, dan cara kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 28.2 Jaminan bebas cacat mutu/garansi ini berlaku sampai dengan
 yang tertera dalam spesifikasi.
 28.3 Pejabat Penandatangan Kontrak menyampaikan
@@ -66013,7 +66013,7 @@ b. menambah dan/atau mengurangi jenis kegiatan;
 c. mengubah spesifikasi teknis sesuai dengan kondisi
 lapangan; dan/atau
 d. mengubah jadwal pelaksanaan.
-Paraf 1 Paraf 2 Paraf 3
+
 30.3 Selain adendum/perubahan Kontrak yang diatur pada
 klausul 30.2, addendum/perubahan Kontrak dapat
 dilakukan untuk hal-hal yang disebabkan masalah
@@ -66061,7 +66061,7 @@ dituangkan dalam adendum/perubahan Kontrak.
 31. Keadaan Kahar 31.1 Yang dimaksud Keadaan Kahar dalam Kontrak ini adalah
 suatu keadaan yang terjadi diluar kehendak para pihak dan
 tidak dapat diperkirakan sebelumnya, sehingga kewajiban
-Paraf 1 Paraf 2 Paraf 3
+
 yang ditentukan dalam Kontrak menjadi tidak dapat
 dipenuhi.
 31.2 Yang termasuk Keadaan Kahar tidak terbatas pada:
@@ -66115,7 +66115,7 @@ dikenakan sanksi.
 31.8 Penghentian Kontrak karena keadaan kahar dituangkan
 secara tertulis oleh Pejabat Penandatangan Kontrak dengan
 disertai alasan penghentian pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 31.9 Penghentian Kontrak karena Keadaan Kahar dapat bersifat:
 a. sementara hingga Keadaan Kahar berakhir; atau
 b. permanen apabila akibat Keadaan Kahar tidak
@@ -66166,7 +66166,7 @@ jangka waktu yang telah ditetapkan;
 h. Berdasarkan penelitian Pejabat Penandatangan Kontrak,
 Penyedia tidak akan mampu menyelesaikan pekerjaan
 selama jangka waktu yang diatur dalam klausul 26.3
-Paraf 1 Paraf 2 Paraf 3
+
 SSKK, Penyedia Barang/Jasa tidak dapat menyelesaikan
 pekerjaan;
 i. setelah diberikan kesempatan menyelesaikan pekerjaan
@@ -66220,7 +66220,7 @@ Kontrak kewajiban para pihak yang terdapat dalam Kontrak sudah
 terpenuhi.
 36.2 Terpenuhinya hak dan kewajiban para pihak sebagaimana
 dimaksud pada klausul 36.1 adalah terkait dengan
-Paraf 1 Paraf 2 Paraf 3
+
 pembayaran yang seharusnya dilakukan akibat dari
 pelaksanaan kontrak.
 37. Peninggalan Semua Bahan, Perlengkapan, Peralatan, Hasil Pekerjaan Sementara
@@ -66271,7 +66271,7 @@ Pejabat Penandatangan Kontrak;
 b. melaksanakan dan menyelesaikan pekerjaan sesuai dengan
 jadwal pelaksanaan pekerjaan yang telah ditetapkan dalam
 Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 c. melaksanakan dan menyelesaikan pekerjaan secara cermat,
 akurat dan penuh tanggung jawab berdasarkan ketentuan
 dalam Kontrak;
@@ -66324,7 +66324,7 @@ atau kerusakan tersebut diakibatkan oleh kesalahan atau
 kelalaian Pejabat Penandatangan Kontrak.
 43.3 Pertanggungan asuransi yang dimiliki oleh Penyedia tidak
 membatasi kewajiban penanggungan dalam syarat ini.
-Paraf 1 Paraf 2 Paraf 3
+
 43.4 Kehilangan atau kerusakan terhadap hasil pekerjaan atau
 bahan yang menyatu dengan hasil pekerjaan yang terjadi sejak
 tanggal SPMK diterbitkan sampai batas akhir Masa
@@ -66375,7 +66375,7 @@ Kontrak
 48. Kerjasama 48.1 Penyedia dapat bekerjasama dengan usaha kecil dengan
 Penyedia dengan mensubkontrakkan sebagian pekerjaan yang bukan pekerjaan
 Usaha Kecil utama.
-Paraf 1 Paraf 2 Paraf 3
+
 sebagai 48.2 Bagian Pekerjaan yang wajib disubkontrakkan oleh Penyedia
 SubPenyedia kepada usaha kecil sebagai SubPenyedia diatur di dalam SSKK.
 48.3 Dalam kerjasama di atas, Penyedia bertanggung jawab penuh
@@ -66421,7 +66421,7 @@ Kontrak apabila Penyedia menerima uang muka dan
 diserahkan sebelum pengambilan Uang Muka.
 52.5 Nilai Jaminan Uang Muka sama dengan besarnya uang muka
 yang diterima oleh Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 52.6 Nilai Jaminan Uang Muka dapat dikurangi secara proporsional
 sesuai dengan sisa uang muka yang diterima.
 52.7 Masa berlaku Jaminan Uang Muka sekurang-kurangnya sejak
@@ -66468,7 +66468,7 @@ a. tidak mampu atau tidak dapat melakukan pekerjaan
 dengan baik;
 b. berkelakuan tidak baik; atau
 c. mengabaikan pekerjaan yang menjadi tugasnya.
-Paraf 1 Paraf 2 Paraf 3
+
 55.6 Jika penggantian Personel perlu dilakukan, maka penyedia
 berkewajiban untuk menyediakan pengganti dengan
 kualifikasi yang setara atau lebih baik dari Personel yang
@@ -66523,7 +66523,7 @@ tertuang dalam Kontrak.
 a. pembayaran dilakukan dengan sistem bulanan, sistem
 termin atau pembayaran secara sekaligus sesuai yang
 ditetapkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 b. pembayaran prestasi hasil pekerjaan dilakukan dengan
 ketentuan:
 1) penyedia telah mengajukan tagihan disertai laporan
@@ -66579,7 +66579,7 @@ Satuan, perhitungan akhir nilai pekerjaan berdasarkan volume
 pekerjaan yang telah diselesaikan sesuai dengan ketentuan
 yang tertuang dalam kontrak dan dituangkan dalam Adendum
 Kontrak (apabila ada)
-Paraf 1 Paraf 2 Paraf 3
+
 58.2 Pembayaran angsuran prestasi pekerjaan terakhir dilakukan
 setelah pekerjaan selesai sesuai dengan ketentuan yang
 tertuang dalam kontrak dan Berita Acara Serah Terima telah
@@ -66625,7 +66625,7 @@ Adendum Kontrak tersebut ditandatangani.
 terlambat disebabkan oleh kesalahan Penyedia adalah indeks
 harga terendah antara jadwal kontrak dan realisasi
 pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 60.9 Penyesuaian Harga Satuan, ditetapkan dengan rumus sebagai
 berikut:
 𝐵𝑛 𝐶𝑛 𝐷𝑛
@@ -66671,7 +66671,7 @@ I. PENGAWASAN MUTU
 dan dan pemeriksaan terhadap pelaksanaan pekerjaan yang
 Pemeriksaan dilaksanakan oleh Penyedia. Apabila diperlukan, Pejabat
 Penandatangan Kontrak dapat memerintahkan kepada pihak lain
-Paraf 1 Paraf 2 Paraf 3
+
 untuk melakukan pengawasan dan pemeriksaan atas semua
 pelaksanaan pekerjaan yang dilaksanakan oleh Penyedia.
 62. Penilaian 62.1 Pejabat Penandatangan Kontrak dalam masa pelaksanaan
@@ -66722,7 +66722,7 @@ memotong pembayaran atas tagihan Penyedia yang
 jatuh tempo (apabila ada) atau biaya penggantian
 diperhitungkan sebagai hutang penyedia kepada
 Pejabat Penandatangan Kontrak yang telah jatuh tempo.
-Paraf 1 Paraf 2 Paraf 3
+
 65.4 Pejabat Penandatangan Kontrak dapat mengenakan Denda
 Keterlambatan untuk setiap keterlambatan perbaikan Cacat
 Mutu.
@@ -66755,7 +66755,7 @@ Lembaga Arbitrase atau Pengadilan Negeri.
 67.4 Pejabat Penandatangan Kontrak dan Penyedia bersama-sama
 memilih dan menetapkan tempat penyelesaian sengketa dan
 dicantumkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. SYARAT-SYARAT KHUSUS KONTRAK (SSKK)
 Klausul dalam SSUK No. Pengaturan dalam SSKK
 SSUK
@@ -66802,7 +66802,7 @@ subkontraktor.]
 Pelaksanaan _____(_______) (hari kalender), atau Penyedia harus
 Pekerjaan menyelesaikan pekerjaan sejak tanggal SPMK diterbitkan
 sampai dengan Tanggal _________(_______)
-Paraf 1 Paraf 2 Paraf 3
+
 [diisi dengan memilih salah satu, menggunakan jumlah
 hari atau menggunakan tanggal]
 20. Mobilisasi 20.1 Mobilisasi paling lambat dilaksanakan ___ hari kalender
@@ -66846,7 +66846,7 @@ Penyedia dengan jumlah hari kalender]
 35.1.b Batas waktu untuk penerbitan surat perintah
 pembayaran paling lama _______________[diisi dengan
 jumlah hari kalender]
-Paraf 1 Paraf 2 Paraf 3
+
 38. Hak dan 38.2.e Pejabat Penandatangan Kontrak akan memberikan
 Kewajiban fasilitas berupa:_____[diisi dengan rincian sarana dan
 Pejabat prasarana atau kemudahan lainnya yang akan diberikan
@@ -66894,7 +66894,7 @@ ____________.
 Termin ke-2: sebesar ___% dari nilai Kontrak untuk
 penyelesaian tahapan pekerjaan/sub-output berupa
 ____________.
-Paraf 1 Paraf 2 Paraf 3
+
 Termin ke-3: sebesar ___% dari nilai Kontrak untuk
 penyelesaian tahapan pekerjaan/sub-output berupa
 ____________.
@@ -66933,7 +66933,7 @@ oleh LKPP/Lembaga Arbitrase/Pengadilan Negeri]
 Dalam hal penyelesaian sengketa dilakukan pada
 Pengadilan Negeri _______________ [disebutkan Nama
 Pengadilan Negeri]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. RANCANGAN SURAT PERJANJIAN
 A. BENTUK SURAT PERJANJIAN DENGAN PERORANGAN
 SURAT PERJANJIAN
@@ -66976,7 +66976,7 @@ mengkonfirmasikan semua ketentuan dalam Kontrak ini beserta semua fakta dan
 kondisi yang terkait.
 Maka oleh karena itu, Pejabat Penandatangan Kontrak dan Penyedia dengan ini bersepakat dan
 menyetujui hal-hal sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
@@ -67020,7 +67020,7 @@ Masa Berlaku Kontrak
 Masa berlaku Kontrak ini terhitung sejak tanggal penandatanganan Kontrak sampai dengan
 selesainya pekerjaan dan terpenuhinya seluruh hak dan kewajiban Para Pihak sebagaimana
 diatur dalam SSUK dan SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam 2
@@ -67040,7 +67040,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan
 untuk Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERJANJIAN DENGAN PENYEDIA BERBENTUK BADAN USAHA
 SURAT PERJANJIAN
 untuk melaksanakan
@@ -67088,7 +67088,7 @@ Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
 tercantum dalam lampiran Kontrak ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 2
 Ruang Lingkup Pekerjaan
 Ruang lingkup pekerjaan Pengadaan Jasa Lainnya terdiri atas:
@@ -67134,7 +67134,7 @@ dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat d
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
 sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
 tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Untuk dan atas nama
 Pejabat Penandatangan Kontrak Penyedia
 __________ __________
@@ -67146,7 +67146,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan
 untuk Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT PERJANJIAN DENGAN PENYEDIA BERBENTUK KEMITRAAN
 SURAT PERJANJIAN
 untuk melaksanakan
@@ -67195,7 +67195,7 @@ mengkonfirmasikan semua ketentuan dalam Kontrak ini beserta semua fakta dan
 kondisi yang terkait.
 Maka oleh karena itu, Pejabat Penandatangan Kontrak dan Penyedia dengan ini bersepakat dan
 menyetujui hal-hal sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
@@ -67241,7 +67241,7 @@ selesainya pekerjaan dan terpenuhinya seluruh hak dan kewajiban Para Pihak sebag
 diatur dalam SSUK dan SSKK.
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam
 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
 sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
@@ -67258,7 +67258,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan
 untuk Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. BENTUK DOKUMEN LAIN
 A. BENTUK PERJANJIAN KEMITRAAN
 SURAT PERJANJIAN KEMITRAAN
@@ -67305,7 +67305,7 @@ c. akan mengikuti proses pengadaan secara bersih, transparan, dan profesional un
 memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-undangan; dan
 d. apabila melanggar hal-hal yang dinyatakan dalam huruf a, b, dan/atau c maka bersedia
 menerima sanksi administratif, dikenakan sanksi sesuai dengan peraturan perundang-
-Paraf 1 Paraf 2 Paraf 3
+
 undangan.
 7. Wewenang menandatangani untuk dan atas nama Kemitraan diberikan kepada
 _________________________[nama wakil peserta] dalam kedudukannya sebagai direktur
@@ -67322,7 +67322,7 @@ hari_____ tanggal_______ bulan_____________, tahun_____
 (_________________)
 Catatan:.
 - Surat Perjanjian Kemitraan ini harus dibuat diatas kertas segel/bermeterai.
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK JAMINAN PELAKSANAAN DARI BANK
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -67367,7 +67367,7 @@ janji/lalai/tidak memenuhi kewajibannya.
 diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang Yang Dijamin
 sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 _____________.
@@ -67380,7 +67380,7 @@ _____[bank]
 Meterai Rp10.000,00
 ________________
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN PELAKSANAAN DARI ASURANSI/ PERUSAHAAN PENJAMINAN/
 PERUSAHAAN ASURANSI DI BIDANG LEMBAGA PEMBIAYAAN EKSPOR INDONESIA
 [Kop Penerbit Jaminan]
@@ -67426,7 +67426,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 ___________ _____________
 [Nama dan Jabatan] [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK JAMINAN UANG MUKA DARI BANK
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -67473,7 +67473,7 @@ Perdata.
 Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ___________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : ____________
 Untuk keyakinan, pemegang
 Garansi Bank disarankan untuk Pada tanggal : ____________
@@ -67483,7 +67483,7 @@ _____[bank]
 Meterai Rp10.000,00
 ____________
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK JAMINAN UANG MUKA DARI ASURANSI/PERUSAHAAN PENJAMINAN/
 PERUSAHAAN ASURANSI DI BIDANG LEMBAGA PEMBIAYAAN EKSPOR INDONESIA
 [Kop Penerbit Jaminan]
@@ -67528,7 +67528,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ _________________
 [Nama dan Jabatan] [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK JAMINAN PEMELIHARAAN DARI BANK
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -67571,7 +67571,7 @@ janji/lalai/tidak memenuhi kewajibannya.
 diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang Yang Dijamin
 sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
@@ -67584,7 +67584,7 @@ _____[bank]
 Meterai Rp10.000,00
 _________________
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 G. BENTUK JAMINAN PEMELIHARAAN DARI ASURANSI/PERUSAHAAN PENJAMINAN/
 PERUSAHAAN ASURANSI DI BIDANG LEMBAGA PEMBIAYAAN EKSPOR INDONESIA
 [Kop Penerbit Jaminan]
@@ -67627,7 +67627,7 @@ TERJAMIN PENJAMIN
 Meterai Rp.10.000,00
 ______________ __________________
 [Nama Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 H. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA
 [kop surat K/L/PD]
 Nomor : __________ __________, __ __________ 20__
@@ -67657,7 +67657,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pejabat Pengadaan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 I. BENTUK SURAT PERINTAH MULAI KERJA
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -67691,13 +67691,13 @@ Pejabat Penandatangan Kontrak
 [nama lengkap]
 [jabatan]
 NIP: __________
-Paraf 1 Paraf 2 Paraf 3
+
 Menerima dan menyetujui:
 Untuk dan atas nama __________[nama Penyedia]
 [tanda tangan]
 [nama lengkap]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Jasa Konsultansi
@@ -67705,7 +67705,7 @@ Badan Usaha
 - Pengadaan Langsung -
 [Untuk yang menggunakan Surat Perintah Kerja (SPK) dan Surat Perjanjian]
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Pengadaan Langsung
 untuk
@@ -67714,7 +67714,7 @@ __________
 Pejabat Pengadaan pada
 Kementerian/Lembaga/Pemerintah Daerah: __________________
 Tahun Anggaran: __________
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ........................................................................................................................................- 6 -
 BAB II. UNDANGAN PENGADAAN LANGSUNG ....................................................................................- 7 -
@@ -67779,7 +67779,7 @@ BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK)........................................
 1. DEFINISI ............................................................................................................................................. - 44 -
 2. PENERAPAN ........................................................................................................................................ - 46 -
 3. PEMISAHAN ........................................................................................................................................ - 46 -
-Paraf 1 Paraf 2 Paraf 3
+
 4. BAHASA DAN HUKUM ........................................................................................................................ - 46 -
 5. ASAL JASA KONSULTANSI .................................................................................................................... - 47 -
 6. PEMBUKUAN ...................................................................................................................................... - 47 -
@@ -67845,7 +67845,7 @@ BAB XI. SYARAT-SYARAT KHUSUS KONTRAK (SSKK) ....................................
 25. PERPANJANGAN WAKTU ..................................................................................................................... - 69 -
 26. PEMBERIAN KESEMPATAN ................................................................................................................... - 69 -
 27. SERAH TERIMA PEKERJAAN.................................................................................................................. - 69 -
-Paraf 1 Paraf 2 Paraf 3
+
 28. LAYANAN TAMBAHAN ........................................................................................................................ - 69 -
 33. PEMUTUSAN KONTRAK OLEH PEJABAT PENANDATA NGAN KONTRAK................................................... - 69 -
 34. PEMUTUSAN KONTRAK OLEH PENYEDIA ............................................................................................. - 69 -
@@ -67865,7 +67865,7 @@ BAB XIII. BENTUK DOKUMEN LAIN ..................................................
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA ....................................................... - 78 -
 B. BENTUK SURAT PERINTAH MULAI KERJA ................................................................................... - 79 -
 C. BENTUK JAMINAN UANG MUKA ................................................................................................. - 80 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pengadaan Langsung ini disusun berdasarkan Peraturan Presiden No. 16
 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahan dan aturan
@@ -67899,7 +67899,7 @@ Elektronik (LPSE)
 SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara Elektronik
 (SPSE) berbasis web yang terpasang di server LPSE yang dapat
 diakses melalui website LPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PENGADAAN LANGSUNG
 [kop surat K/L/PD]
 Nomor : _____ __________, __ _________ ____
@@ -67936,7 +67936,7 @@ Pejabat Pengadaan pada _____________[K/L/PD]
 [tanda tangan]
 ...........................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup 1.1 Peserta menyampaikan penawaran atas paket Pengadaan Jasa
@@ -67979,7 +67979,7 @@ a. Pengurus/manajer koperasi merangkap sebagai Pejabat
 Penandatangan Kontrak/Pejabat Pengadaan pada
 pelaksanaan pengadaan di Kementerian/Lembaga/
 Perangkat Daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pejabat Penandatangan Kontrak /Pejabat Pengadaan baik
 langsung maupun tidak langsung mengendalikan atau
 menjalankan badan usaha Penyedia.
@@ -68032,7 +68032,7 @@ Kementerian/Lembaga/Perangkat Daerah atau pimpinan dan
 pengurus badan usaha sebagai pegawai
 Kementerian/Lembaga/Perangkat Daerah yang sedang
 mengambil cuti diluar tanggungan Negara.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Persyaratan Persyaratan kualifikasi teknis untuk Penyedia Jasa Konsultansi
 Kualifikasi Nonkonstruksi Badan Usaha, meliputi:
 Teknis Peserta a. Memiliki pengalaman:
@@ -68086,7 +68086,7 @@ dalam LDP;
 3) harga penawaran (dalam angka dan huruf); dan
 4) tanda tangan oleh :
 a) direktur utama/pimpinan perusahaan;
-Paraf 1 Paraf 2 Paraf 3
+
 b) penerima kuasa dari direktur utama/pimpinan
 perusahaan/yang nama penerima kuasanya
 tercantum dalam akta pendirian/anggaran dasar;
@@ -68143,7 +68143,7 @@ unsur:
 diperlukan)
 6) Pengenalan Penguasaan situasi dan kondisi di
 lokasi pekerjaan setempat (apabila diperlukan).
-Paraf 1 Paraf 2 Paraf 3
+
 8.4 Dokumen Penawaran Harga berupa Rincian harga
 penawaran yang terdiri dari:
 a. Rekapitulasi penawaran biaya;
@@ -68193,7 +68193,7 @@ c. Evaluasi Kualifikasi dengan ketentuan:
 2) Evaluasi kelengkapan dan keabsahan Pakta Integritas dan
 Formulir Isian Kualifikasi, seseuai dengan persyaratan
 kualifikasi pada klausul 5 dan 6.
-Paraf 1 Paraf 2 Paraf 3
+
 3) Apabila penyedia tidak memenuhi persyaratan
 kualifikasi, Pejabat Pengadaan menyatakan Pengadaan
 Langsung gagal, dan mengundang Pelaku Usaha lain.
@@ -68244,7 +68244,7 @@ a. bahwa proses Pengadaan Langsung sudah dilaksanakan
 sesuai prosedur; dan
 b. bahwa calon Penyedia memiliki kemampuan untuk
 melaksanakan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 13.3 Dalam hal Pejabat Penandatangan Kontrak menyetujui hasil
 Pengadaan Langsung, maka Pejabat Penandatangan Kontrak
 menerbitkan SPPBJ.
@@ -68278,7 +68278,7 @@ diperlukan.
 14.3 Pihak yang berwenang menandatangani kontrak atas nama
 Penyedia adalah sebagaimana dimaksud pada klausul 8.2
 huruf a butir 4).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 LEMBAR DATA PEMILIHAN
 Bagian IKP No. IKP Isian Ketentuan
@@ -68315,7 +68315,7 @@ Jangka waktu pelaksanaan pekerjaan:
 _____(________) hari kalender
 [diisi waktu yang diperlukan untuk menyelesaikan
 pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -68350,7 +68350,7 @@ Penyedia Jasa
 1 Uraian Pendahuluan memuat gambaran secara garis besar mengenai pekerjaan yang akan dilaksanakan.
 2 Data penunjang terdiri dari data yang berkaitan dengan pelaksanaan pekerjaan.
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain.
-Paraf 1 Paraf 2 Paraf 3
+
 16. Jangka Waktu
 Penyelesaian
 Kegiatan
@@ -68388,7 +68388,7 @@ menyelenggarakan pertemuan dan pembahasan dalam rangka
 alih pengetahuan kepada personel proyek/satuan kerja PPK
 berikut:
 4 Khusus untuk Metode Evaluasi Pagu Anggaran jumlah orang bulan tidak boleh dicantumkan.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. FORMULIR DOKUMEN PENAWARAN
 A. FORMULIR SURAT PENAWARAN
 [Kop Surat]
@@ -68418,14 +68418,14 @@ Penyedia,
 ..........................
 Nama Lengkap
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. FORMULIR PENAWARAN TEKNIS
 1. BENTUK DATA ORGANISASI PERUSAHAAN (Form T-1)
 DATA ORGANISASI _________[ PT/CV/Firma/Koperasi]
 [cantumkan uraian ringkas (kurang lebih 2 (dua) halaman) mengenai latar belakang
 dan organisasi peserta dan penanggung jawab yang ditugaskan untuk mengelola
 pekerjaan jasa konsultansi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 2. BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN TERAKHIR
 (Form T-2)
 Form T-2 ini digunakan untuk mencantumkan pengalaman kerja sejenis 10
@@ -68442,7 +68442,7 @@ Keterangan isi kolom :
 3. Tahun
 4. Nilai kontrak pekerjaan
 5. Nama instansi Pemberi Kerja
-Paraf 1 Paraf 2 Paraf 3
+
 3. BENTUK URAIAN PENGALAMAN KERJA 10 (SEPULUH) TAHUN TERAKHIR (Form T-
 3)
 Form T-3 ini digunakan untuk menguraikan masing-masing pengalaman
@@ -68483,7 +68483,7 @@ _________________
 e. _________________ ___________________
 _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 4. BENTUK TANGGAPAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA DAN
 PERSONEL/FASILITAS PENDUKUNG DARI PPK (Form T-4)
 A. TANGGAPAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
@@ -68497,7 +68497,7 @@ B. TANGGAPAN DAN SARAN TERHADAP PERSONEL/FASILITAS PENDUKUNG DARI PPK
 Pejabat Penandatangan Kontrak sesuai dengan Dokumen Seleksi ini meliputi antara
 lain (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan, data,
 dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 5. BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA (Form T-5)
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari Penawaran
 Teknis. Peserta disarankan untuk menyajikan detail penawaran teknis (misalnya 50 (lima
@@ -68523,7 +68523,7 @@ Teknis-6 mengenai Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Rencana Penggunaan Tenaga Ahli. Dalam bab ini usulkan struktur dan
 komposisi tim. Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli
 inti sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 6. BENTUK JADWAL PELAKSANAAN PEKERJAAN (Form T-6)
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-2
@@ -68537,7 +68537,7 @@ Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, 
 kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah berdasarkan
 tahapannya
 2 Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok .
-Paraf 1 Paraf 2 Paraf 3
+
 7. BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN (Form T-7)
 Daftar Riwayat Hidup
 1. Posisi yang diusulkan : __________________________
@@ -68590,7 +68590,7 @@ tidak bisa melaksanakan tugas;
 c. Saya berjanji melaksanakan semua penugasan;
 d. Saya bukan merupakan bagian dari tim yang menyusun Kerangka Acuan Kerja;
 e. Saya akan memenuhi semua ketentuan Klausul 4 dan 5 pada IKP.
-Paraf 1 Paraf 2 Paraf 3
+
 Jika terdapat pengungkapan keterangan yang tidak benar secara sengaja atau sepatutnya diduga
 maka saya siap untuk digugurkan dari proses seleksi atau dikeluarkan jika sudah dipekerjakan.
 ____________,_____ ____
@@ -68598,7 +68598,7 @@ Mengetahui: Yang membuat pernyataan,
 [nama Penyedia Jasa Konsultansi]
 (__________) (__________)
 [nama jelas wakil sah] [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 8. BENTUK KOMPOSISI TIM DAN PENUGASAN (Form T-8)
 KOMPOSISI TIM DAN PENUGASAN
 (DAFTAR PERSONEL)
@@ -68616,7 +68616,7 @@ Nama Tenaga Ahli Lingkup Posisi Uraian
 Perusahaan Orang
 Personel Lokal/Asing Keahlian Diusulkan Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 9. BENTUK JADWAL PENUGASAN TENAGA AHLI (Form T-9)
 JADWAL PENUGASAN TENAGA AHLI
 Masukan Personel (dalam bentuk diagram balok)1
@@ -68635,7 +68635,7 @@ Masukan Masukan Paruh-Waktu
 Penuh-
 Waktu
 1 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK DOKUMEN PENAWARAN HARGA
 1. BENTUK REKAPITULASI PENAWARAN BIAYA (Form B-1)
 REKAPITULASI PENAWARAN BIAYA
@@ -68648,7 +68648,7 @@ Sub-total
 PPN 10%
 Total
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 2. BENTUK RINCIAN BIAYA LANGSUNG PERSONEL (Form B-2)
 RINCIAN BIAYA LANGSUNG PERSONEL
 Orang Remunerasi Jumlah
@@ -68661,7 +68661,7 @@ Keterangan:
 1. Untuk Tenaga Ahli pengisian masukan harus mencantumkan nama personel; untuk Tenaga
 Pendukung cukup dicantumkan posisi, misalnya juru gambar, staf administrasi, dan
 sebagainya.
-Paraf 1 Paraf 2 Paraf 3
+
 3. BENTUK RINCIAN BIAYA LANGSUNG NON PERSONEL (Form B-3)
 RINCIAN BIAYA LANGSUNG NON-PERSONEL
 (DIRECT REIMBURSEABLE COST)
@@ -68696,7 +68696,7 @@ Keterangan:
 Untuk Kontrak Berdasarkan Waktu Penugasan Biaya langsung non-personel dibayarkan
 berdasarkan jenis pengeluaran non-personel yang dapat berupa penggantian sesuai
 pengeluaran (at cost), harga satuan, atau lumsum.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. PAKTA INTEGRITAS
 PAKTA INTEGRITAS
 Saya yang bertanda tangan di bawah ini:
@@ -68719,7 +68719,7 @@ __________[tempat], __[tanggal] __________[bulan] ____[tahun]
 [Nama Penyedia]
 [tanda tangan] ,
 nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. FORMULIR ISIAN KUALIFIKASI
 FORMULIR ISIAN DATA KUALIFIKASI
 Saya yang bertanda tangan di bawah ini:
@@ -68758,7 +68758,7 @@ E-Mail : __________
 Bukti kepemilikan/penguasaan
 5. : __________
 tempat usaha/kantor
-Paraf 1 Paraf 2 Paraf 3
+
 B. Landasan Hukum Pendirian Perusahaan
 1. Akta Pendirian Perusahaan/Anggaran Dasar Koperasi
 a.Nomor : __________
@@ -68795,7 +68795,7 @@ D. NIB, Izin Usaha dan Tanda Daftar Perusahaan (TDP)
 3. Instansi pemberi izin usaha : __________
 4. Klasifikasi Usaha : _____________
 5. No. TDP : _____________
-Paraf 1 Paraf 2 Paraf 3
+
 E. Izin Lainnya [apabila dipersyaratkan]
 1. Izin ____________ : No_______Tanggal ______
 2. Masa berlaku izin : __________
@@ -68829,7 +68829,7 @@ pembuatan (%) Sekarang Kepemilikan
 Perlengkapan pada tipe
 saat ini
 1 2 3 4 5 6 7 8 9
-Paraf 1 Paraf 2 Paraf 3
+
 I. Data Pengalaman Perusahaan dalam kurun waktu 3 tahun terakhir
 Status
 Penyedia
@@ -68872,7 +68872,7 @@ pekerjaan Nama (Rencana) Kerja
 Telepon Pekerjaan Tanggal
 (%) (%)
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 Demikian Formulir Isian Kualifikasi ini saya buat dengan sebenarnya dan penuh rasa tanggung
 jawab. Jika dikemudian hari ditemui bahwa data/dokumen yang saya sampaikan tidak benar
 dan ada pemalsuan, maka saya dan badan usaha yang saya wakili bersedia dikenakan sanksi
@@ -68884,7 +68884,7 @@ ____________________[pilih yang sesuai dan cantumkan nama]
 tanda tangan]
 (nama lengkap wakil sah badan usaha )
 [jabatan dalam badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. BENTUK SURAT PERINTAH KERJA (SPK)
 [kop surat satuan kerja Pejabat Penandatangan Kontrak]
 SATUAN KERJA : ________________
@@ -68927,7 +68927,7 @@ SURAT PERINTAH KERJA (SPK)
 Penyedia yang ditunjuk berkewajiban untuk menyelesaikan pekerjaan dalam jangka
 waktu yang ditentukan, dengan mutu sesuai Kerangka Acuan Kerja dan harga sesuai
 SPK.
-Paraf 1 Paraf 2 Paraf 3
+
 2. HUKUM YANG BERLAKU
 Keabsahan, interpretasi, dan pelaksanaan SPK ini didasarkan kepada hukum Republik
 Indonesia.
@@ -68980,7 +68980,7 @@ dapat diduga;
 2) pihak ketiga sebagai akibat kecelakaan di tempat kerjanya; dan
 b. Besarnya asuransi sudah diperhitungkan dalam penawaran dan termasuk dalam
 biaya SPK.
-Paraf 1 Paraf 2 Paraf 3
+
 10. PENUGASAN PERSONEL
 Penyedia tidak diperbolehkan menugaskan personel selain personel yang telah disetujui
 oleh Pejabat Penandatangan Kontrak untuk melaksanakan pekerjaan berdasarkan SPK
@@ -69035,7 +69035,7 @@ kemajuan fisik pekerjaan dalam periode satu bulan, serta hal-hal penting yang pe
 ditonjolkan.
 g. Untuk merekam kegiatan pelaksanaan proyek, Pejabat Penandatangan Kontrak
 membuat foto-foto dokumentasi pelaksanaan pekerjaan di lokasi pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 14. WAKTU PENYELESAIAN PEKERJAAN
 a. Kecuali SPK diputuskan lebih awal, penyedia berkewajiban untuk memulai
 pelaksanaan pekerjaan pada tanggal mulai kerja, dan melaksanakan pekerjaan sesuai
@@ -69090,7 +69090,7 @@ pekerjaan;
 yang tidak dapat diduga sebelumnya dan disebabkan oleh Pejabat Penandatangan
 Kontrak;
 8) ketentuan lain dalam SPK.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Jika Peristiwa Kompensasi mengakibatkan pengeluaran tambahan dan/atau
 keterlambatan penyelesaian pekerjaan maka Pejabat Penandatangan Kontrak
 berkewajiban untuk membayar ganti rugi dan/atau memberikan perpanjangan
@@ -69148,7 +69148,7 @@ yang ditetapkan oleh Pejabat Penandatangan Kontrak;
 9) Pejabat Penandatangan Kontrak memerintahkan penyedia untuk menunda
 pelaksanaan atau kelanjutan pekerjaan, dan perintah tersebut tidak ditarik
 selama 28 (dua puluh delapan) hari; dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 10) Pejabat Penandatangan Kontrak tidak menerbitkan surat perintah pembayaran
 untuk pembayaran tagihan angsuran sesuai dengan yang disepakati
 sebagaimana tercantum dalam SPK.
@@ -69201,7 +69201,7 @@ Penyedia menjamin bahwa tidak satu pun personel satuan kerja Pejabat Penandatang
 Kontrak telah atau akan menerima komisi atau keuntungan tidak sah lainnya baik
 langsung maupun tidak langsung dari SPK ini. Penyedia menyetujui bahwa pelanggaran
 syarat ini merupakan pelanggaran yang mendasar terhadap SPK ini.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK)
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat Umum Kontrak
@@ -69247,7 +69247,7 @@ barang/jasa berdasarkan kontrak.
 1.10 Subpenyedia adalah penyedia yang mengadakan perjanjian
 kerja dengan penyedia penanggung jawab kontrak, untuk
 melaksanakan sebagian pekerjaan (subkontrak).
-Paraf 1 Paraf 2 Paraf 3
+
 1.11 Kemitraan adalah Kerja sama antar penyedia baik dalam
 bentuk konsorsium/kerja sama operasi /bentuk kerja sama
 lain yang masing-masing pihak mempunyai hak, kewajiban
@@ -69297,7 +69297,7 @@ berdasarkan Kontrak.
 langsung yang diperlukan untuk menunjang pelaksanaan
 Kontrak yang dibuat dengan mempertimbangkan dan
 berdasarkan harga pasar yang wajar dan dapat
-Paraf 1 Paraf 2 Paraf 3
+
 dipertanggungjawabkan serta sesuai dengan perkiraan
 kegiatan.
 1.23 Personel Inti adalah orang yang ditempatkan secara penuh
@@ -69345,7 +69345,7 @@ berlaku secara penuh.
 Hukum Bahasa Indonesia.
 4.2 Dalam hal Kontrak dilakukan dengan pihak asing harus
 dibuat dalam bahasa Indonesia dan bahasa Inggris. Dalam
-Paraf 1 Paraf 2 Paraf 3
+
 hal terjadi perselisihan dengan pihak asing digunakan
 Kontrak dalam bahasa Indonesia.
 4.3 Hukum yang digunakan adalah hukum yang berlaku di
@@ -69397,7 +69397,7 @@ sebagaimana ditetapkan dalam SSKK; dan
 c. pengenaan sanksi daftar hitam.
 PA/KPA menyampaikan dokumen penetapan sanksi
 daftar hitam kepada:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Penyedia yang dikenakan sanksi daftar hitam; dan
 2) Unit kerja yang melaksanakan fungsi layanan
 pengadaan secara elektronik, untuk ditayangkan
@@ -69444,7 +69444,7 @@ yang dilakukan oleh personel atau Subpenyedianya.
 dalam Surat Perjanjian Kemitraan untuk bertindak untuk dan atas
 nama Kemitraan dalam pelaksanaan hak dan kewajiban terhadap
 Pejabat Penandatangan Kontrak berdasarkan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 15. Pengawasan 15.1. Pejabat Penandatangan Kontrak dapat mengangkat tim
 Pelaksanaan pendukung untuk pengawasan pelaksanaan pekerjaan sesuai
 Pekerjaan Kontrak ini.
@@ -69495,7 +69495,7 @@ c. jadwal pelaksanaan pekerjaan;
 d. prosedur pelaksanaan pekerjaan;
 e. prosedur instruksi kerja; dan/atau
 f. pelaksana kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 19.3 Program mutu dapat direvisi sesuai dengan kondisi
 pekerjaan.
 19.4 Penyedia berkewajiban untuk memutakhirkan program
@@ -69544,7 +69544,7 @@ dan/atau tenaga profesional.
 pelaksanaan pekerjaan.
 21.4 Tim Teknis berkewajiban untuk membahas dan menilai
 laporan konsultan.
-Paraf 1 Paraf 2 Paraf 3
+
 21.5 Dalam melaksanakan kewajibannya, Pengawas Pekerjaan
 selalu bertindak untuk kepentingan Pejabat Penandatangan
 Kontrak . Pengawas Pekerjaan dapat bertindak sebagai Wakil
@@ -69597,7 +69597,7 @@ sebelumnya yang disebabkan/tidak disebabkan oleh Pejabat
 Penandatangan Kontrak ;
 g. Pejabat Penandatangan Kontrak memerintahkan penundaan
 pelaksanaan pekerjaan; atau
-Paraf 1 Paraf 2 Paraf 3
+
 h. Ketentuan lain dalam SSKK.
 25. Perpanjangan 25.1 Jika terjadi Peristiwa Kompensasi sehingga penyelesaian
 Waktu pekerjaan akan melampaui tanggal penyelesaian maka
@@ -69645,7 +69645,7 @@ waktu penyelesaian pekerjaan, dan perpanjangan masa
 berlaku Jaminan Pelaksanaan (apabila ada).
 26.4 Jangka waktu pemberian kesempatan kepada Penyedia untuk
 menyelesaikan pekerjaan diatur dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 C. PENYELESAIAN KONTRAK
 27. Serah Terima 27.1 Setelah pekerjaan selesai sesuai dengan ketentuan yang
 Pekerjaan tertuang dalam Kontrak, penyedia mengajukan permintaan
@@ -69688,7 +69688,7 @@ kelalaian Penyedia atau bukan akibat Keadaan Kahar maka
 Penyedia dikenakan denda keterlambatan.
 28. Layanan Penyedia harus melaksanakan layanan lanjutan sebagaimana
 Tambahan tercantum dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 D. PERUBAHAN KONTRAK
 29. Perubahan 29.1 Kontrak hanya dapat diubah melalui adendum/perubahan
 Kontrak kontrak.
@@ -69738,7 +69738,7 @@ Kahar.
 29.11 Pejabat Penandatangan Kontrak dapat menyetujui secara
 tertulis perpanjangan waktu pelaksanaan setelah melakukan
 penelitian terhadap usulan yang diajukan oleh Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 29.12 Untuk kepentingan perubahan kontrak, Pejabat
 Penandatangan Kontrak dapat menetapkan tim peneliti
 Kontrak.
@@ -69790,7 +69790,7 @@ b. telah memberitahukan secara tertulis kepada Pihak
 lainnya dalam Kontrak selambat-lambatnya 14 (empat
 belas) hari sejak menyadari atas kejadian atau Keadaan
 Kahar, dengan menyertakan salinan pernyataan
-Paraf 1 Paraf 2 Paraf 3
+
 terjadinya peristiwa yang meyebabkan
 terhentinya/terlambatnya pelaksanaan kontrak.
 30.6 Keterlambatan pengadaan akibat Keadaan Kahar tidak
@@ -69838,7 +69838,7 @@ yang berwenang;
 c. Penyedia berada dalam keadaan pailit;
 d. Penyedia terbukti dikenakan Sanksi Daftar Hitam
 sebelum penandatanganan Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Penyedia gagal memperbaiki kinerja setelah mendapat
 Surat Peringatan sebanyak 3 (tiga) kali;
 f. Penyedia lalai/cidera janji dalam melaksanakan
@@ -69894,7 +69894,7 @@ hasil pekerjaan kepada Pejabat Penandatangan Kontrak dan
 selanjutnya menjadi milik Pejabat Penandatangan Kontrak.
 35. Berakhirnya 35.1 Pengakhiran pelaksanaan Kontrak dilakukan berdasarkan
 Kontrak kesepakatan para pihak
-Paraf 1 Paraf 2 Paraf 3
+
 35.2 Kontrak berakhir apabila pekerjaan telah selesai dan hak dan
 kewajiban para pihak yang terdapat dalam Kontrak sudah
 terpenuhi.
@@ -69947,7 +69947,7 @@ kontrak.
 38.2 Penyedia mempunyai Kewajiban:
 a. melaporkan pelaksanaan pekerjaan secara periodik
 kepada Pejabat Penandatangan Kontrak ;
-Paraf 1 Paraf 2 Paraf 3
+
 b. melaksanakan dan menyelesaikan pekerjaan sesuai
 dengan jadwal pelaksanaan pekerjaan yang telah
 ditetapkan dalam kontrak;
@@ -70002,7 +70002,7 @@ tubuh, sakit atau kematian pihak lain.
 penandatanganan berita acara serah terima, semua risiko
 kehilangan atau kerusakan hasil pekerjaan, bahan dan
 perlengkapan merupakan risiko Penyedia, kecuali kerugian
-Paraf 1 Paraf 2 Paraf 3
+
 atau kerusakan tersebut diakibatkan oleh kesalahan atau
 kelalaian Pejabat Penandatangan Kontrak .
 42.3 Pertanggungan asuransi yang dimiliki oleh Penyedia tidak
@@ -70053,7 +70053,7 @@ Kecil sebagai
 Subpenyedia 46.2 Bagian Pekerjaan yang wajib disubkontrakan oleh Penyedia
 kepada usaha kecil sebagai Subpenyedia diatur di dalam
 SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 46.3 Dalam kerjasama di atas, Penyedia bertangung jawab penuh
 atas keseluruhan pekerjaan tersebut.
 46.4 Subpenyedia dilarang mengalihkan atau mensubkontrakkan
@@ -70099,7 +70099,7 @@ proporsional sesuai dengan sisa uang muka yang diterima.
 sejak tanggal persetujuan pemberian uang muka sampai
 dengan tanggal serah terima hasil pekerjaan sesuai dengan
 ketentuan yang tertuang dalam Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 49. Laporan Hasil 49.1 Pemeriksaan pekerjaan dilakukan selama pelaksanaan
 Pekerjaan Kontrak. Hasil pemeriksaan pekerjaan dituangkan dalam
 laporan kemajuan hasil pekerjaan.
@@ -70144,7 +70144,7 @@ digantikan tanpa biaya tambahan apapun dalam waktu 7
 Kontrak .
 51.7 Personel berkewajiban untuk menjaga kerahasiaan
 pekerjaannya.
-Paraf 1 Paraf 2 Paraf 3
+
 H. PEMBAYARAN KEPADA PENYEDIA
 52. Nilai Kontrak 52.1 Pejabat Penandatangan Kontrak membayar kepada Penyedia
 atas pelaksanaan pekerjaan dalam Kontrak sebesar nilai
@@ -70199,7 +70199,7 @@ tidak bisa dicairkan, terjadi kesalahan dalam perhitungan
 volume pekerjaan berdasarkan hasil audit, menyerahkan
 hasil pekerjaan yang kualitasnya tidak sesuai dengan
 Kontrak berdasarkan hasil audit. Besarnya sanksi ganti
-Paraf 1 Paraf 2 Paraf 3
+
 rugi adalah sebesar nilai kerugian yang ditimbulkan
 sebagaimana ditentukan dalam SSKK.
 b. Denda keterlambatan
@@ -70249,7 +70249,7 @@ Harga diatur di dalam SSKK.
 56.2 Penyesuaian Harga diberlakukan terhadap Kontrak Tahun
 Jamak yang berbentuk Kontrak Waktu Penugasan yang masa
 pelaksanaannya lebih dari 18 (delapan belas) bulan.
-Paraf 1 Paraf 2 Paraf 3
+
 56.3 Penyesuaian Harga diberlakukan mulai dari bulan ke-13
 (tiga belas) sejak pelaksanaan pekerjaan.
 56.4 Penyesuaian Harga berlaku bagi seluruh kegiatan/mata
@@ -70300,7 +70300,7 @@ H0 = Harga Satuan komponen non-personel saat
 penawaran biaya;
 a = Koefisien tetap yang terdiri atas keuntungan dan
 overhead;
-Paraf 1 Paraf 2 Paraf 3
+
 Dalam hal penawaran tidak mencantumkan
 besaran komponen keuntungan dan overhead
 maka
@@ -70348,11 +70348,11 @@ sesuai dengan ketentuan peraturan perundang-undangan.
 58.3 Penyelesaian sengketa dapat dilakukan di layanan
 penyelesaian sengketa yang diselenggarakan oleh LKPP,
 Lembaga Arbitrase, atau Pengadilan Negeri.
-Paraf 1 Paraf 2 Paraf 3
+
 58.4 Pejabat Penandatangan Kontrak dan Penyedia bersama-sama
 memilih dan menetapkan tempat penyelesaian sengketa dan
 dicantumkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. SYARAT-SYARAT KHUSUS KONTRAK (SSKK)
 Klausul dalam SSUK No. Pengaturan dalam SSKK
 SSUK
@@ -70401,7 +70401,7 @@ Subpenyedia]
 16. Jangka Waktu 16.2 Penyedia harus menyelesaikan pekerjaan selama:
 Pelaksanaan _____(_______) (hari kalender), atau Penyedia harus
 Pekerjaan menyelesaikan pekerjaan sejak tanggal SPMK
-Paraf 1 Paraf 2 Paraf 3
+
 diterbitkan sampai dengan Tanggal
 _________(_______)
 [diisi dengan memilih salah satu, menggunakan
@@ -70450,7 +70450,7 @@ Persetujuan _____________________________________
 Pejabat
 Penandatangan
 Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 46. Kerjasama 46.2 Bagian Pekerjaan yang wajib dikerjasamakan dengan
 Penyedia dengan usaha kecil:
 Usaha Kecil 1. ____________
@@ -70497,7 +70497,7 @@ besarnya denda keterlambatan adalah:___________
 1) 1‰ (satu permil) per hari dari harga Bagian
 Kontrak yang tercantum dalam Kontrak; atau
 2) 1‰ (satu permil) per hari dari harga Kontrak]
-Paraf 1 Paraf 2 Paraf 3
+
 Apabila dikenakan denda keterlambatan dari bagian
 kontrak maka bagian pekerjaan dimaksud adalah:
 1. _______________
@@ -70516,7 +70516,7 @@ oleh LKPP/Lembaga Arbitrase/Pengadilan Negeri]
 Dalam hal penyelesaian sengketa dilakukan pada
 Pengadilan Negeri _______________
 [disebutkan Nama Pengadilan Negeri]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. RANCANGAN SURAT PERJANJIAN
 A. BENTUK SURAT PERJANJIAN DENGAN P3ENYEDIA BERBENTUK BADAN USAHA NON-
 KEMITRAAN
@@ -70562,7 +70562,7 @@ mengkonfirmasikan semua ketentuan dalam Kontrak ini beserta semua fakta dan
 kondisi yang terkait.
 MAKA OLEH KARENA ITU, Pejabat Penandatangan Kontrak dan Penyedia dengan ini bersepakat
 dan menyetujui hal-hal sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
@@ -70608,7 +70608,7 @@ selesainya pekerjaan dan terpenuhinya seluruh hak dan kewajiban Para Pihak sebag
 diatur dalam SSUK dan SSKK.
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam 2
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
 sama dan mengikat bagi Para Pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
@@ -70624,7 +70624,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000 pada bagian tanda tangan Penyedia diserahkan untuk
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERJANJIAN DENGAN PENYEDIA BERBENTUK KEMITRAAN
 SURAT PERJANJIAN
 untuk melaksanakan
@@ -70673,7 +70673,7 @@ mengkonfirmasikan semua ketentuan dalam Kontrak ini beserta semua fakta dan
 kondisi yang terkait.
 MAKA OLEH KARENA ITU, Pejabat Penandatangan Kontrak dan Penyedia dengan ini bersepakat
 dan menyetujui hal-hal sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 Istilah dan Ungkapan
 Peristilahan dan ungkapan dalam Kontrak ini memiliki arti dan makna yang sama seperti yang
@@ -70721,7 +70721,7 @@ diatur dalam SSUK dan SSKK.
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam 2
-Paraf 1 Paraf 2 Paraf 3
+
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
 sama dan mengikat bagi Para Pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
 tanpa dibubuhi meterai.
@@ -70738,7 +70738,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan diserahkan Penyedia
 untuk Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA
 [kop surat K/L/PD]
@@ -70769,7 +70769,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pejabat Pengadaan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -70808,7 +70808,7 @@ Untuk dan atas nama __________[nama Penyedia]
 [tanda tangan]
 [nama lengkap]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN UANG MUKA
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -70853,7 +70853,7 @@ sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Jaminan Uang Muka ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : ____________
 Pada tanggal : ___________
 [Bank]
@@ -70862,7 +70862,7 @@ Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 Bank ________ [bank] ____________
 [Nama dan Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 [Kop Asuransi/Perusahaan Penjaminan Penerbit Jaminan/Perusahaan Asuransi di Bidang
 Lembaga Pembiayaan Ekspor Indonesia]
 JAMINAN UANG MUKA
@@ -70906,7 +70906,7 @@ Untuk keyakinan, Penerima
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 ________ [penerbit jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Jasa Konsultansi
@@ -70914,7 +70914,7 @@ Perorangan
 - Pengadaan Langsung -
 [Untuk yang menggunakan Surat Perintah Kerja (SPK) dan Surat Perjanjian]
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Pengadaan Langsung
 untuk
@@ -70923,7 +70923,7 @@ __________
 Pejabat Pengadaan pada: _______________
 Kementerian/Lembaga/Pemerintah Daerah: __________________
 Tahun Anggaran: __________
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ............................................................................................................................ - 6 -
 BAB II. UNDANGAN PENGADAAN LANGSUNG....................................................................... - 7 -
@@ -70990,7 +70990,7 @@ BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK) .......................................
 4. PERBUATAN YANG DILARANG DAN SANKSI .......................................................................................................... - 41 -
 5. ASAL JASA KONSULTANSI .................................................................................................................................. - 41 -
 6. KORESPONDENSI ............................................................................................................................................... - 41 -
-Paraf 1 Paraf 2 Paraf 3
+
 7. WAKIL SAH PARA PIHAK ................................................................................................................................... - 41 -
 8. PERPAJAKAN ..................................................................................................................................................... - 42 -
 9. PENGALIHAN DAN/ATAU SUBKONTRAK .............................................................................................................. - 42 -
@@ -71060,9 +71060,9 @@ BENTUK SURAT PERJANJIAN ........................................................
 BAB XIII. BENTUK DOKUMEN LAIN...................................................................................... - 65 -
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA ...................................................................... - 65 -
 B. BENTUK SURAT PERINTAH MULAI KERJA ................................................................................................. - 66 -
-Paraf 1 Paraf 2 Paraf 3
+
 C. JAMINAN UANG MUKA .............................................................................................................................. - 67 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pengadaan Langsung ini disusun berdasarkan Peraturan Presiden No. 16 Tahun
 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahan dan aturan
@@ -71096,7 +71096,7 @@ Elektronik (LPSE)
 SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara Elektronik
 (SPSE) berbasis web yang terpasang di server LPSE yang dapat
 diakses melalui website LPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PENGADAAN LANGSUNG
 [kop surat K/L/PD]
 Nomor : _____ __________, __ _________ 20__
@@ -71133,7 +71133,7 @@ Pejabat Pengadaan pada _____________[K/L/PD]
 [tanda tangan]
 ...........................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup 1.1 Peserta menyampaikan penawaran atas paket Pengadaan Jasa
@@ -71171,7 +71171,7 @@ Pertentangan menghindari dan mencegah pertentangan kepentingan baik
 Kepentingan secara langsung maupun tidak langsung.
 4.2 Pertentangan kepentingan sebagaimana dimaksud pada angka 4.1
 antara lain meliputi:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Pengurus/manajer koperasi merangkap sebagai Pejabat
 Penandatangan Kontrak/Pejabat Pengadaan pada pelaksanaan
 pengadaan di Kementerian/Lembaga/Perangkat Daerah.
@@ -71222,7 +71222,7 @@ pemerintah maupun swasta, termasuk pengalaman subkontrak;
 3) pekerjaan sejenis (jenis pekerjaan, kompleksitas pekerjaan,
 metodologi, teknologi, atau karakteristik lainnya yang bisa
 menggambarkan kesamaan); dan
-Paraf 1 Paraf 2 Paraf 3
+
 4) nilai pekerjaan sejenis tertinggi dalam kurun waktu 10
 (sepuluh) tahun terakhir paling kurang sama dengan 50% (lima
 puluh persen) nilai total HPS/Pagu Anggaran
@@ -71270,7 +71270,7 @@ penerima kuasa (apabila dikuasakan);
 usaha terdiri dari:
 a. unsur pengalaman, yang terdiri dari sub unsur:
 1) pengalaman dalam melaksanakan pekerjaan sejenis;
-Paraf 1 Paraf 2 Paraf 3
+
 2) pengalaman bekerja di lokasi pekerjaan yang sama;
 3) Nilai pengalaman mengelola kontrak; dan
 4) Kemampuan menyediakan fasilitas utama (apabila
@@ -71317,7 +71317,7 @@ a. Surat penawaran
 b. Surat kuasa (apabila dikuasakan);
 c. Dokumen penawaran teknis;
 d. Dokumen penawaran harga;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Pakta Integritas; dan
 f. Formulir Isian Kualifikasi.
 11. Evaluasi dan 11.1 Pejabat Pengadaan melakukan evaluasi penawaran yang meliputi:
@@ -71368,7 +71368,7 @@ c. Apabila klarifikasi dan negosiasi tidak mencapai kesepakatan,
 Pejabat Pengadaan menyatakan Pengadaan Langsung gagal,
 dan dilakukan Pengadaan Langsung ulang mengundang Pelaku
 Usaha lain.
-Paraf 1 Paraf 2 Paraf 3
+
 12. Pembuatan 12.1 Pejabat Pengadaan membuat Berita Acara Hasil Pengadaan
 Berita Acara Langsung.
 Hasil
@@ -71413,7 +71413,7 @@ a. sekurang-kurangnya 2 (dua) kontrak asli, terdiri dari:
 1) Kontrak asli pertama untuk Pejabat Penandatangan Kontrak
 dibubuhi meterai pada bagian yang ditandatangani oleh
 penyedia; dan
-Paraf 1 Paraf 2 Paraf 3
+
 2) Kontrak asli kedua untuk penyedia dibubuhi meterai pada
 bagian yang ditandatangani oleh Pejabat Penandatangan
 Kontrak;
@@ -71422,7 +71422,7 @@ diperlukan.
 14.3 Pihak yang berwenang menandatangani kontrak atas nama
 Penyedia adalah sebagaimana dimaksud pada klausul 8.2 huruf a
 butir 4).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 LEMBAR DATA PEMILIHAN
 Bagian IKP No. Isian Ketentuan
@@ -71461,7 +71461,7 @@ Jangka waktu pelaksanaan pekerjaan:
 _____(________) hari kalender
 [diisi waktu yang diperlukan untuk menyelesaikan
 pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -71493,7 +71493,7 @@ Konsultansi
 1 Uraian Pendahuluan memuat gambaran secara garis besar mengenai pekerjaan yang akan dilaksanakan.
 2 Data penunjang terdiri dari data yang berkaitan dengan pelaksanaan pekerjaan.
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain.
-Paraf 1 Paraf 2 Paraf 3
+
 15. Lingkup
 Kewenangan
 Penyedia Jasa
@@ -71532,7 +71532,7 @@ Data Lapangan
 menyelenggarakan pertemuan dan pembahasan dalam rangka alih
 pengetahuan kepada personil proyek/satuan kerja PPK berikut:
 BAB VI. FORMULIR DOKUMEN PENAWARAN
-Paraf 1 Paraf 2 Paraf 3
+
 A. FORMULIR SURAT PENAWARAN
 [Kop Surat]
 Nomor : _______, _____________ 20___
@@ -71559,7 +71559,7 @@ tunduk pada semua ketentuan yang tercantum dalam Dokumen Pengadaan Langsung.
 Penyedia,
 ..........................
 Nama Lengkap
-Paraf 1 Paraf 2 Paraf 3
+
 B. FORMULIR PENAWARAN TEKNIS
 1. BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN TERAKHIR ( Form
 T-1)
@@ -71575,7 +71575,7 @@ Keterangan isi kolom :
 3. Tahun
 4. Nilai kontrak pekerjaan
 5. Nama instansi Pengguna
-Paraf 1 Paraf 2 Paraf 3
+
 2. BENTUK URAIAN PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN TERAKHIR ( Form
 T-2)
 Form T-2 ini digunakan untuk menguraikan masing-masing pengalaman yang
@@ -71593,7 +71593,7 @@ URAIAN PENGALAMAN KERJA SEJENIS
 9. Posisi Penugasan :
 10. Status Kepegawaian pada Perusahaan :
 11. Surat Referensi dari Pemberi Kerja :
-Paraf 1 Paraf 2 Paraf 3
+
 3. BENTUK TANGGAPAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA DAN
 PERSONEL/FASILITAS PENDUKUNG DARI PPK (Form T-3)
 A. TANGGAPAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
@@ -71606,7 +71606,7 @@ B. TANGGAPAN DAN SARAN TERHADAP PERSONEL/FASILITAS PENDUKUNG DARI PPK
 [tanggapi perihal penyediaan peralatan/material/personel/fasilitas pendukung oleh
 PPK sesuai dengan Dokumen Seleksi ini meliputi antara lain (jika ada): dukungan
 administrasi, ruang kerja, transportasi lokal, peralatan, data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 4. BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA (Form T-4)
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari Penawaran Teknis.
 Peserta disarankan untuk menyajikan detil penawaran teknis (misalnya 50 (lima puluh)
@@ -71627,7 +71627,7 @@ menunjukkan pemahaman terhadap Kerangka Acuan Kerja dan kemampuan untuk
 menerjemahkannya ke dalam rencana kerja. Daftar hasil kerja, termasuk laporan, gambar
 kerja, tabel, harus dicantumkan. Program kerja ini harus konsisten dengan Data Teknis-6
 mengenai Jadwal Pelaksanaan Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 5. BENTUK JADWAL PELAKSANAAN PEKERJAAN (Form T-5)
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-2
@@ -71641,7 +71641,7 @@ Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, 
 kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah berdasarkan
 tahapannya
 2. Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 6. BENTUK DAFTAR RIWAYAT HIDUP TENAGA AHLI (Form T-6)
 Daftar Riwayat Hidup
 1. Posisi yang diusulkan : __________________________
@@ -71694,14 +71694,14 @@ tidak bisa melaksanakan tugas;
 c. Saya berjanji melaksanakan semua penugasan;
 d. Saya bukan merupakan bagian dari tim yang menyusun Kerangka Acuan Kerja;
 e. Saya akan memenuhi semua ketentuan Klausul 4 dan 5 pada IKP.
-Paraf 1 Paraf 2 Paraf 3
+
 Jika terdapat pengungkapan keterangan yang tidak benar secara sengaja atau sepatutnya diduga
 maka saya siap untuk digugurkan dari proses seleksi atau dikeluarkan jika sudah dipekerjakan.
 ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 7. BENTUK SURAT PERNYATAAN SIAP BERTUGAS (Form T-7)
 PERNYATAAN KESEDIAAN MELAKSANAKAN TUGAS
 Yang bertanda tangan dibawah ini:
@@ -71716,7 +71716,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK DOKUMEN PENAWARAN HARGA
 1. BENTUK REKAPITULASI PENAWARAN BIAYA (Form B-1)
 REKAPITULASI PENAWARAN BIAYA
@@ -71729,7 +71729,7 @@ Sub-total
 PPN 10%
 Total
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 2. BENTUK RINCIAN BIAYA LANGSUNG PERSONEL (Form B-2)
 RINCIAN BIAYA LANGSUNG PERSONEL
 Orang Remunerasi Jumlah
@@ -71758,7 +71758,7 @@ Keterangan:
 Untuk Kontrak Berdasarkan Waktu Penugasan Biaya langsung non-personel dibayarkan
 berdasarkan jenis pengeluaran non-personel yang dapat berupa penggantian sesuai
 pengeluaran (at cost), harga satuan, atau lumsum.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. PAKTA INTEGRITAS
 PAKTA INTEGRITAS
 Saya yang bertanda tangan di bawah ini:
@@ -71781,7 +71781,7 @@ __________[tempat], __[tanggal] __________[bulan] ______[tahun]
 [tanda tangan] ,
 ____________
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. FORMULIR ISIAN KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI
 Saya yang bertanda tangan di bawah ini:
@@ -71817,7 +71817,7 @@ B. Izin Lainnya [apabila dipersyaratkan]
 1. Izin ____________ : No_______Tanggal ______
 2. Masa berlaku izin : __________
 3. Instansi pemberi izin : __________
-Paraf 1 Paraf 2 Paraf 3
+
 C. Data Keuangan
 1. Nomor Pokok Wajib Pajak : _________________________
 2. Bukti laporan Pajak Tahun
@@ -71859,14 +71859,14 @@ Telepon Tanggal
 1 2 3 4 5 6 8 9 10 11
 Demikian Formulir Isian Kualifikasi ini saya buat dengan sebenarnya dan penuh rasa tanggung
 jawab. Jika dikemudian hari ditemui bahwa data/dokumen yang saya sampaikan tidak benar
-Paraf 1 Paraf 2 Paraf 3
+
 dan ada pemalsuan, maka saya bersedia dikenakan sanksi sesuai dengan ketentuan peraturan
 perundang-undangan.
 [tempat], [tanggal] [bulan] _____ [tahun]
 [rekatkan meterai Rp 10.000,-
 tanda tangan]
 (nama lengkap peserta)
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. BENTUK SURAT PERINTAH KERJA (SPK)
 [kop surat satuan kerja Pejabat Penandatangan Kontrak]
 SATUAN KERJA : ________________
@@ -71908,7 +71908,7 @@ SURAT PERINTAH KERJA (SPK)
 Penyedia yang ditunjuk berkewajiban untuk menyelesaikan pekerjaan dalam jangka
 waktu yang ditentukan, dengan mutu sesuai Kerangka Acuan Kerja dan harga sesuai
 SPK.
-Paraf 1 Paraf 2 Paraf 3
+
 2. HUKUM YANG BERLAKU
 Keabsahan, interpretasi, dan pelaksanaan SPK ini didasarkan kepada hukum Republik
 Indonesia.
@@ -71961,7 +71961,7 @@ dapat diduga;
 2) pihak ketiga sebagai akibat kecelakaan di tempat kerjanya; dan
 b. Besarnya asuransi sudah diperhitungkan dalam penawaran dan termasuk dalam
 biaya SPK.
-Paraf 1 Paraf 2 Paraf 3
+
 10. PENANGGUNGAN DAN RISIKO
 a. Penyedia berkewajiban untuk melindungi, membebaskan, dan menanggung tanpa
 batas Pejabat Penandatangan Kontrak beserta instansinya terhadap semua bentuk
@@ -72017,7 +72017,7 @@ a. Kecuali SPK diputuskan lebih awal, penyedia berkewajiban untuk memulai
 pelaksanaan pekerjaan pada tanggal mulai kerja, dan melaksanakan pekerjaan sesuai
 dengan program mutu, serta menyelesaikan pekerjaan selambat-lambatnya pada
 tanggal penyelesaian yang ditetapkan dalam SPMK.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Jika pekerjaan tidak selesai pada tanggal penyelesaian disebabkan karena kesalahan
 atau kelalaian penyedia maka penyedia dikenakan sanksi berupa denda
 keterlambatan.
@@ -72073,7 +72073,7 @@ berkewajiban untuk membayar ganti rugi dan/atau memberikan perpanjangan
 waktu penyelesaian pekerjaan.
 c. Ganti rugi hanya dapat dibayarkan jika berdasarkan data penunjang dan
 perhitungan kompensasi yang diajukan oleh penyedia kepada Pejabat
-Paraf 1 Paraf 2 Paraf 3
+
 Penandatangan Kontrak, dapat dibuktikan kerugian nyata akibat Peristiwa
 Kompensasi.
 d. Perpanjangan waktu penyelesaian pekerjaan hanya dapat diberikan jika berdasarkan
@@ -72131,7 +72131,7 @@ sebagaimana tercantum dalam SPK.
 e. Dalam hal pemutusan SPK dilakukan karena kesalahan penyedia:
 1) Sisa uang muka harus dilunasi oleh Penyedia atau Jaminan Uang Muka dicairkan
 (apabila diberikan);
-Paraf 1 Paraf 2 Paraf 3
+
 2) penyedia membayar denda keterlambatan (apabila ada); dan/atau
 3) penyedia dikenakan Sanksi Daftar Hitam.
 f. Dalam hal pemutusan SPK dilakukan karena Pejabat Penandatangan Kontrak terlibat
@@ -72178,7 +72178,7 @@ Penyedia menjamin bahwa tidak satu pun personel satuan kerja Pejabat Penandatang
 Kontrak telah atau akan menerima komisi atau keuntungan tidak sah lainnya baik
 langsung maupun tidak langsung dari SPK ini. Penyedia menyetujui bahwa pelanggaran
 syarat ini merupakan pelanggaran yang mendasar terhadap SPK ini.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT UMUM KONTRAK (SSUK)
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat Umum Kontrak ini
@@ -72224,7 +72224,7 @@ yang menjalankan usaha di bidang pembiayaan, penjaminan, dan
 asuransi untuk mendorong ekspor Indonesia sesuai dengan
 ketentuan dalam peraturan perundang-undangan di bidang
 lembaga pembiayaan ekspor Indonesia.
-Paraf 1 Paraf 2 Paraf 3
+
 1.10 Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut
 kontrak adalah perjanjian tertulis antara Pejabat Penandatangan
 Kontrak dengan Penyedia.
@@ -72270,7 +72270,7 @@ Pejabat Penandatangan Kontrak.
 pekerjaan, yang dinyatakan dalam berita acara serah terima hasil
 pekerjaan yang yang ditandatangani oleh Pejabat Penandatangan
 Kontrak dan Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 1.23 Kerangka Acuan Kerja yang selanjutnya disingkat KAK adalah
 dokumen yang disusun oleh PPK untuk menjelaskan tujuan,
 lingkup jasa konsultansi serta keahlian yang diperlukan untuk
@@ -72319,7 +72319,7 @@ Pihak dilakukan, dan setiap dokumen yang dipersyaratkan atau
 diperbolehkan untuk dibuat berdasarkan Kontrak ini oleh Pejabat
 Penandatangan Kontrak atau Penyedia hanya dapat dilakukan atau
 dibuat oleh pejabat yang disebutkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 8. Perpajakan Penyedia berkewajiban untuk membayar semua pajak, bea, retribusi,
 dan pungutan lain yang sah yang dibebankan oleh peraturan
 perpajakan atas pelaksanaan Kontrak ini. Semua pengeluaran
@@ -72367,7 +72367,7 @@ Kontrak.
 14. Program Mutu 14.1 Penyedia berkewajiban untuk menyerahkan program mutu pada
 rapat persiapan pelaksanaan kontrak untuk disetujui oleh
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 14.2 Program mutu disusun oleh Penyedia paling sedikit berisi:
 a. informasi mengenai pekerjaan yang akan dilaksanakan;
 b. jadwal pelaksanaan pekerjaan;
@@ -72416,7 +72416,7 @@ untuk mengawasi pelaksanaan pekerjaan.
 dan/atau tenaga profesional.
 16.3 Pengawas Pekerjaan berkewajiban untuk mengawasi
 pelaksanaan pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 16.4 Tim Teknis berkewajiban untuk membahas dan menilai laporan
 konsultan.
 16.5 Dalam melaksanakan kewajibannya, Pengawas Pekerjaan selalu
@@ -72465,7 +72465,7 @@ dalam memutuskan perpanjangan tanggal Penyelesaian
 Pekerjaan.
 20.2 Jika Peristiwa Kompensasi mengakibatkan keterlambatan
 penyelesaian pekerjaan maka Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 berkewajiban untuk memberikan perpanjangan waktu
 penyelesaian pekerjaan.
 20.3 Perpanjangan waktu penyelesaian pekerjaan dapat diberikan
@@ -72510,7 +72510,7 @@ dalam Kontrak.
 kebenaran hasil pekerjaan dan/atau dokumen laporan
 pelaksanaan pekerjaan dan membandingkan kesesuaiannya
 dengan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 22.6 Pejabat Penandatangan Kontrak menolak serah terima pekerjaan
 jika hasil pekerjaan dan/atau dokumen laporan pelaksanaan
 pekerjaan tidak sesuai dengan Kontrak.
@@ -72555,7 +72555,7 @@ d. mengubah jadwal pelaksanaan.
 hal-hal yang disebabkan masalah administrasi, antara lain
 pergantian Pejabat Penandatangan Kontrak, perubahan
 rekening Penyedia, dan sebagainya.
-Paraf 1 Paraf 2 Paraf 3
+
 24.4 Pekerjaan tambah paling tinggi 10% (sepuluh persen) dari nilai
 Kontrak awal dan harus mempertimbangkan tersedianya
 anggaran.
@@ -72604,7 +72604,7 @@ f. Kondisi cuaca ekstrim, dan/atau
 g. Gangguan industri lainnya sebagaimana dinyatakan melalui
 keputusan bersama Menteri Keuangan dan Menteri teknis
 terkait.
-Paraf 1 Paraf 2 Paraf 3
+
 25.3 Apabila terjadi Keadaan Kahar, maka Penyedia memberitahukan
 kepada Pejabat Penandatangan Kontrak paling lambat 14
 (empat belas) hari kalender sejak menyadari atau seharusnya
@@ -72653,7 +72653,7 @@ mempertimbangkan efektifitas pekerjaan dan tahun anggaran.
 E. PENGHENTIAN DAN PEMUTUSAN KONTRAK
 26. Penghentian Penghentian Kontrak dapat dilakukan karena terjadi Keadaan Kahar
 Kontrak sebagaimana dimaksud pada klausul 25.
-Paraf 1 Paraf 2 Paraf 3
+
 27. Pemutusan 27.1 Pemutusan kontrak dapat dilakukan oleh pihak Pejabat
 Kontrak Penandatangan Kontrak atau pihak Penyedia.
 27.2 Pejabat Penandatangan Kontrak dapat memutuskan kontrak
@@ -72707,7 +72707,7 @@ Uang Muka dicairkan (apabila diberikan); dan
 b. penyedia dikenakan sanksi Daftar Hitam.
 28.3 Pejabat Penandatangan Kontrak membayar kepada Penyedia
 sesuai dengan pencapaian prestasi pekerjaan yang telah
-Paraf 1 Paraf 2 Paraf 3
+
 diterima oleh Pejabat Penandatangan Kontrak sampai dengan
 tanggal berlakunya pemutusan Kontrak dikurangi denda yang
 harus dibayar Penyedia (apabila ada), serta Penyedia
@@ -72761,7 +72761,7 @@ kontrak;
 d. mengenakan sanksi kepada Penyedia;
 e. memberikan instruksi;
 f. mengusulkan penetapan sanksi daftar hitam (apabila ada);
-Paraf 1 Paraf 2 Paraf 3
+
 g. menyetujui adendum/perubahan kontrak;
 h. menerima jaminan uang muka (apabila ada); dan/atau
 i. menilai kinerja Penyedia.
@@ -72814,7 +72814,7 @@ Dokumen dokumen kontrak atau dokumen lainnya yang berhubungan dengan
 Kontrak dan kontrak untuk kepentingan pihak lain, misalnya spesifikasi
 Informasi teknis/KAK dan/atau gambar-gambar, kecuali dengan ijin tertulis
 dari Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 36. Hak Atas Penyedia berkewajiban untuk melindungi Pejabat Penandatangan
 Kekayaan Kontrak dari segala tuntutan atau klaim dari pihak lain atas
 Intelektual pelanggaran Hak Atas Kekayaan Intelektual.
@@ -72865,7 +72865,7 @@ kejadian.
 39. Tindakan Penyedia berkewajiban untuk mendapatkan lebih dahulu persetujuan
 Penyedia yang tertulis Pejabat Penandatangan Kontrak sebelum melakukan tindakan
 mensyaratkan sebagaimana diatur dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 Persetujuan
 Pejabat
 Penandatangan
@@ -72912,7 +72912,7 @@ berdasarkan Kontrak ini sepenuhnya merupakan milik Pejabat
 Penandatangan Kontrak.
 43.2 Penyedia berkewajiban untuk menyerahkan semua dokumen
 beserta daftar rinciannya kepada Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak paling lambat pada saat serah terima pekerjaan atau
 waktu pemutusan Kontrak.
 43.3 Penyedia dapat menyimpan 1 (satu) buah salinan tiap dokumen
@@ -72963,7 +72963,7 @@ ketentuan yang tertuang dalam Kontrak
 a. pembayaran dilakukan dengan sistem bulanan, sistem
 termin atau pembayaran secara sekaligus sesuai yang
 ditetapkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 b. pembayaran prestasi hasil pekerjaan dilakukan dengan
 ketentuan:
 1) penyedia telah mengajukan tagihan disertai laporan
@@ -73014,7 +73014,7 @@ Harga diatur di dalam SSKK.
 49.2 Penyesuaian Harga diberlakukan terhadap Kontrak Tahun
 Jamak yang berbentuk Kontrak Waktu Penugasan yang masa
 pelaksanaannya lebih dari 18 (delapan belas) bulan.
-Paraf 1 Paraf 2 Paraf 3
+
 49.3 Penyesuaian Harga diberlakukan mulai dari bulan ke-13 (tiga
 belas) sejak pelaksanaan pekerjaan.
 49.4 Penyesuaian Harga berlaku bagi seluruh kegiatan/mata
@@ -73062,7 +73062,7 @@ a = Koefisien tetap yang terdiri atas keuntungan
 dan overhead;
 Dalam hal penawaran tidak mencantumkan
 besaran komponen keuntungan dan overhead
-Paraf 1 Paraf 2 Paraf 3
+
 maka
 a = 0,15.
 b = Koefisien biaya non-personel.
@@ -73107,11 +73107,11 @@ sesuai dengan ketentuan peraturan perundang-undangan.
 51.3 Penyelesaian sengketa dapat dilakukan di layanan penyelesaian
 sengketa yang diselenggarakan oleh LKPP, Lembaga Arbitrase
 atau Pengadilan Negeri.
-Paraf 1 Paraf 2 Paraf 3
+
 51.4 Pejabat Penandatangan Kontrak dan Penyedia bersama-sama
 memilih dan menetapkan tempat penyelesaian sengketa dan
 dicantumkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. SYARAT-SYARAT KHUSUS KONTRAK (SSKK)
 Klausul dalam No.SSUK Pengaturan dalam SSKK
 SSUK
@@ -73160,7 +73160,7 @@ Kompensasi _____________________________________
 20. Perpanjangan 20.5 Pejabat Penandatangan Kontrak berdasarkan
 Waktu pertimbangan Pengawas Pekerjaan (apabila ada)
 menetapkan ada tidaknya perpanjangan waktu dan untuk
-Paraf 1 Paraf 2 Paraf 3
+
 berapa lama, paling lambat ___________[diisi jumlah hari
 kerja] setelah Penyedia meminta perpanjangan.
 21. Pemberian 21.3 pemberian kesempatan kepada Penyedia untuk
@@ -73206,7 +73206,7 @@ Pembayaran prestasi pekerjaan dilakukan dengan cara:
 46.2.a _________ [Termin/Bulanan/Sekaligus].
 [Untuk pembayaran dilakukan secara termin, maka
 dilakukan dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 Termin ke-1: sebesar ___% dari nilai Kontrak untuk
 penyelesaian tahapan pekerjaan/sub-output berupa
 ____________.
@@ -73252,7 +73252,7 @@ LKPP/Lembaga Arbitrase/ Pengadilan Negeri]
 Dalam hal penyelesaian sengketa dilakukan pada
 Pengadilan Negeri _______________ [disebutkan Nama
 Pengadilan Negeri]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. RANCANGAN SURAT PERJANJIAN
 BENTUK SURAT PERJANJIAN
 SURAT PERJANJIAN
@@ -73293,7 +73293,7 @@ sehubungan dengan penandatanganan Kontrak ini masing-masing pihak:
 4) telah mendapatkan kesempatan yang memadai untuk memeriksa dan
 mengkonfirmasikan semua ketentuan dalam Kontrak ini beserta semua fakta dan
 kondisi yang terkait.
-Paraf 1 Paraf 2 Paraf 3
+
 MAKA OLEH KARENA ITU, Pejabat Penandatangan Kontrak dan Penyedia dengan ini bersepakat
 dan menyetujui hal-hal sebagai berikut:
 Pasal 1
@@ -73334,7 +73334,7 @@ Pasal 5
 Hak dan Kewajiban
 Hak dan kewajiban timbal-balik Pejabat Penandatangan Kontrak dan Penyedia dinyatakan dalam
 Syarat-Syarat Umum Kontrak (SSUK) dan Syarat-Syarat Khusus Kontrak (SSKK).
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 6
 Masa Berlaku Kontrak
 Masa berlaku Kontrak ini terhitung sejak tanggal penandatanganan Kontrak sampai dengan
@@ -73357,7 +73357,7 @@ Catatan:
 Kontrak diserahkan untuk Penyedia; dan
  Kontrak dengan meterai Rp10.000,00 pada bagian tanda tangan Penyedia diserahkan untuk
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA
 [kop surat K/L/PD]
@@ -73388,7 +73388,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pejabat Pengadaan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -73425,7 +73425,7 @@ Menerima dan menyetujui:
 Untuk dan atas nama __________[nama Penyedia]
 [tanda tangan]
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 C. JAMINAN UANG MUKA
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -73470,7 +73470,7 @@ sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Jaminan Uang Muka ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : ____________
 Pada tanggal : ___________
 [Bank]
@@ -73481,7 +73481,7 @@ Untuk keyakinan, Penerima
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 Bank ________ [bank]
-Paraf 1 Paraf 2 Paraf 3
+
 [Kop Asuransi/Perusahaan Penjaminan Penerbit Jaminan/Perusahaan Asuransi di Bidang
 Lembaga Pembiayaan Ekspor Indonesia]
 JAMINAN UANG MUKA
@@ -73517,7 +73517,7 @@ Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah diajukan
 selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah berakhirnya masa
 berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk keyakinan, Penerima
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke Dikeluarkan di _______________
@@ -73532,7 +73532,7 @@ PENGADAAN BARANG/JASA
 PEMERINTAH REPUBLIK INDONESIA,
 ttd
 RONI DWI SUSANTO
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN V
 PERATURAN LEMBAGA KEBIJAKAN
 PENGADAAN BARANG/JASA
@@ -87038,7 +87038,7 @@ Jasa Konsultansi Konstruksi
 Badan Usaha
 Metode Seleksi, Prakualifikasi, Dua File, Kualitas dan Biaya,
 Kontrak Waktu Penugasan
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -91906,7 +91906,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB. I UNDANGAN................................................................................................................................. - 5 -
 BAB. II UMUM ........................................................................................................................................ - 5 -
@@ -91962,7 +91962,7 @@ I. PENANDATANGANAN KONTRAK .....................................................
 41. PENANDA-TANGANAN KONTRAK ............................................................................................... - 36 -
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)......................................................................................... - 38 -
 BAB V. KERANGKA ACUAN KERJA (KAK) ........................................................................................... - 39 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI ................................................................................................ - 43 -
 A. EVALUASI ADMINISTRASI ........................................................................................................... - 43 -
 B. EVALUASI TEKNIS ...................................................................................................................... - 43 -
@@ -91986,7 +91986,7 @@ LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ) .....................
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA ...................................................................... - 117 -
 LAMPIRAN 3 : JAMINAN UANG MUKA ........................................................................................ 118
 BAB XII. KETENTUAN LAIN-LAIN ..................................................................................................... - 122 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. I UNDANGAN
 Peserta yang diundang adalah peserta yang masuk dalam Daftar Pendek (Shortlist)
 melalui SPSE
@@ -92026,7 +92026,7 @@ yang diperlukan;
 Operasi (KSO) pelaku usaha yang masing-masing pihak mempunyai hak,
 kewajiban dan tanggung jawab yang jelas berdasarkan
 perjanjian tertulis;
-Paraf 1 Paraf 2 Paraf 3
+
 - Lembar Data : yang selanjutnya disingkat LDP adalah Lembar Data
 Pemilihan Pemilihan yang memuat ketentuan dan informasi yang
 (LDP) spesifik sesuai dengan jenis pekerjaan;
@@ -92073,7 +92073,7 @@ Barang Jasa Pemerintah Daerah yang menjadi pusat keunggulan
 (UKPBJ) Pengadaan Barang/Jasa;
 - Pokja : adalah sumber daya manusia yang ditetapkan oleh pimpinan
 Pemilihan UKPBJ untuk mengelola pemilihan Penyedia;
-Paraf 1 Paraf 2 Paraf 3
+
 - Pejabat : yang selanjutnya disingkat PPK adalah pejabat yang diberi
 Pembuat kewenangan oleh PA/ KPA untuk mengambil keputusan dan/
 Komitmen atau melakukan tindakan yang dapat mengakibatkan
@@ -92113,7 +92113,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 F. Seleksi ini dapat diikuti oleh peserta yang ditetapkan dalam daftar pendek peserta
 Seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam
@@ -92161,7 +92161,7 @@ berikut:
 a. Sanksi digugurkan dari proses pemilihan atau
 pembatalan penetapan pemenang; dan/atau
 b. Sanksi Daftar Hitam;
-Paraf 1 Paraf 2 Paraf 3
+
 4.3 Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
@@ -92213,7 +92213,7 @@ yang tidak dapat diterima Pokja Pemilihan;
 e. Pemenang Pemilihan mengundurkan diri sebelum
 penandatanganan Kontrak dengan alasan yang tidak dapat
 diterima oleh PPK/Pejabat Penandatangan Kontrakl; atau
-Paraf 1 Paraf 2 Paraf 3
+
 f. Penyedia yang tidak melaksanakan kontrak, tidak
 menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak
 secara sepihak oleh PPK yang disebabkan oleh kesalahan
@@ -92266,7 +92266,7 @@ c. Instruksi Kepada Peserta;
 d. Lembar Data Pemilihan;
 e. Kerangka Acuan Kerja (KAK);
 f. Bentuk Dokumen Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 1) Penawaran Administrasi dan Teknis (file I)
 a) Dokumen Penawaran Administrasi, dan
 b) Dokumen Penawaran Teknis
@@ -92314,7 +92314,7 @@ penjelasan ulang.
 berlangsungnya pemberian penjelasan dapat menambah
 waktu batas akhir tahapan tersebut sesuai dengan
 kebutuhan.
-Paraf 1 Paraf 2 Paraf 3
+
 12.9 Dalam hal waktu tahap penjelasan telah berakhir, peserta
 tidak dapat mengajukan pertanyaan namun Pokja
 Pemilihan masih mempunyai tambahan waktu untuk
@@ -92360,7 +92360,7 @@ Waktu penambahan waktu penyiapan dokumen penawaran maka Pokja
 Penyampaian Pemilihan memperpanjang batas akhir penyampaian
 Dokumen penawaran.
 Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 C. PENYIAPAN DOKUMEN PENAWARAN
 15. Biaya dalam 15.1 Peserta menanggung semua biaya dalam penyiapan dan
 Penyiapan penyampaian penawaran.
@@ -92413,7 +92413,7 @@ dalam KAK;
 b) Metodologi pelaksanaan pekerjaan;
 c) Penyajian Hasil kerja; dan
 d) Gagasan Baru.
-Paraf 1 Paraf 2 Paraf 3
+
 3) Kualifikasi tenaga ahli, terdiri dari:
 a) Daftar Riwayat Hidup personel yang diusulkan;
 b) Kontrak/Referensi dari Pejabat Penandatangan
@@ -92467,7 +92467,7 @@ Pembayaran 19.2 Pembayaran atas prestasi pekerjaan jasa konsultansi
 konstruksi ini dilakukan sesuai dengan cara sebagaimana
 tercantum dalam LDP dan diuraikan dalam Syarat-Syarat
 Umum Kontrak/Syarat-Syarat Khusus Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 20. Masa Berlaku 20.1 Masa berlaku penawaran dan Jangka waktu pelaksanaan
 Penawaran dan sesuai dengan ketentuan sebagaimana tercantum dalam
 Jangka Waktu LDP.
@@ -92519,7 +92519,7 @@ pusat yang dibuktikan dengan dokumen otentik atau
 pejabat yang menurut perjanjian kerja sama adalah yang
 berhak mewakili perusahaan yang bekerja sama atau
 pihak yang diberi kuasa oleh pemimpin atau direktur
-Paraf 1 Paraf 2 Paraf 3
+
 perusahaan yang nama pemberi kuasanya tercantum
 dalam akta pendirian/perubahan.
 21.4 Pengguna SPSE wajib mengetahui dan melaksanakan
@@ -92569,7 +92569,7 @@ Terlambat
 E. PEMBUKAAN, EVALUASI PENAWARAN, DAN PENGUMUMAN PERINGKAT TEKNIS
 24. Pembukaan 24.1 Ketentuan umum pembukaan dokumen penawaran
 Dokumen sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Penawaran a. Jadwal pembukaan penawaran sebagaimana
 Administrasi tercantum dalam SPSE.
 dan Teknis (File b. Pokja Pemilihan mengunduh (download) dan
@@ -92625,7 +92625,7 @@ tambahan di luar ketentuan Dokumen Seleksi yang
 akan menimbulkan persaingan usaha tidak sehat
 dan/atau tidak adil diantara peserta yang
 memenuhi syarat.
-Paraf 1 Paraf 2 Paraf 3
+
 e. Pokja Pemilihan dilarang menggugurkan penawaran
 dengan alasan kesalahan yang tidak substansial,
 misalnya kesalahan pengetikan, penyebutan sebagian
@@ -92679,7 +92679,7 @@ meliputi:
 a. evaluasi administrasi; dan
 b. evaluasi teknis.
 25.5 Evaluasi Administrasi:
-Paraf 1 Paraf 2 Paraf 3
+
 a. evaluasi administrasi meliputi pemeriksaan
 kelengkapan dokumen penawaran administrasi dan
 dokumen penawaran teknis;
@@ -92738,7 +92738,7 @@ maka harus dilampiri dengan bukti kontrak beserta
 adendumnya (apabila ada) dan bukti serah terima
 pekerjaan dan/atau bukti serah terima
 pekerjaan/referensi dari pemberi kerja/bukti
-Paraf 1 Paraf 2 Paraf 3
+
 pembayaran terakhir/bukti potong pajak
 pembayaran terakhir. Apabila tidak disertai bukti
 kontrak beserta adendumnya (apabila ada)
@@ -92797,7 +92797,7 @@ dengan yang tercantum dalam Lembar Kriteria
 Evaluasi.
 f. Penilaian unsur Kualifikasi Tenaga Ahli dilakukan
 dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 1) penilaian dilakukan terhadap tenaga ahli yang
 diusulkan untuk melaksanakan pekerjaan dengan
 memperhatikan persyaratan di dalam KAK;
@@ -92856,7 +92856,7 @@ dihitung hanya salah satu (yang terbaik
 berdasarkan Kesesuaian lingkup
 pekerjaan dan posisi pengalaman kerja
 profesional);
-Paraf 1 Paraf 2 Paraf 3
+
 (2) apabila terdapat perhitungan bulan
 menurut Pokja Pemilihan lebih kecil dari
 yang tertulis dalam penawaran, maka
@@ -92916,7 +92916,7 @@ dalam Lembar Kriteria Evaluasi;
 (10) Dalam hal Tenaga Ahli yang diusulkan
 pernah menjabat sebagai ASN, maka
 pengalaman kerja semasa menjabat
-Paraf 1 Paraf 2 Paraf 3
+
 sebagai ASN yang sesuai dengan lingkup
 pekerjaan yang akan dilaksanakan dapat
 diperhitungkan, dan dinilai
@@ -92974,7 +92974,7 @@ lulus evaluasi teknis, maka proses seleksi tetap
 dilanjutkan; dan
 k. Apabila tidak ada peserta yang lulus evaluasi teknis
 maka seleksi dinyatakan gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 25.7 Pokja Pemilihan membuat Berita Acara Hasil Evaluasi File I
 yang paling sedikit memuat:
 a. Tanggal dibuatnya berita acara;
@@ -93029,7 +93029,7 @@ Pemilihan;
 e. apabila terjadi kesalahan hasil perkalian antara
 volume dengan harga satuan pekerjaan, dilakukan
 pembetulan dan harga yang berlaku adalah hasil
-Paraf 1 Paraf 2 Paraf 3
+
 perkalian sebenarnya. Dengan ketentuan harga
 satuan pekerjaan yang ditawarkan tidak boleh diubah;
 f. jenis pekerjaan yang tidak diberi harga satuan
@@ -93079,7 +93079,7 @@ lebih peserta mendapatkan nilai teknis yang sama, maka
 penentuan peringkat peserta diantara peserta tersebut
 selanjutnya didasarkan pada nilai pekerjaan sejenis yang
 lebih tinggi dan hal ini dicatat dalam Berita Acara.
-Paraf 1 Paraf 2 Paraf 3
+
 28.8 Pokja Pemilihan membuat dan menandatangani Berita
 Acara Hasil Evaluasi File II yang paling sedikit memuat:
 a. Nama dan alamat seluruh peserta;
@@ -93133,7 +93133,7 @@ tiga paket), atau
 4) pada pekerjaan jasa konsultansi yang
 menggunakan kontrak harga satuan/waktu
 penugasan dengan ketentuan personel yang
-Paraf 1 Paraf 2 Paraf 3
+
 diusulkan penugasannya tidak tumpang tindih
 (overlap).
 29.3 Penetapan pemenang dengan nilai pagu anggaran paling
@@ -93185,7 +93185,7 @@ penawaran.
 31.2 Sanggah disampaikan melalui SPSE kepada Pokja
 Pemilihan disertai bukti terjadinya penyimpangan sesuai
 jadwal pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 31.3 Sanggah diajukan oleh peserta apabila terjadi
 penyimpangan prosedur meliputi:
 a. kesalahan dalam melakukan evaluasi;
@@ -93236,7 +93236,7 @@ pencapaian hasil kerja yang optimal; dan
 b. memperoleh kesepakatan biaya yang efisien dan efektif
 dengan tetap mempertahankan hasil yang ingin dicapai
 sesuai dengan penawaran teknis yang diajukan peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 32.4 Undangan mencantumkan tempat, hari, tanggal, dan
 waktu klarifikasi dan negosiasi teknis dan biaya.
 32.5 Peserta yang hadir adalah:
@@ -93291,7 +93291,7 @@ b. Apabila biaya tenaga ahli lebih rendah dari standar
 remunerasi minimal berdasarkan pada peraturan
 perundang-undangan yang terkait standar remunerasi
 tenaga ahli maka:
-Paraf 1 Paraf 2 Paraf 3
+
 1) dilakukan negosiasi sehingga remunerasi tenaga
 ahli tersebut sama dengan remunerasi minimal;
 2) negosiasi tersebut tanpa menambah nilai
@@ -93345,7 +93345,7 @@ Satuan meliputi, antara lain : biaya untuk pembelian ATK,
 sewa peralatan, biaya pengiriman dokumen, biaya
 komunikasi, biaya pencetakan laporan, sewa kendaraan,
 dan sewa kantor dan penerapan SMKK.
-Paraf 1 Paraf 2 Paraf 3
+
 33.10 Biaya Langsung Non Personel yang didasarkan Lumsum
 meliputi biaya, antara lain : untuk biaya penyelenggaraan
 seminar/workshop/lokakarya.
@@ -93393,7 +93393,7 @@ termasuk apabila klarifikasi dan negosiasi teknis dan biaya
 tidak menghasilkan kesepakatan sebagaimana dimaksud
 pada butir 33.15 dituangkan dalam Berita Acara.
 G. SELEKSI GAGAL DAN TINDAK LANJUT SELEKSI GAGAL
-Paraf 1 Paraf 2 Paraf 3
+
 34. Seleksi Gagal 34.1 Pokja Pemilihan menyatakan Seleksi gagal, apabila:
 a. terdapat kesalahan dalam proses evaluasi;
 b. tidak ada peserta yang menyampaikan dokumen
@@ -93446,7 +93446,7 @@ gagal sebagaimana dimaksud pada klausul 34.1 huruf b
 sampai dengan huruf l.
 35.5 Dalam hal Seleksi ulang yang disebabkan oleh Korupsi,
 kolusi, dan/atau nepotisme yang melibatkan Pokja
-Paraf 1 Paraf 2 Paraf 3
+
 Pemilihan/PPK, Seleksi ulang dilakukan oleh Pokja
 Pemilihan/PPK yang baru.
 35.6 Dalam hal tindak lanjut Seleksi gagal sebagaimana
@@ -93494,7 +93494,7 @@ Acara/informasi tambahan lainnya (jika ada).
 36.3 Berita Acara/informasi tambahan lainnya sebagaimana
 dimaksud pada klausul 36.2 memuat hal-hal yang tidak
 difasilitasi SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 36.4 Laporan sebagaimana dimaksud pada klausul 36.2
 disampaikan setelah tahapan klarifikasi dan negosiasi
 teknis dan biaya.
@@ -93549,7 +93549,7 @@ Pemilihan disertai alasan dan bukti dan memerintahkan
 Pokja Pemilihan untuk melakukan evaluasi ulang atau
 seleksi ulang paling lambat 6 (enam) hari kerja setelah
 hasil pemilihan penyedia diterima.
-Paraf 1 Paraf 2 Paraf 3
+
 38. SPPBJ 38.1 Pejabat Penandatangan Kontrak menerbitkan SPPBJ paling
 lambat 5 (lima) hari kerja setelah Pejabat Penandatangan
 Kontrak menerima laporan hasil pelaksanaan pemilihan.
@@ -93597,7 +93597,7 @@ I. PENANDATANGANAN KONTRAK
 40. Rapat Persiapan 40.1 Pejabat Penandatangan Kontrak dan Penyedia
 Penandatangan- melaksanakan Rapat Persiapan Penandatanganan Kontrak
 an Kontrak setelah diterbitkan SPPBJ.
-Paraf 1 Paraf 2 Paraf 3
+
 40.2 Kontrak ditandatangani paling lambat 14 (empat belas)
 hari kerja setelah diterbitkannya SPPBJ.
 40.3 Dalam Rapat Persiapan Penandatanganan Kontrak, paling
@@ -93649,7 +93649,7 @@ dilakukan.
 41.3 Pejabat Penandatangan Kontrak dan penyedia tidak
 diperkenankan mengubah substansi Dokumen Seleksi
 sampai dengan penandatanganan Kontrak, kecuali
-Paraf 1 Paraf 2 Paraf 3
+
 mempersingkat waktu pelaksanaan pekerjaan
 dikarenakan jadwal pelaksanaan pekerjaan yang
 ditetapkan sebelumnya akan melewati batas tahun
@@ -93686,7 +93686,7 @@ dengan peraturan perundang-undangan.
 41.8 Pejabat Penandatangan Kontrak memasukkan data kontrak
 dan mengunggah hasil pemindaian dokumen kontrak
 yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -93730,7 +93730,7 @@ secara sekaligus]
 F. Masa Berlaku 20.1 1. Masa berlaku penawaran selama _____
 Penawaran (____________) hari kalender sejak batas
 dan Jangka akhir penyampaian Dokumen Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 Waktu [diisi dengan tanggal batas akhir penyampaian
 Pelaksanaan penawaran sampai dengan tanggal
 penandatanganan kontrak].
@@ -93763,7 +93763,7 @@ Terdahulu
 10. Referensi Hukum
 Uraian Pendahuluan memuat gambaran secara garis besar mengenai pekerjaan yang akan dilaksanakan.
 Data penunjang terdiri dari data yang berkaitan dengan pelaksanaan pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 Ruang Lingkup
 11. Lingkup Pekerjaan
 12. Keluaran3
@@ -93802,7 +93802,7 @@ sebanyak (__________) buku laporan.
 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain. (untuk jasa konsultansi konstruksi
 perancangan termasuk identifikasi bahaya sesuai dengan metode pelaksanaan serta metode operasi dan
 pemeliharaan bangunan).
-Paraf 1 Paraf 2 Paraf 3
+
 20. Laporan Bulanan Laporan Bulanan memuat: __________
 (jika
 dipersyaratkan) Laporan harus diserahkan selambat-lambatnya: __
@@ -93843,7 +93843,7 @@ besar/tinggi terdiri dari:
 1) Ahli Utama K3 Konstruksi; atau
 2) Ahli Madya K3 Konstruksi dengan pengalaman paling singkat 3 (tiga)
 tahun.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Untuk paket pekerjaan konstruksi berisiko keselamatan konstruksi
 sedang/menengah terdiri dari:
 1) Ahli Madya K3 Konstruksi; atau
@@ -93855,7 +93855,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -93905,7 +93905,7 @@ diberi nilai _______ ;
 3) Memiliki ≤ _______
 pengalaman diberi nilai
 _______ ;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Nilai pekerjaan __ [5%-10%] Rumusan penghitungan
 sejenis tertinggi sebagai
 dalam kurun waktu berikut:
@@ -93967,7 +93967,7 @@ pemahaman peserta atas
 jasa layanan yang
 tercantum dalam KAK,
 diberi nilai 20 (dua
-Paraf 1 Paraf 2 Paraf 3
+
 puluh); (deskripsikan
 yang dimaksud kurang)
 4) kriteria penilaian selain
@@ -94034,7 +94034,7 @@ dicapai.
 d. gagasan baru yang 2% _____
 Kriteria penilaian:
 diajukan oleh peserta [diisi
-Paraf 1 Paraf 2 Paraf 3
+
 untuk meningkatkan ambang 1) sangat baik diberi nilai
 kualitas keluaran batas 100;
 yang diinginkan subunsur] 2) cukup baik diberi nilai
@@ -94098,7 +94098,7 @@ tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 3) tidak dilengkapi
 referensi/kontrak
 sebelumnya maka tidak
@@ -94164,7 +94164,7 @@ bulan kerja profesional
 dibagi angka 12 = jangka
 waktu pengalaman kerja
 profesional.
-Paraf 1 Paraf 2 Paraf 3
+
 6) nilai jangka waktu
 pengalaman kerja
 profesional :
@@ -94213,7 +94213,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -94222,7 +94222,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -94243,7 +94243,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -94267,7 +94267,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN)
@@ -94301,7 +94301,7 @@ c. _________________ ___________________ _________________
 d. _________________ ___________________ _________________
 e. _________________ ___________________ _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -94318,7 +94318,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen seleksi ini meliputi antara lain
 (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan,
 data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -94346,7 +94346,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -94361,7 +94361,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti pen
 laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah
 berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -94380,7 +94380,7 @@ Tenaga Ahli Uraian
 Nama Personel Posisi Diusulkan Orang
 Lokal/Asing Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -94401,7 +94401,7 @@ n Penuh- Waktu
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -94438,7 +94438,7 @@ h. Status Kepegawaian pada Perusahaan : __________
 i. Surat Referensi dari Pemberi Pekerjaan : __________
 dst.
 9. Status kepegawaian pada perusahaan ini : __________
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar riwayat hidup ini saya buat dengan sebenar-benarnya dan penuh rasa
 tanggung jawab. Jika terdapat pengungkapan keterangan yang tidak benar secara
 sengaja atau sepatutnya diduga maka saya siap untuk digugurkan sebagai personel
@@ -94449,7 +94449,7 @@ Yang membuat pernyataan,
 [nama jelas]
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi dari
 pemberi pekerjaan yang bersangkutan
-Paraf 1 Paraf 2 Paraf 3
+
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
 CONTOH
 PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -94484,7 +94484,7 @@ di
 _______________________________
 Perihal : Penawaran Biaya untuk pekerjaan ________________
 [nama pekerjaan diisi oleh Pokja Pemilihan]
-Paraf 1 Paraf 2 Paraf 3
+
 Sehubungan dengan Undangan pengambilan Dokumen Seleksi
 Nomor_____________tanggal_____________ dan setelah kami pelajari dengan
 saksama Dokumen seleksi, Berita Acara Pemberian Penjelasan [dan Adendum
@@ -94513,7 +94513,7 @@ _
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KUANTITAS DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -94540,7 +94540,7 @@ Total Biaya
 Pada isian Nama Personel, untuk Tenaga Ahli pengisian masukan harus mencantumkan nama personel; untuk
 Tenaga Subprofesional dan Tenaga Pendukung cukup dicantumkan posisi, misalnya juru gambar, staf
 administrasi, dan sebagainya
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK RINCIAN BIAYA LANGSUNG NON-PERSONEL (DIRECT
 REIMBURSABLE COST)
 CONTOH
@@ -94602,7 +94602,7 @@ dengan lumsum.
 ● Biaya penerapan SMKK digunakan sesuai kebutuhan.
 E. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
-Paraf 1 Paraf 2 Paraf 3
+
 RINCIAN KOMPONEN REMUNERASI PERSONEL
 Personel Komponen Remunerasi
 Jumlah
@@ -94622,7 +94622,7 @@ administrasi, dan sebagainya
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi PersoneL hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -94665,7 +94665,7 @@ perubahannya;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah beserta perubahannya dan aturan turunannya;
 *) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
@@ -94712,7 +94712,7 @@ Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh
 berdasarkan total harga penawaran terkoreksi sebagaimana tercantum dalam
-Paraf 1 Paraf 2 Paraf 3
+
 Rincian Biaya adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..)
 dengan kode akun kegiatan ……….
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
@@ -94760,7 +94760,7 @@ rangkap yang lain dapat diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
 Untuk dan atas nama Untuk dan atas nama
 Pejabat Penandatangan Kontrak............. Pejabat Penandatangan Kontrak.............
 [diisi nama badan usaha] [diisi sesuai SK Pengangkatan]
-Paraf 1 Paraf 2 Paraf 3
+
 [tanda tangan dan cap (jika salinan asli [tanda tangan dan cap (jika salinan asli
 ini untuk Pejabat Penandatangan ini untuk Pejabat Penandatangan
 Kontrak maka rekatkan meterai Rp Kontrak maka rekatkan meterai Rp
@@ -94804,7 +94804,7 @@ untuk bertindak atas nama ..................... [nama badan usaha KSO] berdasark
 Perjanjian Kerja Sama Operasi (KSO) Nomor ................ tanggal ........... selanjutnya
 disebut “Penyedia”.
 *) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 Dan dengan memperhatikan:
 1. Undang-Undang Nomor 2 Tahun 2017 tentang Jasa Konstruksi beserta
 perubahannya;
@@ -94852,7 +94852,7 @@ Pasal 2
 RUANG LINGKUP PEKERJAAN UTAMA
 Ruang lingkup pekerjaan utama terdiri dari:
 1. ................
-Paraf 1 Paraf 2 Paraf 3
+
 2. ................
 3. dst.
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut
@@ -94899,7 +94899,7 @@ terpenuhinya seluruh hak dan kewajiban para pihak.
 (2) Masa Pelaksanaan Kontrak ditentukan dalam Syarat-Syarat Khusus Kontrak,
 dihitung sejak Tanggal Mulai Kerja yang tercantum dalam SPMK sampai dengan
 Tanggal Penyerahan Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat
 untuk menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan
 Kontrak sesuai dengan ketentuan peraturan perundang-undangan di Republik
@@ -94917,7 +94917,7 @@ Kontrak maka rekatkan meterai Rp 10.000, 00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-
@@ -94971,7 +94971,7 @@ disusun oleh Pejabat Penandatangan
 Kontrak untuk menjelaskan tujuan,
 lingkup jasa konsultansi,
 produk/output serta input/keahlian
-Paraf 1 Paraf 2 Paraf 3
+
 yang diperlukan untuk pelaksanaan
 pekerjaan berdasarkan Kontrak ini
 1.8 Keadaan Kahar adalah suatu keadaan
@@ -95027,7 +95027,7 @@ Kontrak, dihitung sejak Tanggal Mulai
 Kerja yang tercantum dalam SPMK
 sampai dengan Tanggal Penyerahan
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 1.16 Pelaku Usaha adalah setiap orang
 perorangan atau badan usaha, baik
 yang berbentuk badan hukum maupun
@@ -95084,7 +95084,7 @@ kegiatan. Biaya Non Personel dapat
 dibayarkan secara Lumsum, Harga
 Satuan dan/atau penggantian biaya
 sesuai yang dikeluarkan (at cost).
-Paraf 1 Paraf 2 Paraf 3
+
 1.23 Rincian Komponen Remunerasi
 Personel adalah rincian biaya langsung
 yang diperlukan untuk membayar
@@ -95140,7 +95140,7 @@ memulai melaksanakan pekerjaan.
 adalah tanggal penyelesaian pekerjaan
 Jasa Konsultansi ini oleh Penyedia dan
 dinyatakan dalam Berita Acara Serah
-Paraf 1 Paraf 2 Paraf 3
+
 Terima Pekerjaan yang diterbitkan
 oleh Pejabat Penandatangan Kontrak.
 2. Penerapan SSUK diterapkan secara luas dalam pelaksanaan
@@ -95195,7 +95195,7 @@ yang diketahui atau patut dapat diduga
 berkaitan dengan pengadaan ini;
 b. mendorong terjadinya persaingan tidak
 sehat; dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 c. membuat dan/atau menyampaikan
 secara tidak benar dokumen dan/atau
 keterangan lain yang disyaratkan untuk
@@ -95250,7 +95250,7 @@ Harga Kontrak.
 Subkontrak diperbolehkan dalam hal pergantian nama
 Penyedia, baik sebagai akibat peleburan
 (merger), konsolidasi, atau pemisahan.
-Paraf 1 Paraf 2 Paraf 3
+
 10.2 Penyedia dapat bekerja sama dengan
 penyedia lain dengan mensubkontrakkan
 sebagian pekerjaan, kecuali pekerjaan utama
@@ -95302,7 +95302,7 @@ Pendukung selalu bertindak profesional. Jika
 tercantum dalam klausul 6.1 SSKK, Tim
 Pendukung dapat bertindak sebagai Wakil
 Sah Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 B. PELAKSANAAN, PENYELESAIAN, ADENDUM DAN PEMUTUSAN KONTRAK
 15. Masa Kontrak Kontrak ini berlaku efektif sejak penandatanganan
 Surat Perjanjian oleh Para Pihak sampai dengan
@@ -95356,7 +95356,7 @@ mempresentasikan dan menyerahkan
 Program Mutu sebagai penjaminan mutu
 pelaksanaan pekerjaan pada rapat persiapan
 pelaksanaan Kontrak, kemudian dibahas dan
-Paraf 1 Paraf 2 Paraf 3
+
 disetujui oleh Pejabat Penandatangan
 Kontrak.
 18.2 Program Mutu disusun paling sedikit berisi:
@@ -95410,7 +95410,7 @@ c. kesesuaian personel dan peralatan
 dengan persyaratan Kontrak;
 d. tata cara pengaturan pelaksanaan
 pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Rencana Kerja/ Jadwal Pelaksanaan
 Pekerjaan yang memperhatikan
 Keselamatan Konstruksi;
@@ -95464,7 +95464,7 @@ menyelesaikan pekerjaan sesuai Masa
 Pelaksanaan Kontrak karena di luar
 pengendaliannya yang dapat dibuktikan
 demikian, dan Penyedia telah melaporkan
-Paraf 1 Paraf 2 Paraf 3
+
 kejadian tersebut kepada Pejabat
 Penandatangan Kontrak, dengan disertai
 bukti-bukti yang dapat disetujui Pejabat
@@ -95520,7 +95520,7 @@ Pejabat Penandatangan Kontrak, maka
 diberlakukan peristiwa Kompensasi.
 24. Pemberian Kesempatan 24.1 Dalam hal diperkirakan Penyedia gagal
 menyelesaikan pekerjaan sampai Masa
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak berakhir, namun Pejabat
 Penandatangan Kontrak menilai bahwa
 Penyedia mampu menyelesaikan pekerjaan,
@@ -95574,7 +95574,7 @@ Kontrak.
 serah terima pekerjaan jika hasil pekerjaan
 dan/atau dokumen laporan pelaksanaan
 pekerjaan tidak sesuai dengan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 25.7 Atas pelaksanaan serah terima hasil
 pekerjaan, Pejabat Penandatangan Kontrak
 membuat Berita Acara Serah Terima (BAST)
@@ -95628,7 +95628,7 @@ kondisi pekerjaan pada saat pelaksanaan
 dengan Kerangka Acuan Kerja yang
 ditentukan dalam dokumen Kontrak, Pejabat
 Penandatangan Kontrak bersama Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 dapat melakukan perubahan pekerjaan,
 yang meliputi:
 a. menambah atau mengurangi volume
@@ -95683,7 +95683,7 @@ oleh:
 a. perubahan pekerjaan;
 b. penyesuaian harga; dan/atau
 c. peristiwa kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 28.2 Setiap perubahan harga yang ditimbulkan
 oleh perubahan pekerjaan harus terlebih
 dahulu melalui pemeriksaan Tim
@@ -95740,7 +95740,7 @@ h) jenis pekerjaan yang lebih cepat
 pelaksanaannya diberlakukan
 penyesuaian harga berdasarkan indeks
 harga pada saat pelaksanaan.
-Paraf 1 Paraf 2 Paraf 3
+
 i) Koefisien komponen kontrak
 berdasarkan koefisien yang digunakan
 dalam analisis harga satuan; dan
@@ -95795,7 +95795,7 @@ perpanjangan dan untuk berapa lama.
 Pekerjaan dan/atau perpanjangan Masa
 Pelaksanaan Kontrak dituangkan dalam
 Adendum Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 29.7 Jika terjadi Peristiwa Kompensasi sehingga
 penyelesaian pekerjaan akan melampaui
 Masa Pelaksanaan Kontrak maka Penyedia
@@ -95847,7 +95847,7 @@ pemeriksaan terhadap kualifikasi yang
 dibutuhkan dengan riwayat
 hidup/pengalaman kerja Personel Inti yang
 diusulkan.
-Paraf 1 Paraf 2 Paraf 3
+
 30.6 Perubahan Personel Inti berupa pengurangan,
 penambahan, dan/atau penggantian harus
 mendapat persetujuan terlebih dahulu dari
@@ -95899,7 +95899,7 @@ Tim Pendukung untuk melakukan
 penelitian terhadap penyampaian
 pemberitahuan Keadaan Kahar dan bukti
 serta hasil identifikasi sebagaimana
-Paraf 1 Paraf 2 Paraf 3
+
 dimaksud dalam klausul 31.4 dan klausul
 31.5
 31.7 Dalam hal Keadaan Kahar terbukti,
@@ -95954,7 +95954,7 @@ dituangkan dalam adendum kontrak.
 31.12 Dalam hal pelaksanaan Kontrak dilanjutkan,
 para pihak dapat melakukan perubahan
 Kontrak. Masa Pelaksanaan Kontrak dapat
-Paraf 1 Paraf 2 Paraf 3
+
 diperpanjang sekurang-kurangnya sama
 dengan jangka waktu terhentinya Kontrak
 akibat Keadaan Kahar. Perpanjangan waktu
@@ -96012,7 +96012,7 @@ oleh salah satu pihak maka Pejabat
 Penandatangan Kontrak membayar
 kepada Penyedia sesuai dengan
 pencapaian prestasi pekerjaan yang telah
-Paraf 1 Paraf 2 Paraf 3
+
 diterima oleh Pejabat Penandatangan
 Kontrak dikurangi denda yang harus
 dibayar Penyedia (apabila ada), serta
@@ -96067,7 +96067,7 @@ Pekerjaan serta tanpa persetujuan Tim
 Pendukung ; atau
 j. Penyedia mengalihkan seluruh Kontrak
 bukan dikarenakan pergantian nama.
-Paraf 1 Paraf 2 Paraf 3
+
 34.2 Dalam hal pemutusan Kontrak dilakukan
 pada Masa Kontrak karena kesalahan
 Penyedia, maka:
@@ -96121,7 +96121,7 @@ bukan oleh kesalahan para pihak;
 b. pelaksanaan kontrak tidak dapat
 dilanjutkan akibat keadaan kahar; atau
 c. ruang lingkup kontrak sudah terwujud.
-Paraf 1 Paraf 2 Paraf 3
+
 36.2 Pengakhiran pekerjaan sesuai pasal 36.1
 37. Berakhirnya Kontrak
 dituangkan dalam adendum final yang berisi
@@ -96176,7 +96176,7 @@ dan perbaikan pekerjaan yang dirinci dalam
 Kontrak;
 f. memberikan keterangan-keterangan yang
 diperlukan untuk pemeriksaan pelaksanaan
-Paraf 1 Paraf 2 Paraf 3
+
 yang dilakukan Pejabat Penandatangan
 Kontrak;
 g. mengambil langkah-langkah yang memadai
@@ -96230,7 +96230,7 @@ harta benda Penyedia, Subkontraktor
 (jika ada), dan personel;
 b. cidera tubuh, sakit atau kematian
 personel; dan
-Paraf 1 Paraf 2 Paraf 3
+
 c. kehilangan atau kerusakan harta benda,
 dan cidera tubuh, sakit atau kematian
 pihak ketiga.
@@ -96288,7 +96288,7 @@ Lingkungan langkah yang memadai untuk melindungi
 lingkungan baik di dalam maupun di luar tempat
 kerja dan membatasi gangguan lingkungan
 terhadap pihak ketiga dan harta bendanya
-Paraf 1 Paraf 2 Paraf 3
+
 sehubungan dengan pelaksanaan Kontrak ini,
 sesuai dengan ketentuan peraturan perundang-
 undangan yang mengatur mengenai pengelolaan
@@ -96343,7 +96343,7 @@ dibantu oleh Tim Pendukung .
 desain, laporan, dan/atau dokumen-
 dokumen lain serta piranti lunak yang
 dipersiapkan oleh Penyedia berdasarkan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak ini sepenuhnya merupakan hak
 milik Pejabat Penandatangan Kontrak.
 49.2 Penyedia paling lambat pada waktu
@@ -96396,7 +96396,7 @@ Indonesia sesuai dengan ketentuan
 peraturan perundang-undangan di
 bidang lembaga pembiayaan ekspor
 Indonesia; atau
-Paraf 1 Paraf 2 Paraf 3
+
 5) Konsorsium Perusahaan Asuransi
 Umum/Konsorsium Lembaga
 Penjaminan/Konsorsium
@@ -96450,7 +96450,7 @@ oleh Pejabat Penandatangan Kontrak,
 Personel Inti dapat sewaktu-waktu
 disyaratkan untuk menjaga kerahasiaan
 pekerjaan di bawah sumpah.
-Paraf 1 Paraf 2 Paraf 3
+
 54. Jam Kerja dan Lembur 54.1 Orang hari standar atau satu hari orang
 bekerja adalah 8 (delapan) jam, terdiri atas
 7 (tujuh) jam kerja (efektif) dan 1 (satu) jam
@@ -96504,7 +96504,7 @@ efektif dan/atau jam kerja normal harus
 diawasi oleh Pejabat Penandatangan Kontrak
 dan dapat dibantu diperiksa oleh Tim
 Pendukung .
-Paraf 1 Paraf 2 Paraf 3
+
 56. Kerjasama Antara 56.1 Penyedia hanya boleh melakukan
 Penyedia dan subkontrak sebagian pekerjaan utama
 Subkontraktor kepada Penyedia Spesialis.
@@ -96558,7 +96558,7 @@ Personel yang tercantum dalam Kontrak yang
 telah ditetapkan kepada Penyedia;
 e. memberikan fasilitas berupa sarana dan
 prasarana yang dibutuhkan oleh Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 untuk kelancaran pelaksanaan pekerjaan sesuai
 ketentuan Kontrak; dan
 f. menilai kinerja Penyedia.
@@ -96611,7 +96611,7 @@ yang diajukan oleh Penyedia kepada Pejabat
 Penandatangan Kontrak, dapat dibuktikan
 perlunya tambahan waktu akibat Peristiwa
 Kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 59.5 Penyedia tidak berhak atas ganti rugi
 dan/atau perpanjangan Masa Pelaksanaan
 Kontrak jika Penyedia gagal atau lalai untuk
@@ -96665,7 +96665,7 @@ ditentukan dalam SSKK;
 a. Uang Muka dapat diberikan kepada
 Penyedia sesuai ketentuan dalam SSKK
 untuk:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Mobilisasi; dan/atau
 2) pekerjaan teknis yang diperlukan
 untuk persiapan pelaksanaan
@@ -96722,7 +96722,7 @@ dengan SSKK
 c. pembayaran dilakukan dengan sistem
 bulanan sesuai dengan ketentuan yang
 ditetapkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 d. pembayaran harus memperhitungkan
 angsuran uang muka, denda (apabila
 ada), dan pajak;
@@ -96780,7 +96780,7 @@ adalah:
 1) 1‰ (satu perseribu) per hari dari
 harga bagian Kontrak yang
 tercantum dalam Kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 2) 1‰ (satu perseribu) dari harga
 Kontrak (sebelum PPN) untuk setiap
 hari keterlambatan;
@@ -96836,7 +96836,7 @@ angsuran prestasi pekerjaan Penyedia jika
 Penyedia gagal atau lalai memenuhi
 kewajiban kontraktualnya, termasuk
 penyerahan setiap Hasil Pekerjaan sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan waktu yang telah ditetapkan dalam
 KAK.
 64.2 Pejabat Penandatangan Kontrak secara
@@ -96890,7 +96890,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondens Alamat Para Pihak sebagai berikut:
@@ -96939,7 +96939,7 @@ tanggal …….
 3. _______dst
 [diisi pada saat finalisasi Kontrak, sesuai dengan
 penawaran Penyedia]
-Paraf 1 Paraf 2 Paraf 3
+
 10.6 Sanksi Pelanggaran terhadap ketentuan Pengalihan
 dan/atau Subkontrak dikenakan sanksi _________
 [diisi dengan memilih salah satu sanksi yang akan
@@ -96986,7 +96986,7 @@ personel setelah penyesuaian
 harga;
 H0 = Harga Satuan komponen non-
 personel saat penawaran biaya;
-Paraf 1 Paraf 2 Paraf 3
+
 a = Koefisien tetap yang terdiri atas
 keuntungan dan overhead;
 Dalam hal penawaran tidak
@@ -97044,7 +97044,7 @@ Personel 1……..
 53.1 Personel Inti Nama Personel Inti:
 1….
 2…
-Paraf 1 Paraf 2 Paraf 3
+
 3….
 58 Fasilitas Pejabat Penandatangan Kontrak akan memberikan
 fasilitas berupa : .................... [diisi fasilitas milik
@@ -97087,7 +97087,7 @@ Disubkontrakkan* ) ) )
 Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
 **)Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR KOMPOSISI TIM DAN PENUGASAN
 Input Personel (dalam orang/bulan) untuk tiap Kegiatan Total Waktu
 sesuai Jadwal Pelaksanaan Pekerjaan Penugasan
@@ -97125,7 +97125,7 @@ n Utama Tipe n
 3 Dst
 Catatan:
 Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PENUGASAN PERSONEL
 Masukan Personel (dalam bentuk diagram balok)
 No Jabatan/Posis Bulan Ke- Orang
@@ -97141,7 +97141,7 @@ Subtotal
 Total
 Full time input
 Part time input
-Paraf 1 Paraf 2 Paraf 3
+
 RINCIAN KOMPONEN REMUNERASI PERSONEL
 (Dalam Ribu Rupiah)*
 Personel 1 2 3 4 5 6 7
@@ -97197,7 +97197,7 @@ Laporan Harga
 Antara Satuan
 Laporan Harga
 Akhir Satuan
-Paraf 1 Paraf 2 Paraf 3
+
 Laporan Harga
 Penyelenggar Satuan
 aan Seminar
@@ -97235,7 +97235,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -97266,7 +97266,7 @@ Meterai Rp10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -97309,7 +97309,7 @@ Untuk dan atas nama __________[nama penyedia]
 Meterai Rp10.000,00
 [nama lengkap wakil sah badan usaha]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh PPK.
 LAMPIRAN 3 : JAMINAN UANG MUKA
@@ -97353,7 +97353,7 @@ Bank sebagaimana tercantum dalam butir 1.
 tersebut di atas atau sisa Uang Muka yang belum dikembalikan Yang Dijamin
 dalam waktu paling lambat 14 (empat belas) hari kerja tanpa syarat setelah
 menerima tuntutan pencairan dari Penerima Jaminan berdasar Surat
-Paraf 1 Paraf 2 Paraf 3
+
 Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi
 akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-
@@ -97373,7 +97373,7 @@ Jaminan disarankan untuk
 mencocokkan Jaminan ini ke
 Bank ................ [bank] ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium perusahaan
 asuransi umum/lembaga penjaminan/perusahaan penjaminan]
@@ -97414,7 +97414,7 @@ sebagaimana dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah
 diajukan selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender
 sesudah berakhirnya masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 TERJAMIN PENJAMIN
 (..........................................) (..........................................)
 Nama Jelas Nama Jelas
@@ -97422,7 +97422,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 ………[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi
 harus mematuhi ketentuan sebagai berikut:
@@ -97460,7 +97460,7 @@ sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -102961,7 +102961,7 @@ Jasa Konsultansi Konstruksi
 Badan Usaha
 Metode Seleksi, Prakualifikasi, Dua File, Kualitas,
 Kontrak Lumsum
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -102971,7 +102971,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB. I UNDANGAN................................................................................................................................. - 5 -
 BAB. II UMUM ........................................................................................................................................ - 6 -
@@ -103032,7 +103032,7 @@ LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (FILE I) .................................
 (IX) BENTUK JADWAL PENUGASAN TENAGA AHLI ............................................................. - 53 -
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN ........................... - 54 -
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN ............................ - 55 -
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (FILE II)......................................................... - 56 -
 BAB VIII. RANCANGAN KONTRAK ..................................................................................................... - 59 -
 BAB IX. SYARAT-SYARAT UMUM KONTRAK ..................................................................................... - 66 -
@@ -103051,11 +103051,11 @@ LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ) .....................
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA ...................................................................... - 104 -
 LAMPIRAN 3 : JAMINAN UANG MUKA ................................................................................... - 105 -
 BAB XII. KETENTUAN LAIN-LAIN ..................................................................................................... - 108 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. I UNDANGAN
 Peserta yang diundang adalah peserta yang masuk dalam Daftar Pendek (Shortlist)
 melalui SPSE
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. II UMUM
 A. Dokumen Seleksi ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -103102,7 +103102,7 @@ standar keamanan, keselamatan, kesehatan dan
 keberlanjutan yang menjamin keselamatan keteknikan
 konstruksi, keselamatan dan kesehatan tenaga kerja,
 keselamatan publik dan lingkungan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Sistem : yang selanjutnya disebut SMKK adalah bagian dari sistem
 Manajemen manajemen pelaksanaan Pekerjaan Konstruksi dalam rangka
 Keselamatan menjamin terwujudnya Keselamatan Konstruksi;
@@ -103155,7 +103155,7 @@ berwenang untuk adalah pejabat yang memiliki kewenangan untuk mengikat
 menandatangani perjanjian atau menandatangani Kontrak dengan Penyedia,
 Kontrak
 dapat berasal dari PA, KPA, atau PPK
-Paraf 1 Paraf 2 Paraf 3
+
 - Pelaku Usaha : adalah badan usaha atau perseorangan yang melakukan
 usaha dan/atau kegiatan pada bidang tertentu;
 - Penyedia : adalah Pelaku Usaha yang menyediakan barang/jasa
@@ -103186,7 +103186,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 F. Seleksi ini dapat diikuti oleh peserta yang ditetapkan dalam daftar pendek peserta
 Seleksi
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam
@@ -103239,7 +103239,7 @@ c. gugatan secara perdata; dan/atau
 d. pelaporan secara pidana kepada pihak berwenang.
 4.3 Pengenaan sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
 Pokja Pemilihan.
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi dan perannya,
@@ -103298,7 +103298,7 @@ Tenaga Ahli dan yang mengutamakan tenaga ahli dalam negeri.
 Produksi Dalam
 Negeri 7.2 Dalam pelaksanaan pekerjaan jasa konsultansi konstruksi
 dimungkinkan menggunakan komponen berupa tenaga ahli
-Paraf 1 Paraf 2 Paraf 3
+
 dan perangkat lunak yang berasal dari luar negeri (impor)
 dengan ketentuan:
 a. penggunaan tenaga ahli asing dilakukan semata-mata
@@ -103356,7 +103356,7 @@ i. Contoh Bentuk Dokumen lain:
 3) Jaminan Uang Muka (apabila dipersyaratkan).
 10.2 Peserta berkewajiban memeriksa keseluruhan isi Dokumen
 Seleksi ini. Kelalaian menyampaikan Dokumen Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 yang tidak memenuhi persyaratan yang ditetapkan dalam
 Dokumen Seleksi merupakan risiko peserta.
 11. Bahasa Dokumen Seleksi beserta seluruh korespondensi tertulis dalam
@@ -103404,7 +103404,7 @@ Dokumen hal/ketentuan baru atau perubahan yang perlu
 Seleksi ditampung, maka Pokja Pemilihan menuangkan ke dalam
 Adendum Dokumen Seleksi yang menjadi bagian tidak
 terpisahkan dari Dokumen Seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 13.2 Perubahan rancangan kontrak, KAK, gambar dan/atau
 HPS, harus mendapatkan persetujuan PPK sebelum
 dituangkan dalam Adendum Dokumen Seleksi.
@@ -103456,7 +103456,7 @@ b. Penawaran Biaya (file II).
 a. Dokumen penawaran administrasi, berupa surat
 penawaran sesuai pada SPSE;
 b. Dokumen Penawaran Teknis yang terdiri atas:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Data pengalaman perusahaan, terdiri dari sub-
 unsur:
 a) Pengalaman kerja sejenis 10 (sepuluh) tahun
@@ -103517,7 +103517,7 @@ Keluaran dan Harga. Jika harga keluaran/output ditulis
 nol atau tidak dicantumkan maka keluaran/output
 tersebut dianggap telah termasuk dalam biaya total dan
 keluaran/output tersebut tetap harus dilaksanakan.
-Paraf 1 Paraf 2 Paraf 3
+
 18.3 Biaya tidak langsung (overhead cost), dan keuntungan
 serta semua pajak, bea, retribusi, dan pungutan lain yang
 sah harus dibayar oleh penyedia untuk pelaksanaan paket
@@ -103571,7 +103571,7 @@ berulang sebelum batas akhir waktu penyampaian
 Dokumen Penawaran. Dokumen Penawaran terakhir akan
 menggantikan Dokumen Penawaran yang telah terkirim
 sebelumnya.
-Paraf 1 Paraf 2 Paraf 3
+
 21.3 Surat Penawaran dan/atau Dokumen lain sebagai bagian
 dari Dokumen Penawaran yang diunggah (upload) ke
 dalam SPSE dianggap sah sebagai dokumen elektronik dan
@@ -103623,7 +103623,7 @@ penyampaian penawaran.
 23. Dokumen Dokumen Penawaran yang disampaikan setelah batas akhir waktu
 Penawaran penyampaian penawaran tidak diterima.
 Terlambat
-Paraf 1 Paraf 2 Paraf 3
+
 E. PEMBUKAAN, EVALUASI PENAWARAN, DAN PENGUMUMAN PERINGKAT TEKNIS
 24. Pembukaan 24.1 Ketentuan umum pembukaan dokumen penawaran
 Dokumen sebagai berikut:
@@ -103684,7 +103684,7 @@ dan/atau tidak adil diantara peserta yang
 memenuhi syarat.
 e. Pokja Pemilihan dilarang menggugurkan penawaran
 dengan alasan kesalahan yang tidak substansial,
-Paraf 1 Paraf 2 Paraf 3
+
 misalnya kesalahan pengetikan, penyebutan sebagian
 nama atau keterangan, surat penawaran tidak berkop
 perusahaan, dan/atau tidak berstempel.
@@ -103742,7 +103742,7 @@ b. evaluasi teknis.
 25.5 Evaluasi Administrasi:
 a. evaluasi administrasi meliputi pemeriksaan
 kelengkapan dokumen penawaran administrasi.
-Paraf 1 Paraf 2 Paraf 3
+
 b. penawaran dinyatakan memenuhi persyaratan
 administrasi, apabila Penawaran lengkap sesuai yang
 diminta/dipersyaratkan
@@ -103805,7 +103805,7 @@ dan/atau bukti serah terima pekerjaan/referensi
 dari pemberi kerja/bukti pembayaran
 terakhir/bukti potong pajak pembayaran terakhir
 maka tidak dinilai;
-Paraf 1 Paraf 2 Paraf 3
+
 3) sub unsur Pengalaman Perusahaan yang dinilai
 adalah:
 a) pengalaman melaksanakan pekerjaan sejenis
@@ -103869,7 +103869,7 @@ dengan Surat Pernyataan Kesediaan untuk tenaga
 ahli yang ditandatangani di atas meterai oleh
 Tenaga Ahli yang bersangkutan. Apabila tidak
 dilengkapi dan/atau tidak ditandatangani, maka
-Paraf 1 Paraf 2 Paraf 3
+
 penilaian tenaga ahli yang bersangkutan diberi nilai
 0 (nol).
 4) surat pernyataan yang tidak diberi meterai tidak
@@ -103934,7 +103934,7 @@ bulan yang overlap dihitung satu kali
 (khusus untuk pengalaman yang
 menggunakan kontrak harga
 satuan/waktu penugasan (time based));
-Paraf 1 Paraf 2 Paraf 3
+
 (4) apabila jangka waktu pengalaman kerja
 profesional ditulis bulan dan tahunnya
 saja (tanpa tanggal) maka pengalaman
@@ -103999,7 +103999,7 @@ tenaga ahli dinilai sebagai tenaga ahli tidak
 tetap.
 d) lain-lain: penguasaan Bahasa Inggris, Bahasa
 Indonesia (bagi konsultan Asing), bahasa
-Paraf 1 Paraf 2 Paraf 3
+
 setempat, aspek pengenalan (familiarity) atas
 tata-cara, aturan, situasi, dan kondisi (custom)
 setempat. Personel yang
@@ -104062,7 +104062,7 @@ setelah dilakukan klarifikasi Tenaga Ahli tersebut tidak
 terikat/sudah selesai melaksanakan pekerjaan pada
 paket tersebut saat memulai pelaksanaan pekerjaan
 pada paket yang sedang diseleksi;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Apabila menawarkan Tenaga Ahli yang sama untuk
 beberapa seleksi yang diikuti dan dalam evaluasi
 memenuhi persyaratan pada masing-masing paket
@@ -104123,7 +104123,7 @@ Pemilihan
 d. Dalam hal PA/KPA tidak sependapat, selanjutnya
 UKPBJ memerintahkan Pokja Pemilihan bersangkutan
 untuk menindaklanjuti penolakan tersebut
-Paraf 1 Paraf 2 Paraf 3
+
 26.4 Pokja Pemilihan menayangkan peringkat teknis hasil
 evaluasi file I pada SPSE.
 26.5 Pengumuman peringkat teknis atau hasil evaluasi
@@ -104177,7 +104177,7 @@ a. sanggah disampaikan tidak melalui SPSE, kecuali
 keadaan kahar atau gangguan teknis;
 b. sanggah ditujukan bukan kepada Pokja Pemilihan; atau
 a. sanggah disampaikan diluar masa sanggah.
-Paraf 1 Paraf 2 Paraf 3
+
 27.8 Sanggah yang dianggap sebagai pengaduan tetap harus
 diproses sebagaimana penanganan pengaduan.
 28. Pembukaan dan 28.1 Pokja Pemilihan hanya membuka dokumen penawaran file
@@ -104234,7 +104234,7 @@ dicapai sesuai dengan penawaran teknis yang
 diajukan peserta
 29.4 Undangan mencantumkan tempat, hari, tanggal, dan
 waktu klarifikasi teknis.
-Paraf 1 Paraf 2 Paraf 3
+
 29.5 Peserta yang hadir adalah:
 a. Direksi yang namanya ada dalam akta
 pendirian/perubahan atau pihak yang sah menurut
@@ -104295,7 +104295,7 @@ remunerasi tenaga ahli maka harus dapat dibuktikan
 dengan:
 1) daftar gaji yang telah diaudit dan/atau bukti setor
 pajak penghasilan Tenaga Ahli konsultan yang
-Paraf 1 Paraf 2 Paraf 3
+
 bersangkutan, dengan ketentuan: biaya satuan dari
 biaya langsung personel, maksimum 4,0 (empat
 koma nol) kali gaji dasar yang diterima oleh tenaga
@@ -104352,7 +104352,7 @@ melebihi pagu anggaran dengan menggunakan acuan HPS
 tanpa mengurangi kualitas penawaran teknis.
 30.12 Apabila hasil klarifikasi dan negosiasi teknis dan biaya
 tidak ditemukan hal-hal yang tidak wajar, maka total
-Paraf 1 Paraf 2 Paraf 3
+
 penawaran biaya dapat diterima sepanjang tidak melebihi
 pagu anggaran.
 30.13 Klarifikasi dan negosiasi teknis dan biaya tidak harus
@@ -104407,7 +104407,7 @@ j. PA/KPA menyetujui penolakan oleh PPK atas hasil
 pemilihan dan/atau
 k. PA/KPA menolak untuk menetapkan peringkat teknis
 terbaik/pemenang pemilihan untuk Pengadaan Jasa
-Paraf 1 Paraf 2 Paraf 3
+
 Konsultansi Konstruksi dengan nilai Pagu Anggaran
 paling sedikit diatas Rp10.000.000.000,00 (sepuluh
 miliar rupiah).
@@ -104459,7 +104459,7 @@ c. hasil evaluasi penawaran administrasi dan nilai
 evaluasi teknis;
 d. biaya penawaran dari peserta seleksi yang lulus
 ambang batas nilai teknis (passing grade);
-Paraf 1 Paraf 2 Paraf 3
+
 e. hasil klarifikasi dan negosiasi teknis dan biaya;
 f. pagu anggaran dan HPS;
 g. metode evaluasi yang digunakan;
@@ -104517,7 +104517,7 @@ pengambilan keputusan diserahkan kepada PA/KPA
 paling lambat 6 (enam) hari kerja setelah tidak
 tercapai kesepakatan.
 e. PA/KPA dapat memutuskan:
-Paraf 1 Paraf 2 Paraf 3
+
 1) menyetujui penolakan PPK, PA/KPA
 memerintahkan Pokja Pemilihan untuk
 melakukan evaluasi ulang atau seleksi ulang; atau
@@ -104570,7 +104570,7 @@ klarifikasi, konfirmasi, dan usulan calon pemenang tidak
 boleh diberitahukan kepada peserta, atau orang lain yang
 tidak berkepentingan sampai keputusan pemenang
 diumumkan.
-Paraf 1 Paraf 2 Paraf 3
+
 36.3 Setiap usaha peserta seleksi mencampuri proses evaluasi
 dokumen penawaran atau keputusan pemenang akan
 mengakibatkan ditolaknya penawaran yang bersangkutan.
@@ -104627,7 +104627,7 @@ Kontrak
 38.2 Sebelum penandatanganan kontrak, Pejabat
 Penandatangan Kontrak wajib memeriksa apakah
 pernyataan dalam Data Isian Kualifikasi masih berlaku.
-Paraf 1 Paraf 2 Paraf 3
+
 Apabila salah satu pernyataan tersebut sudah tidak
 terpenuhi, maka penandatanganan kontrak tidak dapat
 dilakukan.
@@ -104670,7 +104670,7 @@ dengan peraturan perundang-undangan.
 38.8 Pejabat Penandatangan Kontrak memasukkan data kontrak
 dan mengunggah hasil pemindaian dokumen kontrak
 yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -104716,12 +104716,12 @@ penyampaian Dokumen Penawaran
 [diisi dengan tanggal batas akhir penyampaian
 penawaran sampai dengan tanggal
 penandatanganan kontrak].
-Paraf 1 Paraf 2 Paraf 3
+
 2. Jangka waktu pelaksanaan pekerjaan: _______
 (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -104759,7 +104759,7 @@ Penyedia Jasa
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain. (untuk jasa konsultansi konstruksi
 perancangan termasuk identifikasi bahaya sesuai dengan metode pelaksanaan serta metode operasi dan
 pemeliharaan bangunan).
-Paraf 1 Paraf 2 Paraf 3
+
 16. Jangka Waktu
 Penyelesaian
 Pekerjaan
@@ -104802,7 +104802,7 @@ Negeri harus dilakukan di dalam wilayah Negara Republik
 Indonesia kecuali ditetapkan lain dalam angka 4 KAK
 dengan pertimbangan keterbatasan kompetensi dalam
 negeri.
-Paraf 1 Paraf 2 Paraf 3
+
 24. Persyaratan Kerja Jika kerja sama dengan penyedia jasa konsultansi lain
 sama diperlukan untuk pelaksanaan kegiatan jasa konsultansi
 ini maka persyaratan berikut harus dipatuhi:
@@ -104832,7 +104832,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/ Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -104892,7 +104892,7 @@ X : Nama perusahaan
 NPT : Nilai Paket Tertinggi
 NPT Tertinggi = Nilai Paket
 tertinggi
-Paraf 1 Paraf 2 Paraf 3
+
 _____
 [diisi
 2. Unsur Proposal Teknis __ [20%-35%] ambang
@@ -104961,7 +104961,7 @@ metodologi
 dengan rencana
 nilai 0.
 kerja
-Paraf 1 Paraf 2 Paraf 3
+
 3) apresiasi terhadap - - deskripsikan secara jelas
 inovasi untuk setiap kriteria sesuai
 dengan tujuan yang akan
@@ -105031,7 +105031,7 @@ tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 dalam KAK, diberi nilai :
 0 (nol).
 b. pengalaman kerja __ [30%-40%] _____ Nilai subunsur pengalaman
@@ -105100,7 +105100,7 @@ dengan jelas].
 adalah : _____
 [deskripsikan
 dengan jelas].
-Paraf 1 Paraf 2 Paraf 3
+
 3) Dalam hal Tenaga Ahli
 yang diusulkan pernah
 menjabat sebagai ASN,
@@ -105172,7 +105172,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -105181,7 +105181,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -105202,7 +105202,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -105226,7 +105226,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN)
@@ -105260,7 +105260,7 @@ c. _________________ ___________________ _________________
 d. _________________ ___________________ _________________
 e. _________________ ___________________ _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -105277,7 +105277,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen seleksi ini meliputi antara lain
 (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan,
 data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -105305,7 +105305,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -105320,7 +105320,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti pen
 laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah
 berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -105339,7 +105339,7 @@ Tenaga Ahli Uraian
 Nama Personel Posisi Diusulkan Orang
 Lokal/Asing Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -105360,7 +105360,7 @@ n Penuh- Waktu
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -105407,7 +105407,7 @@ Yang membuat pernyataan,
 [nama jelas]
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi dari
 Pemberi pekerjaan yang bersangkutan
-Paraf 1 Paraf 2 Paraf 3
+
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
 CONTOH
 PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -105429,7 +105429,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 A. BENTUK SURAT PENAWARAN BIAYA CONTOH
 [KOP SURAT BADAN USAHA]
@@ -105467,7 +105467,7 @@ _
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KELUARAN DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -105479,7 +105479,7 @@ II Output ......(dst)
 Sub-total
 PPN 10%
 Total
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -105501,7 +105501,7 @@ administrasi, dan sebagainya.
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi Personel hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -105548,7 +105548,7 @@ Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 *) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
 (b) Pejabat Penandatangan Kontrak telah menunjuk Penyedia menjadi pihak dalam
@@ -105600,7 +105600,7 @@ atas nama Penyedia: ...............;
 masing-masing Tahun Anggarannya]
 Pasal 4
 DOKUMEN KONTRAK
-Paraf 1 Paraf 2 Paraf 3
+
 (1) Dokumen-dokumen berikut merupakan satu kesatuan dan bagian yang tidak
 terpisahkan dari Kontrak ini:
 a. adendum Kontrak (apabila ada);
@@ -105645,7 +105645,7 @@ Kontrak maka rekatkan meterai Rp meterai Rp 10.000,00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Lumsum
@@ -105694,7 +105694,7 @@ Pemerintah beserta perubahannya dan aturan turunannya;
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 *) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
@@ -105743,7 +105743,7 @@ Keluaran dan Harga adalah sebesar Rp. ……….. (……….. ditulis dalam hur
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
 (3) Pembayaran untuk kontrak ini dilakukan ke Bank ..... rekening nomor: .............
 atas nama Penyedia: ...............;
-Paraf 1 Paraf 2 Paraf 3
+
 [Catatan: untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
 masing-masing Tahun Anggarannya]
 Pasal 4
@@ -105789,10 +105789,10 @@ Penyedia ............. [diisi nama KSO] Pejabat Penandatangan Kontrak
 ini untuk Pejabat Penandatangan [tanda tangan dan cap (jika salinan asli
 Kontrak maka rekatkan meterai Rp ini untuk Penyedia maka rekatkan
 10.000,00)] meterai Rp 10.000,00)]
-Paraf 1 Paraf 2 Paraf 3
+
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-
@@ -105849,7 +105849,7 @@ dapat dipenuhi.
 disingkat KSO adalah kerja sama usaha antar
 Penyedia yang masing-masing pihak
 mempunyai hak, kewajiban dan tanggung
-Paraf 1 Paraf 2 Paraf 3
+
 jawab yang jelas berdasarkan perjanjian
 tertulis;
 1.10 Kontrak Kerja Konstruksi selanjutnya disebut
@@ -105909,7 +105909,7 @@ Kontrak.
 1.20 Personel Inti adalah orang yang akan
 ditempatkan secara penuh sesuai dengan
 persyaratan yang ditetapkan dalam Dokumen
-Paraf 1 Paraf 2 Paraf 3
+
 Pemilihan serta posisinya dalam manajemen
 pelaksanaan pekerjaan sesuai dengan
 organisasi pelaksanaan yang diajukan untuk
@@ -105970,7 +105970,7 @@ peraturan perundang-undangan.
 1.27 Surat Perintah Mulai Kerja yang selanjutnya
 disingkat SPMK adalah surat yang diterbitkan
 oleh Pejabat Penandatangan Kontrak kepada
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia untuk memulai melaksanakan
 pekerjaan.
 1.28 Tanggal Mulai Kerja adalah tanggal yang
@@ -106030,7 +106030,7 @@ nepotisme, a. menawarkan, menerima atau
 Penyalahgunaan menjanjikan untuk memberi atau
 menerima hadiah atau imbalan berupa
 apa saja atau melakukan tindakan
-Paraf 1 Paraf 2 Paraf 3
+
 Wewenang serta lainnya untuk mempengaruhi siapapun
 Penipuan yang diketahui atau patut dapat diduga
 berkaitan dengan pengadaan ini;
@@ -106090,7 +106090,7 @@ Harga Kontrak.
 Subkontrak diperbolehkan dalam hal pergantian nama
 Penyedia, baik sebagai akibat peleburan
 (merger), konsolidasi, atau pemisahan.
-Paraf 1 Paraf 2 Paraf 3
+
 10.2 Penyedia dapat bekerja sama dengan
 penyedia lain dengan mensubkontrakkan
 sebagian pekerjaan, kecuali pekerjaan utama
@@ -106148,7 +106148,7 @@ Surat Perjanjian oleh Para Pihak sampai dengan
 Tanggal Penyerahan Pekerjaan dan hak dan
 kewajiban Para Pihak yang terdapat dalam Kontrak
 sudah terpenuhi.
-Paraf 1 Paraf 2 Paraf 3
+
 B.1 Pelaksanaan Pekerjaan
 16. Penyerahan/Pemberian 16.1 Sebelum penyerahan/pemberian akses
 Akses Lokasi Kerja lokasi kerja dilakukan peninjauan lapangan
@@ -106208,7 +106208,7 @@ Personel Pendukung;
 e. Prosedur pelaksanaan pekerjaan;
 f. Prosedur instruksi kerja; dan
 g. Pelaksana kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 18.3 Penyedia wajib menerapkan dan
 mengendalikan pelaksanaan Program Mutu
 secara konsisten untuk mencapai mutu yang
@@ -106266,7 +106266,7 @@ Kontrak.
 dituangkan dalam Berita Acara Rapat
 Persiapan Pelaksanaan Kontrak dan apabila
 mengakibatkan perubahan isi Kontrak,
-Paraf 1 Paraf 2 Paraf 3
+
 maka harus dituangkan dalam adendum
 Kontrak
 20. Mobilisasi 20.1 Mobilisasi paling lambat harus sudah mulai
@@ -106325,7 +106325,7 @@ memperingatkan sedini mungkin Pejabat
 Penandatangan Kontrak atas peristiwa atau
 kondisi tertentu yang dapat mempengaruhi
 mutu pekerjaan, menaikkan Harga Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 atau menunda penyelesaian pekerjaan.
 Pejabat Penandatangan Kontrak dapat
 memerintahkan Penyedia untuk
@@ -106385,7 +106385,7 @@ Penyerahan Pekerjaan semula terlewati.
 24.4 Pemberian kesempatan kepada Penyedia
 untuk menyelesaikan pekerjaan dapat
 melampaui Tahun Anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 B.3 Penyelesaian Kontrak
 25. Serah Terima Pekerjaan 25.1 Setelah pekerjaan selesai sesuai dengan
 ketentuan dalam Kontrak, Penyedia
@@ -106443,7 +106443,7 @@ keterlambatan.
 B.4 Adendum
 26. Perubahan Kontrak 26.1 Kontrak hanya dapat diubah melalui
 Adendum Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 26.2 Perubahan Kontrak dapat dilaksanakan
 apabila disetujui oleh para pihak, yang
 diakibatkan beberapa hal berikut meliputi:
@@ -106502,7 +106502,7 @@ awal.
 27.4 Hasil negosiasi tersebut dituangkan dalam
 Berita Acara sebagai dasar penyusunan
 adendum Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 27.5 Dalam hal perubahan pekerjaan
 mengakibatkan perubahan personel maka
 perubahan tersebut harus mengikuti
@@ -106561,7 +106561,7 @@ Jika Penyedia lalai untuk memberikan
 peringatan dini atas keterlambatan atau
 tidak dapat bekerja sama untuk mencegah
 keterlambatan sesegera mungkin, maka
-Paraf 1 Paraf 2 Paraf 3
+
 keterlambatan seperti ini tidak dapat
 dijadikan alasan untuk memperpanjang
 Masa Pelaksanaan Kontrak.
@@ -106618,7 +106618,7 @@ Inti sebagaimana ketentuan klausul 30.3
 diajukan dengan melampirkan riwayat
 hidup/pengalaman kerja Personel Inti yang
 diusulkan.
-Paraf 1 Paraf 2 Paraf 3
+
 30.5 Pejabat Penandatangan Kontrak dapat
 menyetujui penggantian dan/atau
 penambahan Personel Inti berdasarkan
@@ -106675,7 +106675,7 @@ terdampak;
 b. Jadwal Pelaksanaan Pekerjaan; dan
 c. Dokumen pendukung lainnya (apabila
 ada).
-Paraf 1 Paraf 2 Paraf 3
+
 31.6 Pejabat Penandatangan Kontrak meminta
 Tim Pendukung untuk melakukan
 penelitian terhadap penyampaian
@@ -106735,7 +106735,7 @@ dituangkan dalam adendum kontrak.
 31.12 Dalam hal pelaksanaan Kontrak dilanjutkan,
 para pihak dapat melakukan perubahan
 Kontrak. Masa Pelaksanaan Kontrak dapat
-Paraf 1 Paraf 2 Paraf 3
+
 diperpanjang sekurang-kurangnya sama
 dengan jangka waktu terhentinya Kontrak
 akibat Keadaan Kahar. Perpanjangan waktu
@@ -106798,7 +106798,7 @@ Kontrak dikurangi denda yang harus
 dibayar Penyedia (apabila ada), serta
 Penyedia menyerahkan semua hasil
 pelaksanaan kepada Pejabat
-Paraf 1 Paraf 2 Paraf 3
+
 Penandatangan Kontrak dan selanjutnya
 menjadi hak milik Pejabat Penandatangan
 Kontrak.
@@ -106858,7 +106858,7 @@ Penyedia atau Jaminan Uang Muka
 dicairkan (apabila diberikan);
 b. Penyedia membayar denda (apabila
 diperlukan); dan
-Paraf 1 Paraf 2 Paraf 3
+
 c. Penyedia dikenakan Sanksi Daftar
 Hitam
 34.3 Pencairan jaminan sebagaimana dimaksud
@@ -106918,7 +106918,7 @@ sebagaimana dimaksud pada klausul 37.2
 adalah terkait dengan pembayaran yang
 seharusnya dilakukan akibat dari
 pelaksanaan kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 38. Peninggalan Semua bahan, perlengkapan, peralatan, hasil
 pekerjaan sementara yang masih berada di lokasi
 kerja setelah pemutusan Kontrak akibat kelalaian
@@ -106975,7 +106975,7 @@ melaksanakan dan menyelesaikan pekerjaan sesuai
 dengan kualitas, ketepatan volume, ketepatan
 waktu pelaksanaan/penyerahan dan ketepatan
 tempat pengiriman/penyerahan hasil pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 41. Penggunaan Penyedia tidak diperkenankan menggunakan dan
 Dokumen-Dokumen menginformasikan dokumen Kontrak atau
 Kontrak dan Informasi dokumen lainnya yang berhubungan dengan
@@ -107037,7 +107037,7 @@ atau kerusakan tersebut terjadi akibat
 tindakan atau kelalaian Penyedia.
 44. Perlindungan Tenaga 44.1 Penyedia dan Subpenyedia berkewajiban
 Kerja atas biaya sendiri untuk mengikutsertakan
-Paraf 1 Paraf 2 Paraf 3
+
 personelnya pada program Badan
 Penyelenggara Jaminan Sosial (BPJS)
 Ketenagakerjaan serta melunasi kewajiban
@@ -107098,7 +107098,7 @@ b. menunjuk Personel Inti yang namanya
 tidak tercantum dalam Lampiran SSKK;
 c. mengubah atau memutakhirkan Program
 Mutu; atau
-Paraf 1 Paraf 2 Paraf 3
+
 d. tindakan lain selain yang diatur dalam
 SSUK.
 47.2 Tindakan lain dalam klausul 47.1 huruf d
@@ -107157,7 +107157,7 @@ surat perintah pencairan dari Pejabat
 Penandatangan Kontrak atau pihak yang
 diberi kuasa oleh Pejabat Penandatangan
 Kontrak diterima.
-Paraf 1 Paraf 2 Paraf 3
+
 51.2 Penerbit jaminan selain Bank Umum harus
 telah ditetapkan/mendapat rekomendasi
 dari Otoritas Jasa Keuangan (OJK).
@@ -107215,7 +107215,7 @@ dituliskan dalam Lampiran SSKK
 Penugasan Personel akan dibuat oleh
 Penyedia melalui pemberitahuan secara
 tertulis kepada Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak dan dapat dituangkan dalam
 perubahan Kontrak;
 52.3 Jika terdapat pekerjaan tambah, maka
@@ -107275,7 +107275,7 @@ dan datanya disimpan oleh Penyedia. Daftar
 pembayaran masing-masing pekerja dapat
 diperiksa oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 55.3 Untuk pekerjaan yang dilakukan di luar hari
 kerja efektif dan jam kerja normal harus
 mengikuti ketentuan Menteri yang
@@ -107334,7 +107334,7 @@ penyerahan pekerjaan dan ketentuan yang
 telah ditetapkan dalam Kontrak.
 d. membayar pekerjaan sesuai dengan Biaya
 Langsung Personel dan Biaya Langsung Non
-Paraf 1 Paraf 2 Paraf 3
+
 Personel yang tercantum dalam Kontrak yang
 telah ditetapkan kepada Penyedia;
 e. memberikan fasilitas berupa sarana dan
@@ -107395,7 +107395,7 @@ Kompensasi.
 dan/atau perpanjangan Masa Pelaksanaan
 Kontrak jika Penyedia gagal atau lalai untuk
 memberikan peringatan dini dalam
-Paraf 1 Paraf 2 Paraf 3
+
 mengantisipasi atau mengatasi dampak
 Peristiwa Kompensasi.
 F. PEMBAYARAN KEPADA PENYEDIA
@@ -107458,7 +107458,7 @@ diperhitungkan berangsur-angsur
 secara proporsional pada setiap
 pembayaran prestasi pekerjaan dan
 paling lambat harus lunas pada saat
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan selesai.
 61.2 Prestasi pekerjaan
 Pembayaran prestasi hasil pekerjaan yang
@@ -107521,7 +107521,7 @@ denda keterlambatan dalam
 penyelesaian pelaksanaan pekerjaan
 dan denda terkait pelanggaran
 ketentuan subkontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Ganti rugi merupakan sanksi finansial
 yang dikenakan kepada Pejabat
 Penandatangan Kontrak maupun
@@ -107584,7 +107584,7 @@ oleh Pejabat Penandatangan Kontrak.
 63. Penangguhan 63.1 Pejabat Penandatangan Kontrak dapat
 Pembayaran menangguhkan pembayaran setiap
 angsuran prestasi pekerjaan Penyedia jika
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia gagal atau lalai memenuhi
 kewajiban kontraktualnya, termasuk
 penyerahan setiap Hasil Pekerjaan sesuai
@@ -107641,7 +107641,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondens Alamat Para Pihak sebagai berikut:
@@ -107695,7 +107695,7 @@ dan/atau Subkontrak dikenakan sanksi _________
 [diisi dengan memilih salah satu sanksi yang akan
 dikenakan:
 a. dilakukan pemutusan kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. membayar 2 (dua) kali lipat selisih harga
 didalam kontrak dengan harga yang dibayarkan
 kepada subpenyedia]
@@ -107753,7 +107753,7 @@ apabila ada peristiwa kompensasi lain, selain yang
 telah tertuang dalam SSUK]
 61.1.a & Besaran Uang Uang muka diberikan paling tinggi sebesar .....%
 61.1.e Muka (.....dalam huruf.....) dari Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 61.2.b & Pembayaran Pembayaran prestasi pekerjaan dilakukan dengan
 61.2.c Prestasi cara Bulanan
 Pekerjaan
@@ -107771,7 +107771,7 @@ atau harga bagian Kontrak yang tercantum
 dalam Kontrak dan belum diserahterimakan
 apabila ditetapkan serah terima pekerjaan secara
 parsial]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PEKERJAAN UTAMA YANG DISUBKONTRAKKAN DAN SUBPENYEDIA
 (Apabila Ada)
@@ -107810,7 +107810,7 @@ Subtotal
 Total
 Full time input
 Part time input
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan I II III IV V dst Keterangan
@@ -107822,7 +107822,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR KELUARAN DAN HARGA
 No Total Harga
 Keluaran Satuan
@@ -107838,7 +107838,7 @@ Sub-total …
 PPN 10%
 Total …
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -107869,7 +107869,7 @@ Meterai Rp. 10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -107915,7 +107915,7 @@ Meterai Rp. 10.000,00
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh Pejabat
 Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 3 : JAMINAN UANG MUKA
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -107963,7 +107963,7 @@ akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 benda yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk
 melunasi hutang Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab
 Undang-Undang Hukum Perdata.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan
 kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-
@@ -107978,7 +107978,7 @@ Jaminan disarankan untuk
 mencocokkan Jaminan ini ke
 Bank ................ [bank] ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium perusahaan
 asuransi umum/lembaga penjaminan/perusahaan penjaminan]
@@ -108026,7 +108026,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 ………[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi
 harus mematuhi ketentuan sebagai berikut:
@@ -108064,7 +108064,7 @@ sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -108072,7 +108072,7 @@ Jasa Konsultansi Konstruksi
 Badan Usaha
 Metode Seleksi, Prakualifikasi, Dua File, Pagu Anggaran,
 Kontrak Waktu Penugasan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -108082,7 +108082,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UNDANGAN................................................................................................................................. - 5 -
 BAB II. UMUM ........................................................................................................................................ - 6 -
@@ -108144,7 +108144,7 @@ BAB VI. LEMBAR KRITERIA EVALUASI ...............................................
 A. EVALUASI ADMINISTRASI ........................................................................................................... - 41 -
 B. EVALUASI TEKNIS ...................................................................................................................... - 41 -
 BAB VII. BENTUK DOKUMEN PENAWARAN ...................................................................................... - 47 -
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (FILE I) ........................................................ - 47 -
 (i) BENTUK DATA ORGANISASI PERUSAHAAN ................................................................... - 47 -
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN TERAKHIR
@@ -108188,11 +108188,11 @@ LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ) .....................
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA ...................................................................... - 113 -
 LAMPIRAN 3 : JAMINAN UANG MUKA ................................................................................... - 114 -
 BAB XII. KETENTUAN LAIN-LAIN ..................................................................................................... - 117 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UNDANGAN
 Peserta yang diundang adalah peserta yang masuk dalam Daftar Pendek (Shortlist)
 melalui SPSE
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UMUM
 A. Dokumen Seleksi ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -108238,7 +108238,7 @@ standar keamanan, keselamatan, kesehatan dan
 keberlanjutan yang menjamin keselamatan keteknikan
 konstruksi, keselamatan dan kesehatan tenaga kerja,
 keselamatan publik dan lingkungan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Sistem : yang selanjutnya disebut SMKK adalah bagian dari sistem
 Manajemen manajemen pelaksanaan Pekerjaan Konstruksi dalam rangka
 Keselamatan menjamin terwujudnya Keselamatan Konstruksi;
@@ -108287,7 +108287,7 @@ Kontrak dapat berasal dari PA, KPA, atau PPK;
 usaha dan/atau kegiatan pada bidang tertentu;
 - Penyedia : adalah Pelaku Usaha yang menyediakan barang/jasa
 berdasarkan kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 - Subpenyedia : adalah penyedia yang mengadakan perjanjian kerja dengan
 penyedia penanggung jawab kontrak, untuk melaksanakan
 sebagian pekerjaan (subkontrak);
@@ -108310,7 +108310,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 F. Seleksi ini dapat diikuti oleh Peserta yang ditetapkan dalam Daftar Pendek Peserta
 Seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas Pokja Pemilihan sebagaimana tercantum dalam
@@ -108362,7 +108362,7 @@ c. gugatan secara perdata; dan/atau
 d. pelaporan secara pidana kepada pihak berwenang.
 4.3 Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
 Pokja Pemilihan.
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi dan perannya,
@@ -108418,7 +108418,7 @@ secara sepihak oleh PPK yang disebabkan oleh kesalahan
 Penyedia Barang/Jasa; atau
 7. Pendayagunaan 7.1 Peserta berkewajiban untuk menyampaikan penawaran
 Tenaga Ahli dan yang mengutamakan tenaga ahli dalam negeri.
-Paraf 1 Paraf 2 Paraf 3
+
 Produksi Dalam 7.2 Dalam pelaksanaan pekerjaan jasa konsultansi konstruksi
 Negeri dimungkinkan menggunakan komponen berupa tenaga ahli
 dan perangkat lunak yang berasal dari luar negeri (impor)
@@ -108477,7 +108477,7 @@ i. Contoh Bentuk Dokumen lain:
 1) SPPBJ;
 2) SPMK;
 3) Jaminan Uang Muka (apabila dipersyaratkan).
-Paraf 1 Paraf 2 Paraf 3
+
 10.2 Peserta berkewajiban memeriksa keseluruhan isi Dokumen
 Seleksi ini. Kelalaian menyampaikan Dokumen Penawaran
 yang tidak memenuhi persyaratan yang ditetapkan dalam
@@ -108522,7 +108522,7 @@ Acara Pemberian Penjelasan Lanjutan dan diunggah
 melalui SPSE.
 12.12 Berita Acara Pemberian Penjelasan Lapangan menjadi
 bagian Berita Acara Pemberian Penjelasan (BAPP).
-Paraf 1 Paraf 2 Paraf 3
+
 13. Perubahan 13.1 Apabila pada saat pemberian penjelasan terdapat hal-
 Dokumen hal/ketentuan baru atau perubahan penting yang perlu
 Seleksi ditampung, maka Pokja Pemilihan menuangkan ke dalam
@@ -108572,7 +108572,7 @@ bahasa asing.
 penjelasan dalam Bahasa Indonesia. Dalam hal terjadi
 perbedaan penafsiran, maka yang berlaku adalah
 dokumen penunjang yang berbahasa asing.
-Paraf 1 Paraf 2 Paraf 3
+
 17. Dokumen 17.1 Dokumen Penawaran meliputi:
 Penawaran a. Penawaran Administrasi dan Teknis (file I); dan
 b. Penawaran Biaya (file II).
@@ -108633,7 +108633,7 @@ b. Apabila nilai yang tertulis dalam angka jelas sedangkan
 nilai dalam huruf tidak jelas dan/atau tidak bermakna
 dan/atau salah maka yang diakui adalah yang tertulis
 dalam angka;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Apabila nilai yang tertulis dalam angka dan yang
 tertulis dalam huruf tidak jelas dan/atau tidak
 bermakna dan/atau salah maka penawaran dinyatakan
@@ -108687,7 +108687,7 @@ penawaran;
 b. menolak permintaan tersebut dan dapat
 mengundurkan diri secara tertulis dengan tidak
 dikenakan sanksi.
-Paraf 1 Paraf 2 Paraf 3
+
 D. PENYAMPAIAN DOKUMEN PENAWARAN
 21. Penyampaian 21.1 Peserta menyampaikan Dokumen Penawaran kepada Pokja
 Dokumen Pemilihan, dengan jadwal sebagaimana tercantum dalam
@@ -108744,7 +108744,7 @@ sampai dengan batas akhir penyampaian penawaran.
 penyampaian penawaran maka harus
 menyampaikan/menginformasikan alasan yang dapat
 dipertanggungjawabkan kepada peserta melalui SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 22.4 Dalam hal setelah batas akhir penyampaian penawaran
 tidak ada peserta yang menyampaikan penawaran, Pokja
 Pemilihan dapat memperpanjang batas akhir jadwal
@@ -108802,7 +108802,7 @@ mengurangi, mengganti, dan/atau mengubah isi
 Dokumen Penawaran;
 c. Penawaran yang memenuhi syarat adalah penawaran
 yang sesuai dengan ketentuan, syarat-syarat, dan ruang
-Paraf 1 Paraf 2 Paraf 3
+
 lingkup serta kualifikasi tenaga ahli yang ditetapkan
 dalam Dokumen Seleksi, tanpa ada penyimpangan yang
 bersifat penting/pokok atau penawaran bersyarat;
@@ -108866,7 +108866,7 @@ menetapkan peserta lainnya yang tidak terlibat
 4) apabila tidak ada peserta lain sebagaimana
 dimaksud pada angka 3), maka seleksi dinyatakan
 gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 25.2 Evaluasi penawaran dilakukan dengan metode Pagu
 Anggaran.
 25.3 Pokja melakukan evaluasi Dokumen Penawaran
@@ -108925,7 +108925,7 @@ grade) sebagaimana tercantum dalam Lembar
 Kriteria Evaluasi.
 d. Penilaian terhadap unsur Pengalaman Perusahaan
 dilakukan dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Pengalaman perusahaan yang telah dibuktikan
 pada saat pembuktian kualifikasi, digunakan dalam
 penilaian terhadap pengalaman perusahaan;
@@ -108988,7 +108988,7 @@ diinginkan dalam KAK diberikan nilai lebih
 (bobot 2%)
 3) bobot masing-masing sub unsur ditetapkan oleh
 Pokja Pemilihan berdasarkan jenis pekerjaan sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan yang tercantum dalam Lembar Kriteria
 Evaluasi.
 f. Penilaian unsur Kualifikasi Tenaga Ahli dilakukan
@@ -109051,7 +109051,7 @@ dihitung hanya salah satu (yang terbaik
 berdasarkan Kesesuaian lingkup
 pekerjaan dan posisi pengalaman kerja
 profesional);
-Paraf 1 Paraf 2 Paraf 3
+
 (2) apabila terdapat perhitungan bulan
 menurut Pokja Pemilihan lebih kecil dari
 yang tertulis dalam penawaran, maka
@@ -109115,7 +109115,7 @@ sebagai ASN yang sesuai dengan lingkup
 pekerjaan yang akan dilaksanakan dapat
 diperhitungkan, dan dinilai
 kesesuaiannya dengan lingkup pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 “MENUNJANG” dan posisi “TIDAK
 SESUAI”.
 c) Status tenaga ahli yang diusulkan adalah tenaga
@@ -109177,7 +109177,7 @@ d. Nilai evaluasi teknis diurutkan mulai dari nilai
 tertinggi;
 e. Ambang batas masing-masing unsur dan nilai total
 teknis;
-Paraf 1 Paraf 2 Paraf 3
+
 f. Jumlah peserta yang lulus dan tidak lulus pada
 setiap tahapan evaluasi;
 g. Keterangan-keterangan lain yang dianggap perlu
@@ -109236,7 +109236,7 @@ peringkat penawaran.
 jelas atau meragukan, Pokja Pemilihan dapat melakukan
 klarifikasi dengan peserta. Dalam klarifikasi, peserta tidak
 diperkenankan mengubah substansi penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 28.3 Unsur-unsur yang perlu diteliti dan dinilai dalam evaluasi
 penawaran biaya dilakukan terhadap:
 1) kewajaran biaya pada Rincian Biaya Langsung
@@ -109292,7 +109292,7 @@ dilakukan klarifikasi untuk menentukan Tenaga Ahli
 tersebut akan ditempatkan, sedangkan untuk paket
 pekerjaan lainnya dinyatakan tidak ada Tenaga
 Ahlinya dan dinyatakan gugur;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Ketentuan pada huruf a dan huruf b hanya dapat
 ditetapkan sebagai pemenang pada 1 (satu) paket jasa
 konsultansi, dikecualikan:
@@ -109353,7 +109353,7 @@ tertulis sampai dengan perkiraan jadwal penandatanganan
 kontrak.
 29.6 Calon pemenang, calon pemenang cadangan 1 atau calon
 pemenang cadangan 2 (apabila ada) yang tidak bersedia
-Paraf 1 Paraf 2 Paraf 3
+
 memperpanjang surat penawaran dianggap
 mengundurkan diri dan tidak dikenakan sanksi.
 30. Pengumuman Pokja Pemilihan mengumumkan pemenang dan pemenang
@@ -109407,7 +109407,7 @@ a. meyakinkan kejelasan teknis dan biaya, dengan
 memperhatikan kesesuaian antara bobot pekerjaan
 dengan Tenaga Ahli dan/atau tenaga pendukung yang
 ditugaskan, serta mempertimbangkan kebutuhan
-Paraf 1 Paraf 2 Paraf 3
+
 perangkat/fasilitas pendukung yang proporsional guna
 pencapaian hasil kerja yang optimal; dan
 b. memperoleh kesepakatan biaya yang efisien dan efektif
@@ -109465,7 +109465,7 @@ didasarkan pada peraturan perundang-undangan
 yang terkait dengan standar remunerasi tenaga ahli.
 b. Apabila biaya tenaga ahli lebih rendah dari standar
 remunerasi minimal berdasarkan pada peraturan
-Paraf 1 Paraf 2 Paraf 3
+
 perundang-undangan yang terkait standar remunerasi
 tenaga ahli maka:
 1) dilakukan negosiasi sehingga remunerasi tenaga
@@ -109524,7 +109524,7 @@ dan sewa kantor dan penerapan SMKK.
 33.10 Biaya Langsung Non Personel yang didasarkan Lumsum
 meliputi antara lain: biaya untuk biaya penyelenggaraan
 seminar/workshop/lokakarya.
-Paraf 1 Paraf 2 Paraf 3
+
 33.11 Biaya Langsung Non Personel pada prinsipnya tidak
 melebihi 40% (empat puluh persen) dari total biaya,
 kecuali untuk jenis pekerjaan konsultansi yang bersifat
@@ -109577,7 +109577,7 @@ d. tidak ada peserta yang lulus evaluasi penawaran;
 e. ditemukan kesalahan dalam Dokumen Pemilihan atau
 Dokumen Pemilihan tidak sesuai dengan ketentuan
 dalam Peraturan Presiden Nomor 12 Tahun 2021
-Paraf 1 Paraf 2 Paraf 3
+
 tentang Perubahan atas Peraturan Presiden Nomor 16
 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah dan aturan turunannya;
@@ -109631,7 +109631,7 @@ melakukan penunjukan langsung dengan kriteria:
 a. Persetujuan PA/KPA;
 b. Kebutuhan tidak dapat ditunda; dan
 c. Tidak cukup waktu untuk melaksanakan seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 35.8 PA/KPA, PPK, dan/atau Pokja Pemilihan dilarang
 memberikan ganti rugi kepada peserta seleksi apabila
 penawarannya ditolak atau seleksi dinyatakan gagal.
@@ -109687,7 +109687,7 @@ ketentuan dalam Peraturan Perundang-undangan
 terkait Pengadaan Barang/Jasa Pemerintah;
 2) proses pelaksanaan pemilihan tidak sesuai
 ketentuan dalam Dokumen Pemilihan; dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 3) dokumen penawaran dan data kualifikasi
 pemenang dan/atau pemenang cadangan tidak
 memenuhi persyaratan sesuai yang disyaratkan
@@ -109745,7 +109745,7 @@ pada 33.15.
 38.5 Dalam hal DIPA/DPA atau perubahannya belum terbit,
 SPPBJ dapat ditunda diterbitkan sampai batas waktu
 penerbitan oleh otoritas yang berwenang.
-Paraf 1 Paraf 2 Paraf 3
+
 38.6 SPPBJ ditembuskan kepada APIP.
 39. Kerahasiaan 39.1. Proses evaluasi dokumen penawaran bersifat rahasia dan
 Proses dilaksanakan oleh Pokja Pemilihan secara independen.
@@ -109798,7 +109798,7 @@ b. Penyedia tidak menyepakati dengan alasan yang tidak
 objektif dan tidak dapat diterima oleh Pejabat
 Penandatangan Kontrak, maka diberikan Sanksi
 Daftar Hitam.
-Paraf 1 Paraf 2 Paraf 3
+
 40.6 Dalam hal Rapat Persiapan Penandatanganan Kontrak
 dinyatakan gagal sebagaimana dimaksud pada klausul
 40.5, maka SPPBJ dan penandatanganan kontrak
@@ -109852,7 +109852,7 @@ dengan peraturan perundang-undangan.
 41.8 Pejabat Penandatangan Kontrak memasukkan data kontrak
 dan mengunggah hasil pemindaian dokumen kontrak
 yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -109898,12 +109898,12 @@ dan Jangka akhir pemasukan Dokumen Penawaran
 Waktu [diisi dengan tanggal batas akhir pemasukan
 Pelaksanaan penawaran sampai dengan tanggal
 penandatanganan kontrak].
-Paraf 1 Paraf 2 Paraf 3
+
 2. Jangka waktu pelaksanaan pekerjaan: _______
 (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -109938,7 +109938,7 @@ Konsultansi
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain. (untuk jasa konsultansi konstruksi
 perancangan termasuk identifikasi bahaya sesuai dengan metode pelaksanaan serta metode operasi dan
 pemeliharaan bangunan).
-Paraf 1 Paraf 2 Paraf 3
+
 15. Lingkup
 Kewenangan
 Penyedia Jasa
@@ -109979,7 +109979,7 @@ sebanyak _____ (__________) buku laporan dan media
 penyimpan data (compact disc/flashdisk/dll) (jika
 diperlukan).
 Hal-hal Lain
-Paraf 1 Paraf 2 Paraf 3
+
 23. Produksi dalam Semua kegiatan jasa konsultansi berdasarkan KAK ini
 Negeri harus dilakukan di dalam wilayah Negara Republik
 Indonesia kecuali ditetapkan lain dalam angka 4 KAK
@@ -110014,7 +110014,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/ Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -110074,7 +110074,7 @@ X : Nama perusahaan
 NPT : Nilai Paket Tertinggi
 NPT Tertinggi = Nilai Paket
 tertinggi
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -110137,7 +110137,7 @@ yang disampaikan 1) sangat baik diberi nilai
 dan langkah 100;
 pemecahan yang 2) cukup baik diberi nilai
 diusulkan 60;
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -110206,7 +110206,7 @@ tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -110276,7 +110276,7 @@ adalah: ______
 dengan jelas].
 (3) terkait adalah:
 ______
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -110355,7 +110355,7 @@ an bahasa
 lain yang dinilai.
 setempat (apabila
 dibutuhkan),
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -110380,7 +110380,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -110389,7 +110389,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -110410,7 +110410,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -110434,7 +110434,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN)
@@ -110468,7 +110468,7 @@ c. _________________ ___________________ _________________
 d. _________________ ___________________ _________________
 e. _________________ ___________________ _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -110485,7 +110485,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen seleksi ini meliputi antara lain
 (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan,
 data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -110513,7 +110513,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -110528,7 +110528,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti pen
 laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah
 berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -110547,7 +110547,7 @@ Tenaga Ahli Uraian
 Nama Personel Posisi Diusulkan Orang
 Lokal/Asing Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -110566,7 +110566,7 @@ Penuh- Waktu
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -110611,10 +110611,10 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi dari
 Pemberi Pekerjaan yang bersangkutan
-Paraf 1 Paraf 2 Paraf 3
+
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
 CONTOH
 PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -110636,7 +110636,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 A. BENTUK SURAT PENAWARAN BIAYA CONTOH
 [KOP SURAT BADAN USAHA]
@@ -110677,7 +110677,7 @@ PT/CV/Fa/KSO_________________
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KUANTITAS DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -110690,7 +110690,7 @@ Sub-total
 PPN 10%
 Total
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN BIAYA LANGSUNG PERSONEL
 CONTOH
 RINCIAN BIAYA LANGSUNG PERSONEL
@@ -110705,7 +110705,7 @@ Total Biaya
 Pada isian Nama Personel, untuk Tenaga Ahli pengisian masukan harus mencantumkan nama personel; untuk
 Tenaga Subprofesional dan Tenaga Pendukung cukup dicantumkan posisi, misalnya juru gambar, staf
 administrasi, dan sebagainya
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK RINCIAN BIAYA LANGSUNG NON-PERSONEL (DIRECT
 REIMBURSABLE COST)
 CONTOH
@@ -110763,7 +110763,7 @@ keuntungan (profit) dan biaya umum (overhead cost) hanya diperhitungkan dalam bi
 dengan lumsum.
 • Peserta dapat menambah atau mengurangi kolom Jenis Biaya sesuai kebutuhan.
 • Biaya penerapan SMKK digunakan sesuai kebutuhan.
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -110785,7 +110785,7 @@ administrasi, dan sebagainya.
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi Personel hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -110832,7 +110832,7 @@ Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 *)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
@@ -110883,7 +110883,7 @@ dengan kode akun kegiatan ……….
 atas nama Penyedia : ...............;
 [Catatan : untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
 masing-masing Tahun Anggarannya]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 4
 DOKUMEN KONTRAK
 (1) Dokumen-dokumen berikut merupakan satu kesatuan dan bagian yang tidak
@@ -110933,7 +110933,7 @@ Kontrak maka rekatkan meterai Rp
 [nama lengkap] NIP. ……………………
 [jabatan]
 CONTOH 2 - PENYEDIA KSO
-Paraf 1 Paraf 2 Paraf 3
+
 SURAT PERJANJIAN
 Kontrak Waktu Penugasan
 Paket Pekerjaan Jasa Konsultansi Konstruksi
@@ -110979,7 +110979,7 @@ perubahannya;
 Pemerintah beserta perubahannya dan aturan turunannya;
 *)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
@@ -111029,7 +111029,7 @@ berdasarkan total harga penawaran terkoreksi sebagaimana tercantum dalam
 Rincian Biaya adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..)
 dengan kode akun kegiatan ……….
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
-Paraf 1 Paraf 2 Paraf 3
+
 (3) Pembayaran untuk kontrak ini dilakukan ke Bank ..... rekening nomor : .............
 atas nama Penyedia : ...............;
 [Catatan: untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
@@ -111071,7 +111071,7 @@ Kontrak sesuai dengan ketentuan peraturan perundang-undangan di Republik
 Indonesia dan dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan
 meterai, mempunyai kekuatan hukum yang sama dan mengikat bagi para pihak,
 rangkap yang lain dapat diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Untuk dan atas nama
 Penyedia............. [diisi nama KSO] Pejabat Penandatangan Kontrak
 ............. [diisi sesuai SK Pengangkatan]
@@ -111082,7 +111082,7 @@ Kontrak maka rekatkan meterai Rp meterai Rp 10.000, 00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. SYARAT-SYARAT UMUM KONTRAK
 KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat
@@ -111139,7 +111139,7 @@ ditentukan dalam Kontrak menjadi tidak
 dapat dipenuhi.
 1.9 Kerja Sama Operasi yang selanjutnya
 disingkat KSO adalah kerja sama usaha antar
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia yang masing-masing pihak
 mempunyai hak, kewajiban dan tanggung
 jawab yang jelas berdasarkan perjanjian
@@ -111198,7 +111198,7 @@ daerah.
 1.19 Penyedia adalah Pelaku Usaha yang
 menyediakan barang/jasa berdasarkan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 1.20 Personel Inti adalah orang yang akan
 ditempatkan secara penuh sesuai dengan
 persyaratan yang ditetapkan dalam
@@ -111259,7 +111259,7 @@ asuransi untuk mendorong ekspor
 Indonesia/konsorsium Perusahaan Asuransi
 Umum/konsorsium Lembaga
 Penjaminan/konsorsium Perusahaan
-Paraf 1 Paraf 2 Paraf 3
+
 Penjaminan sesuai dengan ketentuan dalam
 peraturan perundang-undangan.
 1.27 Surat Perintah Mulai Kerja yang selanjutnya
@@ -111318,7 +111318,7 @@ kontrak.
 dalam Surat Keputusan dari Para Pihak dan
 harus disampaikan kepada masing-masing
 pihak.
-Paraf 1 Paraf 2 Paraf 3
+
 7. Larangan korupsi, kolusi 7.1 Berdasarkan etika pengadaan barang/jasa
 dan/atau nepotisme, pemerintah, para pihak dilarang untuk :
 Penyalahgunaan a. menawarkan, menerima atau
@@ -111377,7 +111377,7 @@ bersangkutan berkewajiban untuk membayar semua
 pajak, bea, retribusi, dan pungutan lain yang
 dibebankan oleh peraturan perpajakan atas
 pelaksanaan Kontrak ini. Semua pengeluaran
-Paraf 1 Paraf 2 Paraf 3
+
 perpajakan ini dianggap telah termasuk dalam
 Harga Kontrak.
 10. Pengalihan dan/atau 10.1 Pengalihan seluruh Kontrak hanya
@@ -111435,7 +111435,7 @@ Pendukung selalu bertindak profesional. Jika
 tercantum dalam klausul 6.1 SSKK, Tim
 Pendukung dapat bertindak sebagai Wakil
 Sah Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 PELAKSANAAN, PENYELESAIAN, ADENDUM DAN PEMUTUSAN KONTRAK
 15. Masa Kontrak Kontrak ini berlaku efektif sejak penandatanganan
 Surat Perjanjian oleh Para Pihak sampai dengan
@@ -111493,7 +111493,7 @@ Kontrak.
 18.2 Program Mutu disusun paling sedikit berisi:
 a. Informasi mengenai pekerjaan yang
 akan dilaksanakan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. organisasi kerja Penyedia;
 c. Jadwal Pelaksanaan Pekerjaan;
 d. jadwal penugasan Personel Inti dan
@@ -111552,7 +111552,7 @@ pembayaran; dan
 h. hal-hal lain yang dianggap perlu.
 19.3 Pada tahapan Rapat Persiapan Pelaksanaan
 Kontrak, PA/KPA dapat membentuk
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat/Panitia Peneliti Pelaksanaan
 Kontrak.
 19.4 Hasil rapat persiapan pelaksanaan Kontrak
@@ -111611,7 +111611,7 @@ keterlambatan.
 21.4 Tanggal penyelesaian yang dimaksud dalam
 klausul ini adalah tanggal penyelesaian
 semua pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 22. Peringatan Dini 22.1 Penyedia berkewajiban untuk
 memperingatkan sedini mungkin Pejabat
 Penandatangan Kontrak atas peristiwa atau
@@ -111670,7 +111670,7 @@ Berikutnya dari DIPA/DPA Tahun
 Anggaran Berikutnya apabila
 pemberian kesempatan melampaui
 Tahun Anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 24.3 Pemberian kesempatan kepada Penyedia
 menyelesaikan pekerjaan, sejak Tanggal
 Penyerahan Pekerjaan semula terlewati.
@@ -111727,7 +111727,7 @@ pekerjaan yang diserahterimakan sesuai
 dengan Kontrak.
 25.11 Jika hasil pekerjaan yang diserahterimakan
 terlambat melewati batas waktu akhir
-Paraf 1 Paraf 2 Paraf 3
+
 kontrak karena kesalahan atau kelalaian
 Penyedia atau bukan akibat Keadaan Kahar
 maka Penyedia dikenakan denda
@@ -111785,7 +111785,7 @@ c. perubahan Jadwal Pelaksanaan
 Pekerjaan.
 27.3 Perintah perubahan pekerjaan dibuat oleh
 Pejabat Penandatangan Kontrak secara
-Paraf 1 Paraf 2 Paraf 3
+
 tertulis kepada Penyedia kemudian
 dilanjutkan dengan negosiasi teknis dan
 harga dengan tetap mengacu pada ketentuan
@@ -111844,7 +111844,7 @@ Personel berlaku bagi seluruh
 kegiatan/mata pembayaran yang
 berjenis Harga Satuan, kecuali
 komponen keuntungan dan biaya tidak
-Paraf 1 Paraf 2 Paraf 3
+
 langsung (overhead cost) sebagaimana
 tercantum dalam penawaran;
 e. penyesuaian Komponen Remunerasi
@@ -111906,7 +111906,7 @@ Kontrak setelah melakukan penelitian
 terhadap usulan tertulis yang diajukan oleh
 Penyedia sesuai pertimbangan yang wajar
 setelah Penyedia meminta perpanjangan.
-Paraf 1 Paraf 2 Paraf 3
+
 Jika Penyedia lalai untuk memberikan
 peringatan dini atas keterlambatan atau
 tidak dapat bekerja sama untuk mencegah
@@ -111964,7 +111964,7 @@ Penandatangan Kontrak disertai alasan
 penambahan.
 30.4 Penggantian dan/ atau penambahan Personel
 Inti sebagaimana ketentuan klausul 30.3
-Paraf 1 Paraf 2 Paraf 3
+
 diajukan dengan melampirkan riwayat
 hidup/pengalaman kerja Personel Inti yang
 diusulkan.
@@ -112019,7 +112019,7 @@ b. foto/video dokumentasi Keadaan Kahar
 yang telah diverifikasi kebenarannya.
 31.5 Hasil identifikasi kewajiban dan kinerja
 pelaksanaan dapat berupa:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Foto/video dokumentasi pekerjaan yang
 terdampak;
 b. Jadwal Pelaksanaan Pekerjaan; dan
@@ -112079,7 +112079,7 @@ diselesaikannya pekerjaan.
 31.11 Penghentian kontrak sebagaimana klausul
 31.10 dilakukan melalui perintah tertulis
 oleh Pejabat Penandatangan Kontrak dengan
-Paraf 1 Paraf 2 Paraf 3
+
 disertai alasan penghentian kontrak dan
 dituangkan dalam adendum kontrak.
 31.12 Dalam hal pelaksanaan Kontrak dilanjutkan,
@@ -112137,7 +112137,7 @@ Kontrak/Penyedia menyampaikan
 pemberitahuan rencana Pemutusan
 Kontrak secara tertulis kepada
 Penyedia/Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 33.5 Dalam hal dilakukan pemutusan Kontrak
 oleh salah satu pihak maka Pejabat
 Penandatangan Kontrak membayar kepada
@@ -112197,7 +112197,7 @@ selama waktu yang ditentukan dalam
 Kontrak dan penghentian ini tidak
 tercantum dalam program mutu serta
 tanpa persetujuan pengawas pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 34.2 Dalam hal pemutusan Kontrak dilakukan
 pada Masa Kontrak karena kesalahan
 Penyedia, maka:
@@ -112257,7 +112257,7 @@ perubahan akhir dari kontrak
 37. Berakhirnya Kontrak
 37.1 Pengakhiran pelaksanaan Kontrak dilakukan
 berdasarkan kesepakatan para pihak
-Paraf 1 Paraf 2 Paraf 3
+
 37.2 Kontrak berakhir apabila telah dilakukan
 pengakhiran pekerjaan dan hak dan
 kewajiban para pihak yang terdapat dalam
@@ -112316,7 +112316,7 @@ pekerjaan;
 h. melaksanakan semua perintah Tim Pendukung
 yang sesuai dengan kewenangan Tim
 Pendukung dalam Kontrak ini; dan
-Paraf 1 Paraf 2 Paraf 3
+
 i. hak dan kewajiban lain yang timbul akibat
 lingkup pekerjaan ditentukan di SSKK.
 40. Tanggung jawab Penyedia bertanggungjawab/berkewajiban untuk
@@ -112373,7 +112373,7 @@ Pejabat Penandatangan Kontrak.
 43.3. Pertanggungan asuransi yang dimiliki oleh
 Penyedia tidak membatasi kewajiban
 penanggungan dalam pasal ini. Dalam hal
-Paraf 1 Paraf 2 Paraf 3
+
 pertanggungan asuransi tidak mencukupi
 maka biaya yang timbul dan/atau selisih
 biaya tetap ditanggung oleh Penyedia.
@@ -112432,7 +112432,7 @@ tidak dapat diduga.
 46.2 Penyedia wajib menyediakan asuransi bagi
 pihak ketiga sebagai akibat kecelakaan di
 lokasi kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 46.3 Besarnya asuransi sudah diperhitungkan
 dalam penawaran dan termasuk dalam
 harga kontrak.
@@ -112492,7 +112492,7 @@ Kontrak mengenakan Denda dengan memotong
 angsuran pembayaran prestasi pekerjaan Penyedia.
 Pembayaran Denda tidak mengurangi tanggung
 jawab kontraktual Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 51. Jaminan 51.1 Jaminan yang digunakan dalam pelaksanaan
 Kontrak ini dapat berupa bank garansi atau
 surety bond. Jaminan bersifat tidak
@@ -112549,7 +112549,7 @@ muka yang diterima.
 paling kurang sejak tanggal persetujuan
 pemberian uang muka sampai dengan
 Tanggal Penyerahan Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 PERSONEL PENYEDIA DAN SUBPENYEDIA
 52. Persyaratan Personel 52.1 Personel Inti yang diperkerjakan harus
 sesuai dengan kualifikasi dan pengalaman
@@ -112608,7 +112608,7 @@ kecuali:
 a. dinyatakan lain di dalam Kontrak;
 b. Pejabat Penandatangan Kontrak
 memberikan izin; atau
-Paraf 1 Paraf 2 Paraf 3
+
 c. pekerjaan tidak dapat ditunda, atau
 untuk keselamatan/perlindungan
 masyarakat, dimana Penyedia harus
@@ -112663,7 +112663,7 @@ serta dapat dibantu oleh Tim Pendukung .
 sebagaimana diatur pada klausul 56.4 atau
 56.5 maka akan dikenakan denda senilai
 pekerjaan yang disubkontrakkan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 HAK DAN KEWAJIBAN PEJABAT PENANDATANGAN KONTRAK
 57. Hak dan Kewajiban Hak-hak yang dimiliki serta kewajiban-kewajiban
 Pejabat Penandatangan yang harus dilaksanakan oleh Pejabat
@@ -112726,7 +112726,7 @@ Pelaksanaan Kontrak.
 hanya dapat dibayarkan jika berdasarkan
 data penunjang dan perhitungan
 kompensasi yang diajukan oleh Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 kepada Pejabat Penandatangan Kontrak,
 dapat dibuktikan kerugian nyata.
 59.4 Perpanjangan Masa Pelaksanaan Kontrak
@@ -112786,7 +112786,7 @@ yang dikeluarkan (at cost).
 Biaya Langsung Non Personel dapat
 diberikan Penyesuaian Harga apabila
 ditentukan dalam SSKK;
-Paraf 1 Paraf 2 Paraf 3
+
 62. Pembayaran 62.1 Uang Muka
 a. Uang Muka dapat diberikan kepada
 Penyedia sesuai ketentuan dalam SSKK
@@ -112845,7 +112845,7 @@ c. pembayaran dilakukan dengan sistem
 bulanan, termin, atau secara sekaligus
 sesuai dengan ketentuan yang
 ditetapkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 d. pembayaran harus memperhitungkan
 angsuran uang muka, denda (apabila
 ada), dan pajak;
@@ -112908,7 +112908,7 @@ tercantum dalam Kontrak; atau
 Kontrak (sebelum PPN) untuk setiap
 hari keterlambatan;
 Sesuai yang ditetapkan dalam SSKK
-Paraf 1 Paraf 2 Paraf 3
+
 d. Besaran denda pelanggaran subkontrak
 sebesar nilai pekerjaan subkontrak yang
 disubkontrakkan tidak sesuai ketentuan.
@@ -112969,7 +112969,7 @@ jangka waktu tertentu.
 64.3 Pembayaran yang ditangguhkan harus
 disesuaikan dengan proporsi kegagalan atau
 kelalaian Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 64.4 Jika dipandang perlu oleh Pejabat
 Penandatangan Kontrak, penangguhan
 pembayaran akibat keterlambatan
@@ -113011,7 +113011,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondensi Alamat Para Pihak sebagai berikut:
@@ -113065,7 +113065,7 @@ dan/atau Subkontrak dikenakan sanksi _________
 [diisi dengan memilih salah satu sanksi yang akan
 dikenakan:
 a. dilakukan pemutusan kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. membayar 2 (dua) kali lipat selisih harga
 didalam kontrak dengan harga yang dibayarkan
 kepada subpenyedia]
@@ -113117,7 +113117,7 @@ b = Koefisien biaya non-personel.
 B0 = Indeks harga komponen non-
 personel pada bulan penyampaian
 penawaran biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 Bn = Indeks harga komponen non-
 personel pada saat pekerjaan
 dilaksanakan.
@@ -113175,7 +113175,7 @@ apabila ada peristiwa kompensasi lain, selain yang
 telah tertuang dalam SSUK]
 62.1.a & Besaran Uang Uang muka diberikan paling tinggi sebesar .....%
 62.1.e Muka (.....dalam huruf.....) dari Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 62.3.c Denda akibat Untuk pekerjaan ini besar denda keterlambatan
 keterlambatan untuk setiap hari keterlambatan adalah 1/1000 (satu
 perseribu) dari ................... (sebelum PPN) [diisi
@@ -113193,7 +113193,7 @@ mengajukan tagihan pembayaran prestasi pekerjaan:
 2. ……….
 3. Dst
 [diisi dokumen yang disyaratkan]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PEKERJAAN UTAMA YANG DISUBKONTRAKKAN DAN SUBPENYEDIA
 (Apabila Ada)
@@ -113242,7 +113242,7 @@ Utama Tipe
 3 Dst
 Catatan:
 Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PENUGASAN PERSONEL
 Masukan Personel (dalam bentuk diagram balok)
 Jabatan/Posisi Orang
@@ -113273,7 +113273,7 @@ Personel Pendukung
 1. Pada isian Nama Personel, untuk Tenaga Ahli dan Sub Profesional pengisian masukan harus mencantumkan nama personel; untuk Tenaga
 Pendukung cukup dicantumkan posisi, misalnya, staf administrasi, driver dan sebagainya.
 2. Ketentuan pada kolom 1 sampai dengan 5 diisi sesuai Peraturan Menteri yang membidangi Jasa Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 RINCIAN BIAYA LANGSUNG NON PERSONEL
 Keterangan
 Satuan (Lumsum/
@@ -113340,7 +113340,7 @@ Biaya langsung non-personel dapat berupa harga satuan tetap atau penggantian bia
 dengan lumsum.
 Peserta dapat menambah atau mengurangi kolom Jenis Biaya sesuai kebutuhan.
 Biaya penerapan SMKK digunakan sesuai kebutuhan
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan Keterangan
@@ -113352,7 +113352,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -113383,7 +113383,7 @@ Meterai Rp. 10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -113428,7 +113428,7 @@ Meterai Rp. 10.000,00
 [jabatan]
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh PPK.
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 3 : JAMINAN UANG MUKA
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -113476,7 +113476,7 @@ akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 benda yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk
 melunasi hutang Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab
 Undang-Undang Hukum Perdata.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan
 kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-
@@ -113491,7 +113491,7 @@ Jaminan disarankan untuk
 mencocokkan Jaminan ini ke
 Bank ................ [bank] ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium perusahaan
 asuransi umum/lembaga penjaminan/perusahaan penjaminan]
@@ -113539,7 +113539,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini
 ke ………[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi
 harus mematuhi ketentuan sebagai berikut:
@@ -113577,7 +113577,7 @@ dilaksanakan sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -113585,7 +113585,7 @@ Jasa Konsultansi Konstruksi
 Badan Usaha
 Metode Seleksi, Prakualifikasi, Dua File, Pagu Anggaran,
 Kontrak Lumsum
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -113595,7 +113595,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB. I UNDANGAN................................................................................................................................ - 6 -
 BAB. II UMUM ....................................................................................................................................... - 7 -
@@ -113656,7 +113656,7 @@ B. EVALUASI TEKNIS .............................................................
 BAB VII. BENTUK DOKUMEN PENAWARAN ...................................................................................... - 48 -
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (FILE I) ........................................................ - 48 -
 (i) BENTUK DATA ORGANISASI PERUSAHAAN ................................................................ - 48 -
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN) ..................................................................................... - 49 -
 (iii) BENTUK DAFTAR PENGALAMAN KERJA ....................................................................... - 50 -
@@ -113730,7 +113730,7 @@ C. HAK DAN KEWAJIBAN PENYEDIA ..................................................
 44. Perlindungan Tenaga Kerja ............................................................................................ - 91 -
 45. Pemeliharaan Lingkungan.............................................................................................. - 91 -
 46. Asuransi............................................................................................................................ - 91 -
-Paraf 1 Paraf 2 Paraf 3
+
 47. Tindakan Penyedia yang Mensyaratkan Persetujuan Pejabat Penandatangan Kontrak ... -
 92 -
 48. Laporan Hasil Pekerjaan ................................................................................................. - 92 -
@@ -113761,11 +113761,11 @@ LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ) .....................
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA ...................................................................... - 109 -
 LAMPIRAN 3 : JAMINAN UANG MUKA ................................................................................... - 110 -
 BAB XII. KETENTUAN LAIN-LAIN ..................................................................................................... - 113 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. I UNDANGAN
 Peserta yang diundang adalah peserta yang masuk dalam Daftar Pendek (Shortlist)
 melalui SPSE
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. II UMUM
 A. Dokumen Seleksi ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -113812,7 +113812,7 @@ keamanan, keselamatan, kesehatan dan keberlanjutan yang
 menjamin keselamatan keteknikan konstruksi, keselamatan
 dan kesehatan tenaga kerja, keselamatan publik dan
 lingkungan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Sistem : yang selanjutnya disebut SMKK adalah bagian dari sistem
 Manajemen manajemen pelaksanaan Pekerjaan Konstruksi dalam rangka
 Keselamatan menjamin terwujudnya Keselamatan Konstruksi;
@@ -113861,7 +113861,7 @@ Kontrak
 dapat berasal dari PA, KPA, atau PPK
 - Pelaku Usaha : adalah badan usaha atau perseorangan yang melakukan
 usaha dan/atau kegiatan pada bidang tertentu;
-Paraf 1 Paraf 2 Paraf 3
+
 - Penyedia : adalah Pelaku Usaha yang menyediakan barang/jasa
 berdasarkan kontrak;
 - Subpenyedia : adalah penyedia yang mengadakan perjanjian kerja dengan
@@ -113890,7 +113890,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 F. Seleksi ini dapat diikuti oleh Peserta yang ditetapkan dalam daftar pendek Peserta
 Seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam
@@ -113942,7 +113942,7 @@ c. gugatan secara perdata; dan/atau
 d. pelaporan secara pidana kepada pihak berwenang.
 4.3 Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
 Pokja Pemilihan.
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi dan perannya,
@@ -114000,7 +114000,7 @@ kesalahan Penyedia Barang/Jasa; atau
 Tenaga Ahli dan yang mengutamakan tenaga ahli dalam negeri.
 Produksi Dalam
 Negeri
-Paraf 1 Paraf 2 Paraf 3
+
 7.2 Dalam pelaksanaan pekerjaan jasa konsultansi
 dimungkinkan menggunakan komponen berupa tenaga ahli
 dan perangkat lunak yang berasal dari luar negeri (impor)
@@ -114057,7 +114057,7 @@ i. Contoh Bentuk Dokumen lain:
 1) SPPBJ;
 2) SPMK;
 3) Jaminan Uang Muka (apabila dipersyaratkan).
-Paraf 1 Paraf 2 Paraf 3
+
 10.2 Peserta berkewajiban memeriksa keseluruhan isi Dokumen
 Seleksi ini. Kelalaian menyampaikan Dokumen Penawaran
 yang tidak memenuhi persyaratan yang ditetapkan dalam
@@ -114102,7 +114102,7 @@ Acara Pemberian Penjelasan Lanjutan dan diunggah
 melalui SPSE.
 12.12 Berita Acara Pemberian Penjelasan Lapangan menjadi
 bagian Berita Acara Pemberian Penjelasan (BAPP).
-Paraf 1 Paraf 2 Paraf 3
+
 13. Perubahan 13.1 Apabila pada saat pemberian penjelasan terdapat hal-
 Dokumen hal/ketentuan baru atau perubahan yang perlu
 Seleksi ditampung, maka Pokja Pemilihan menuangkan ke dalam
@@ -114152,7 +114152,7 @@ Bahasa asing.
 terjemahan dalam Bahasa Indonesia. Dalam hal terjadi
 perbedaan penafsiran, maka yang berlaku adalah
 dokumen penunjang yang berbahasa asing.
-Paraf 1 Paraf 2 Paraf 3
+
 17. Dokumen 17.1 Dokumen Penawaran meliputi:
 Penawaran a. Penawaran Administrasi dan Teknis (file I); dan
 b. Penawaran Biaya (file II).
@@ -114213,7 +114213,7 @@ c. Apabila nilai yang tertulis dalam angka dan yang
 tertulis dalam huruf tidak jelas dan/atau tidak
 bermakna dan/atau salah maka penawaran dinyatakan
 gugur.
-Paraf 1 Paraf 2 Paraf 3
+
 18.2 Peserta mencantumkan biaya keluaran/output dan biaya
 total untuk setiap keluaran/output pekerjaan dalam Daftar
 Keluaran dan Harga. Jika harga keluaran/output ditulis nol
@@ -114257,7 +114257,7 @@ penawaran;
 b. menolak permintaan tersebut dan dapat
 mengundurkan diri secara tertulis dengan tidak
 dikenakan sanksi.
-Paraf 1 Paraf 2 Paraf 3
+
 D. PENYAMPAIAN DOKUMEN PENAWARAN
 21. Penyampaian 21.1 Peserta menyampaikan Dokumen Penawaran kepada Pokja
 Dokumen Pemilihan, dengan jadwal sebagaimana tercantum dalam
@@ -114313,7 +114313,7 @@ sampai dengan batas akhir penyampaian penawaran.
 22.3 Dalam hal Pokja Pemilihan mengubah waktu batas akhir
 penyampaian penawaran maka harus
 menyampaikan/menginformasikan pada SPSE alasan yang
-Paraf 1 Paraf 2 Paraf 3
+
 dapat dipertanggungjawabkan kepada peserta melalui
 SPSE.
 22.4 Dalam hal setelah batas akhir penyampaian penawaran
@@ -114368,7 +114368,7 @@ dan Teknis (File a. Pokja Pemilihan dilarang menambah, mengurangi,
 I) mengganti, dan/atau mengubah kriteria dan
 persyaratan yang telah ditetapkan dalam Dokumen
 Seleksi ini;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pokja Pemilihan dan/atau peserta dilarang menambah,
 mengurangi, mengganti, dan/atau mengubah isi
 Dokumen Penawaran;
@@ -114431,7 +114431,7 @@ peserta lain yang terlibat dikenakan Sanksi Daftar
 Hitam;
 2) anggota Pokja Pemilihan, PPK dan/atau pihak yang
 terlibat persekongkolan dikenakan sanksi sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan ketentuan peraturan perundang-
 undangan;
 3) proses evaluasi tetap dilanjutkan dengan
@@ -114488,7 +114488,7 @@ d) jumlah pembobotan a)+b)+c) =100%.
 2) bobot masing-masing unsur ditetapkan oleh Pokja
 Pemilihan berdasarkan jenis pekerjaan yang akan
 dilaksanakan.
-Paraf 1 Paraf 2 Paraf 3
+
 3) Pokja Pemilihan menentukan ambang batas nilai
 teknis (passing grade) untuk masing-masing unsur
 kecuali unsur pengalaman perusahaan;
@@ -114552,7 +114552,7 @@ laporan-laporan yang disyaratkan, program
 kerja, jadwal pekerjaan, jadwal penugasan,
 organisasi, dan kebutuhan fasilitas penunjang
 (bobot 10-18%);
-Paraf 1 Paraf 2 Paraf 3
+
 c) hasil kerja (deliverable), penilaian meliputi
 antara lain: penyajian analisis, gambar-gambar
 kerja, spesifikasi teknis, perhitungan teknis, dan
@@ -114616,7 +114616,7 @@ pula pengalaman sebagai pemimpin/ wakil
 pemimpin tim. Ketentuan penghitungan
 pengalaman kerja profesional dilakukan
 sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 (1) Khusus untuk pengalaman yang
 menggunakan kontrak harga
 satuan/waktu penugasan (time based)
@@ -114679,7 +114679,7 @@ dibagi dengan angka 12 (dua belas)
 sehingga didapatkan jangka waktu
 pengalaman kerja profesional seorang
 Tenaga Ahli;
-Paraf 1 Paraf 2 Paraf 3
+
 (9) Nilai jangka waktu pengalaman kerja
 profesional Tenaga Ahli dicantumkan
 dalam Lembar Kriteria Evaluasi;
@@ -114742,7 +114742,7 @@ lulus evaluasi teknis, maka proses seleksi tetap
 dilanjutkan; dan
 k. Apabila tidak ada peserta yang lulus evaluasi teknis
 maka seleksi dinyatakan gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 25.7 Pokja Pemilihan membuat Berita Acara Hasil Evaluasi File I
 yang paling sedikit memuat:
 a. Tanggal dibuatnya berita acara;
@@ -114796,7 +114796,7 @@ bahwa harga dinyatakan wajar/tidak wajar
 penawaran teknis yang sama maka penentuan peringkat
 peserta didasarkan pada nilai penawaran biaya yang lebih
 rendah dan hal ini dicatat dalam Berita Acara.
-Paraf 1 Paraf 2 Paraf 3
+
 28.6. Pokja Pemilihan membuat dan menandatangani Berita
 Acara Hasil Evaluasi File II yang paling sedikit memuat:
 a. Nama dan alamat seluruh peserta;
@@ -114852,7 +114852,7 @@ menggunakan kontrak harga satuan/waktu
 penugasan dengan ketentuan personel yang
 diusulkan penugasannya tidak tumpang tindih
 (overlap).
-Paraf 1 Paraf 2 Paraf 3
+
 29.3. Penetapan pemenang dengan nilai pagu anggaran paling
 banyak Rp10.000.000.000,00 (sepuluh miliar rupiah)
 dilakukan oleh Pokja Pemilihan.
@@ -114908,7 +114908,7 @@ a. kesalahan dalam melakukan evaluasi;
 b. penyimpangan terhadap ketentuan dan prosedur
 yang diatur dalam Peraturan Presiden No. 16 Tahun
 2018 tentang Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 beserta dan aturan turunannya serta ketentuan yang
 telah ditetapkan dalam Dokumen Seleksi;
 c. persekongkolan sehingga menghalangi terjadinya
@@ -114963,7 +114963,7 @@ kuasanya tercantum dalam akta pendirian/perubahan;
 c. Pihak lain yang bukan direksi dapat menghadiri selama
 berstatus sebagai tenaga kerja tetap (yang dibuktikan
 dengan bukti potong/lapor pajak PPh Pasal 21 Form
-Paraf 1 Paraf 2 Paraf 3
+
 1721 atau Form 1721-A1 dan memperoleh kuasa dari
 Direksi yang namanya ada dalam akta
 pendirian/perubahan atau pihak yang sah menurut
@@ -115023,7 +115023,7 @@ biaya langsung personel, maksimum 4,0 (empat
 koma nol) kali gaji dasar yang diterima oleh tenaga
 ahli tetap dan/atau maksimum 2,5 (dua koma lima)
 kali penghasilan yang diterima oleh Tenaga Ahli
-Paraf 1 Paraf 2 Paraf 3
+
 tidak tetap berdasarkan perhitungan dari daftar
 gaji yang telah diaudit dan/atau bukti setor pajak
 penghasilan tenaga ahli konsultan yang
@@ -115077,7 +115077,7 @@ berlakunya maka dilakukan konfirmasi kepada peserta
 untuk memperpanjang masa berlaku surat penawaran
 secara tertulis sampai dengan perkiraan jadwal
 penandatanganan kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 33.13 Apabila peserta tidak bersedia memperpanjang masa
 berlaku surat penawaran maka dianggap mengundurkan
 diri dan tidak dikenakan sanksi.
@@ -115133,7 +115133,7 @@ b. Seleksi ulang.
 Pemilihan atau Pokja Pemilihan pengganti (apabila
 diganti) melakukan reviu atas penyebab Seleksi gagal.
 Hasil reviu atas penyebab Seleksi gagal menjadi dasar
-Paraf 1 Paraf 2 Paraf 3
+
 untuk melakukan perbaikan dalam melaksanakan tindak
 lanjut Seleksi gagal.
 35.3 Pokja pemilihan melakukan evaluasi ulang apabila
@@ -115187,7 +115187,7 @@ kepada PPK dengan tembusan kepada Kepala UKPBJ
 dengan melampirkan BAHP, Surat Sanggah dan Jawaban
 Sanggah, serta Berita Acara/informasi tambahan lainnya
 (jika ada).
-Paraf 1 Paraf 2 Paraf 3
+
 36.3 Berita Acara/informasi tambahan lainnya sebagaimana
 dimaksud pada klausul 36.2 memuat hal-hal yang tidak
 difasilitasi SPSE.
@@ -115244,7 +115244,7 @@ Kontrak menerima laporan hasil pelaksanaan pemilihan.
 dan mengunggah hasil pemindaian SPPBJ yang telah
 diterbitkan pada SPSE dan mengirimkan SPPBJ tersebut
 melalui SPSE kepada Penyedia yang ditunjuk.
-Paraf 1 Paraf 2 Paraf 3
+
 38.3 Penyedia wajib menerima penunjukan tersebut, dengan
 ketentuan:
 a. apabila yang bersangkutan mengundurkan diri dengan
@@ -115296,7 +115296,7 @@ ditetapkan sebelumnya akan melewati batas tahun
 anggaran.
 c. Rencana penandatanganan Kontrak;
 d. Dokumen Kontrak dan kelengkapan;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Kelengkapan Rencana Keselamatan Konstruksi;
 f. Jaminan Uang Muka yang paling sedikit terdiri atas
 ketentuan, bentuk, isi, dan waktu penyerahan;
@@ -115352,7 +115352,7 @@ ditetapkan dalam dokumen pemilihan.
 memenuhi ketentuan Rapat Persiapan Penandatanganan
 Kontrak wajib memeriksa konsep Kontrak meliputi
 substansi, bahasa, redaksional, angka dan huruf serta
-Paraf 1 Paraf 2 Paraf 3
+
 membubuhkan paraf pada setiap lembar Dokumen
 Kontrak.
 41.6 Banyaknya rangkap kontrak dibuat sesuai kebutuhan,
@@ -115374,7 +115374,7 @@ dengan peraturan perundang-undangan.
 41.8 Pejabat Penandatangan Kontrak memasukkan data kontrak
 dan mengunggah hasil pemindaian dokumen kontrak
 yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -115420,12 +115420,12 @@ dan Jangka akhir penyampaian Dokumen Penawaran
 Waktu [diisi dengan tanggal batas akhir penyampaian
 Pelaksanaan penawaran sampai dengan tanggal
 penandatanganan kontrak].
-Paraf 1 Paraf 2 Paraf 3
+
 2. Jangka waktu pelaksanaan pekerjaan: _______
 (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -115461,7 +115461,7 @@ Penyedia Jasa
 1 Uraian Pendahuluan memuat gambaran secara garis besar mengenai pekerjaan yang akan dilaksanakan
 1 Data penunjang terdiri dari data yang berkaitan dengan pelaksanaan pekerjaan.
 2 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain.
-Paraf 1 Paraf 2 Paraf 3
+
 16. Jangka Waktu
 Penyelesaian
 Pekerjaan
@@ -115506,7 +115506,7 @@ Negeri harus dilakukan di dalam wilayah Negara Republik
 Indonesia kecuali ditetapkan lain dalam angka 4 KAK
 dengan pertimbangan keterbatasan kompetensi dalam
 negeri.
-Paraf 1 Paraf 2 Paraf 3
+
 24. Persyaratan Kerja Jika kerja sama dengan penyedia jasa konsultansi lain
 sama diperlukan untuk pelaksanaan kegiatan jasa konsultansi
 ini maka persyaratan berikut harus dipatuhi:
@@ -115536,7 +115536,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -115596,7 +115596,7 @@ X : Nama perusahaan
 NPT : Nilai Paket Tertinggi
 NPT Tertinggi = Nilai Paket
 tertinggi
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -115663,7 +115663,7 @@ diusulkan 60;
 metodologi 4) tidak menyajikan diberi
 dengan rencana nilai 0.
 kerja
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -115735,7 +115735,7 @@ tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -115807,7 +115807,7 @@ nilai 0,5
 c) posisi yang :
 (1) sesuai adalah:
 _________
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -115886,7 +115886,7 @@ dibutuhkan)
 tata-cara, aturan,
 situasi, dan
 kondisi (custom)
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -115899,7 +115899,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -115908,7 +115908,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -115929,7 +115929,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -115953,7 +115953,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN)
@@ -115987,7 +115987,7 @@ c. _________________ ___________________ _________________
 d. _________________ ___________________ _________________
 e. _________________ ___________________ _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -116004,7 +116004,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen seleksi ini meliputi antara lain
 (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan,
 data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -116032,7 +116032,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -116047,7 +116047,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti pen
 laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah
 berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -116066,7 +116066,7 @@ Tenaga Ahli Uraian
 Nama Personel Posisi Diusulkan Orang
 Lokal/Asing Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -116085,7 +116085,7 @@ Penuh- Waktu
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -116130,10 +116130,10 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi dari
 pemberi pekerjaan yang bersangkutan
-Paraf 1 Paraf 2 Paraf 3
+
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
 CONTOH
 PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -116155,7 +116155,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 CONTOH
 A. BENTUK SURAT PENAWARAN BIAYA
@@ -116193,7 +116193,7 @@ PT/CV/Fa/KSO_________________
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KELUARAN DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -116205,7 +116205,7 @@ II Output ......(dst)
 Sub-total
 PPN 10%
 Total
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -116227,7 +116227,7 @@ administrasi, dan sebagainya.
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi Personel hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -116271,7 +116271,7 @@ perubahannya;
 Pemerintah beserta perubahannya dan aturan turunannya;
 *)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
@@ -116320,7 +116320,7 @@ HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 berdasarkan total harga penawaran sebagaimana tercantum dalam Daftar
 Keluaran dan Harga adalah sebesar Rp. ……….. (……….. ditulis dalam huruf
 ……..) dengan kode akun kegiatan ……….
-Paraf 1 Paraf 2 Paraf 3
+
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
 (3) Pembayaran untuk kontrak ini dilakukan ke Bank ..... rekening nomor: .............
 atas nama Penyedia: ...............;
@@ -116369,11 +116369,11 @@ usaha] ............. [diisi sesuai SK Pengangkatan]
 ini untuk Pejabat Penandatangan ini untuk Penyedia maka rekatkan
 Kontrak maka rekatkan meterai Rp Rp meterai Rp Rp 10.000,00)]
 10.000,00)]
-Paraf 1 Paraf 2 Paraf 3
+
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Lumsum
@@ -116419,7 +116419,7 @@ perubahannya;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah beserta perubahannya dan aturan turunannya;
 *) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
@@ -116469,7 +116469,7 @@ berdasarkan total harga penawaran sebagaimana tercantum dalam Daftar
 Keluaran dan Harga adalah sebesar Rp. ……….. (……….. ditulis dalam huruf
 ……..) dengan kode akun kegiatan ……….
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
-Paraf 1 Paraf 2 Paraf 3
+
 (3) Pembayaran untuk kontrak ini dilakukan ke Bank ..... rekening nomor : .............
 atas nama Penyedia : ...............;
 [Catatan: untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
@@ -116519,7 +116519,7 @@ Kontrak maka rekatkan meterai Rp ini untuk Penyedia maka rekatkan
 10.000,00)] meterai Rp Rp 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat
@@ -116574,7 +116574,7 @@ kontrak dan tidak dapat diperkirakan
 sebelumnya, sehingga kewajiban yang
 ditentukan dalam Kontrak menjadi tidak
 dapat dipenuhi.
-Paraf 1 Paraf 2 Paraf 3
+
 1.9. Kerja Sama Operasi yang selanjutnya
 disingkat KSO adalah kerja sama usaha antar
 Penyedia yang masing-masing pihak
@@ -116633,7 +116633,7 @@ disingkat PA adalah pejabat pemegang
 kewenangan penggunaan anggaran
 Kementerian Negara/Lembaga/perangkat
 daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 1.19. Penyedia adalah Pelaku Usaha yang
 menyediakan barang/jasa berdasarkan
 Kontrak.
@@ -116694,7 +116694,7 @@ Penjaminan/Perusahaan Asuransi/lembaga
 keuangan khusus yang menjalankan usaha
 di bidang pembiayaan, penjaminan, dan
 asuransi untuk mendorong ekspor
-Paraf 1 Paraf 2 Paraf 3
+
 Indonesia/konsorsium Perusahaan Asuransi
 Umum/konsorsium Lembaga
 Penjaminan/konsorsium Perusahaan
@@ -116752,7 +116752,7 @@ dilakukan atau dibuat oleh Wakil Sah Para
 Pihak atau pejabat yang disebutkan dalam
 SSKK kecuali untuk melakukan perubahan
 kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 6.2 Kewenangan Wakil Sah Para Pihak diatur
 dalam Surat Keputusan dari Para Pihak dan
 harus disampaikan kepada masing-masing
@@ -116812,7 +116812,7 @@ dengan pelaksanaan pekerjaan ini berdasarkan
 standar akuntansi yang berlaku.
 9. Perpajakan Penyedia, Subpenyedia (jika ada) dan personel, yang
 bersangkutan berkewajiban untuk membayar semua
-Paraf 1 Paraf 2 Paraf 3
+
 pajak, bea, retribusi, dan pungutan lain yang
 dibebankan oleh peraturan perpajakan atas
 pelaksanaan Kontrak ini. Semua pengeluaran
@@ -116868,7 +116868,7 @@ pekerjaan sesuai Kontrak ini.
 wewenang yang diberikan kepadanya oleh
 Pejabat Penandatangan Kontrak untuk
 bertindak sesuai ketentuan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 14.3 Dalam melaksanakan kewajibannya, Tim
 Pendukung selalu bertindak profesional. Jika
 tercantum dalam klausul 6.1 SSKK, Tim
@@ -116926,7 +116926,7 @@ mempresentasikan dan menyerahkan
 Program Mutu sebagai penjaminan mutu
 pelaksanaan pekerjaan pada rapat persiapan
 pelaksanaan Kontrak, kemudian dibahas dan
-Paraf 1 Paraf 2 Paraf 3
+
 disetujui oleh Pejabat Penandatangan
 Kontrak.
 18.2 Program Mutu disusun paling sedikit berisi:
@@ -116983,7 +116983,7 @@ pekerjaan;
 e. Rencana Kerja/ Jadwal Pelaksanaan
 Pekerjaan yang memperhatikan
 Keselamatan Konstruksi;
-Paraf 1 Paraf 2 Paraf 3
+
 f. jadwal mobilisasi peralatan dan
 personel;
 g. rencana pelaksanaan pemeriksaan dan
@@ -117042,7 +117042,7 @@ pelaksanaan tugas Penyedia dengan
 membuat adendum Kontrak.
 21.3 Jika pekerjaan tidak selesai sesuai Masa
 Pelaksanaan Kontrak bukan akibat Keadaan
-Paraf 1 Paraf 2 Paraf 3
+
 Kahar atau Peristiwa Kompensasi atau
 karena kesalahan atau kelalaian Penyedia
 maka Penyedia dikenakan denda
@@ -117101,7 +117101,7 @@ a. waktu pemberian kesempatan
 penyelesaian pekerjaan;
 b. pengenaan sanksi denda keterlambatan
 kepada Penyedia; dan
-Paraf 1 Paraf 2 Paraf 3
+
 c. sumber dana untuk membiayai
 penyelesaian sisa pekerjaan yang akan
 dilanjutkan ke Tahun Anggaran
@@ -117159,7 +117159,7 @@ Penyedia berkewajiban untuk melakukan
 pelatihan (jika dicantumkan dalam
 kontrak). Biaya pelatihan termasuk dalam
 Nilai Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 25.10 Pejabat Penandatangan Kontrak menerima
 hasil pekerjaan setelah seluruh hasil
 pekerjaan yang diserahterimakan sesuai
@@ -117216,7 +117216,7 @@ dapat menyepakati perubahan pekerjaan
 yang meliputi:
 a. mengubah lingkup yang tercantum
 dalam KAK/ Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 b. mengurangi atau menambah jenis
 pekerjaan yang tercantum dalam
 KAK/Kontrak; dan/atau
@@ -117275,7 +117275,7 @@ b. peristiwa kompensasi; dan/atau
 c. Keadaan Kahar.
 29.3 Masa Pelaksanaan Kontrak dapat
 diperpanjang paling kurang sama dengan
-Paraf 1 Paraf 2 Paraf 3
+
 waktu terhentinya Kontrak akibat Keadaan
 Kahar atau waktu yang diperlukan untuk
 menyelesaikan pekerjaan akibat dari
@@ -117333,7 +117333,7 @@ ketentuan pada klausul 30.1 perlu dilakukan,
 maka Penyedia berkewajiban untuk
 menyediakan pengganti dengan kualifikasi
 yang setara atau lebih baik dari tenaga kerja
-Paraf 1 Paraf 2 Paraf 3
+
 konstruksi yang digantikan tanpa biaya
 tambahan apapun.
 30.3 Dalam hal penggantian/penambahan
@@ -117390,7 +117390,7 @@ tersebut.
 31.4 Bukti Keadaan Kahar dapat berupa :
 a. pernyataan yang diterbitkan oleh
 pihak/instansi yang berwenang sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 ketentuan peraturan perundang-
 undangan; dan/atau
 b. foto/video dokumentasi Keadaan Kahar
@@ -117447,7 +117447,7 @@ Rencana Kerja penyedia.
 mencakup seluruh pekerjaan (baik
 sementara ataupun permanen) karena
 Keadaan Kahar, maka:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Kontrak dihentikan sementara hingga
 keadaan kahar berakhir; atau
 b. Kontrak dihentikan permanen apabila
@@ -117507,7 +117507,7 @@ manusia, keselamatan publik, dan
 lingkungan dan ditindaklanjuti dengan
 surat pernyataan wanprestasi dari pihak
 yang dirugikan.
-Paraf 1 Paraf 2 Paraf 3
+
 33.4 Pemutusan kontrak dilakukan sekurang-
 kurangnya 14 (empat belas) hari kalender
 setelah Pejabat Penandatangan
@@ -117568,7 +117568,7 @@ dengan 50 (lima puluh) hari kalender
 sejak Tanggal Penyerahan Pekerjaan
 semula, Penyedia tidak dapat
 menyelesaikan pekerjaan; atau
-Paraf 1 Paraf 2 Paraf 3
+
 i.
 Penyedia menghentikan pekerjaan
 selama 28 (dua puluh delapan) hari
@@ -117628,7 +117628,7 @@ bukan oleh kesalahan para pihak;
 b. pelaksanaan kontrak tidak dapat
 dilanjutkan akibat keadaan kahar; atau
 c. ruang lingkup kontrak sudah terwujud.
-Paraf 1 Paraf 2 Paraf 3
+
 36.2 Pengakhiran pekerjaan sesuai pasal 36.1
 37. Berakhirnya Kontrak dituangkan dalam adendum final yang berisi
 perubahan akhir dari kontrak
@@ -117685,7 +117685,7 @@ yang dilakukan Pejabat Penandatangan
 Kontrak;
 g. mengambil langkah-langkah yang memadai
 dalam rangka memberi perlindungan kepada
-Paraf 1 Paraf 2 Paraf 3
+
 setiap orang yang berada di tempat kerja
 maupun masyarakat dan lingkungan sekitar
 yang berhubungan dengan pelaksanaan
@@ -117743,7 +117743,7 @@ risiko kehilangan atau kerusakan hasil
 pekerjaan ini, bahan dan perlengkapan
 merupakan risiko Penyedia, kecuali kerugian
 atau kerusakan tersebut diakibatkan oleh
-Paraf 1 Paraf 2 Paraf 3
+
 kesalahan atau kelalaian Pejabat
 Penandatangan Kontrak.
 43.3. Pertanggungan asuransi yang dimiliki oleh
@@ -117804,7 +117804,7 @@ kecelakaan, pelaksanaan pekerjaan, atas segala
 risiko terhadap kecelakaan, kerusakan,
 kehilangan, serta risiko lain yang tidak dapat
 diduga.
-Paraf 1 Paraf 2 Paraf 3
+
 46.2Penyedia wajib menyediakan asuransi bagi
 pihak ketiga sebagai akibat kecelakaan di lokasi
 kerja.
@@ -117861,7 +117861,7 @@ tersebut. Pembatasan (jika ada) mengenai
 penggunaan dokumen dan piranti lunak
 tersebut di atas di kemudian hari diatur
 dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 50. Pembayaran Denda Penyedia berkewajiban untuk membayar sanksi
 finansial berupa Denda sebagai akibat wanprestasi
 atau cidera janji terhadap kewajiban-kewajiban
@@ -117919,7 +117919,7 @@ kerugian (suretyship).
 Pejabat Penandatangan Kontrak dalam
 rangka pengambilan uang muka paling
 kurang sama dengan besarnya uang muka.
-Paraf 1 Paraf 2 Paraf 3
+
 51.5 Nilai Jaminan Uang Muka dapat dikurangi
 secara proporsional sesuai dengan sisa uang
 muka yang diterima.
@@ -117976,7 +117976,7 @@ surat perintah mobilisasi;
 54.5 Personel tidak berhak untuk dibayar atas
 sakit atau liburan, karena perhitungan upah
 sudah mencakup hal tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 55. Hari Kerja 55.1 Penyedia tidak diperkenankan melakukan
 pekerjaan apapun di lokasi kerja pada waktu
 yang secara ketentuan peraturan
@@ -118036,7 +118036,7 @@ Subpenyedia dilaporkan secara periodik
 kepada Pejabat Penandatangan Kontrak dan
 diawasi oleh Pejabat Penandatangan Kontrak
 serta dapat dibantu oleh Tim Pendukung .
-Paraf 1 Paraf 2 Paraf 3
+
 56.8 Apabila Penyedia melanggar ketentuan
 sebagaimana diatur pada klausul 56.4 atau
 56.5 maka akan dikenakan denda senilai
@@ -118094,7 +118094,7 @@ Kontrak; dan/atau
 g. Ketentuan lain dalam SSKK.
 59.2 Jika Peristiwa Kompensasi mengakibatkan
 pengeluaran tambahan dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 keterlambatan penyelesaian pekerjaan maka
 Pejabat Penandatangan Kontrak
 berkewajiban untuk membayar ganti rugi
@@ -118155,7 +118155,7 @@ muka dapat diberikan paling tinggi 15%
 d. Besaran uang muka ditentukan dalam
 SSKK dan dibayar setelah Penyedia
 menyerahkan Jaminan Uang Muka
-Paraf 1 Paraf 2 Paraf 3
+
 paling sedikit sebesar uang muka yang
 diterima;
 e. Dalam hal diberikan uang muka, maka
@@ -118215,7 +118215,7 @@ f. pembayaran terakhir hanya dilakukan
 setelah pekerjaan selesai sesuai dengan
 ketentuan yang tertuang dalam Kontrak
 dan Berita Acara Serah Terima
-Paraf 1 Paraf 2 Paraf 3
+
 Pekerjaan ditandatangani oleh Pejabat
 Penandatangan Kontrak dan Penyedia;
 g. Pejabat Penandatangan Kontrak dalam
@@ -118276,7 +118276,7 @@ prestasi pekerjaan;
 g. ganti rugi kepada Penyedia dapat
 mengubah Harga Kontrak setelah
 dituangkan dalam adendum kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 h. pembayaran ganti rugi dilakukan oleh
 Pejabat Penandatangan Kontrak, apabila
 Penyedia telah mengajukan tagihan
@@ -118334,7 +118334,7 @@ interpretasinya selama atau setelah
 pelaksanaan pekerjaan ini dengan prinsip
 dasar musyawarah untuk mencapai
 kemufakatan.
-Paraf 1 Paraf 2 Paraf 3
+
 64.2 Dalam hal musyawarah para pihak
 sebagaimana dimaksud pada klausul 64.1
 tidak dapat mencapai suatu kemufakatan,
@@ -118361,7 +118361,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondensi Alamat Para Pihak sebagai berikut:
@@ -118415,7 +118415,7 @@ dan/atau Subkontrak dikenakan sanksi _________
 [diisi dengan memilih salah satu sanksi yang akan
 dikenakan:
 a. dilakukan pemutusan kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. membayar 2 (dua) kali lipat selisih harga
 didalam kontrak dengan harga yang dibayarkan
 kepada subpenyedia]
@@ -118473,7 +118473,7 @@ apabila ada peristiwa kompensasi lain, selain yang
 telah tertuang dalam SSUK]
 61.1.a & Besaran Uang Uang muka diberikan paling tinggi sebesar .....%
 61.1.e Muka (.....dalam huruf.....) dari Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 61.2.b & Pembayaran Pembayaran prestasi pekerjaan dilakukan dengan
 61.2.c Prestasi cara Bulanan
 Pekerjaan
@@ -118491,7 +118491,7 @@ atau harga bagian Kontrak yang tercantum
 dalam Kontrak dan belum diserahterimakan
 apabila ditetapkan serah terima pekerjaan secara
 parsial]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PEKERJAAN UTAMA YANG DISUBKONTRAKKAN DAN SUBPENYEDIA
 (Apabila Ada)
@@ -118528,7 +118528,7 @@ Subtotal
 Total
 Full time input
 Part time input
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan Keterangan
@@ -118540,7 +118540,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR KELUARAN DAN HARGA
 Total Harga
 No. Keluaran Satuan
@@ -118556,7 +118556,7 @@ Sub-total …
 PPN 10%
 Total …
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -118588,7 +118588,7 @@ Meterai Rp. 10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -118634,7 +118634,7 @@ Meterai Rp. 10.000,00
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh Pejabat
 Penandatanganan Kontak.
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 3 : JAMINAN UANG MUKA
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -118682,7 +118682,7 @@ akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 benda yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk
 melunasi hutang Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab
 Undang-Undang Hukum Perdata.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan
 kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-
@@ -118697,7 +118697,7 @@ Jaminan disarankan untuk
 mencocokkan Jaminan ini ke
 Bank ................ [bank] ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium perusahaan
 asuransi umum/lembaga penjaminan/perusahaan penjaminan]
@@ -118745,7 +118745,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 Nama Jelas
 mengkonfirmasi Jaminan ini
-ke ………[Penerbit Jaminan] Paraf 1 Paraf 2 Paraf 3
+ke ………[Penerbit Jaminan]
 BAB XII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi
 harus mematuhi ketentuan sebagai berikut:
@@ -118782,7 +118782,7 @@ dapat dipecah-pecah dari pekerjaan yang sudah dilaksanakan sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatanganan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -118790,7 +118790,7 @@ Jasa Konsultansi Konstruksi
 Badan Usaha
 Metode Seleksi, Prakualifikasi, Dua File, Biaya Terendah,
 Kontrak Waktu Penugasan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -118800,7 +118800,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UNDANGAN .............................................................................................................................................. - 5 -
 BAB II. UMUM....................................................................................................................................................... - 6 -
@@ -118855,7 +118855,7 @@ H. PENUNJUKAN PENYEDIA .........................................................
 39. KERAHASIAAN PROSES .................................................................................................................................... - 34 -
 I. PENANDATANGANAN KONTRAK ........................................................................................................ - 35 -
 40. RAPAT PERSIAPAN PENANDATANGANAN KONTRAK ................................................................................... - 35 -
-Paraf 1 Paraf 2 Paraf 3
+
 41. PENANDA-TANGANAN KONTRAK ................................................................................................................. - 35 -
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)................................................................................................... - 37 -
 BAB V. KERANGKA ACUAN KERJA (KAK) ..................................................................................................... - 39 -
@@ -118898,11 +118898,11 @@ LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ) .....................
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA........................................................................................ 116
 LAMPIRAN 3 : JAMINAN UANG MUKA ........................................................................................................ 117
 BAB XII. KETENTUAN LAIN-LAIN ................................................................................................................. - 120 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UNDANGAN
 Peserta yang diundang adalah peserta yang masuk dalam Daftar Pendek (Shortlist)
 melalui SPSE
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UMUM
 A. Dokumen Seleksi ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -118948,7 +118948,7 @@ standar keamanan, keselamatan, kesehatan dan
 keberlanjutan yang menjamin keselamatan keteknikan
 konstruksi, keselamatan dan kesehatan tenaga kerja,
 keselamatan publik dan lingkungan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Sistem : yang selanjutnya disebut SMKK adalah bagian dari sistem
 Manajemen manajemen pelaksanaan Pekerjaan Konstruksi dalam rangka
 Keselamatan menjamin terwujudnya Keselamatan Konstruksi;
@@ -118997,7 +118997,7 @@ Kontrak dapat berasal dari PA, KPA, atau PPK
 berbentuk badan hukum maupun bukan badan hukum yang
 didirikan dan berkedudukan atau melakukan kegiatan
 dalam wilayah hukum negara Republik Indonesia, baik
-Paraf 1 Paraf 2 Paraf 3
+
 sendiri maupun bersama-sama melalui perjanjian
 menyelenggarakan kegiatan usaha dalam berbagai bidang
 ekonomi;
@@ -119029,7 +119029,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 F. Seleksi ini dapat diikuti oleh Peserta yang ditetapkan dalam daftar Pendek Peserta
 Seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam
@@ -119081,7 +119081,7 @@ c. gugatan secara perdata; dan/atau
 d. sanksi pencantuman dalam Daftar Hitam.
 4.3 Pengenaan sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
 Pokja Pemilihan.
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi dan perannya,
@@ -119137,7 +119137,7 @@ f. Penyedia yang tidak melaksanakan kontrak, tidak
 menyelesaikan pekerjaan, atau dilakukan pemutusan
 kontrak secara sepihak oleh PPK yang disebabkan oleh
 kesalahan Penyedia Barang/Jasa; atau
-Paraf 1 Paraf 2 Paraf 3
+
 7. Pendayagunaan 7.1 Peserta berkewajiban untuk menyampaikan penawaran
 Tenaga Ahli dan yang mengutamakan tenaga ahli dalam negeri.
 Produksi Dalam
@@ -119193,7 +119193,7 @@ oleh PPK)
 a) Surat Perjanjian;
 b) Syarat-Syarat Umum Kontrak;
 c) Syarat-Syarat Khusus Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 h. Daftar Kuantitas dan Harga atau Daftar Keluaran dan
 Harga;
 i. Contoh Bentuk Dokumen lain:
@@ -119242,7 +119242,7 @@ dalam SPSE merupakan Berita Acara Pemberian Penjelasan
 12.11 Jika dilaksanakan peninjauan lapangan dapat dibuat Berita
 Acara Pemberian Penjelasan Lanjutan dan diunggah
 melalui SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 12.12 Berita Acara Pemberian Penjelasan Lapangan menjadi
 bagian Berita Acara Pemberian Penjelasan (BAPP).
 13. Perubahan 13.1 Apabila pada saat pemberian penjelasan terdapat hal-
@@ -119290,7 +119290,7 @@ Penawaran
 16.2 Dokumen penunjang yang terkait dengan Dokumen
 Penawaran dapat menggunakan Bahasa Indonesia atau
 bahasa asing.
-Paraf 1 Paraf 2 Paraf 3
+
 16.3 Dokumen penunjang yang berbahasa asing perlu disertai
 terjemahan dalam Bahasa Indonesia. Dalam hal terjadi
 perbedaan penafsiran, maka yang berlaku adalah
@@ -119347,7 +119347,7 @@ b. Daftar Kuantitas dan Harga yang terdiri atas:
 2) rincian biaya langsung Personel; dan
 3) rincian biaya langsung non-Personel.
 c. Rincian Komponen Remunerasi Personel.
-Paraf 1 Paraf 2 Paraf 3
+
 18. Biaya 18.1 Total Biaya penawaran ditulis dalam angka dan huruf,
 Penawaran dengan ketentuan:
 a. Apabila ada perbedaan penulisan antara angka dan
@@ -119402,7 +119402,7 @@ tertulis kepada pemenang seleksi untuk memperpanjang
 masa berlakunya penawaran dalam jangka waktu tertentu
 dan diperhitungkan paling kurang sampai perkiraan
 tanggal penandatanganan kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 20.4 Berkaitan dengan klausul 20.2 dan 20.3, maka peserta
 dapat:
 a. menyetujui permintaan tersebut tanpa mengubah
@@ -119456,7 +119456,7 @@ Penawaran 22.2 Pokja Pemilihan tidak diperkenankan mengubah waktu
 batas akhir penyampaian penawaran kecuali:
 a. keadaan kahar;
 b. terjadi gangguan teknis;
-Paraf 1 Paraf 2 Paraf 3
+
 c. perubahan Dokumen Seleksi yang mengakibatkan
 kebutuhan penambahan waktu penyiapan Dokumen
 Penawaran; atau
@@ -119510,7 +119510,7 @@ waktu pembukaan penawaran, kecuali untuk file
 penawaran yang sudah dipastikan tidak dapat dibuka
 berdasarkan keterangan unit kerja yang melaksanakan
 fungsi layanan pengadaan secara elektronik atau LKPP.
-Paraf 1 Paraf 2 Paraf 3
+
 24.3 Apabila penawaran yang masuk kurang dari 3 (tiga)
 peserta maka proses pemilihan penyedia tetap dilanjutkan.
 25. Evaluasi 25.1 Ketentuan umum dalam melakukan evaluasi sebagai
@@ -119571,7 +119571,7 @@ yang sama dengan nomor seri yang berurutan
 i. Apabila dalam evaluasi ditemukan bukti adanya
 persaingan usaha yang tidak sehat dan/atau terjadi
 pengaturan bersama (kolusi/persekongkolan) antara
-Paraf 1 Paraf 2 Paraf 3
+
 peserta, Pokja Pemilihan, UKPBJ, PPK dan/atau pihak
 lain yang terlibat, dengan tujuan untuk memenangkan
 salah satu peserta, maka:
@@ -119629,7 +119629,7 @@ peserta, dengan ketentuan:
 1) unsur-unsur pokok yang dinilai adalah:
 a) pengalaman perusahaan (bobot nilai antara
 15-30%);
-Paraf 1 Paraf 2 Paraf 3
+
 b) proposal teknis (bobot nilai antara 20-35%);
 c) kualifikasi tenaga ahli (bobot nilai antara 50-
 65%).
@@ -119690,7 +119690,7 @@ KAK), dan pengenalan lapangan (bobot 4-9%);
 b) kualitas metodologi, penilaian terutama
 meliputi: ketepatan menganalisis masalah dan
 langkah pemecahan yang diusulkan dengan
-Paraf 1 Paraf 2 Paraf 3
+
 tetap mengacu kepada persyaratan KAK,
 konsistensi antara metodologi dengan rencana
 kerja, tanggapan terhadap KAK khususnya
@@ -119751,7 +119751,7 @@ disertai dengan pindaian ijazah asli atau
 legalisir (bobot 10-15%).
 Apabila tingkat dan jurusan pendidikan Tenaga
 Ahli kurang dari yang dipersyaratkan dalam
-Paraf 1 Paraf 2 Paraf 3
+
 KAK maka nilai Tenaga Ahli yang bersangkutan
 diberi nilai 0 (nol);
 b) pengalaman kerja profesional seperti yang
@@ -119814,7 +119814,7 @@ iii. terkait (nilai 0,5).
 (b) posisi:
 i. sesuai (nilai 1);
 ii. tidak sesuai (nilai 0,5).
-Paraf 1 Paraf 2 Paraf 3
+
 (c) kriteria lingkup pekerjaan dan posisi
 ditetapkan oleh Pokja dalam Lembar
 Kriteria Evaluasi.
@@ -119876,7 +119876,7 @@ memenuhi ambang batas (passing grade) yang
 ditentukan dalam Lembar Kriteria Evaluasi;
 h. Apabila dalam evaluasi teknis terdapat hal-hal yang
 kurang jelas atau meragukan, Pokja Pemilihan
-Paraf 1 Paraf 2 Paraf 3
+
 melakukan klarifikasi kepada peserta. Apabila
 diperlukan, Pokja Pemilihan dapat meminta Peserta
 untuk memperlihatkan dokumen asli pendukung
@@ -119935,7 +119935,7 @@ aritmatik dilakukan secara manual.
 b. Hasil koreksi aritmatik mengubah nilai penawaran.
 c. apabila hasil koreksi aritmatik melebihi HPS maka
 penawaran dinyatakan gugur.
-Paraf 1 Paraf 2 Paraf 3
+
 d. volume dan/atau jenis pekerjaan yang tercantum
 dalam daftar kuantitas dan harga dalam penawaran
 harga disesuaikan dengan volume dan/atau jenis
@@ -119993,7 +119993,7 @@ e. Tanggal dibuatnya berita acara;
 f. Keterangan-keterangan lain yang dianggap perlu; dan
 g. Pernyataan bahwa Seleksi gagal apabila tidak ada
 penawaran yang memenuhi syarat.
-Paraf 1 Paraf 2 Paraf 3
+
 F. PENETAPAN PEMENANG
 29. Penetapan 29.1 Penetapan pemenang seleksi terdiri dari pemenang,
 Pemenang pemenang cadangan 1 (satu), dan pemenang cadangan 2
@@ -120050,7 +120050,7 @@ pengadaan yang dibiayai APBD, dengan tata cara sebagai
 berikut:
 a. Pokja Pemilihan mengusulkan pemenang pemilihan
 kepada PA/KPA untuk ditetapkan melalui UKPBJ yang
-Paraf 1 Paraf 2 Paraf 3
+
 ditembuskan kepada PPK dan APIP
 Kementerian/Lembaga/Pemerintah Daerah yang
 bersangkutan.
@@ -120103,7 +120103,7 @@ daerah.
 31.4 Sanggah disampaikan dalam waktu 5 (lima) hari kalender
 setelah pengumuman pemenang diakhiri pada hari kerja
 dan jam kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 31.5 Pokja Pemilihan wajib memberikan jawaban secara
 elektronik atas semua sanggah paling lambat 3 (tiga) hari
 kalender setelah akhir masa sanggah diakhiri pada hari
@@ -120159,7 +120159,7 @@ d. Kepala Cabang perusahaan yang diangkat oleh kantor
 pusat yang dibuktikan dengan dokumen otentik; atau
 e. pejabat yang menurut Perjanjian KSO berhak mewakili
 KSO.
-Paraf 1 Paraf 2 Paraf 3
+
 33. Klarifikasi dan 33.1 Peserta menyampaikan Rincian Komponen Remunerasi
 Negosiasi Teknis Personel sebagaimana pada angka 17.3 huruf c.
 dan Biaya
@@ -120218,7 +120218,7 @@ pajak penghasilan tenaga ahli konsultan yang
 bersangkutan;
 2) indeks/koefisien pengali tenaga kerja terhadap
 Upah Minimum Provinsi atau Upah Minimum
-Paraf 1 Paraf 2 Paraf 3
+
 Kabupaten/Kota yang ditetapkan oleh Gubernur;
 atau
 3) kontrak pekerjaan sejenis yang pernah
@@ -120271,7 +120271,7 @@ HPS.
 mengakibatkan turunnya harga penawaran.
 33.15 Apabila klarifikasi dan negosiasi teknis dan biaya tidak
 menghasilkan kesepakatan, Pokja Pemilihan melanjutkan
-Paraf 1 Paraf 2 Paraf 3
+
 dengan mengundang calon pemenang peringkat kedua
 (cadangan pertama) untuk melaksanakan klarifikasi dan
 negosiasi teknis dan biaya, dan seterusnya.
@@ -120324,7 +120324,7 @@ Rp10.000.000.000,00 (sepuluh miliar rupiah).
 34.2 PA/KPA menyatakan Seleksi gagal, apabila korupsi, kolusi
 dan/atau nepotisme melibatkan Pokja
 Pemilihan/PPK/Peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 34.3 Setelah Seleksi dinyatakan gagal, Pokja Pemilihan
 memberitahukan kepada seluruh peserta melalui SPSE.
 35. Tindak Lanjut 35.1 Setelah pengumuman adanya seleksi gagal, Pokja
@@ -120376,7 +120376,7 @@ f. pagu anggaran dan HPS;
 g. metode evaluasi yang digunakan;
 h. unsur-unsur yang dievaluasi;
 i. rumus yang dipergunakan;
-Paraf 1 Paraf 2 Paraf 3
+
 j. keterangan-keterangan lain yang dianggap perlu
 mengenai hal ikhwal pelaksanaan Seleksi;
 k. jumlah peserta yang lulus dan tidak lulus pada setiap
@@ -120432,7 +120432,7 @@ e. PA/KPA dapat memutuskan:
 1) menyetujui penolakan PPK, PA/KPA
 memerintahkan Pokja Pemilihan untuk
 melakukan evaluasi ulang atau seleksi ulang; atau
-Paraf 1 Paraf 2 Paraf 3
+
 2) menyetujui hasil pemilihan penyedia, PA/KPA
 memerintahkan PPK untuk menerbitkan SPPBJ
 paling lambat 5 (lima) hari kerja.
@@ -120484,7 +120484,7 @@ diumumkan.
 39.3 Setiap usaha peserta seleksi mencampuri proses evaluasi
 dokumen penawaran atau keputusan pemenang akan
 mengakibatkan ditolaknya penawaran yang bersangkutan.
-Paraf 1 Paraf 2 Paraf 3
+
 39.4 Evaluasi penawaran yang disimpulkan dalam Berita Acara
 Hasil Pemilihan (BAHP) oleh Pokja Pemilihan bersifat
 rahasia sampai dengan saat pengumuman pemenang.
@@ -120538,7 +120538,7 @@ Kontrak
 Penandatangan Kontrak wajib memeriksa apakah
 pernyataan dalam Data Isian Kualifikasi masih berlaku.
 Apabila salah satu pernyataan tersebut sudah tidak
-Paraf 1 Paraf 2 Paraf 3
+
 terpenuhi, maka penandatanganan kontrak tidak dapat
 dilakukan.
 41.3 Pejabat Penandatangan Kontrak dan penyedia tidak
@@ -120579,7 +120579,7 @@ dengan peraturan perundang-undangan.
 41.8 Pejabat Penandatangan Kontrak memasukkan data kontrak
 dan mengunggah hasil pemindaian dokumen kontrak yang
 telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -120625,12 +120625,12 @@ dan Jangka akhir pemasukan Dokumen Penawaran
 Waktu [diisi dengan tanggal batas akhir pemasukan
 Pelaksanaan penawaran sampai dengan tanggal
 penandatanganan kontrak].
-Paraf 1 Paraf 2 Paraf 3
+
 2. Jangka waktu pelaksanaan pekerjaan:
 _______ (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -120668,7 +120668,7 @@ Penyedia Jasa
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain. (untuk jasa konsultansi konstruksi
 perancangan termasuk identifikasi bahaya sesuai dengan metode pelaksanaan serta metode operasi dan
 pemeliharaan bangunan).
-Paraf 1 Paraf 2 Paraf 3
+
 16. Jangka Waktu
 Penyelesaian
 Pekerjaan
@@ -120711,7 +120711,7 @@ Negeri harus dilakukan di dalam wilayah Negara Republik
 Indonesia kecuali ditetapkan lain dalam angka 4 KAK
 dengan pertimbangan keterbatasan kompetensi dalam
 negeri.
-Paraf 1 Paraf 2 Paraf 3
+
 24. Persyaratan Kerja Jika kerja sama dengan penyedia jasa konsultansi lain
 sama diperlukan untuk pelaksanaan kegiatan jasa konsultansi
 ini maka persyaratan berikut harus dipatuhi:
@@ -120741,7 +120741,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/ Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -120801,7 +120801,7 @@ X : Nama perusahaan
 NPT : Nilai Paket Tertinggi
 NPT Tertinggi = Nilai Paket
 tertinggi
-Paraf 1 Paraf 2 Paraf 3
+
 _____
 [diisi
 2. Unsur Proposal Teknis __ [20%-35%] ambang
@@ -120866,7 +120866,7 @@ diusulkan
 60;
 2) konsistensi antara - - 3) kurang diberi nilai 20;
 metodologi
-Paraf 1 Paraf 2 Paraf 3
+
 dengan rencana 4) tidak menyajikan diberi
 kerja nilai 0.
 3) apresiasi terhadap - - deskripsikan secara jelas
@@ -120934,7 +120934,7 @@ tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 2) tingkat dan/atau jurusan
 pendidikan peserta yang
 berbeda atau lebih kecil
@@ -121001,7 +121001,7 @@ nilai 0,5
 c) posisi yang :
 (1) sesuai adalah:
 _________
-Paraf 1 Paraf 2 Paraf 3
+
 [deskripsikan
 dengan jelas].
 (2) tidak sesuai
@@ -121073,7 +121073,7 @@ dibutuhkan)
 tata-cara, aturan,
 situasi, dan
 kondisi (custom)
-Paraf 1 Paraf 2 Paraf 3
+
 setempat (apabila
 diperlukan)
 Peserta Seleksi dinyatakan
@@ -121081,7 +121081,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -121090,7 +121090,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -121111,7 +121111,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -121135,7 +121135,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA DI
 PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN
 PERUSAHAAN)
@@ -121169,7 +121169,7 @@ c. _________________ ___________________ _________________
 d. _________________ ___________________ _________________
 e. _________________ ___________________ _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA DAN
 PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -121186,7 +121186,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen seleksi ini meliputi antara lain
 (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan,
 data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -121214,7 +121214,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -121229,7 +121229,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti pen
 laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah
 berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -121248,7 +121248,7 @@ Tenaga Ahli Uraian
 Nama Personel Posisi Diusulkan Orang
 Lokal/Asing Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -121270,7 +121270,7 @@ Penuh-
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -121317,7 +121317,7 @@ Yang membuat pernyataan,
 [nama jelas]
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi dari
 pemberi pekerjaan yang bersangkutan
-Paraf 1 Paraf 2 Paraf 3
+
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
 CONTOH
 PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -121339,7 +121339,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 A. BENTUK SURAT PENAWARAN BIAYA CONTOH
 [KOP SURAT BADAN USAHA]
@@ -121380,7 +121380,7 @@ _
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KUANTITAS DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -121393,7 +121393,7 @@ Sub-total
 PPN 10%
 Total
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN BIAYA LANGSUNG PERSONEL
 CONTOH
 RINCIAN BIAYA LANGSUNG PERSONEL
@@ -121408,7 +121408,7 @@ Total Biaya
 Pada isian Nama Personel, untuk Tenaga Ahli pengisian masukan harus mencantumkan nama personel; untuk
 Tenaga Subprofesional dan Tenaga Pendukung cukup dicantumkan posisi, misalnya juru gambar, staf
 administrasi, dan sebagainya
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK RINCIAN BIAYA LANGSUNG NON-PERSONEL (DIRECT
 REIMBURSABLE COST)
 CONTOH
@@ -121468,7 +121468,7 @@ keuntungan (profit) dan biaya umum (overhead cost) hanya diperhitungkan dalam bi
 dengan lumsum.
 ● Peserta dapat menambah atau mengurangi kolom Jenis Biaya sesuai kebutuhan.
 ● Biaya penerapan SMKK digunakan sesuai kebutuhan.
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -121490,7 +121490,7 @@ administrasi, dan sebagainya.
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi PersoneL hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -121536,7 +121536,7 @@ Pemerintah beserta perubahannya dan aturan turunannya;
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 5*) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
@@ -121587,7 +121587,7 @@ dengan kode akun kegiatan ……….
 atas nama Penyedia : ...............;
 [Catatan : untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
 masing-masing Tahun Anggarannya]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 4
 DOKUMEN KONTRAK
 (1) Dokumen-dokumen berikut merupakan satu kesatuan dan bagian yang tidak
@@ -121625,7 +121625,7 @@ Kontrak sesuai dengan ketentuan peraturan perundang-undangan di Republik
 Indonesia dan dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan
 meterai, mempunyai kekuatan hukum yang sama dan mengikat bagi para pihak,
 rangkap yang lain dapat diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Untuk dan atas nama
 Penyedia............. [diisi nama badan Pejabat Penandatangan Kontrak.............
 usaha] [diisi sesuai SK Pengangkatan]
@@ -121638,7 +121638,7 @@ Kontrak maka rekatkan meterai Rp
 NIP. ……………………
 [nama lengkap]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Waktu Penugasan
@@ -121684,7 +121684,7 @@ perubahannya;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah beserta perubahannya dan aturan turunannya;
 6*) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
@@ -121733,7 +121733,7 @@ HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 berdasarkan total harga penawaran terkoreksi sebagaimana tercantum dalam
 Rincian Biaya adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..)
 dengan kode akun kegiatan ……….
-Paraf 1 Paraf 2 Paraf 3
+
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
 (3) Pembayaran untuk kontrak ini dilakukan ke Bank ..... rekening nomor : .............
 atas nama Penyedia : ...............;
@@ -121776,7 +121776,7 @@ Kontrak sesuai dengan ketentuan peraturan perundang-undangan di Republik
 Indonesia dan dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan
 meterai, mempunyai kekuatan hukum yang sama dan mengikat bagi para pihak,
 rangkap yang lain dapat diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Untuk dan atas nama
 Penyedia............. [diisi nama KSO] Pejabat Penandatangan Kontrak.............
 [diisi sesuai SK Pengangkatan]
@@ -121787,7 +121787,7 @@ Kontrak maka rekatkan meterai Rp meterai Rp 10.000, 00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-
@@ -121844,7 +121844,7 @@ kontrak dan tidak dapat diperkirakan
 sebelumnya, sehingga kewajiban yang
 ditentukan dalam Kontrak menjadi tidak
 dapat dipenuhi.
-Paraf 1 Paraf 2 Paraf 3
+
 1.9 Kerja Sama Operasi yang selanjutnya
 disingkat KSO adalah kerja sama usaha
 antar Penyedia yang masing-masing pihak
@@ -121904,7 +121904,7 @@ Menandatangani Kontrak yang selanjutnya
 disebut Pejabat Penandatangan Kontrak
 adalah pemilik atau pemberi pekerjaan yang
 menggunakan layanan Jasa Konstruksi yang
-Paraf 1 Paraf 2 Paraf 3
+
 dapat berupa Pengguna Anggaran, Kuasa
 Pengguna Anggaran, atau PPK.
 1.18 Pengguna Anggaran yang selanjutnya
@@ -121964,7 +121964,7 @@ jangka waktu tertentu.
 1.25 Subpenyedia adalah Penyedia yang
 mengadakan perjanjian kerja tertulis
 dengan Penyedia penanggung jawab
-Paraf 1 Paraf 2 Paraf 3
+
 kontrak, untuk melaksanakan sebagian
 pekerjaan (subkontrak).
 1.26 Surat Jaminan yang selanjutnya disebut
@@ -122021,7 +122021,7 @@ kepada Para Pihak atau wakil sah Para Pihak jika
 telah disampaikan secara langsung, disampaikan
 melalui surat tercatat, e-mail, dan/atau faksimili
 sebagaimana tercantum dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Wakil Sah Para Pihak 6.1 Setiap tindakan yang disyaratkan atau
 diperbolehkan untuk dilakukan, dan setiap
 dokumen yang disyaratkan atau
@@ -122078,7 +122078,7 @@ daftar hitam; dan
 fungsi layanan pengadaan secara
 elektronik, untuk ditayangkan
 dalam Daftar Hitam Nasional]
-Paraf 1 Paraf 2 Paraf 3
+
 7.4 Pengenaan sanksi administratif di atas
 dilaporkan oleh Pejabat Penandatangan
 Kontrak kepada PA/KPA
@@ -122135,7 +122135,7 @@ melakukan pengabaian.
 jawab penuh terhadap personel dan
 Subpenyedianya (jika ada) serta pekerjaan yang
 dilakukan oleh mereka.
-Paraf 1 Paraf 2 Paraf 3
+
 13. KSO KSO memberi kuasa kepada salah satu anggota yang
 disebut dalam Surat Perjanjian untuk bertindak atas
 nama KSO dalam pelaksanaan hak dan kewajiban
@@ -122191,7 +122191,7 @@ merupakan suatu hambatan yang
 disebabkan oleh Pejabat Penandatangan
 Kontrak, maka kondisi ini ditetapkan sebagai
 Peristiwa Kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 17. Surat Perintah Mulai 17.1 Pejabat Penandatangan Kontrak
 Kerja (SPMK) menerbitkan SPMK paling lambat 14 (empat
 belas) hari kerja sejak tanggal
@@ -122249,7 +122249,7 @@ Penandatangan Kontrak, Tim Pendukung
 (apabila ada), bersama dengan Penyedia dan
 pihak lain yang ditunjuk oleh Pejabat
 Penandatangan Kontrak, harus sudah
-Paraf 1 Paraf 2 Paraf 3
+
 menyelenggarakan rapat persiapan
 pelaksanaan kontrak
 19.2 Beberapa hal yang dibahas dan disepakati
@@ -122305,7 +122305,7 @@ berkewajiban untuk memulai pelaksanaan
 pekerjaan pada Tanggal Mulai Kerja, dan
 melaksanakan pekerjaan sesuai dengan
 Program Mutu, serta menyelesaikan
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan paling lambat selama Masa
 Pelaksanaan Kontrak yang dinyatakan dalam
 SSKK.
@@ -122365,7 +122365,7 @@ menyadari atau seharusnya menyadari
 timbulnya keterlambatan tersebut.
 23.3 Jika keterlambatan tersebut semata-mata
 disebabkan oleh kesalahan atau kelalaian
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Penandatangan Kontrak, maka
 diberlakukan peristiwa Kompensasi.
 24. Pemberian Kesempatan 24.1 Dalam hal diperkirakan Penyedia gagal
@@ -122423,7 +122423,7 @@ Kontrak.
 serah terima pekerjaan jika hasil pekerjaan
 dan/atau dokumen laporan pelaksanaan
 pekerjaan tidak sesuai dengan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 25.7 Atas pelaksanaan serah terima hasil
 pekerjaan, Pejabat Penandatangan Kontrak
 membuat Berita Acara Serah Terima (BAST)
@@ -122479,7 +122479,7 @@ ditentukan dalam dokumen Kontrak, Pejabat
 Penandatangan Kontrak bersama Penyedia
 dapat melakukan perubahan pekerjaan,
 yang meliputi:
-Paraf 1 Paraf 2 Paraf 3
+
 a. menambah atau mengurangi volume
 waktu penugasan yang tercantum dalam
 KAK/Kontrak;
@@ -122537,7 +122537,7 @@ oleh perubahan pekerjaan harus terlebih
 dahulu melalui pemeriksaan Tim
 Pendukung dan dilengkapi dengan data-
 data pendukung yang lengkap.
-Paraf 1 Paraf 2 Paraf 3
+
 28.3 Perubahan harga diakibatkan
 penambahan/pengurangan personel yang
 tercantum dalam Kontrak diberlakukan
@@ -122599,7 +122599,7 @@ ketentuan peraturan perundang-
 undangan.
 28.5 Ketentuan Penyesuaian Harga lebih lanjut
 sebagaimana diatur dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 28.6 Ketentuan ganti rugi akibat peristiwa
 kompensasi mengacu pada pasal Peristiwa
 Kompensasi.
@@ -122657,7 +122657,7 @@ Pelaksanaan Kontrak harus dilakukan
 melalui Adendum Kontrak.
 30. Perubahan Personel Inti 30.1 Jika Pejabat Penandatangan Kontrak menilai
 bahwa Personel inti :
-Paraf 1 Paraf 2 Paraf 3
+
 a. tidak mampu atau tidak dapat melakukan
 pekerjaan dengan baik;
 b. berkelakuan tidak baik;
@@ -122711,7 +122711,7 @@ B.5 Keadaan Kahar
 bencana alam, bencana non alam, bencana
 sosial, pemogokan, kebakaran, kondisi cuaca
 ekstrem, dan gangguan industri lainnya.
-Paraf 1 Paraf 2 Paraf 3
+
 31.2 Tidak termasuk Keadaan Kahar adalah hal-
 hal merugikan yang disebabkan oleh
 perbuatan atau kelalaian para pihak.
@@ -122768,7 +122768,7 @@ dari Keadaan Kahar
 pelaksanaan pekerjaan dapat dihentikan.
 Penghentian Pekerjaan karena Keadaan
 Kahar dapat bersifat
-Paraf 1 Paraf 2 Paraf 3
+
 a. sementara hingga Keadaan Kahar
 berakhir apabila akibat Keadaan Kahar
 masih memungkinkan
@@ -122827,7 +122827,7 @@ permanen, para pihak melakukan
 pengakhiran Pekerjaan, Pengakhiran
 Kontrak dan menyelesaikan hak dan
 kewajiban sesuai Kontrak. Penyedia berhak
-Paraf 1 Paraf 2 Paraf 3
+
 untuk menerima pembayaran sesuai dengan
 prestasi atau kemajuan hasil pekerjaan yang
 telah dicapai setelah dilakukan pemeriksaan
@@ -122888,7 +122888,7 @@ pelanggaran persaingan sehat dalam
 pelaksanaan Pengadaan Barang/Jasa
 dinyatakan benar oleh Instansi yang
 berwenang;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Penyedia berada dalam keadaan pailit
 yang diputuskan oleh pengadilan;
 d. Penyedia terbukti dikenakan Sanksi
@@ -122948,7 +122948,7 @@ hari kalender;
 b. Pejabat Penandatangan Kontrak tidak
 menerbitkan Surat Permintaan Pembayaran
 (SPP) untuk pembayaran tagihan angsuran
-Paraf 1 Paraf 2 Paraf 3
+
 sesuai dengan yang disepakati sebagaimana
 tercantum dalam SSKK.
 c. Dalam hal pemutusan Kontrak, maka Pejabat
@@ -123005,7 +123005,7 @@ pekerjaan sesuai dengan harga dan ketentuan
 yang telah ditetapkan dalam Kontrak;
 b. meminta fasilitas-fasilitas dalam bentuk sarana
 dan prasarana dari Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak untuk kelancaran pelaksanaan
 pekerjaan sesuai ketentuan Kontrak;
 c. melaporkan pelaksanaan pekerjaan secara
@@ -123059,7 +123059,7 @@ Penyedia.
 43. Penanggungan Risiko 43.1 Penyedia berkewajiban untuk melindungi,
 membebaskan, dan menanggung tanpa
 batas Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 beserta instansinya terhadap semua bentuk
 tuntutan, tanggung jawab, kewajiban,
 kehilangan, kerugian, denda, gugatan atau
@@ -123121,7 +123121,7 @@ peraturan keselamatan konstruksi tersebut.
 44.3 Penyedia berkewajiban untuk menyediakan
 kepada setiap personelnya (termasuk
 personelnya Subpenyedia, jika ada)
-Paraf 1 Paraf 2 Paraf 3
+
 perlengkapan keselamatan konstruksi yang
 sesuai dan memadai.
 44.4 Tanpa mengurangi kewajiban Penyedia
@@ -123180,7 +123180,7 @@ pekerjaan sesuai ketentuan dalam KAK.
 48.2 Untuk kepentingan pengendalian dan
 pengawasan pelaksanaan pekerjaan, seluruh
 aktivitas kegiatan personel dan pekerjaan di
-Paraf 1 Paraf 2 Paraf 3
+
 lokasi pekerjaan dicatat dalam laporan
 rencana dan realisasi pekerjaan.
 48.3 Laporan hasil pekerjaan dibuat oleh
@@ -123238,7 +123238,7 @@ rupiah) dapat diterbitkan oleh:
 3) Perusahaan Penjaminan;
 4) Lembaga Keuangan Khusus yang
 Menjalankan Usaha di Bidang
-Paraf 1 Paraf 2 Paraf 3
+
 Pembiayaan, Penjaminan, dan
 asuransi untuk mendorong ekspor
 Indonesia sesuai dengan ketentuan
@@ -123296,7 +123296,7 @@ dilampirkan dalam Lampiran SSKK;
 kerahasiaan pekerjaannya. Jika diperlukan
 oleh Pejabat Penandatangan Kontrak,
 Personel Inti dapat sewaktu-waktu
-Paraf 1 Paraf 2 Paraf 3
+
 disyaratkan untuk menjaga kerahasiaan
 pekerjaan di bawah sumpah.
 54. Jam Kerja dan Lembur 54.1 Orang hari standar atau satu hari orang
@@ -123355,7 +123355,7 @@ Pendukung .
 56. Kerjasama Antara 56.1 Penyedia hanya boleh melakukan
 Penyedia dan subkontrak sebagian pekerjaan utama
 Subpenyedia kepada Penyedia Spesialis.
-Paraf 1 Paraf 2 Paraf 3
+
 56.2 Penyedia tetap bertanggung jawab atas
 bagian pekerjaan yang disubkontrakkan
 tersebut.
@@ -123412,7 +123412,7 @@ f. menilai kinerja Penyedia.
 58. Fasilitas Pejabat Penandatangan Kontrak dapat memberikan
 fasilitas berupa sarana dan prasarana atau
 kemudahan lainnya (jika ada) yang tercantum
-Paraf 1 Paraf 2 Paraf 3
+
 dalam SSKK untuk kelancaran pelaksanaan
 pekerjaan ini.
 59. Peristiwa Kompensasi 59.1 Peristiwa Kompensasi dapat diberikan
@@ -123472,7 +123472,7 @@ dalam Kontrak sebesar Nilai Kontrak.
 60.2 Nilai Kontrak telah memperhitungkan
 meliputi:
 a. beban pajak,
-Paraf 1 Paraf 2 Paraf 3
+
 b. keuntungan dan biaya overhead (biaya
 umum); dan
 c. biaya pelaksanaan pekerjaan.
@@ -123533,7 +123533,7 @@ diterima;
 e. Dalam hal diberikan uang muka, maka
 Penyedia harus mengajukan
 permohonan pengambilan uang muka
-Paraf 1 Paraf 2 Paraf 3
+
 secara tertulis kepada Pejabat
 Penandatangan Kontrak disertai dengan
 rencana penggunaan uang muka untuk
@@ -123592,7 +123592,7 @@ Pekerjaan ditandatangani oleh Pejabat
 Penandatangan Kontrak dan Penyedia;
 g. Pejabat Penandatangan Kontrak dalam
 kurun waktu 7 (tujuh) hari kerja setelah
-Paraf 1 Paraf 2 Paraf 3
+
 pengajuan permintaan pembayaran
 dari Penyedia diterima harus sudah
 mengajukan Surat Permintaan
@@ -123654,7 +123654,7 @@ h. pembayaran ganti rugi dilakukan oleh
 Pejabat Penandatangan Kontrak, apabila
 Penyedia telah mengajukan tagihan
 disertai perhitungan dan data-data.
-Paraf 1 Paraf 2 Paraf 3
+
 63. Perhitungan Akhir 63.1 Perhitungan akhir nilai pekerjaan
 berdasarkan jumlah waktu penugasan dan
 ketentuan Kontrak, dilaksanakan setelah
@@ -123713,7 +123713,7 @@ kemufakatan.
 sebagaimana dimaksud pada klausul 65.1
 tidak dapat mencapai suatu kemufakatan,
 maka penyelesaian perselisihan atau
-Paraf 1 Paraf 2 Paraf 3
+
 sengketa antara para pihak ditempuh
 melalui tahapan mediasi, konsiliasi, dan
 arbitrase.
@@ -123736,7 +123736,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondens Alamat Para Pihak sebagai berikut:
@@ -123790,7 +123790,7 @@ dan/atau Subkontrak dikenakan sanksi _________
 [diisi dengan memilih salah satu sanksi yang akan
 dikenakan:
 a. dilakukan pemutusan kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. membayar 2 (dua) kali lipat selisih harga
 didalam kontrak dengan harga yang dibayarkan
 kepada subpenyedia]
@@ -123842,7 +123842,7 @@ b = Koefisien biaya non-personel.
 B0 = Indeks harga komponen non-
 personel pada bulan penyampaian
 penawaran biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 Bn = Indeks harga komponen non-
 personel pada saat pekerjaan
 dilaksanakan.
@@ -123899,7 +123899,7 @@ apabila ada peristiwa kompensasi lain, selain yang
 telah tertuang dalam SSUK]
 62.1.a & Besaran Uang Uang muka diberikan paling tinggi sebesar .....%
 62.1.e Muka (.....dalam huruf.....) dari Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 62.2.b & Pembayaran Pembayaran prestasi pekerjaan dilakukan dengan
 62.2.c Prestasi cara Bulanan
 Pekerjaan
@@ -123917,7 +123917,7 @@ atau harga bagian Kontrak yang tercantum
 dalam Kontrak dan belum diserahterimakan
 apabila ditetapkan serah terima pekerjaan secara
 parsial]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PEKERJAAN UTAMA YANG DISUBKONTRAKKAN DAN SUBPENYEDIA
 (Apabila Ada)
@@ -123967,11 +123967,11 @@ n Utama Tipe n
 . . .
 2 ……….. ………. ……….. ………. ………. ……….. ………..
 . . .
-Paraf 1 Paraf 2 Paraf 3
+
 3 Dst
 Catatan:
 Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PENUGASAN PERSONEL
 Masukan Personel (dalam bentuk diagram balok)
 Bulan Ke-
@@ -124005,7 +124005,7 @@ Personel Pendukung
 1. Pada isian Nama Personel, untuk Tenaga Ahli dan Sub Profesional pengisian masukan harus mencantumkan nama personel; untuk Tenaga
 Pendukung cukup dicantumkan posisi, misalnya, staf administrasi, driver dan sebagainya.
 2. Ketentuan pada kolom 1 sampai dengan 5 diisi sesuai Peraturan Menteri yang membidangi Jasa Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 RINCIAN BIAYA LANGSUNG NON PERSONEL
 Keterangan
 Satuan (Lumsum/
@@ -124072,7 +124072,7 @@ Biaya langsung non-personel dapat berupa harga satuan tetap atau penggantian bia
 dengan lumsum.
 Peserta dapat menambah atau mengurangi kolom Jenis Biaya sesuai kebutuhan.
 Biaya penerapan SMKK digunakan sesuai kebutuhan
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan Keterangan
@@ -124084,7 +124084,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -124115,7 +124115,7 @@ Meterai Rp. 10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -124160,7 +124160,7 @@ Meterai Rp. 10.000,00
 [jabatan]
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh PPK.
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 3 : JAMINAN UANG MUKA
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -124208,7 +124208,7 @@ akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 benda yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk
 melunasi hutang Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab
 Undang-Undang Hukum Perdata.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan
 kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-
@@ -124223,7 +124223,7 @@ mencocokkan Jaminan ini ke
 Bank ................ [bank]
 ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium
 perusahaan asuransi umum/lembaga penjaminan/perusahaan
@@ -124268,7 +124268,7 @@ sesudah berakhirnya masa berlaku Jaminan ini.
 TERJAMIN PENJAMIN
 (..........................................) (..........................................)
 Nama Jelas Nama Jelas
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
@@ -124310,7 +124310,7 @@ sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -124318,7 +124318,7 @@ Jasa Konsultansi Konstruksi
 Badan Usaha
 Metode Seleksi, Prakualifikasi, Dua File, Biaya Terendah,
 Kontrak Lumsum
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -124328,7 +124328,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB. I UNDANGAN...................................................................................................................................... 4
 BAB. II UMUM ........................................................................................................................................ - 5 -
@@ -124353,11 +124353,11 @@ HAK DAN KEWAJIBAN PEJABAT PENANDATANGAN KONTRAK ................................
 PEMBAYARAN KEPADA PENYEDIA..................................................................................... - 94 -
 PENYELESAIAN PERSELISIHAN ............................................................................................ - 98 -
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK ..................................................................................... - 99 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. I UNDANGAN
 Peserta yang diundang adalah peserta yang masuk dalam Daftar Pendek (Shortlist)
 melalui SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB. II UMUM
 A. Dokumen Seleksi ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -124404,7 +124404,7 @@ lingkungan;
 Manajemen manajemen pelaksanaan Pekerjaan Konstruksi dalam rangka
 Keselamatan menjamin terwujudnya Keselamatan Konstruksi;
 Konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 - Rencana : yang selanjutnya disingkat RKK adalah dokumen lengkap
 Keselamatan rencana penerapan SMKK dan merupakan satu kesatuan
 Konstruksi dengan dokumen kontrak;
@@ -124453,7 +124453,7 @@ kontrak;
 - SubPenyedia : Penyedia yang mengadakan perjanjian kerja dengan
 penyedia penanggung jawab kontrak, untuk melaksanakan
 sebagian pekerjaan (subkontrak);
-Paraf 1 Paraf 2 Paraf 3
+
 - Aparat : yang selanjutnya disingkat APIP adalah aparat yang
 Pengawasan melakukan pengawasan melalui audit, reviu, evaluasi,
 Intern pemantauan, dan kegiatan pengawasan lain terhadap
@@ -124477,7 +124477,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 E. Seleksi ini dapat diikuti oleh Peserta yang ditetapkan dalam daftar Pendek Peserta
 Seleksi
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam
@@ -124529,7 +124529,7 @@ c. gugatan secara perdata; dan/atau
 d. pelaporan secara pidana kepada pihak berwenang.
 4.3 Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
 Pokja Pemilihan.
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi dan perannya,
@@ -124587,7 +124587,7 @@ kesalahan Penyedia Barang/Jasa; atau
 Tenaga Ahli dan yang mengutamakan tenaga ahli dalam negeri.
 Produksi Dalam
 Negeri
-Paraf 1 Paraf 2 Paraf 3
+
 7.2 Dalam pelaksanaan pekerjaan jasa konsultansi konstruksi
 dimungkinkan menggunakan komponen berupa tenaga ahli
 dan perangkat lunak yang berasal dari luar negeri (impor)
@@ -124645,7 +124645,7 @@ i. Contoh Bentuk Dokumen lain:
 1) SPPBJ;
 2) SPMK;
 3) Jaminan Uang Muka (apabila dipersyaratkan).
-Paraf 1 Paraf 2 Paraf 3
+
 10.2 Peserta berkewajiban memeriksa keseluruhan isi Dokumen
 Seleksi ini. Kelalaian menyampaikan Dokumen Penawaran
 yang tidak memenuhi persyaratan yang ditetapkan dalam
@@ -124690,7 +124690,7 @@ Acara Pemberian Penjelasan Lanjutan dan diunggah
 melalui SPSE.
 12.12 Berita Acara Pemberian Penjelasan Lapangan menjadi
 bagian Berita Acara Pemberian Penjelasan (BAPP).
-Paraf 1 Paraf 2 Paraf 3
+
 13. Perubahan 13.1 Apabila pada saat pemberian penjelasan terdapat hal-
 Dokumen hal/ketentuan baru atau perubahan yang perlu
 Seleksi ditampung, maka Pokja Pemilihan menuangkan ke dalam
@@ -124740,7 +124740,7 @@ bahasa asing.
 terjemahan dalam Bahasa Indonesia. Dalam hal terjadi
 perbedaan penafsiran, maka yang berlaku adalah
 dokumen penunjang yang berbahasa asing.
-Paraf 1 Paraf 2 Paraf 3
+
 17. Dokumen 17.1 Dokumen Penawaran meliputi:
 Penawaran a. Penawaran Administrasi dan Teknis (file I); dan
 b. Penawaran Biaya (file II).
@@ -124798,7 +124798,7 @@ b. Apabila nilai yang tertulis dalam angka jelas sedangkan
 nilai dalam huruf tidak jelas dan/atau tidak bermakna
 dan/atau salah maka yang diakui adalah yang tertulis
 dalam angka;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Apabila nilai yang tertulis dalam angka dan yang
 tertulis dalam huruf tidak jelas dan/atau tidak
 bermakna dan/atau salah maka penawaran
@@ -124853,7 +124853,7 @@ Penawaran SPSE, dengan ketentuan:
 a. Peserta Seleksi menyampaikan penawaran file I dan
 melampirkan dokumen pendukung. Dokumen
 penawaran file I dienkripsi dan dikirim.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Selanjutnya, peserta Seleksi menyampaikan
 penawaran file II dan melampirkan dokumen
 pendukung. Dokumen penawaran file II dienkripsi
@@ -124907,7 +124907,7 @@ dipertanggungjawabkan kepada peserta melalui SPSE.
 tidak ada peserta yang menyampaikan penawaran, Pokja
 Pemilihan dapat memperpanjang batas akhir jadwal
 penyampaian penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 22.5 Perpanjangan batas akhir jadwal penyampaian penawaran
 sebagaimana dimaksud pada klausul 22.4 dilakukan pada
 hari yang sama dengan batas akhir penyampaian
@@ -124964,7 +124964,7 @@ yang sesuai dengan ketentuan, syarat-syarat, dan ruang
 lingkup serta kualifikasi tenaga ahli yang ditetapkan
 dalam Dokumen Seleksi, tanpa ada penyimpangan yang
 bersifat penting/pokok atau penawaran bersyarat;
-Paraf 1 Paraf 2 Paraf 3
+
 d. Penyimpangan yang bersifat penting/pokok atau
 penawaran bersyarat adalah:
 1) Penyimpangan Dokumen Penawaran dari
@@ -125027,7 +125027,7 @@ dimaksud pada angka 3), maka seleksi dinyatakan
 gagal.
 25.2 Evaluasi penawaran dilakukan dengan metode Biaya
 Terendah.
-Paraf 1 Paraf 2 Paraf 3
+
 25.3 Pokja melakukan evaluasi Dokumen Penawaran
 berdasarkan data yang diunggah (upload) dalam SPSE.
 25.4 Pokja Pemilihan melakukan evaluasi penawaran file I yang
@@ -125084,7 +125084,7 @@ grade) sebagaimana tercantum dalam Lembar
 Kriteria Evaluasi.
 d. Penilaian terhadap unsur Pengalaman Perusahaan
 dilakukan dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Pengalaman perusahaan yang telah dibuktikan
 pada saat pembuktian kualifikasi, digunakan dalam
 penilaian terhadap pengalaman perusahaan;
@@ -125148,7 +125148,7 @@ diinginkan dalam KAK diberikan nilai lebih
 (bobot 2%)
 3) bobot masing-masing sub unsur ditetapkan oleh
 Pokja Pemilihan berdasarkan jenis pekerjaan sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan yang tercantum dalam Lembar Kriteria
 Evaluasi.
 f. Penilaian unsur Kualifikasi Tenaga Ahli dilakukan
@@ -125211,7 +125211,7 @@ dihitung hanya salah satu (yang terbaik
 berdasarkan Kesesuaian lingkup
 pekerjaan dan posisi pengalaman kerja
 profesional);
-Paraf 1 Paraf 2 Paraf 3
+
 (2) apabila terdapat perhitungan bulan
 menurut Pokja Pemilihan lebih kecil dari
 yang tertulis dalam penawaran, maka
@@ -125275,7 +125275,7 @@ sebagai ASN yang sesuai dengan lingkup
 pekerjaan yang akan dilaksanakan dapat
 diperhitungkan, dan dinilai
 kesesuaiannya dengan lingkup pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 “MENUNJANG” dan posisi “TIDAK
 SESUAI”.
 c) Status tenaga ahli yang diusulkan adalah
@@ -125338,7 +125338,7 @@ termasuk alasan ketidaklulusan peserta;
 d. Nilai evaluasi teknis diurutkan mulai dari nilai tertinggi;
 e. Ambang batas masing-masing unsur dan nilai total
 teknis;
-Paraf 1 Paraf 2 Paraf 3
+
 f. Jumlah peserta yang lulus dan tidak lulus pada setiap
 tahapan evaluasi;
 g. Keterangan-keterangan lain yang dianggap perlu
@@ -125393,7 +125393,7 @@ tinggi dan hal ini dicatat dalam Berita Acara
 Acara Hasil Evaluasi File II yang paling sedikit memuat:
 a. Nama dan alamat seluruh peserta;
 b. Besaran usulan biaya;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Hasil evaluasi penawaran biaya;
 d. Jumlah peserta yang lulus dan tidak lulus pada evaluasi
 biaya;
@@ -125452,7 +125452,7 @@ dilakukan oleh Pokja Pemilihan.
 paling sedikit di atas Rp10.000.000.000,00 (sepuluh
 miliar rupiah) dilakukan oleh Pengguna Anggaran
 (PA)/Kuasa Pengguna Anggaran (KPA) untuk pengadaan
-Paraf 1 Paraf 2 Paraf 3
+
 yang dibiayai APBN atau Pengguna Anggaran (PA) untuk
 pengadaan yang dibiayai APBD, dengan tata cara sebagai
 berikut:
@@ -125506,7 +125506,7 @@ c. persekongkolan sehingga menghalangi terjadinya
 persaingan usaha yang sehat; dan/atau
 d. penyalahgunaan wewenang oleh Pokja Pemilihan,
 kepala UKPBJ, PPK, PA/KPA, dan/atau kepala daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 31.4 Sanggah disampaikan dalam waktu 5 (lima) hari kalender
 setelah pengumuman pemenang, diakhiri pada hari kerja
 dan jam kerja.
@@ -125561,7 +125561,7 @@ pendirian/perubahan atau pihak yang sah menurut
 akta pendirian/perubahan;
 d. Kepala Cabang perusahaan yang diangkat oleh kantor
 pusat yang dibuktikan dengan dokumen otentik; atau
-Paraf 1 Paraf 2 Paraf 3
+
 e. pejabat yang menurut Perjanjian KSO berhak mewakili
 KSO.
 33. Klarifikasi dan 33.1 Peserta menyampaikan Rincian Komponen Remunerasi
@@ -125621,7 +125621,7 @@ pajak penghasilan tenaga ahli konsultan yang
 bersangkutan;
 2) indeks/koefisien pengali tenaga kerja terhadap
 Upah Minimum Provinsi atau Upah Minimum
-Paraf 1 Paraf 2 Paraf 3
+
 Kabupaten/Kota yang ditetapkan oleh Gubernur;
 atau
 3) kontrak pekerjaan sejenis yang pernah
@@ -125676,7 +125676,7 @@ diri dan tidak dikenakan sanksi.
 secara daring melalui media video call, Pokja Pemilihan
 mendokumentasikan pertemuan dalam format video
 dan/atau foto.
-Paraf 1 Paraf 2 Paraf 3
+
 33.15 Hasil klarifikasi negosiasi teknis dan biaya tersebut
 dituangkan dalam Berita Acara.
 G. SELEKSI GAGAL DAN TINDAK LANJUT SELEKSI GAGAL
@@ -125730,7 +125730,7 @@ pada klausul 34.1 huruf a, huruf j dan huruf k.
 35.4 Pokja Pemilihan melakukan Seleksi ulang dalam hal Seleksi
 gagal sebagaimana dimaksud pada klausul 34.1 huruf b
 sampai dengan huruf k.
-Paraf 1 Paraf 2 Paraf 3
+
 35.5 Dalam hal Seleksi ulang yang disebabkan oleh korupsi,
 kolusi, dan/atau nepotisme yang melibatkan Pokja
 Pemilihan/PPK, Seleksi ulang dilakukan oleh Pokja
@@ -125785,7 +125785,7 @@ a. bahwa proses pemilihan Penyedia sudah dilaksanakan
 berdasarkan prosedur yang ditetapkan; dan
 b. bahwa pemenang pemilihan/calon Penyedia memiliki
 kemampuan untuk melaksanakan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 36.5 Berdasarkan hasil reviu, PPK memutuskan untuk
 menerima atau menolak hasil pemilihan Penyedia tersebut.
 36.6 Apabila PPK menerima hasil pemilihan Penyedia,
@@ -125841,7 +125841,7 @@ dengan alasan yang dapat diterima secara obyektif oleh
 Pjabat Penandatangan Kontrak dan masa
 penawarannya masih berlaku, maka peserta yang
 bersangkutan tidak dikenakan sanksi apapun;
-Paraf 1 Paraf 2 Paraf 3
+
 b. apabila yang bersangkutan mengundurkan diri
 dengan alasan yang tidak dapat diterima secara
 obyektif oleh Pejabat Penandatangan Kontrak dan masa
@@ -125892,7 +125892,7 @@ ketentuan, bentuk, isi, dan waktu penyerahan;
 g. Asuransi; dan/atau
 h. Hal-hal yang telah diklarifikasi dan dikonfirmasi
 pada saat evaluasi penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 40.4. Dalam Rapat Persiapan Penandatanganan Kontrak, Pejabat
 Penandatangan Kontrak dan Penyedia mengisi substansi
 rancangan kontrak dengan informasi yang diperoleh dari
@@ -125947,7 +125947,7 @@ Kontrak.
 41.6. Banyaknya rangkap kontrak dibuat sesuai kebutuhan,
 yaitu:
 a. paling kurang 2 (dua) Kontrak asli, terdiri dari:
-Paraf 1 Paraf 2 Paraf 3
+
 1) kontrak asli pertama untuk Pejabat Penandatangan
 Kontrak dibubuhi meterai pada bagian yang
 ditandatangani oleh penyedia; dan
@@ -125964,7 +125964,7 @@ dengan peraturan perundang-undangan.
 41.8. Pejabat Penandatangan Kontrak memasukkan data kontrak
 dan mengunggah hasil pemindaian dokumen kontrak
 yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -126014,7 +126014,7 @@ penandatanganan kontrak].
 _______ (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -126052,7 +126052,7 @@ Penyedia Jasa
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain. (untuk jasa konsultansi konstruksi
 perancangan termasuk identifikasi bahaya sesuai dengan metode pelaksanaan serta metode operasi dan
 pemeliharaan bangunan).
-Paraf 1 Paraf 2 Paraf 3
+
 16. Jangka Waktu
 Penyelesaian
 Pekerjaan
@@ -126093,7 +126093,7 @@ sebanyak _____ (__________) buku laporan dan media
 penyimpan data (compact disc/flashdisk/dll) (jika
 diperlukan).
 Hal-Hal Lain
-Paraf 1 Paraf 2 Paraf 3
+
 23. Produksi dalam Semua kegiatan jasa konsultansi berdasarkan KAK ini
 Negeri harus dilakukan di dalam wilayah Negara Republik
 Indonesia kecuali ditetapkan lain dalam angka 4 KAK
@@ -126128,7 +126128,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/ Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -126184,7 +126184,7 @@ nilai _______ ;
 3) Memiliki ≤ _______
 pengalaman diberi
 nilai _______ ;
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126242,7 +126242,7 @@ kurang
 menggambarkan
 pemahaman peserta
 atas jasa layanan yang
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126300,7 +126300,7 @@ pekerjaan, dan
 jadwal
 penugasan
 7) organisasi - -
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126359,7 +126359,7 @@ tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126417,7 +126417,7 @@ Tenaga Ahli, yang
 dihitung berdasarkan
 ketentuan yang
 tercantum dalam IKP.
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126476,7 +126476,7 @@ dinilai kesesuaiannya
 dengan lingkup
 pekerjaan
 “MENUNJANG” dan
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126538,7 +126538,7 @@ Indonesia bagi
 konsultan
 asing (apabila
 dibutuhkan)
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai
 Batas Akhir
 (Bobot *
@@ -126563,7 +126563,7 @@ Jumlah 100% ____ ____
 nilai masing-masing
 unsur diatas ambang
 batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -126572,7 +126572,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -126595,7 +126595,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -126619,7 +126619,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN)
@@ -126659,7 +126659,7 @@ _________________
 e. _________________ ___________________
 _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -126676,7 +126676,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen seleksi ini meliputi antara lain
 (jika ada): dukungan administrasi, ruang kerja, transportasi lokal, peralatan,
 data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -126704,7 +126704,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -126719,7 +126719,7 @@ memerlukan persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka
 kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -126738,7 +126738,7 @@ Tenaga Ahli
 Nama Personel Posisi Diusulkan Pekerjaa Orang
 Lokal/Asing
 n Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -126760,7 +126760,7 @@ Penuh-
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -126805,7 +126805,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi
 dari Pemberi Pekerjaan yang bersangkutan
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -126829,7 +126829,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 CONTOH
 A. BENTUK SURAT PENAWARAN BIAYA
@@ -126869,7 +126869,7 @@ _
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KELUARAN DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -126881,7 +126881,7 @@ II Output ......(dst)
 Sub-total
 PPN 10%
 Total
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -126905,7 +126905,7 @@ cukup dicantumkan posisi, misalnya juru gambar, staf administrasi, dan sebagainy
 minimal yang ditetapkan oleh Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi PersoneL hanya disampaikan pada saat klarifikasi dan
 negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -126951,7 +126951,7 @@ Pemerintah beserta perubahannya dan aturan turunannya;
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 5*) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
@@ -127002,7 +127002,7 @@ Keluaran dan Harga adalah sebesar Rp. ……….. (……….. ditulis dalam hur
 ............. atas nama Penyedia : ...............;
 [Catatan : untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
 masing-masing Tahun Anggarannya]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 4
 DOKUMEN KONTRAK
 (1) Dokumen-dokumen berikut merupakan satu kesatuan dan bagian yang tidak
@@ -127049,7 +127049,7 @@ Kontrak maka rekatkan meterai Rp meterai Rp 10.000,00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Lumsum
@@ -127098,7 +127098,7 @@ Pemerintah beserta perubahannya dan aturan turunannya;
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 6*) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
@@ -127149,7 +127149,7 @@ Keluaran dan Harga adalah sebesar Rp. ……….. (……….. ditulis dalam hur
 atas nama Penyedia : ...............;
 [Catatan: untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
 masing-masing Tahun Anggarannya]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 4
 DOKUMEN KONTRAK
 (1) Dokumen-dokumen berikut merupakan satu kesatuan dan bagian yang tidak
@@ -127195,7 +127195,7 @@ Kontrak maka rekatkan meterai Rp ini untuk Penyedia maka rekatkan
 10.000,00)] meterai Rp Rp 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. SYARAT-SYARAT UMUM KONTRAK
 KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat
@@ -127254,7 +127254,7 @@ dapat dipenuhi.
 disingkat KSO adalah kerja sama usaha antar
 Penyedia yang masing-masing pihak
 mempunyai hak, kewajiban dan tanggung
-Paraf 1 Paraf 2 Paraf 3
+
 jawab yang jelas berdasarkan perjanjian
 tertulis;
 1.10 Kontrak Kerja Konstruksi selanjutnya disebut
@@ -127314,7 +127314,7 @@ Pengguna Anggaran, atau PPK
 1.18 Pengguna Anggaran yang selanjutnya
 disingkat PA adalah pejabat pemegang
 kewenangan penggunaan anggaran
-Paraf 1 Paraf 2 Paraf 3
+
 Kementerian Negara/Lembaga/perangkat
 daerah.
 1.19 Penyedia adalah Pelaku Usaha yang
@@ -127375,7 +127375,7 @@ Jaminan adalah jaminan tertulis yang
 dikeluarkan oleh Bank Umum/ Perusahaan
 Penjaminan/Perusahaan Asuransi/lembaga
 keuangan khusus yang menjalankan usaha
-Paraf 1 Paraf 2 Paraf 3
+
 di bidang pembiayaan, penjaminan, dan
 asuransi untuk mendorong ekspor
 Indonesia/konsorsium Perusahaan Asuransi
@@ -127435,7 +127435,7 @@ dilakukan atau dibuat oleh Wakil Sah Para
 Pihak atau pejabat yang disebutkan dalam
 SSKK kecuali untuk melakukan perubahan
 kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 6.2 Kewenangan Wakil Sah Para Pihak diatur
 dalam Surat Keputusan dari Para Pihak dan
 harus disampaikan kepada masing-masing
@@ -127495,7 +127495,7 @@ dengan pelaksanaan pekerjaan ini berdasarkan
 standar akuntansi yang berlaku.
 9. Perpajakan Penyedia, Subpenyedia (jika ada) dan personel, yang
 bersangkutan berkewajiban untuk membayar semua
-Paraf 1 Paraf 2 Paraf 3
+
 pajak, bea, retribusi, dan pungutan lain yang
 dibebankan oleh peraturan perpajakan atas
 pelaksanaan Kontrak ini. Semua pengeluaran
@@ -127554,7 +127554,7 @@ Pejabat Penandatangan Kontrak untuk
 bertindak sesuai ketentuan Kontrak.
 14.3 Dalam melaksanakan kewajibannya, Tim
 Pendukung selalu bertindak profesional. Jika
-Paraf 1 Paraf 2 Paraf 3
+
 tercantum dalam klausul 6.1 SSKK, Tim
 Pendukung dapat bertindak sebagai Wakil
 Sah Pejabat Penandatangan Kontrak.
@@ -127612,7 +127612,7 @@ pelaksanaan pekerjaan pada rapat persiapan
 pelaksanaan Kontrak, kemudian dibahas dan
 disetujui oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 18.2 Program Mutu disusun paling sedikit berisi:
 a. Informasi mengenai pekerjaan yang
 akan dilaksanakan;
@@ -127671,7 +127671,7 @@ f. jadwal mobilisasi peralatan dan
 personel;
 g. rencana pelaksanaan pemeriksaan dan
 pembayaran; dan
-Paraf 1 Paraf 2 Paraf 3
+
 h. hal-hal lain yang dianggap perlu.
 19.3 Pada tahapan Rapat Persiapan Pelaksanaan
 Kontrak, PA/KPA dapat membentuk
@@ -127730,7 +127730,7 @@ Kahar atau Peristiwa Kompensasi atau
 karena kesalahan atau kelalaian Penyedia
 maka Penyedia dikenakan denda
 keterlambatan.
-Paraf 1 Paraf 2 Paraf 3
+
 21.4 Tanggal penyelesaian yang dimaksud dalam
 klausul ini adalah tanggal penyelesaian
 semua pekerjaan.
@@ -127790,7 +127790,7 @@ penyelesaian sisa pekerjaan yang akan
 dilanjutkan ke Tahun Anggaran
 Berikutnya dari DIPA/DPA Tahun
 Anggaran Berikutnya apabila pemberian
-Paraf 1 Paraf 2 Paraf 3
+
 kesempatan melampaui Tahun
 Anggaran.
 24.3 Pemberian kesempatan kepada Penyedia
@@ -127847,7 +127847,7 @@ Nilai Kontrak.
 hasil pekerjaan setelah seluruh hasil
 pekerjaan yang diserahterimakan sesuai
 dengan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 25.11 Jika hasil pekerjaan yang diserahterimakan
 terlambat melewati batas waktu akhir
 kontrak karena kesalahan atau kelalaian
@@ -127905,7 +127905,7 @@ pekerjaan yang tercantum dalam
 KAK/Kontrak; dan/atau
 c. perubahan Jadwal Pelaksanaan
 Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 27.3 Perintah perubahan pekerjaan dibuat oleh
 Pejabat Penandatangan Kontrak secara
 tertulis kepada Penyedia kemudian
@@ -127963,7 +127963,7 @@ waktu terhentinya Kontrak akibat Keadaan
 Kahar atau waktu yang diperlukan untuk
 menyelesaikan pekerjaan akibat dari
 ketentuan pada klausul 29.2 huruf a dan b.
-Paraf 1 Paraf 2 Paraf 3
+
 29.4 Pejabat Penandatangan Kontrak dapat
 menyetujui perpanjangan Masa Pelaksanaan
 Kontrak setelah melakukan penelitian
@@ -128019,7 +128019,7 @@ menyediakan pengganti dengan kualifikasi
 yang setara atau lebih baik dari tenaga kerja
 konstruksi yang digantikan tanpa biaya
 tambahan apapun.
-Paraf 1 Paraf 2 Paraf 3
+
 30.3 Dalam hal penggantian/penambahan
 Personel Inti diusulkan oleh Penyedia akibat
 perubahan pekerjaan, Penyedia mengajukan
@@ -128074,7 +128074,7 @@ yang terhambat dan/atau akan
 terhambat akibat Keadaan Kahar
 tersebut.
 31.4 Bukti Keadaan Kahar dapat berupa :
-Paraf 1 Paraf 2 Paraf 3
+
 a. pernyataan yang diterbitkan oleh
 pihak/instansi yang berwenang sesuai
 ketentuan peraturan perundang-
@@ -128131,7 +128131,7 @@ pekerjaan dan dituangkan dalam perubahan
 Rencana Kerja penyedia.
 31.10 Dalam hal penghentian pekerjaan
 mencakup seluruh pekerjaan (baik
-Paraf 1 Paraf 2 Paraf 3
+
 sementara ataupun permanen) karena
 Keadaan Kahar, maka:
 a. Kontrak dihentikan sementara hingga
@@ -128191,7 +128191,7 @@ kecuali pelanggaran tersebut berdampak
 terhadap kerugian atas konstruksi, jiwa
 manusia, keselamatan publik, dan
 lingkungan dan ditindaklanjuti dengan
-Paraf 1 Paraf 2 Paraf 3
+
 surat pernyataan wanprestasi dari pihak
 yang dirugikan.
 33.4 Pemutusan kontrak dilakukan sekurang-
@@ -128253,7 +128253,7 @@ h. setelah diberikan kesempatan
 menyelesaikan pekerjaan sampai
 dengan 50 (lima puluh) hari kalender
 sejak Tanggal Penyerahan Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 semula, Penyedia tidak dapat
 menyelesaikan pekerjaan; atau
 i. Penyedia menghentikan pekerjaan
@@ -128313,7 +128313,7 @@ a. penyimpangan prosedur yang diakibatkan
 bukan oleh kesalahan para pihak;
 b. pelaksanaan kontrak tidak dapat
 dilanjutkan akibat keadaan kahar; atau
-Paraf 1 Paraf 2 Paraf 3
+
 c. ruang lingkup kontrak sudah terwujud.
 36.2 Pengakhiran pekerjaan sesuai pasal 36.1
 dituangkan dalam adendum final yang berisi
@@ -128371,7 +128371,7 @@ yang dilakukan Pejabat Penandatangan
 Kontrak;
 g. mengambil langkah-langkah yang memadai
 dalam rangka memberi perlindungan kepada
-Paraf 1 Paraf 2 Paraf 3
+
 setiap orang yang berada di tempat kerja
 maupun masyarakat dan lingkungan sekitar
 yang berhubungan dengan pelaksanaan
@@ -128424,7 +128424,7 @@ personel; dan
 c. kehilangan atau kerusakan harta benda,
 dan cidera tubuh, sakit atau kematian
 pihak ketiga.
-Paraf 1 Paraf 2 Paraf 3
+
 43.2 Terhitung sejak Tanggal Mulai Kerja sampai
 dengan Tanggal Penyerahan Pekerjaan,
 semua risiko kehilangan atau kerusakan
@@ -128480,7 +128480,7 @@ lingkungan baik di dalam maupun di luar tempat
 kerja dan membatasi gangguan lingkungan
 terhadap pihak ketiga dan harta bendanya
 sehubungan dengan pelaksanaan Kontrak ini, sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan ketentuan peraturan perundang-undangan
 yang mengatur mengenai pengelolaan lingkungan
 hidup.
@@ -128534,7 +128534,7 @@ dibantu oleh Tim Pendukung .
 desain, laporan, dan/atau dokumen-
 dokumen lain serta piranti lunak yang
 dipersiapkan oleh Penyedia berdasarkan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak ini sepenuhnya merupakan hak
 milik Pejabat Penandatangan Kontrak.
 49.2 Penyedia paling lambat pada waktu
@@ -128591,7 +128591,7 @@ Indonesia; atau
 Umum/Konsorsium Lembaga
 Penjaminan/Konsorsium
 Perusahaan Penjaminan yang
-Paraf 1 Paraf 2 Paraf 3
+
 mempunyai program asuransi
 kerugian (suretyship).
 b. paket pekerjaan di atas
@@ -128645,7 +128645,7 @@ pekerjaan di bawah sumpah.
 bekerja adalah 8 (delapan) jam, terdiri atas
 7 (tujuh) jam kerja (efektif) dan 1 (satu) jam
 istirahat.
-Paraf 1 Paraf 2 Paraf 3
+
 54.2 Pelaksanaan pekerjaan diluar ketentuan
 klausul 54.1 dapat diberikan lembur sesuai
 dengan ketentuan Menteri yang
@@ -128703,7 +128703,7 @@ bagian pekerjaan yang disubkontrakkan
 tersebut.
 56.3 Subpenyedia dilarang mengalihkan atau
 mensubkontrakkan pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 56.4 Apabila Penyedia yang ditunjuk merupakan
 Penyedia Usaha Kecil, maka pekerjaan
 tersebut harus dilaksanakan sendiri oleh
@@ -128759,7 +128759,7 @@ pekerjaan ini.
 59. Peristiwa Kompensasi 59.1 Peristiwa Kompensasi dapat diberikan
 kepada Penyedia yaitu:
 a. Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 mengubah Jadwal Pelaksanaan
 Pekerjaan yang dapat mempengaruhi
 pelaksanaan pekerjaan;
@@ -128819,7 +128819,7 @@ umum); dan
 c. biaya pelaksanaan pekerjaan.
 60.3 Rincian Nilai Kontrak sesuai dengan rincian
 yang tercantum dalam Rincian Komponen
-Paraf 1 Paraf 2 Paraf 3
+
 Remunerasi Personel dan Rincian Biaya
 Langsung Non Personel dan dicantumkan di
 dalam Kontrak.
@@ -128880,7 +128880,7 @@ b. Tagihan yang disampaikan Penyedia
 dilampiri dengan Berita Acara
 Pemeriksaan Pekerjaan sesuai dengan
 KAK, bukti pembayaran, kuitansi, dan
-Paraf 1 Paraf 2 Paraf 3
+
 bukti dukung pengeluaran lain sesuai
 dengan SSKK
 c. pembayaran dilakukan dengan sistem
@@ -128942,7 +128942,7 @@ c. Besarnya denda keterlambatan yang
 dikenakan kepada Penyedia atas
 keterlambatan penyelesaian pekerjaan
 adalah:
-Paraf 1 Paraf 2 Paraf 3
+
 1) 1‰ (satu perseribu) per hari dari
 harga bagian Kontrak yang
 tercantum dalam Kontrak; atau
@@ -129001,7 +129001,7 @@ KAK.
 63.2 Pejabat Penandatangan Kontrak secara
 tertulis memberitahukan kepada Penyedia
 tentang penangguhan hak pembayaran,
-Paraf 1 Paraf 2 Paraf 3
+
 disertai alasan-alasan yang jelas mengenai
 penangguhan tersebut. Penyedia diberi
 kesempatan untuk memperbaiki dalam
@@ -129050,7 +129050,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondensi Alamat Para Pihak sebagai berikut:
@@ -129104,7 +129104,7 @@ dan/atau Subkontrak dikenakan sanksi _________
 [diisi dengan memilih salah satu sanksi yang akan
 dikenakan:
 a. dilakukan pemutusan kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. membayar 2 (dua) kali lipat selisih harga
 didalam kontrak dengan harga yang dibayarkan
 kepada subpenyedia]
@@ -129162,7 +129162,7 @@ apabila ada peristiwa kompensasi lain, selain yang
 telah tertuang dalam SSUK]
 61.1.a & Besaran Uang Uang muka diberikan paling tinggi sebesar .....%
 61.1.e Muka (.....dalam huruf.....) dari Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 61.3.c Denda akibat Untuk pekerjaan ini besar denda keterlambatan
 keterlambatan untuk setiap hari keterlambatan adalah 1/1000 (satu
 perseribu) dari ................... (sebelum PPN) [diisi
@@ -129180,7 +129180,7 @@ mengajukan tagihan pembayaran prestasi pekerjaan:
 2. ……….
 3. Dst
 [diisi dokumen yang disyaratkan]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PEKERJAAN UTAMA YANG DISUBKONTRAKKAN DAN SUBPENYEDIA
 (Apabila Ada)
@@ -129226,9 +129226,9 @@ n
 Subtotal
 Total
 Full time input
-Paraf 1 Paraf 2 Paraf 3
+
 Part time input
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan I II III IV V dst Keterangan
@@ -129241,7 +129241,7 @@ memerlukan persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka
 kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan
 persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR KELUARAN DAN HARGA
 Total Harga
 No. Keluaran Satuan
@@ -129257,7 +129257,7 @@ Sub-total …
 PPN 10%
 Total …
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -129288,7 +129288,7 @@ Meterai Rp. 10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -129334,7 +129334,7 @@ Meterai Rp. 10.000,00
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh Pejabat
 Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 3 : JAMINAN UANG MUKA
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -129382,7 +129382,7 @@ akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 benda yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk
 melunasi hutang Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab
 Undang-Undang Hukum Perdata.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan
 kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-
@@ -129397,7 +129397,7 @@ mencocokkan Jaminan ini ke
 Bank ................ [bank]
 ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium perusahaan
 asuransi umum/lembaga penjaminan/perusahaan penjaminan]
@@ -129445,7 +129445,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 ………[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi
 harus mematuhi ketentuan sebagai berikut:
@@ -129483,7 +129483,7 @@ sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -129491,7 +129491,7 @@ Jasa Konsultansi Konstruksi
 Perorangan
 Metode Seleksi, Pascakualifikasi, Dua File, Kualitas,
 Kontrak Waktu Penugasan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -129501,7 +129501,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. PENGUMUMAN SELEKSI DENGAN PASCAKUALIFIKASI ........................................................... - 5 -
 BAB II. UMUM ........................................................................................................................................ - 6 -
@@ -129557,7 +129557,7 @@ H. PENANDATANGANAN KONTRAK .....................................................
 41. PENANDA-TANGANAN KONTRAK ............................................................................................... - 35 -
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)......................................................................................... - 37 -
 BAB V LEMBAR DATA KUALIFIKASI (LDK) ............................................................................................... 39
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. KERANGKA ACUAN KERJA (KAK) .......................................................................................... - 40 -
 BAB VI. LEMBAR KRITERIA EVALUASI ................................................................................................ - 43 -
 A. EVALUASI ADMINISTRASI ........................................................................................................... - 43 -
@@ -129602,11 +129602,11 @@ E. PEMBAYARAN KEPADA PENYEDIA...................................................
 F. PENYELESAIAN PERSELISIHAN ............................................................................................ - 98 -
 BAB XII. SYARAT-SYARAT KHUSUS KONTRAK ................................................................................ - 100 -
 BAB XIII. KETENTUAN LAIN-LAIN .................................................................................................... - 104 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I.
 PENGUMUMAN SELEKSI DENGAN PASCAKUALIFIKASI
 Pengumuman Seleksi tercantum dalam pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UMUM
 A. Dokumen Pemilihan ini disusun berdasarkan Peraturan Presiden No. 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -129648,7 +129648,7 @@ pemenang, dan sanggahan;
 - Lembar Data : Yang selanjutnya disingkat LDK adalah lembar yang
 Kualifikasi (LDK) memuat ketentuan dan informasi yang spesifik sesuai
 dengan kualifikasi yang diperlukan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Pengguna : yang selanjutnya disingkat PA adalah pejabat pemegang
 Anggaran (PA) kewenangan penggunaan anggaran Kementerian
 Negara/Lembaga/Perangkat Daerah;
@@ -129697,7 +129697,7 @@ Barang/Jasa
 Pengadaan pengelolaan teknologi informasi untuk memfasilitasi
 Secara Elektronik pelaksanaan Pengadaan jasa konsultansi konstruksi secara
 (LPSE) elektronik;
-Paraf 1 Paraf 2 Paraf 3
+
 - SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara
 Elektronik (SPSE) berbasis web yang dapat diakses melalui
 laman unit kerja yang melaksanakan fungsi layanan
@@ -129707,7 +129707,7 @@ SPSE, direpresentasikan oleh user ID dan password yang
 diberikan oleh LPSE;
 F. Seleksi Pengadaan Jasa Konsultansi Konstruksi ini terbuka dan dapat diikuti oleh semua
 peserta orang perorangan.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III.
 INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
@@ -129753,7 +129753,7 @@ d. pelaporan secara pidana kepada pihak berwenang.
 4.3 Pengenaan Sanksi oleh Pokja Pemilihan kepada PA/KPA.
 Pokja Pemilihan melaporkan kepada PA/KPA terkait
 dengan pengenaan Sanksi.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi, dan
 Pertentangan perannya, menghindari dan mencegah pertentangan
 Kepentingan kepentingan para pihak yang terkait, baik secara langsung
@@ -129802,7 +129802,7 @@ g. Bentuk Dokumen Penawaran
 1) Penawaran Administrasi dan Teknis (file I)
 a) Dokumen Penawaran Administrasi; dan
 b) Dokumen Penawaran Teknis.
-Paraf 1 Paraf 2 Paraf 3
+
 2) Dokumen Penawaran Biaya (file II)
 h. Bentuk Rancangan Kontrak; (sudah dilengkapi
 isiannya oleh PPK)
@@ -129850,7 +129850,7 @@ yang masuk, kecuali untuk substansi pertanyaan yang
 telah dijawab.
 11.7 Apabila diperlukan, Pokja Pemilihan dapat memberikan
 penjelasan ulang.
-Paraf 1 Paraf 2 Paraf 3
+
 11.8 Apabila diperlukan, Pokja Pemilihan pada saat
 berlangsungnya pemberian penjelasan dapat menambah
 waktu batas akhir tahapan tersebut sesuai dengan
@@ -129899,7 +129899,7 @@ kalender sebelum batas akhir penyampaian penawaran,
 diakhiri pada hari kerja dan jam kerja maka Pokja
 Pemilihan wajib memperpanjang batas akhir
 penyampaian penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 12.7 Peserta mengunduh (download) Adendum Dokumen
 Pemilihan yang diunggah (upload) Pokja Pemilihan
 pada SPSE (apabila ada).
@@ -129947,7 +129947,7 @@ b) sertifikat kompetensi kerja;
 c) penguasaan Bahasa; dan
 d) penguasaan situasi dan kondisi di lokasi
 pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 16.3 Dokumen Penawaran Biaya terdiri dari:
 a. Penawaran biaya sesuai pada SPSE;
 b. Daftar Kuantitas dan Harga yang terdiri atas:
@@ -130000,7 +130000,7 @@ sebelum akhir masa berlakunya penawaran, Pokja
 Pemilihan meminta kepada seluruh peserta secara
 tertulis untuk memperpanjang masa berlakunya
 penawaran dalam jangka waktu tertentu dan
-Paraf 1 Paraf 2 Paraf 3
+
 diperhitungkan paling kurang sampai perkiraan tanggal
 penandatanganan kontrak.
 19.3 Apabila penetapan pemenang telah disampaikan dan
@@ -130054,7 +130054,7 @@ pencantuman dalam daftar hitam, gugatan
 secara perdata, dan/atau pelaporan secara
 pidana kepada pihak berwenang sesuai dengan
 ketentuan peraturan perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 20.2 Pengisian data kualifikasi dilakukan sesuai dengan BAB
 V poin C Petunjuk Pengisian Data Kualifikasi.
 21. Pakta Integritas 21.1 Pakta integritas berisi pernyataan:
@@ -130102,7 +130102,7 @@ terkirim sebelumnya.
 dari Dokumen Penawaran yang diunggah (upload) ke
 dalam SPSE dianggap sah sebagai dokumen elektronik
 dan telah ditandatangani secara elektronik oleh peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 22.7 Pengguna SPSE wajib mengetahui dan melaksanakan
 ketentuan penggunaan sistem pengaman dokumen yang
 melekat pada SPSE.
@@ -130154,7 +130154,7 @@ didekripsi, tidak dapat dibuka, atau rusak (corrupt)
 maka Pokja Pemilihan dapat menetapkan bahwa file
 penawaran tersebut tidak memenuhi syarat. Namun
 apabila berdasarkan unit kerja yang melaksanakan
-Paraf 1 Paraf 2 Paraf 3
+
 fungsi layanan pengadaan secara elektronik atau
 LKPP, file penawaran dapat dibuka, maka Pokja
 Pemilihan melanjutkan proses evaluasi atas dokumen
@@ -130210,7 +130210,7 @@ dimaksud pada klausul 4.1 huruf c harus dipenuhi
 sekurang-kurangnya 2 (dua) indikasi di bawah ini:
 1) kesamaan dokumen penawaran, antara lain pada:
 metode kerja, bahan, alat, analisa pendekatan
-Paraf 1 Paraf 2 Paraf 3
+
 teknis, koefisien, harga satuan dasar, upah, bahan
 dan alat, harga satuan pekerjaan, dan/atau
 dukungan teknis.
@@ -130264,7 +130264,7 @@ meliputi:
 2) Evaluasi kualifikasi teknis.
 d. Evaluasi kualifikasi dilakukan dengan menggunakan
 Sistem Gugur (pass and fail).
-Paraf 1 Paraf 2 Paraf 3
+
 e. Tata Cara Evaluasi Kualifikasi dilakukan sesuai dengan
 Bab IX.
 f. Pokja Pemilihan melakukan evaluasi data kualifikasi
@@ -130321,7 +130321,7 @@ dilakukan dengan ketentuan:
 mencantumkan informasi: nama pekerjaan yang
 dilaksanakan, lingkup dan data pekerjaan yang
 dilaksanakan secara singkat, lokasi, pemberi tugas,
-Paraf 1 Paraf 2 Paraf 3
+
 nilai, dan waktu pelaksanaan (menyebutkan
 tanggal, bulan dan tahun);
 2) pengalaman tersebut harus dilengkapi dengan
@@ -130379,7 +130379,7 @@ Kriteria Evaluasi;
 4) Kriteria sub unsur lain dalam Dokumen Pemilihan
 dapat disesuaikan berdasarkan keluaran yang
 dituangkan dalam KAK;
-Paraf 1 Paraf 2 Paraf 3
+
 5) Kriteria penilaian harus diuraikan secara rinci
 sebagaimana tercantum dalam Lembar Kriteria
 Evaluasi.
@@ -130436,7 +130436,7 @@ lulus evaluasi teknis, maka proses Seleksi tetap
 dilanjutkan; dan
 k. Apabila tidak ada peserta yang lulus evaluasi teknis
 maka Seleksi dinyatakan gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 26.7 Pokja Pemilihan menyusun urutan peserta yang
 berdasarkan peringkat teknis terbaik.
 26.8 Pokja Pemilihan membuat Berita Acara Hasil Evaluasi file
@@ -130488,7 +130488,7 @@ dokumen asli dan meminta rekaman dokumennya.
 27.6 Pokja Pemilihan memverifikasi data kualifikasi calon
 pemenang melalui Aplikasi Sistem Informasi Kinerja
 Penyedia (SIKaP).
-Paraf 1 Paraf 2 Paraf 3
+
 27.7 Dalam pembuktian kualifikasi, Pokja Pemilihan tidak
 perlu meminta seluruh dokumen kualifikasi apabila data
 kualifikasi peserta dengan peringkat terbaik sudah
@@ -130541,7 +130541,7 @@ konsultansi, dikecualikan:
 metode pelaksanaan pekerjaan tidak
 mengharuskan untuk hadir setiap saat di lokasi
 pekerjaan, tidak tumpang tindih (overlap)
-Paraf 1 Paraf 2 Paraf 3
+
 dengan kegiatan/paket pekerjaan lain
 berdasarkan jadwal pelaksanaan pekerjaan atau
 jadwal penugasan;
@@ -130595,7 +130595,7 @@ a. nama paket pekerjaan;
 b. nama dan alamat peserta;
 c. nomor Pokok Wajib Pajak (NPWP);
 d. nilai teknis masing – masing peserta seleksi;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Ambang batas masing – masing unsur dan nilai total
 teknis; dan
 f. hasil evaluasi (kelulusan/ketidaklulusan).
@@ -130644,7 +130644,7 @@ melalui SPSE maka sanggah dapat dilakukan di luar SPSE.
 29.8 Sanggah dianggap sebagai pengaduan, dalam hal:
 a. sanggah disampaikan tidak melalui SPSE, kecuali
 keadaan kahar atau gangguan teknis;
-Paraf 1 Paraf 2 Paraf 3
+
 b. sanggah ditujukan bukan kepada Pokja Pemilihan;
 atau
 c. sanggah disampaikan di luar masa sanggah.
@@ -130697,7 +130697,7 @@ Non-Personel (direct reimbursable cost).
 Acara Hasil Evaluasi File II yang paling sedikit memuat:
 a. Nama dan alamat peserta;
 b. Besaran usulan biaya dan biaya terkoreksi;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Hasil evaluasi penawaran biaya termasuk kewajaran
 yang meliputi:
 1) Biaya pada Rincian Biaya Langsung Personel;
@@ -130750,7 +130750,7 @@ d. biaya langsung non-personel
 Langsung Non-Personel yang dapat diganti (direct
 reimbursable cost) dan/atau Biaya Langsung Personel
 yang dinilai tidak wajar.
-Paraf 1 Paraf 2 Paraf 3
+
 33.5 Klarifikasi dan negosiasi terhadap unit biaya personel
 dilakukan dengan ketentuan:
 a. Klarifikasi biaya pada Rincian Komponen Remunerasi
@@ -130805,7 +130805,7 @@ penawaran teknis.
 tidak ditemukan hal-hal yang tidak wajar, maka total
 penawaran biaya dapat diterima sepanjang tidak melebihi
 pagu anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 33.9 Klarifikasi dan negosiasi teknis dan biaya tidak harus
 mengakibatkan turunnya harga penawaran.
 33.10 Apabila klarifikasi dan negosiasi teknis dan biaya dengan
@@ -130855,7 +130855,7 @@ h. tidak menjalankan prosedur berdasarkan dokumen
 pemilihan;
 i. Pokja Pemilihan/PPK terlibat Korupsi, Kolusi,
 dan/atau Nepotisme;
-Paraf 1 Paraf 2 Paraf 3
+
 j. PA/KPA menyetujui penolakan oleh PPK atas hasil
 pemilihan; dan/atau
 k. PA/KPA menolak untuk menetapkan pemenang
@@ -130904,7 +130904,7 @@ c. Tidak cukup waktu untuk melaksanakan seleksi.
 35.7 PA/KPA, PPK, dan/atau Pokja Pemilihan dilarang
 memberikan ganti rugi kepada peserta seleksi apabila
 penawarannya ditolak atau seleksi dinyatakan gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 G. PENUNJUKAN PENYEDIA
 36. Laporan Hasil 38.1 Pokja Pemilihan menyampaikan laporan hasil pemilihan
 Pemilihan kepada Pejabat Penandatangan Kontrak dengan tembusan
@@ -130956,7 +130956,7 @@ tercapai kesepakatan.
 e. PA/KPA dapat memutuskan:
 1) menyetujui penolakan PPK, PA/KPA
 memerintahkan Pokja Pemilihan untuk
-Paraf 1 Paraf 2 Paraf 3
+
 melakukan evaluasi ulang atau Seleksi ulang;
 atau
 2) menyetujui hasil pemilihan penyedia, PA/KPA
@@ -131005,7 +131005,7 @@ penerbitan oleh otoritas yang berwenang.
 40.6 SPPBJ ditembuskan kepada APIP.
 39. Kerahasiaan 41.1 Proses evaluasi dokumen penawaran bersifat rahasia dan
 Proses dilaksanakan oleh Pokja Pemilihan secara independen.
-Paraf 1 Paraf 2 Paraf 3
+
 41.2 Informasi yang berhubungan dengan penelitian, evaluasi,
 klarifikasi, konfirmasi, dan usulan calon pemenang tidak
 boleh diberitahukan kepada peserta, atau orang lain yang
@@ -131055,7 +131055,7 @@ Penandatangan Kontrak, maka Penyedia tidak
 dikenakan sanksi apapun; dan
 b. Penyedia tidak menyepakati dengan alasan yang
 tidak objektif dan tidak dapat diterima oleh Pejabat
-Paraf 1 Paraf 2 Paraf 3
+
 Penandatangan Kontrak, maka dikenakan Sanksi
 Daftar Hitam.
 42.6 Dalam hal Rapat Persiapan Penandatanganan Kontrak
@@ -131107,14 +131107,14 @@ b. rangkap kontrak lainnya (apabila diperlukan) tanpa
 dibubuhi meterai.
 43.7 Pihak yang berwenang menandatangani kontrak atas
 nama penyedia adalah direktur utama/pimpinan
-Paraf 1 Paraf 2 Paraf 3
+
 perusahaan atau yang disebutkan namanya dalam Akta
 Pendirian/Anggaran Dasar, yang telah didaftarkan sesuai
 dengan peraturan perundang-undangan.
 43.8 Pejabat Penandatangan Kontrak memasukkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -131157,7 +131157,7 @@ secara sekaligus]
 F. Masa Berlaku 19.1 1. Masa berlaku penawaran selama _____
 Penawaran (____________) hari kalender sejak batas
 dan Jangka akhir penyampaian Dokumen Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 Waktu [diisi dengan tanggal batas akhir penyampaian
 Pelaksanaan penawaran sampai dengan tanggal
 penandatanganan kontrak].
@@ -131165,7 +131165,7 @@ penandatanganan kontrak].
 (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V LEMBAR DATA KUALIFIKASI (LDK)
 A. Syarat kualifikasi Administrasi/Legalitas untuk Penyedia Perorangan
 1) memenuhi ketentuan peraturan perundang-undangan untuk menjalankan
@@ -131198,7 +131198,7 @@ pada fasilitas pengunggahan lain:
 1. _____
 2. _____
 3. _____ dst
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -131229,7 +131229,7 @@ Material dari
 1 Uraian Pendahuluan memuat gambaran secara garis besar mengenai pekerjaan yang akan dilaksanakan.
 2 Data penunjang terdiri dari data yang berkaitan dengan pelaksanaan pekerjaan.
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain..
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia Jasa
 Konsultansi
 15. Lingkup
@@ -131269,7 +131269,7 @@ Laporan harus diserahkan selambat-lambatnya: __
 sebanyak _____ (__________) buku laporan dan media
 penyimpan data (compact disc/flashdisk/dll) (jika
 diperlukan).
-Paraf 1 Paraf 2 Paraf 3
+
 Hal-Hal Lain
 23. Produksi dalam Semua kegiatan jasa konsultansi berdasarkan KAK ini
 Negeri harus dilakukan di dalam wilayah Negara Republik
@@ -131287,7 +131287,7 @@ untuk menyelenggarakan pertemuan dan pembahasan
 dalam rangka alih pengetahuan kepada personel satuan
 kerja Pejabat Penandatangan Kontrak berikut:
 *) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -131344,7 +131344,7 @@ batas
 unsur]
 a. Pemahaman atas jasa __ [5%-10%] _____ ketentuan penilaian:
 layanan yang [diisi
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -131412,7 +131412,7 @@ kerja
 deskripsikan secara jelas
 3) apresiasi terhadap - - untuk setiap kriteria sesuai
 inovasi
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -131478,7 +131478,7 @@ maksimal;
 2) tingkat dan/atau jurusan
 pendidikan peserta yang
 berbeda atau lebih kecil
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -131513,7 +131513,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII ISIAN DATA KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI
 Saya yang bertanda tangan di bawah ini :
@@ -131547,7 +131547,7 @@ Alamat domisili : ……………………………………………
 No. Telepon : ……………………………………………
 No. Fax : ……………………………………………
 E-mail : ……………………………………………
-Paraf 1 Paraf 2 Paraf 3
+
 B. Izin Usaha Perorangan
 1. Tanda Daftar Usaha Perorangan : a. Nomor.……………
 b. Tanggal ……………
@@ -131562,7 +131562,7 @@ b. Tanggal …………
 5. Klasifikasi : …………
 D. Data Keuangan
 a. Nomor Pokok Wajib Pajak : …………
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DAFTAR PENGALAMAN KERJA 10 (SEPULUH) TAHUN TERAKHIR
@@ -131584,7 +131584,7 @@ Keterangan isi kolom :
 5. Jangka waktu pekerjaan
 6. Nilai kontrak pekerjaan
 7. Mitra kerja dan posisinya dalam kemitraan (apabila bermitra)
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR
 CONTOH
@@ -131605,7 +131605,7 @@ Keterangan isi kolom :
 6. Jangka waktu pekerjaan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam kemitraan (apabila bermitra)
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 CONTOH
@@ -131618,7 +131618,7 @@ LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 5. Nilai Kontrak :
 6. No. Kontrak :
 7. Waktu Pelaksanaan :
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -131635,7 +131635,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen Pemilihan ini meliputi antara
 lain (jika ada): dukungan administrasi, ruang kerja, transportasi lokal,
 peralatan, data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK URAIAN PROPOSAL TEKNIS
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -131659,7 +131659,7 @@ menunjukkan pemahaman terhadap Kerangka Acuan Kerja dan kemampuan
 untuk menerjemahkannya ke dalam rencana kerja. Daftar hasil kerja, termasuk
 laporan, gambar kerja, tabel, harus dicantumkan. Program kerja ini harus
 konsisten dengan Jadwal Pelaksanaan Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -131674,7 +131674,7 @@ persetujuan Pejabat Penandatangan Kontrak. Untuk paket pekerjaan yang ditahapkan
 kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan persetujuan
 dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK DAFTAR RIWAYAT HIDUP PESERTA
 CONTOH
 Daftar Riwayat Hidup
@@ -131708,7 +131708,7 @@ g. Posisi Penugasan : __________
 h. Status Kepegawaian pada Perusahaan : __________
 i. Surat Referensi dari Pengguna Jasa : __________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar riwayat hidup ini saya buat dengan sebenar-benarnya dan penuh rasa
 tanggung jawab. Jika terdapat pengungkapan keterangan yang tidak benar secara
 sengaja atau sepatutnya diduga maka saya siap untuk digugurkan dari proses Seleksi
@@ -131717,7 +131717,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 A. BENTUK SURAT PENAWARAN BIAYA
 CONTOH
@@ -131756,7 +131756,7 @@ dibatalkan dan kami tidak akan menuntut ganti rugi dalam bentuk apapun
 Peserta
 …………………….
 No. KTP
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KUANTITAS DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -131769,7 +131769,7 @@ Sub-total
 PPN 10%
 Total
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN BIAYA LANGSUNG PERSONEL
 CONTOH
 RINCIAN BIAYA LANGSUNG PERSONEL
@@ -131779,7 +131779,7 @@ Nama Personel Posisi Orang Bulan
 Bulan (Rp)
 (Rp)
 Total Biaya
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK RINCIAN BIAYA LANGSUNG NON-PERSONEL (DIRECT REIMBURSABLE
 COST)
 CONTOH
@@ -131837,7 +131837,7 @@ keuntungan (profit) dan biaya umum (overhead cost) hanya diperhitungkan dalam bi
 dengan lumsum.
 • Peserta dapat menambah atau mengurangi kolom Jenis Biaya sesuai kebutuhan.
 • Biaya penerapan SMKK digunakan sesuai kebutuhan
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -131855,7 +131855,7 @@ Catatan:
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi
 3. Rincian Komponen Remunerasi Personel hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX.
 TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi yang akan dievaluasi harus memenuhi persyaratan sesuai yang
@@ -131899,7 +131899,7 @@ b. Apabila suatu saat ditemukan bukti bahwa peserta mengingkari
 pernyataan ini/menyampaikan informasi yang tidak besar terhadap
 pernyataan ini, maka dapat menjadi dasar untuk pengenaan sanksi
 daftar hitam.
-Paraf 1 Paraf 2 Paraf 3
+
 C. Pokja Pemilihan memeriksa dan membandingkan antara persyaratan pada
 Dokumen Kualifikasi dengan data kualifikasi peserta yang tercantum pada SPSE
 dalam hal:
@@ -131925,7 +131925,7 @@ Pemilihan dapat meminta peserta untuk menyampaikan klarifikasi secara
 tertulis, termasuk dapat melakukan peninjauan lapangan pada pihak-
 pihak/instansi terkait, namun tidak boleh mengubah substansi formulir isian
 kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -131969,7 +131969,7 @@ Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua
 dan Provinsi Papua Barat;
 *)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) Telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
 Pemilihan;
@@ -132016,7 +132016,7 @@ berdasarkan total harga penawaran terkoreksi sebagaimana tercantum dalam
 Rincian Biaya adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..)
 dengan kode akun kegiatan ……….
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya]
-Paraf 1 Paraf 2 Paraf 3
+
 (3) Pembayaran untuk kontrak ini dilakukan ke Bank ..... rekening nomor : .............
 atas nama Penyedia : ...............;
 [Catatan : untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk
@@ -132058,7 +132058,7 @@ Kontrak sesuai dengan ketentuan peraturan perundang-undangan di Republik
 Indonesia dan dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan
 meterai, mempunyai kekuatan hukum yang sama dan mengikat bagi para pihak,
 rangkap yang lain dapat diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Penyedia Untuk dan atas nama
 Pejabat Penandatangan Kontrak.............
 [diisi sesuai SK Pengangkatan]
@@ -132069,7 +132069,7 @@ Kontrak maka rekatkan meterai Rp ini untuk Penyedia maka rekatkan
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat
@@ -132119,7 +132119,7 @@ kontrak dan tidak dapat diperkirakan
 sebelumnya, sehingga kewajiban yang
 ditentukan dalam Kontrak menjadi tidak
 dapat dipenuhi.
-Paraf 1 Paraf 2 Paraf 3
+
 1.8 Kontrak Kerja Konstruksi selanjutnya disebut
 Kontrak adalah keseluruhan dokumen yang
 mengatur hubungan hukum antara Pejabat
@@ -132173,7 +132173,7 @@ menandatangani Kontrak dengan Penyedia
 dapat berasal dari PA, KPA atau PPK.
 1.17 Pengguna Anggaran yang selanjutnya
 disingkat PA adalah pejabat pemegang
-Paraf 1 Paraf 2 Paraf 3
+
 kewenangan penggunaan anggaran
 Kementerian Negara/Lembaga/Perangkat
 Daerah.
@@ -132228,7 +132228,7 @@ Kontrak kepada Penyedia untuk memulai
 melaksanakan pekerjaan.
 1.24 Tanggal Mulai Kerja adalah tanggal yang
 dinyatakan pada SPMK yang diterbitkan oleh
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Penandatangan Kontrak untuk
 memulai melaksanakan pekerjaan.
 1.25 Tanggal Penyerahan Pekerjaan adalah
@@ -132282,7 +132282,7 @@ dan harus disampaikan kepada Penyedia.
 7. Larangan Korupsi, 7.1 Berdasarkan etika pengadaan barang/jasa
 Kolusi dan/atau pemerintah, para pihak dilarang untuk :
 Nepotisme,
-Paraf 1 Paraf 2 Paraf 3
+
 Penyalahgunaan a. menawarkan, menerima atau
 Wewenang serta menjanjikan untuk memberi atau
 Penipuan menerima hadiah atau imbalan berupa
@@ -132337,7 +132337,7 @@ standar akuntansi yang berlaku.
 9. Perpajakan Penyedia yang bersangkutan berkewajiban untuk
 membayar semua pajak, bea, retribusi, dan
 pungutan lain yang dibebankan oleh peraturan
-Paraf 1 Paraf 2 Paraf 3
+
 perpajakan atas pelaksanaan Kontrak ini. Semua
 pengeluaran perpajakan ini dianggap telah
 termasuk dalam Harga Kontrak.
@@ -132389,7 +132389,7 @@ dalam rapat persiapan penandatanganan
 Kontrak, untuk melaksanakan pekerjaan
 tanpa ada hambatan kepada Penyedia
 sebelum SPMK diterbitkan.
-Paraf 1 Paraf 2 Paraf 3
+
 14.3 Hasil peninjauan dan penyerahan
 dituangkan dalam berita acara penyerahan
 lokasi kerja.
@@ -132443,7 +132443,7 @@ kondisi pekerjaan.
 memutakhirkan Program Mutu jika terjadi
 Adendum Kontrak dan/atau Peristiwa
 Kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 16.6 Pemutakhiran Program Mutu harus
 menunjukkan perkembangan kemajuan
 setiap pekerjaan dan dampaknya terhadap
@@ -132496,7 +132496,7 @@ Kontrak.
 pekerjaan, yaitu :
 a. mendatangkan Personel Inti;
 b. mendatangkan Personel Pendukung;
-Paraf 1 Paraf 2 Paraf 3
+
 c. mendatangkan peralatan-peralatan
 terkait yang diperlukan dalam
 pelaksanaan pekerjaan; dan/atau
@@ -132551,7 +132551,7 @@ menyampaikan secara tertulis perkiraan
 dampak peristiwa atau kondisi tersebut di
 atas terhadap Harga Kontrak dan Tanggal
 Penyerahan Pekerjaan. Pernyataan perkiraan
-Paraf 1 Paraf 2 Paraf 3
+
 ini harus sesegera mungkin disampaikan
 oleh Penyedia.
 20.2 Penyedia berkewajiban untuk bekerja sama
@@ -132604,7 +132604,7 @@ Penyerahan Pekerjaan semula terlewati.
 22.4 Pemberian kesempatan kepada Penyedia
 untuk menyelesaikan pekerjaan dapat
 melampaui Tahun Anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 B.3 Penyelesaian Kontrak
 23. Serah Terima Pekerjaan 23.1 Setelah pekerjaan selesai sesuai dengan
 ketentuan dalam Kontrak, Penyedia
@@ -132657,7 +132657,7 @@ dengan Kontrak.
 terlambat melewati batas waktu akhir
 kontrak karena kesalahan atau kelalaian
 Penyedia atau bukan akibat Keadaan Kahar
-Paraf 1 Paraf 2 Paraf 3
+
 maka Penyedia dikenakan denda
 keterlambatan.
 B.4 Adendum
@@ -132710,7 +132710,7 @@ pekerjaan yang tercantum dalam
 KAK/Kontrak; dan/atau
 c. perubahan Jadwal Pelaksanaan
 Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 25.3 Perintah perubahan pekerjaan dibuat oleh
 Pejabat Penandatangan Kontrak secara
 tertulis kepada Penyedia kemudian
@@ -132765,7 +132765,7 @@ langsung sebagaimana tercantum dalam
 penawaran;
 e) penyesuaian Komponen Remunerasi
 Personel dan Biaya Langsung Non
-Paraf 1 Paraf 2 Paraf 3
+
 Personel diberlakukan sesuai dengan
 jadwal pelaksanaan yang tercantum
 dalam Kontrak awal/adendum Kontrak;
@@ -132821,7 +132821,7 @@ ketentuan pada klausul 27.2 huruf a dan b.
 menyetujui perpanjangan Masa Pelaksanaan
 Kontrak setelah melakukan penelitian
 terhadap usulan tertulis yang diajukan oleh
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia sesuai pertimbangan yang wajar
 setelah Penyedia meminta perpanjangan.
 Jika Penyedia lalai untuk memberikan
@@ -132877,7 +132877,7 @@ yang terhambat dan/atau akan
 terhambat akibat Keadaan Kahar
 tersebut.
 28.4 Bukti Keadaan Kahar dapat berupa :
-Paraf 1 Paraf 2 Paraf 3
+
 a. pernyataan yang diterbitkan oleh
 pihak/instansi yang berwenang sesuai
 ketentuan peraturan perundang-
@@ -132931,7 +132931,7 @@ tertulis oleh Pejabat Penandatangan Kontrak
 dengan disertai alasan penghentian
 pekerjaan dan dituangkan dalamperubahan
 Rencana Kerja penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 28.10 Dalam hal penghentian pekerjaan
 mencakup seluruh pekerjaan (baik
 sementara ataupun permanen) karena
@@ -132982,7 +132982,7 @@ Keadaan Kahar sebagaimana dimaksud pada klausul
 30. Pemutusan Kontrak 30.1 Pemutusan Kontrak dapat dilakukan oleh
 Pejabat Penandatangan Kontrak atau
 Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 30.2 Pemutusan kontrak dilakukan dengan
 terlebih dahulu memberikan surat
 peringatan dari salah satu pihak ke pihak
@@ -133038,7 +133038,7 @@ penandatanganan Kontrak;
 e. Penyedia gagal memperbaiki kinerja;
 f. Penyedia lalai/cidera janji dalam
 melaksanakan kewajibannya dan tidak
-Paraf 1 Paraf 2 Paraf 3
+
 memperbaiki kelalaiannya dalam
 jangka waktu yang telah ditetapkan;
 g. berdasarkan penelitian Pejabat
@@ -133093,7 +133093,7 @@ atau
 b. Pejabat Penandatangan Kontrak tidak
 menerbitkan Surat Permintaan Pembayaran
 (SPP) untuk pembayaran tagihan angsuran
-Paraf 1 Paraf 2 Paraf 3
+
 sesuai dengan yang disepakati sebagaimana
 tercantum dalam SSKK.
 c. Dalam hal pemutusan Kontrak, maka Pejabat
@@ -133148,7 +133148,7 @@ pekerjaan sesuai dengan harga dan ketentuan
 yang telah ditetapkan dalam Kontrak;
 b. meminta fasilitas-fasilitas dalam bentuk sarana
 dan prasarana dari Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak untuk kelancaran pelaksanaan
 pekerjaan sesuai ketentuan Kontrak;
 c. melaporkan pelaksanaan pekerjaan secara
@@ -133203,7 +133203,7 @@ Penyedia.
 membebaskan, dan menanggung tanpa batas
 Pejabat Penandatangan Kontrak beserta
 instansinya terhadap semua bentuk
-Paraf 1 Paraf 2 Paraf 3
+
 tuntutan, tanggung jawab, kewajiban,
 kehilangan, kerugian, denda, gugatan atau
 tuntutan hukum, proses pemeriksaan
@@ -133260,7 +133260,7 @@ perlengkapan keselamatan konstruksi yang
 sesuai dan memadai (apabila diperlukan)
 41.4 Tanpa mengurangi kewajiban Penyedia
 untuk melaporkan kecelakaan berdasarkan
-Paraf 1 Paraf 2 Paraf 3
+
 hukum yang berlaku, Penyedia wajib
 melaporkan kepada Pejabat Penandatangan
 Kontrak mengenai setiap kecelakaan yang
@@ -133313,7 +133313,7 @@ milik Pejabat Penandatangan Kontrak.
 pemutusan atau penghentian atau akhir
 Masa Kontrak berkewajiban untuk
 menyerahkan semua dokumen dan piranti
-Paraf 1 Paraf 2 Paraf 3
+
 lunak tersebut beserta daftar rinciannya
 kepada Pejabat Penandatangan Kontrak.
 45.3 Penyedia dapat menyimpan 1 (satu) buah
@@ -133368,7 +133368,7 @@ bidang lembaga pembiayaan ekspor
 Indonesia; atau
 5) Konsorsium Perusahaan Asuransi
 Umum/Konsorsium Lembaga
-Paraf 1 Paraf 2 Paraf 3
+
 Penjaminan/Konsorsium
 Perusahaan Penjaminan yang
 mempunyai program asuransi
@@ -133422,7 +133422,7 @@ segera memberitahukan urgensi
 pekerjaan tersebut kepada Tim
 Pendukung dan/atau Pejabat
 Penandatangan Kontrak .
-Paraf 1 Paraf 2 Paraf 3
+
 50.2 Untuk pekerjaan yang dilakukan di luar hari
 kerja efektif dan jam kerja normal harus
 mengikuti ketentuan Menteri yang
@@ -133477,7 +133477,7 @@ e. Pejabat Penandatangan Kontrak
 memerintahkan penundaan pelaksanaan
 pekerjaan;
 f. Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 memerintahkan untuk mengatasi kondisi
 tertentu yang tidak dapat diduga
 sebelumnya yang disebabkan/tidak
@@ -133531,7 +133531,7 @@ dalam Kontrak.
 Remunerasi Personel kepada Penyedia Biaya Langsung Personel
 dan Biaya Langsung berupa remunerasi sesuai Waktu Penugasan
 Non Personel aktual Personel dan Biaya Langsung Non
-Paraf 1 Paraf 2 Paraf 3
+
 Personel yang timbul akibat pelaksanaan
 Kontrak.
 55.2 Pembayaran berdasarkan Rincian
@@ -133589,7 +133589,7 @@ g. Pengembalian uang muka diperhitungkan
 berangsur-angsur secara proporsional
 pada setiap pembayaran prestasi
 pekerjaan dan paling lambat harus lunas
-Paraf 1 Paraf 2 Paraf 3
+
 pada saat pekerjaan mencapai prestasi
 100 % (seratus persen).
 56.2 Prestasi pekerjaan
@@ -133646,7 +133646,7 @@ b. Ganti rugi merupakan sanksi finansial
 yang dikenakan kepada Pejabat
 Penandatangan Kontrak maupun
 Penyedia karena terjadinya cidera
-Paraf 1 Paraf 2 Paraf 3
+
 janji/wanprestasi. Besarnya sanksi ganti
 rugi adalah sebesar nilai kerugian yang
 ditimbulkan.
@@ -133703,7 +133703,7 @@ oleh Pejabat Penandatangan Kontrak .
 58. Penangguhan 58.1 Pejabat Penandatangan Kontrak dapat
 Pembayaran menangguhkan pembayaran setiap
 angsuran prestasi pekerjaan Penyedia jika
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia gagal atau lalai memenuhi
 kewajiban kontraktualnya, termasuk
 penyerahan setiap Hasil Pekerjaan sesuai
@@ -133757,11 +133757,11 @@ yang terdapat dalam Kontrak.
 60.2 Para pihak setuju untuk melaksanakan
 perjanjian dengan jujur tanpa menonjolkan
 kepentingan masing-masing pihak. Apabila
-Paraf 1 Paraf 2 Paraf 3
+
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondensi Alamat Para Pihak sebagai berikut:
@@ -133809,7 +133809,7 @@ tercantum dalam SPMK.
 Harga diberikan/tidak diberikan] dalam hal diberikan maka
 rumusannya sebagai berikut:
 a. Untuk penyesuaian biaya personel (remunerasi)
-Paraf 1 Paraf 2 Paraf 3
+
 = + .
 Rn = Remunerasi setelah penyesuaian
 harga;
@@ -133854,7 +133854,7 @@ digunakan bersumber dari penerbitan BPS.
 d. Dalam hal indeks harga tidak dimuat dalam
 penerbitan BPS, digunakan indeks harga yang
 dikeluarkan oleh instansi teknis.
-Paraf 1 Paraf 2 Paraf 3
+
 32.b Pembayaran Batas akhir waktu yang disepakati untuk penerbitan
 Tagihan SPP oleh Pejabat Penandatangan Kontrak untuk
 pembayaran tagihan angsuran adalah ........... (......
@@ -133904,7 +133904,7 @@ mengajukan tagihan pembayaran prestasi pekerjaan:
 2. ……….
 3. Dst
 [diisi dokumen yang disyaratkan]
-Paraf 1 Paraf 2 Paraf 3
+
 56.3.c Denda akibat Untuk pekerjaan ini besar denda keterlambatan untuk
 Keterlambatan setiap hari keterlambatan adalah 1/1000 (satu
 perseribu) dari ................... (sebelum PPN) [diisi
@@ -133933,7 +133933,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 Kontrak. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan
 lain yang memerlukan persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi
 harus mematuhi ketentuan sebagai berikut:
@@ -133971,7 +133971,7 @@ dilaksanakan sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk
 kontrak yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN SELEKSI)
 Pengadaan
@@ -133979,7 +133979,7 @@ Jasa Konsultansi Konstruksi
 Perorangan
 Metode Seleksi, Pascakualifikasi, Dua File, Kualitas,
 Kontrak Lumsum
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN SELEKSI
 Nomor : __________
 Tanggal : __________
@@ -133989,7 +133989,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. PENGUMUMAN SELEKSI DENGAN PASCAKUALIFIKASI .......................................................... - 5 -
 BAB II. UMUM ....................................................................................................................................... - 6 -
@@ -134044,7 +134044,7 @@ H. PENANDATANGANAN KONTRAK .....................................................
 40. RAPAT PERSIAPAN PENANDA-TANGANAN KONTRAK .................................................................... - 34 -
 41. PENANDA-TANGANAN KONTRAK ............................................................................................... - 35 -
 BAB IV. LEMBAR DATA PEMILIHAN (LDP) ......................................................................................... - 37 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V LEMBAR DATA KUALIFIKASI (LDK) ......................................................................................... - 39 -
 BAB VI. KRANGKA ACUAN KERJA (KAK) ............................................................................................ - 40 -
 BAB VII. LEMBAR KRITERIA EVALUASI ............................................................................................... - 43 -
@@ -134087,11 +134087,11 @@ PEMBAYARAN KEPADA PENYEDIA......................................................
 PENYELESAIAN PERSELISIHAN ............................................................................................ - 94 -
 BAB XIII. SYARAT-SYARAT KHUSUS KONTRAK ................................................................................. - 96 -
 BAB XIV. KETENTUAN LAIN-LAIN .................................................................................................... - 100 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I.
 PENGUMUMAN SELEKSI DENGAN PASCAKUALIFIKASI
 Pengumuman Seleksi tercantum dalam pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UMUM
 A. Dokumen Pemilihan ini disusun berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan aturan
@@ -134134,7 +134134,7 @@ pengumuman pemenang, dan sanggah;
 - Lembar Data : Yang selanjutnya disingkat LDK adalah lembar yang
 Kualifikasi (LDK) memuat ketentuan dan informasi yang spesifik sesuai
 dengan kualifikasi yang diperlukan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Pengguna : yang selanjutnya disingkat PA adalah pejabat pemegang
 Anggaran (PA) kewenangan penggunaan anggaran Kementerian
 Negara/Lembaga/ Perangkat Daerah;
@@ -134180,7 +134180,7 @@ Penunjukan Penunjukan Penyedia Barang/Jasa yang diterbitkan oleh
 Penyedia PPK kepada penyedia barang/jasa untuk melaksanakan
 Barang/Jasa pekerjaan;
 (SPPBJ)
-Paraf 1 Paraf 2 Paraf 3
+
 - Layanan : yang selanjutnya disingkat LPSE adalah layanan
 Pengadaan pengelolaan teknologi informasi untuk memfasilitasi
 Secara Elektronik pelaksanaan Pengadaan jasa konsultansi konstruksi
@@ -134194,7 +134194,7 @@ kepada SPSE, direpresentasikan oleh user ID dan
 password yang diberikan oleh LPSE;
 F. Seleksi Pengadaan Jasa Konsultansi Konstruksi ini terbuka dan dapat diikuti oleh semua
 peserta orang perorangan.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum
@@ -134239,7 +134239,7 @@ c. gugatan secara perdata; dan/atau
 d. sanksi percantuman dalam Daftar Hitam.
 4.3 Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan
 kepada PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi dan
 Pertentangan perannya, menghindari dan mencegah pertentangan
 Kepentingan kepentingan para pihak yang terkait, baik secara
@@ -134287,7 +134287,7 @@ e. Kerangka Acuan Kerja (KAK);
 f. Daftar Kuantitas Harga dan Harga atau Daftar
 Keluaran dan Harga;
 g. Bentuk Dokumen Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 1) Penawaran Administrasi dan Teknis (file I)
 a) Dokumen Penawaran Administrasi; dan
 b) Dokumen Penawaran Teknis.
@@ -134334,7 +134334,7 @@ dapat memberikan penjelasan lanjutan dengan cara
 melakukan peninjauan lapangan. Biaya yang
 diperlukan peserta dalam rangka peninjauan
 lapangan ditanggung oleh masing-masing peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 11.6 Pokja Pemilihan segera menjawab setiap pertanyaan
 yang masuk, kecuali untuk substansi pertanyaan yang
 telah dijawab.
@@ -134379,7 +134379,7 @@ berdasarkan informasi baru yang mempengaruhi
 substansi Dokumen Seleksi.
 12.5 Setiap Adendum yang ditetapkan merupakan bagian
 yang tidak terpisahkan dari Dokumen Seleksi.
-Paraf 1 Paraf 2 Paraf 3
+
 12.6 Pokja Pemilihan mengumumkan Adendum Dokumen
 Seleksi dengan cara mengunggah (upload) adendum
 Dokumen Pemilihan melalui SPSE paling lambat 3
@@ -134428,7 +134428,7 @@ pekerjaan sejenis dengan pekerjaan yang
 dipersyaratkan dalam KAK dilihat dari
 ruang lingkup, kompleksitas dan nilai
 pekerjaan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 b) pengalaman bekerja di lokasi pekerjaan.
 2) Unsur Proposal Teknis, terdiri dari:
 a) pendekatan teknis dan metodologi; dan
@@ -134477,7 +134477,7 @@ konstruksi ini dilakukan sesuai dengan cara
 sebagaimana tercantum dalam LDP dan diuraikan
 dalam Syarat-Syarat Umum Kontrak/Syarat-Syarat
 Khusus Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 19. Masa Berlaku 19.1 Masa berlaku penawaran dan Jangka waktu
 Penawaran pelaksanaan sesuai dengan ketentuan sebagaimana
 dan Jangka tercantum dalam LDP.
@@ -134532,7 +134532,7 @@ Lembaga/Perangkat Daerah atau sebagai
 pegawai Kementerian/Lembaga/Perangkat
 Daerah yang sedang mengambil cuti diluar
 tanggungan Negara;
-Paraf 1 Paraf 2 Paraf 3
+
 5) pernyataan lain yang menjadi syarat
 kualifikasi yang tercantum dalam Dokumen
 Kualifikasi;
@@ -134584,7 +134584,7 @@ dienkripsi dan dikirim.
 22.3 Data Kualifikasi yang disampaikan melalui fasilitas
 unggah penawaran tidak dapat dianggap sebagai Data
 Kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 22.4 Dokumen penawaran yang disampaikan melalui isian
 kualifikasi atau fasilitas unggah data kualifikasi
 lainnya tidak dapat dianggap sebagai dokumen
@@ -134632,7 +134632,7 @@ E. PEMBUKAAN DAN EVALUASI PENAWARAN DAN KUALIFIKASI
 Dokumen sebagai berikut:
 Penawaran a. Jadwal pembukaan penawaran sebagaimana
 Administrasi tercantum dalam SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 dan Teknis b. Pokja Pemilihan mengunduh (download) dan
 (File I) melakukan dekripsi file penawaran dengan
 menggunakan sistem pengaman dokumen.
@@ -134686,7 +134686,7 @@ kualitas, dan hasil/kinerja pekerjaan; dan/atau
 2) Penawaran dari peserta dengan persyaratan
 tambahan di luar ketentuan Dokumen Pemilihan
 yang akan menimbulkan persaingan usaha tidak
-Paraf 1 Paraf 2 Paraf 3
+
 sehat dan/atau tidak adil diantara peserta yang
 memenuhi syarat.
 e. Pokja Pemilihan dilarang menggugurkan penawaran
@@ -134740,7 +134740,7 @@ menetapkan peserta lainnya yang tidak terlibat
 4) apabila tidak ada peserta lain sebagaimana
 dimaksud pada angka 3), maka Seleksi dinyatakan
 gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 26.2 Evaluasi penawaran dilakukan dengan metode Kualitas.
 26.3 Pokja melakukan evaluasi Dokumen Penawaran
 berdasarkan data yang diunggah (upload) dalam SPSE.
@@ -134793,7 +134793,7 @@ tercantum dalam Lembar Kriteria Evaluasi, kemudian
 membandingkan jumlah perolehan nilai dari para
 peserta, dengan ketentuan:
 1) unsur-unsur pokok yang dinilai adalah:
-Paraf 1 Paraf 2 Paraf 3
+
 a) pengalaman peserta (bobot nilai antara 50%
 s.d 70%)
 b) proposal teknis (bobot nilai antara 20% s.d
@@ -134850,7 +134850,7 @@ lingkup serta jasa konsultansi yang diperlukan
 (aspek-aspek utama yang diindikasikan dalam
 KAK), dan pengenalan lapangan (bobot 5-
 10%);
-Paraf 1 Paraf 2 Paraf 3
+
 b) kualitas metodologi, penilaian terutama
 meliputi: ketepatan menganalisis masalah dan
 langkah pemecahan yang diusulkan dengan
@@ -134907,7 +134907,7 @@ akan dilaksanakan sesuai dengan yang tercantum
 dalam Lembar Kriteria Evaluasi;
 4) Tingkat dan jurusan pendidikan Tenaga Ahli yang
 kurang/tidak sesuai dari tingkat dan jurusan
-Paraf 1 Paraf 2 Paraf 3
+
 pendidikan yang dipersyaratkan dalam KAK diberi
 nilai 0 (nol);
 5) Kualifikasi dari tenaga ahli yang melebihi dari
@@ -134960,7 +134960,7 @@ Kualifikasi terhadap peserta dengan peringkat terbaik/calon
 pemenang.
 27.2 Pembuktian kualifikasi dapat dilakukan secara daring
 atau tatap muka.
-Paraf 1 Paraf 2 Paraf 3
+
 27.3 Pokja Pemilihan menyampaikan undangan pembuktian
 kualifikasi dengan mencantumkan pemberitahuan
 mekanisme pelaksanaan pembuktian kualifikasi.
@@ -135008,7 +135008,7 @@ alasan yang tidak dapat diterima, peserta dianggap
 mengundurkan diri, maka:
 a. dibatalkan sebagai calon pemenang; dan
 b. dikenakan Sanksi Daftar Hitam.
-Paraf 1 Paraf 2 Paraf 3
+
 27.12 Apabila tidak ada peserta yang lulus pembuktian
 kualifikasi, Seleksi dinyatakan gagal.
 28. Penetapan dan 28.1. Dalam hal peserta mengikuti seleksi beberapa paket
@@ -135062,7 +135062,7 @@ Rp10.000.000.000,00 (sepuluh miliar rupiah) maka
 penetapan peringkat teknis dilakukan oleh Pengguna
 Anggaran (PA)/Kuasa Pengguna Anggaran (KPA) untuk
 pengadaan yang dibiayai APBN atau Pengguna Anggaran
-Paraf 1 Paraf 2 Paraf 3
+
 (PA) untuk pengadaan yang dibiayai APBD, dengan tata
 cara sebagai berikut:
 a. Pokja Pemilihan mengusulkan penetapan peringkat
@@ -135113,7 +135113,7 @@ jadwal pada SPSE.
 29.3 Sanggah diajukan oleh peserta apabila terjadi
 penyimpangan prosedur meliputi:
 a. kesalahan dalam melakukan evaluasi;
-Paraf 1 Paraf 2 Paraf 3
+
 b. penyimpangan terhadap ketentuan dan prosedur
 yang diatur dalam Peraturan Presiden No. 16 Tahun
 2018 tentang Pengadaan Barang/Jasa Pemerintah
@@ -135162,7 +135162,7 @@ dilakukan negosiasi biaya.
 Penawaran biaya yang dilakukan terhadap:
 Biaya (File II) a. kewajaran biaya pada rincian biaya langsung
 personel;
-Paraf 1 Paraf 2 Paraf 3
+
 b. kewajaran penugasan tenaga ahli sesuai penawaran
 teknis;
 c. kewajaran penugasan tenaga pendukung; dan
@@ -135214,7 +135214,7 @@ b. metodologi pelaksanaan pekerjaan;
 c. kualifikasi tenaga ahli dan tenaga pendukung;
 d. program alih pengetahuan;
 e. jadwal pelaksanaan pekerjaan; dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 f. fasilitas penunjang.
 33.3 Aspek-aspek biaya yang perlu diklarifikasi dan
 dinegosiasi terutama:
@@ -135268,7 +135268,7 @@ pengeluaran (at cost), Harga Satuan, dan/atau Lumsum
 33.6 Biaya Langsung Non-Personel yang diganti sesuai dengan
 pengeluaran (at cost) meliputi antara lain: biaya untuk
 biaya perjalanan dan/atau biaya pengurusan surat ijin
-Paraf 1 Paraf 2 Paraf 3
+
 33.7 Biaya Langsung Non-Personel yang didasarkan Harga
 Satuan meliputi antara lain: biaya untuk pembelian ATK,
 sewa peralatan, biaya pengiriman dokumen, biaya
@@ -135315,7 +135315,7 @@ berlaku surat penawaran maka dianggap mengundurkan
 diri dan tidak dikenakan sanksi.
 33.17 Dalam hal Pertemuan klarifikasi dan negosiasi dilakukan
 secara daring melalui media video call, Pokja Pemilihan
-Paraf 1 Paraf 2 Paraf 3
+
 mendokumentasikan pertemuan dalam format video
 dan/atau foto.
 33.18 Hasil klarifikasi negosiasi teknis dan biaya tersebut
@@ -135364,7 +135364,7 @@ b. seleksi ulang.
 Pemilihan atau Pokja Pemilihan pengganti (apabila
 diganti) melakukan reviu atas penyebab Seleksi gagal.
 Hasil reviu atas penyebab Seleksi gagal menjadi dasar
-Paraf 1 Paraf 2 Paraf 3
+
 untuk melakukan perbaikan dalam melaksanakan tindak
 lanjut Seleksi gagal.
 35.3 Pokja pemilihan melakukan evaluasi ulang apabila
@@ -135407,7 +135407,7 @@ dilaksanakan berdasarkan prosedur yang ditetapkan;
 dan
 b. bahwa pemenang pemilihan/calon Penyedia
 memiliki kemampuan untuk melaksanakan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 38.5 Berdasarkan hasil reviu, PPK memutuskan untuk
 menerima atau menolak hasil pemilihan Penyedia
 tersebut.
@@ -135459,7 +135459,7 @@ pelaksanaan pemilihan.
 dan mengunggah hasil pemindaian SPPBJ yang telah
 diterbitkan pada SPSE dan mengirimkan SPPBJ tersebut
 melalui SPSE kepada Penyedia yang ditunjuk.
-Paraf 1 Paraf 2 Paraf 3
+
 40.3 Penyedia wajib menerima penunjukan tersebut, dengan
 ketentuan:
 a. apabila yang bersangkutan mengundurkan diri
@@ -135507,7 +135507,7 @@ Penanda- Kontrak setelah diterbitkan SPPBJ.
 tanganan
 Kontrak 42.2 Kontrak ditandatangani paling lambat 14 (empat belas)
 hari kerja setelah diterbitkannya SPPBJ.
-Paraf 1 Paraf 2 Paraf 3
+
 42.3 Dalam Rapat Persiapan Penandatanganan Kontrak, paling
 sedikit dibahas hal-hal sebagai berikut:
 a. finalisasi rancangan Kontrak;
@@ -135560,7 +135560,7 @@ dilakukan.
 diperkenankan mengubah substansi Dokumen Pemilihan
 sampai dengan penandatanganan Kontrak, kecuali
 mempersingkat waktu pelaksanaan pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 dikarenakan jadwal pelaksanaan pekerjaan yang
 ditetapkan sebelumnya akan melewati batas tahun
 anggaran.
@@ -135596,7 +135596,7 @@ dengan peraturan perundang-undangan.
 42.8 Pejabat Penandatangan Kontrak memasukkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -135639,7 +135639,7 @@ secara sekaligus]
 F. Masa Berlaku 19.1 1. Masa berlaku penawaran selama _____
 Penawaran (____________) hari kalender sejak batas
 dan Jangka akhir penyampaian Dokumen Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 Waktu [diisi dengan tanggal batas akhir penyampaian
 Pelaksanaan penawaran sampai dengan tanggal
 penandatanganan kontrak].
@@ -135647,7 +135647,7 @@ penandatanganan kontrak].
 (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V LEMBAR DATA KUALIFIKASI (LDK)
 A. Syarat kualifikasi Administrasi/Legalitas untuk Penyedia Perorangan
 1) memenuhi ketentuan peraturan perundang-undangan untuk menjalankan
@@ -135682,7 +135682,7 @@ fasilitas pengunggahan lain:
 1. _____
 2. _____
 3. _____ dst
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. KRANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -135715,7 +135715,7 @@ Konsultansi
 1 Uraian Pendahuluan memuat gambaran secara garis besar mengenai pekerjaan yang akan dilaksanakan.
 2 Data penunjang terdiri dari data yang berkaitan dengan pelaksanaan pekerjaan.
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain..
-Paraf 1 Paraf 2 Paraf 3
+
 15. Lingkup
 Kewenangan
 Penyedia Jasa
@@ -135754,7 +135754,7 @@ sebanyak _____ (__________) buku laporan dan media
 penyimpan data (compact disc/flashdisk/dll) (jika
 diperlukan).
 Hal-Hal Lain
-Paraf 1 Paraf 2 Paraf 3
+
 23. Produksi dalam Semua kegiatan jasa konsultansi berdasarkan KAK ini
 Negeri harus dilakukan di dalam wilayah Negara Republik
 Indonesia kecuali ditetapkan lain dalam angka 4 KAK
@@ -135771,7 +135771,7 @@ untuk menyelenggarakan pertemuan dan pembahasan
 dalam rangka alih pengetahuan kepada personel satuan
 kerja PPK berikut:
 *) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -135832,7 +135832,7 @@ tercantum dalam ambang tanggapan dengan sangat
 KAK batas baik yang
 subunsur] menggambarkan
 pemahaman peserta atas
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -135904,7 +135904,7 @@ dicapai.
 jadwal pekerjaan,
 dan jadwal
 penugasan
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -135972,7 +135972,7 @@ bahasa Inggris
 dibutuhkan)
 ii. penguasaan - -
 bahasa setempat
-Paraf 1 Paraf 2 Paraf 3
+
 Ambang Nilai Akhir
 Batas (Bobot *
 No. Uraian Evaluasi Bobot Kriteria Penilaian
@@ -135997,7 +135997,7 @@ lulus evaluasi teknis apabila
 Jumlah 100% ____ ____
 nilai masing-masing unsur
 diatas ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. ISIAN DATA KUALIFIKASI
 FORMULIR ISIAN KUALIFIKASI
 Saya yang bertanda tangan di bawah ini :
@@ -136030,7 +136030,7 @@ Alamat domisili : ……………………………………………
 No. Telepon : ……………………………………………
 No. Fax : ……………………………………………
 E-mail : ……………………………………………
-Paraf 1 Paraf 2 Paraf 3
+
 B. Izin Usaha Perorangan
 1. Tanda Daftar Usaha Perorangan : a. Nomor.……………
 b. Tanggal ……………
@@ -136045,7 +136045,7 @@ b. Tanggal …………
 5. Klasifikasi : …………
 D. Data Keuangan
 a. Nomor Pokok Wajib Pajak : …………
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS (File I)
 (i) BENTUK DAFTAR PENGALAMAN KERJA 10 (SEPULUH) TAHUN TERAKHIR
@@ -136065,7 +136065,7 @@ Keterangan isi kolom :
 5. Jangka waktu pekerjaan
 6. Nilai kontrak pekerjaan
 7. Mitra kerja dan posisinya dalam kemitraan (apabila bermitra)
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH)
 TAHUN TERAKHIR
 CONTOH
@@ -136086,7 +136086,7 @@ Keterangan isi kolom :
 6. Jangka waktu pekerjaan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam kemitraan (apabila bermitra)
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA DI
 PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 CONTOH
@@ -136099,7 +136099,7 @@ KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 5. Nilai Kontrak :
 6. No. Kontrak :
 7. Waktu Pelaksanaan :
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA DAN
 PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -136113,7 +136113,7 @@ B. PEMAHAMAN DAN SARAN TERHADAP PERSONEL/FASILITAS PENDUKUNG DARI PPK
 [tanggapi perihal penyediaan peralatan/material/personel/fasilitas pendukung oleh
 PPK sesuai dengan Dokumen Pemilihan ini meliputi antara lain (jika ada): dukungan
 administrasi, ruang kerja, transportasi lokal, peralatan, data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK URAIAN PROPOSAL TEKNIS
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari Penawaran
@@ -136135,7 +136135,7 @@ dengan pendekatan teknis dan metodologi, dan menunjukkan pemahaman terhadap
 Kerangka Acuan Kerja dan kemampuan untuk menerjemahkannya ke dalam rencana
 kerja. Daftar hasil kerja, termasuk laporan, gambar kerja, tabel, harus dicantumkan.
 Program kerja ini harus konsisten dengan Jadwal Pelaksanaan Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -136149,7 +136149,7 @@ laporan antara, dan laporan akhir), dan kegiatan lain yang memerlukan persetujua
 Kontrak. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan
 lain yang memerlukan persetujuan dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK DAFTAR RIWAYAT HIDUP PESERTA
 CONTOH
 Daftar Riwayat Hidup
@@ -136191,7 +136191,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA (File II)
 A. BENTUK SURAT PENAWARAN BIAYA
 CONTOH
@@ -136227,7 +136227,7 @@ ganti rugi dalam bentuk apapun
 Peserta
 …………………….
 No. KTP
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KELUARAN DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -136239,7 +136239,7 @@ II Output ......(dst)
 Sub-total
 PPN 10%
 Total
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -136257,7 +136257,7 @@ Catatan:
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh Menteri
 yang membidangi jasa konstruksi
 3. Rincian Komponen Remunerasi Personel hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi yang akan dievaluasi harus memenuhi persyaratan sesuai yang
 tercantum dalam Lembar Data Kualifikasi.
@@ -136299,7 +136299,7 @@ Kualifikasi dengan data kualifikasi peserta yang tercantum pada SPSE dalam hal:
 1) kelengkapan dan keabsahan Data Kualifikasi, dilakukan dengan Sistem Gugur;
 D. Apabila ditemukan hal-hal dan/atau data yang kurang jelas maka Pokja dapat meminta
 peserta untuk menyampaikan klarifikasi secara tertulis namun tidak boleh mengubah
-Paraf 1 Paraf 2 Paraf 3
+
 substansi Formulir Isian Kualifikasi termasuk dapat melakukan peninjauan lapangan
 pada pihak-pihak/instansi terkait.
 E. Peserta yang memenuhi persyaratan kualifikasi dilanjutkan dengan pembuktian
@@ -136316,7 +136316,7 @@ G. Apabila ditemukan hal-hal dan/atau data yang kurang jelas maka Pokja Pemiliha
 meminta peserta untuk menyampaikan klarifikasi secara tertulis, termasuk dapat
 melakukan peninjauan lapangan pada pihak-pihak/instansi terkait, namun tidak boleh
 mengubah substansi formulir isian kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -136358,7 +136358,7 @@ Undang Nomor 2 tahun 2017 tentang Jasa Konstruksi;
 beserta perubahannya dan aturan turunannya;
 *)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa Pemerintah
 untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua
 Barat;
@@ -136398,7 +136398,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 3. dst.
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut sesuai
 dengan dokumen identifikasi kebutuhan dalam Renstra]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan total
@@ -136444,7 +136444,7 @@ Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat unt
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak sesuai
 dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat dalam
 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum
-Paraf 1 Paraf 2 Paraf 3
+
 yang sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai
 kebutuhan tanpa dibubuhi meterai.
 Untuk dan atas nama Penyedia Untuk dan atas nama
@@ -136455,7 +136455,7 @@ untuk Pejabat Penandatangan Kontrak untuk Penyedia maka rekatkan meterai Rp
 maka rekatkan meterai Rp 10.000,- )] 10.000,- )]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. SYARAT-SYARAT UMUM KONTRAK
 KETENTUAN UMUM
 1. Definisi Istilah-istilah yang digunakan dalam Syarat-Syarat
@@ -136506,7 +136506,7 @@ ditentukan dalam Kontrak menjadi tidak
 dapat dipenuhi.
 1.8 Kontrak Kerja Konstruksi selanjutnya disebut
 Kontrak adalah keseluruhan dokumen yang
-Paraf 1 Paraf 2 Paraf 3
+
 mengatur hubungan hukum antara Pejabat
 Penandatangan Kontrakdengan Penyedia
 dalam pelaksanaan jasa konsultansi
@@ -136559,7 +136559,7 @@ menandatangani Kontrak dengan Penyedia
 dapat berasal dari PA, KPA atau PPK.
 1.17 Pengguna Anggaran yang selanjutnya
 disingkat PA adalah pejabat pemegang
-Paraf 1 Paraf 2 Paraf 3
+
 kewenangan penggunaan anggaran
 Kementerian Negara/Lembaga/Perangkat
 Daerah.
@@ -136614,7 +136614,7 @@ Kontrak kepada Penyedia untuk memulai
 melaksanakan pekerjaan.
 1.24 Tanggal Mulai Kerja adalah tanggal yang
 dinyatakan pada SPMK yang diterbitkan oleh
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Penandatangan Kontrak untuk
 memulai melaksanakan pekerjaan.
 1.25 Tanggal Penyerahan Pekerjaan adalah
@@ -136667,7 +136667,7 @@ Keputusan Pejabat Penandatangan Kontrak
 dan harus disampaikan kepada Penyedia.
 7. Larangan Korupsi, 7.1 Berdasarkan etika pengadaan barang/jasa
 Kolusi dan/atau pemerintah, para pihak dilarang untuk :
-Paraf 1 Paraf 2 Paraf 3
+
 Nepotisme, a. menawarkan, menerima atau
 Penyalahgunaan menjanjikan untuk memberi atau
 Wewenang serta menerima hadiah atau imbalan berupa
@@ -136721,7 +136721,7 @@ dengan pelaksanaan pekerjaan ini berdasarkan
 standar akuntansi yang berlaku.
 9. Perpajakan Penyedia yang bersangkutan berkewajiban untuk
 membayar semua pajak, bea, retribusi, dan
-Paraf 1 Paraf 2 Paraf 3
+
 pungutan lain yang dibebankan oleh peraturan
 perpajakan atas pelaksanaan Kontrak ini. Semua
 pengeluaran perpajakan ini dianggap telah
@@ -136774,7 +136774,7 @@ dalam rapat persiapan penandatanganan
 Kontrak, untuk melaksanakan pekerjaan
 tanpa ada hambatan kepada Penyedia
 sebelum SPMK diterbitkan.
-Paraf 1 Paraf 2 Paraf 3
+
 14.3 Hasil peninjauan dan penyerahan
 dituangkan dalam berita acara penyerahan
 lokasi kerja.
@@ -136826,7 +136826,7 @@ ini.
 kondisi pekerjaan.
 16.5 Penyedia berkewajiban untuk
 memutakhirkan Program Mutu jika terjadi
-Paraf 1 Paraf 2 Paraf 3
+
 Adendum Kontrak dan/atau Peristiwa
 Kompensasi.
 16.6 Pemutakhiran Program Mutu harus
@@ -136877,7 +136877,7 @@ hari kalender sejak diterbitkan SPMK, atau
 sesuai kebutuhan dan Rencana Kerja yang
 disepakati saat Rapat Persiapan Pelaksanaan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 18.2 Mobilisasi dilakukan sesuai dengan lingkup
 pekerjaan, yaitu :
 a. mendatangkan Personel Inti;
@@ -136932,7 +136932,7 @@ mempengaruhi mutu pekerjaan, menaikkan
 Harga Kontrak atau menunda penyelesaian
 pekerjaan. Pejabat Penandatangan Kontrak
 dapat memerintahkan Penyedia untuk
-Paraf 1 Paraf 2 Paraf 3
+
 menyampaikan secara tertulis perkiraan
 dampak peristiwa atau kondisi tersebut di
 atas terhadap Harga Kontrak dan Tanggal
@@ -136986,7 +136986,7 @@ Anggaran.
 22.3 Pemberian kesempatan kepada Penyedia
 menyelesaikan pekerjaan, sejak Tanggal
 Penyerahan Pekerjaan semula terlewati.
-Paraf 1 Paraf 2 Paraf 3
+
 22.4 Pemberian kesempatan kepada Penyedia
 untuk menyelesaikan pekerjaan dapat
 melampaui Tahun Anggaran.
@@ -137038,7 +137038,7 @@ Nilai Kontrak.
 hasil pekerjaan setelah seluruh hasil
 pekerjaan yang diserahterimakan sesuai
 dengan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 23.11 Jika hasil pekerjaan yang diserahterimakan
 terlambat melewati batas waktu akhir
 kontrak karena kesalahan atau kelalaian
@@ -137090,7 +137090,7 @@ Penyedia dapat menyepakati perubahan
 pekerjaan yang meliputi:
 a. Mengubah lingkup yang tercantum
 dalam KAK/Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 b. mengurangi atau menambah jenis
 pekerjaan yang tercantum dalam
 KAK/Kontrak; dan/atau
@@ -137142,7 +137142,7 @@ c. Keadaan Kahar.
 27.3 Masa Pelaksanaan Kontrak dapat
 diperpanjang paling kurang sama dengan
 waktu terhentinya Kontrak akibat Keadaan
-Paraf 1 Paraf 2 Paraf 3
+
 Kahar atau waktu yang diperlukan untuk
 menyelesaikan pekerjaan akibat dari
 ketentuan pada klausul 27.2 huruf a dan b.
@@ -137197,7 +137197,7 @@ a. dalam waktu paling lambat 14 (empat
 belas) hari kalender sejak menyadari
 atau seharusnya menyadari atas
 kejadian atau terjadinya Keadaan Kahar;
-Paraf 1 Paraf 2 Paraf 3
+
 b. dengan menyertakan bukti serta hasil
 identifikasi kewajiban; dan
 c. menyerahkan hasil identifikasi
@@ -137244,7 +137244,7 @@ a. sementara hingga Keadaan Kahar
 berakhir apabila akibat Keadaan Kahar
 masih memungkinkan
 dilanjutkan/diselesaikannya pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. permanen apabila akibat Keadaan Kahar
 tidak memungkinkan
 dilanjutkan/diselesaikannya pekerjaan;
@@ -137297,7 +137297,7 @@ dalam suatu adendum Kontrak.
 28.14 Dalam hal pelaksanaan Kontrak dihentikan
 permanen, para pihak melakukan
 pengakhiran Pekerjaan, Pengakhiran
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak dan menyelesaikan hak dan
 kewajiban sesuai Kontrak. Penyedia berhak
 untuk menerima pembayaran sesuai dengan
@@ -137351,7 +137351,7 @@ KOLUSI DAN/ATAU NEPOTISME,
 kecurangan dan/atau pemalsuan dalam
 proses pengadaan yang diputuskan oleh
 Instansi yang berwenang;.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pengaduan tentang penyimpangan
 prosedur, dugaan KORUPSI, KOLUSI
 DAN/ATAU NEPOTISME dan/atau
@@ -137403,7 +137403,7 @@ Hitam
 pada klausul 31.2 di atas, dicairkan senilai
 uang muka yang belum dikembalikan dan
 disetorkan sesuai ketentuan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 31.4 Pencairan Jaminan sebagaimana dimaksud
 pada klausul 31.2 disertai dengan:
 a. Bukti kesalahan penyedia sesuai dengan
@@ -137457,7 +137457,7 @@ pihak sebagaimana dimaksud pada klausul
 34.2 adalah terkait dengan pembayaran
 yang seharusnya dilakukan akibat dari
 pelaksanaan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 35. Peninggalan Semua bahan, perlengkapan, peralatan, hasil
 pekerjaan sementara yang masih berada di lokasi
 kerja setelah pemutusan Kontrak akibat kelalaian
@@ -137509,7 +137509,7 @@ yang sesuai dengan kewenangan Tim
 Pendukung dalam Kontrak ini; dan
 i. hak dan kewajiban lain yang timbul akibat
 lingkup pekerjaan ditentukan di SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 37. Tanggung jawab Penyedia bertanggungjawab/berkewajiban untuk
 melaksanakan dan menyelesaikan pekerjaan sesuai
 dengan kualitas, ketepatan volume, ketepatan waktu
@@ -137564,7 +137564,7 @@ Pejabat Penandatangan Kontrak .
 sebesar nilai pekerjaan yang dilaksanakan
 dan/atau dapat ditanggung asuransi yang
 dibayar oleh penyedia atas biaya sendiri
-Paraf 1 Paraf 2 Paraf 3
+
 40.4 Kehilangan atau kerusakan terhadap hasil
 pekerjaan sejak Tanggal Mulai Kerja sampai
 dengan Tanggal Penyerahan Pekerjaan harus
@@ -137619,7 +137619,7 @@ pelaksanaan kontrak untuk menetapkan
 volume pekerjaan atau kegiatan yang telah
 dilaksanakan guna pembayaran hasil
 pekerjaan. Hasil pemeriksaan pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 dituangkan dalam laporan kemajuan hasil
 pekerjaan sesuai ketentuan dalam KAK
 44.2 Untuk kepentingan pengendalian dan
@@ -137673,7 +137673,7 @@ dicairkan oleh penerbit jaminan paling
 lambat 14 (empat belas) hari kerja setelah
 surat perintah pencairan dari Pejabat
 Penandatangan Kontrak atau pihak yang
-Paraf 1 Paraf 2 Paraf 3
+
 diberi kuasa oleh Pejabat Penandatangan
 Kontrak diterima.
 48.2 Penerbit jaminan selain Bank Umum harus
@@ -137726,7 +137726,7 @@ Tanggal Penyerahan Pekerjaan.
 bekerja adalah 8 (delapan) jam, terdiri atas
 7 (tujuh) jam kerja (efektif) dan 1 (satu) jam
 istirahat.
-Paraf 1 Paraf 2 Paraf 3
+
 49.2 Pelaksanaan pekerjaan diluar ketentuan
 klausul 48.1 dapat diberikan lembur sesuai
 dengan ketentuan Menteri yang
@@ -137779,7 +137779,7 @@ Personel yang tercantum dalam Kontrak yang
 telah ditetapkan kepada Penyedia;
 e. memberikan fasilitas berupa sarana dan
 prasarana yang dibutuhkan oleh Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 untuk kelancaran pelaksanaan pekerjaan sesuai
 ketentuan Kontrak; dan
 f. menilai kinerja Penyedia
@@ -137834,7 +137834,7 @@ perlunya tambahan waktu akibat Peristiwa
 Kompensasi.
 53.5 Penyedia tidak berhak atas ganti rugi
 dan/atau perpanjangan Masa Pelaksanaan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak jika Penyedia gagal atau lalai untuk
 memberikan peringatan dini dalam
 mengantisipasi atau mengatasi dampak
@@ -137887,7 +137887,7 @@ pekerjaan
 b. uang muka dapat diberikan paling tinggi
 20% (dua puluh persen) dari harga
 Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 c. untuk Kontrak Tahun Jamak, uang muka
 dapat diberikan paling tinggi 15% (lima
 belas persen) dari harga Kontrak;
@@ -137944,7 +137944,7 @@ Pekerjaan ditandatangani oleh Pejabat
 Penandatangan Kontrak dan Penyedia;
 f. Pejabat Penandatangan Kontrak dalam
 kurun waktu 7 (tujuh) hari kerja setelah
-Paraf 1 Paraf 2 Paraf 3
+
 pengajuan permintaan pembayaran dari
 Penyedia diterima harus sudah
 mengajukan Surat Permintaan
@@ -138001,7 +138001,7 @@ Pejabat Penandatangan Kontrak ,
 apabila Penyedia telah mengajukan
 tagihan disertai perhitungan dan data-
 data.
-Paraf 1 Paraf 2 Paraf 3
+
 57. Perhitungan Akhir 57.1 Perhitungan akhir nilai pekerjaan
 berdasarkan jumlah waktu penugasan dan
 ketentuan Kontrak dilaksanakan setelah
@@ -138054,7 +138054,7 @@ damai semua perselisihan yang timbul dari
 atau berhubungan dengan Kontrak ini atau
 interpretasinya selama atau setelah
 pelaksanaan pekerjaan ini dengan prinsip
-Paraf 1 Paraf 2 Paraf 3
+
 dasar musyawarah untuk mencapai
 kemufakatan.
 59.2 Dalam hal musyawarah para pihak
@@ -138083,7 +138083,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 5 Korespondensi Alamat Para Pihak sebagai berikut:
@@ -138130,7 +138130,7 @@ angsuran adalah ........... (...... dalam huruf .........) hari kerja
 terhitung sejak tagihan dan kelengkapan dokumen penunjang
 yang tidak diperselisihkan diterima oleh Pejabat
 Penandatangan Kontrak .
-Paraf 1 Paraf 2 Paraf 3
+
 36.i Hak dan Hak dan Kewajiban lain yang timbul akibat dari lingkup
 Kewajiban pekerjaan adalah :
 Penyedia 1……….
@@ -138176,7 +138176,7 @@ Keterlambatan hari keterlambatan adalah 1/1000 (satu perseribu) dari
 Harga Kontrak atau harga Bagian Kontrak yang tercantum
 dalam Kontrak dan belum diserahterimakan apabila ditetapkan
 serah terima pekerjaan secara parsial]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PERALATAN (apabila dipersyaratkan)
 No Nama Merk Kapasitas Jumlah Kondisi Status Keterangan
@@ -138187,7 +138187,7 @@ Utama Tipe
 3 Dst
 Catatan:
 Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan Keterangan
@@ -138199,7 +138199,7 @@ dan laporan akhir), dan kegiatan lain yang memerlukan persetujuan Pejabat Penand
 pekerjaan yang ditahapkan maka kegiatan seperti penyerahan laporan, dan kegiatan lain yang memerlukan persetujuan
 dicantumkan secara terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIV. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi harus
 mematuhi ketentuan sebagai berikut:
@@ -138232,7 +138232,7 @@ pertanggungannya terhadap kegagalan bangunan tidak dapat dipecah-pecah dari
 pekerjaan yang sudah dilaksanakan sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk kontrak
 yang dilakukan pemutusan sepihak oleh Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi
@@ -154658,7 +154658,7 @@ _____________________ __________________
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
-_____[Penerbit Jaminan] Paraf I Paraf II Paraf III
+_____[Penerbit Jaminan]
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -154868,7 +154868,7 @@ Pengadaan
 Pekerjaan Konstruksi
 Metode Tender, Pascakualifikasi, Satu File, Sistem Harga Terendah,
 Kontrak Harga Satuan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Nomor: __________
 Tanggal: __________
@@ -154878,7 +154878,7 @@ __________
 Kelompok Kerja Pemilihan __________
 Kementerian/Lembaga/Pemerintah Daerah _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ................................................................................................................ - 6 -
 BAB II. PENGUMUMAN PEMILIHAN DENGAN PASCAKUALIFIKASI ......................... - 12 -
@@ -154930,7 +154930,7 @@ G. TENDER GAGAL DAN TINDAK LANJUR TENDER GAGAL. ................................
 39. TINDAK LANJUT TENDER GAGAL ............................................................................. - 58 -
 H. PENUNJUKAN PENYEDIA ....................................................................................... - 59 -
 40. PENUNJUKAN PENYEDIA BARANG/JASA ................................................................... - 59 -
-Paraf 1 Paraf 2 Paraf 3
+
 41. KERAHASIAAN PROSES ............................................................................................. - 62 -
 I. JAMINAN PELAKSANAAN ...................................................................................... - 63 -
 42. JAMINAN PELAKSANAAN .......................................................................................... - 63 -
@@ -154983,7 +154983,7 @@ B.4 Adendum ....................................................................
 B.5 Keadaan Kahar .............................................................................. - 139 -
 B.6 Penghentian, Pemutusan, dan Berakhirnya Kontrak ................. - 141 -
 C. HAK DAN KEWAJIBAN PENYEDIA ................................................................. - 145 -
-Paraf 1 Paraf 2 Paraf 3
+
 D. HAK DAN KEWAJIBAN PEJABAT YANG BERWENANG UNTUK
 MENANDATANGANI KONTRAK .................................................................... - 153 -
 E. TENAGA KERJA KONSTRUKSI DAN/ATAU PERALATAN PENYEDIA............ - 154 -
@@ -155007,7 +155007,7 @@ Jaminan Pemeliharaan dari Bank .................................................
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Asuransi/Perusahaan
 Penjaminan ........................................................................................... - 202 -
 BAB XIII. PETUNJUK EVALUASI KEWAJARAN HARGA .............................................- 203 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pemilihan ini disusun untuk membantu peserta dalam menyiapkan
 Dokumen Penawaran berdasarkan Peraturan Presiden Nomor 16 Tahun 2018
@@ -155053,7 +155053,7 @@ perjanjian tertulis.
 Pemilihan (LDP) Lembar Data Pemilihan yang memuat
 ketentuan dan informasi yang spesifik sesuai
 dengan jenis pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 - LDK : Lembar Data Kualifikasi.
 - Pengguna Anggaran : yang selanjutnya disingkat PA adalah pejabat
 (PA) pemegang kewenangan penggunaan
@@ -155101,7 +155101,7 @@ Indonesia, baik sendiri maupun bersama-
 sama melalui perjanjian menyelenggarakan
 kegiatan usaha dalam berbagai bidang
 ekonomi;
-Paraf 1 Paraf 2 Paraf 3
+
 - Pelaku Usaha Orang : yang selanjutnya disebut pelaku usaha Papua
 Asli Papua adalah calon penyedia yang
 merupakan/dimiliki orang asli Papua dan
@@ -155148,7 +155148,7 @@ pembayaran yang nilai bobotnya terbesar.
 - Harga Satuan : yang selanjutnya disingkat HSP adalah harga
 Pekerjaan satu jenis pekerjaan tertentu per satu satuan
 tertentu.
-Paraf 1 Paraf 2 Paraf 3
+
 - Harga Satuan Dasar : yang selanjutnya disingkat HSD adalah harga
 satuan komponen dari harga satuan
 pekerjaan (HSP) per satu satuan tertentu,
@@ -155197,7 +155197,7 @@ dokumen kontrak.
 - Ahli K3 : tenaga ahli yang mempunyai kompetensi
 Konstruksi/Ahli khusus di bidang K3 Konstruksi dalam
 merencanakan, melaksanakan dan
-Paraf 1 Paraf 2 Paraf 3
+
 Keselamatan mengevaluasi SMKK yang dibuktikan dengan
 Konstruksi sertifikat pelatihan dan kompetensi yang
 diterbitkan oleh lembaga sertifikasi profesi
@@ -155245,7 +155245,7 @@ beroperasi di dalam SPSE.
 digunakan oleh pengguna untuk
 memverifikasi User ID kepada SPSE.
 - APENDO : Aplikasi Pengaman Dokumen.
-Paraf 1 Paraf 2 Paraf 3
+
 - Isian Elektronik : Tampilan/antarmuka pemakai berbentuk
 grafis berisi komponen isian yang dapat
 diinput atau diunggah (upload) oleh
@@ -155253,12 +155253,12 @@ pengguna aplikasi.
 - Formulir Isian : Formulir isian elektronik pada SPSE yang
 Elektronik Data digunakan peserta untuk menginputkan dan
 Kualifikasi mengirimkan data kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. PENGUMUMAN PEMILIHAN DENGAN PASCAKUALIFIKASI
 Pengumuman tercantum pada SPSE dan dapat ditambahkan di situs web
 Kementerian/Lembaga/Pemerintah Daerah, papan pengumuman resmi untuk
 masyarakat, surat kabar, dan/atau media lainnya
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Pokja Pemilihan mengumumkan kepada para Peserta
@@ -155301,7 +155301,7 @@ c. mencantumkan pembagian modal (sharing) dari
 setiap perusahaan;
 d. mencantumkan nama individu dari leadfirm KSO
 sebagai pihak yang mewakili KSO; dan
-Paraf 1 Paraf 2 Paraf 3
+
 e. ditandatangani oleh setiap perusahaan yang
 tergabung dalam KSO.
 3.5. Badan usaha yang mewakili KSO dalam proses
@@ -155349,7 +155349,7 @@ kompleks dapat dilakukan dengan batasan paling
 banyak 3 (tiga) perusahaan dalam 1 (satu) kerjasama
 operasi. Dalam hal pekerjaan yang bersifat kompleks
 dibatasi paling banyak 5 (lima) perusahaan.
-Paraf 1 Paraf 2 Paraf 3
+
 3.11. Peserta KSO dilarang untuk mengubah Perjanjian Kerja
 Sama Operasi selama proses pemilihan, pelaksanaan
 sampai dengan pengakhiran Pekerjaan Konstruksi.
@@ -155397,7 +155397,7 @@ e. pelaporan secara pidana kepada pihak berwenang
 kepada PA/KPA.
 4.4. Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas
 usulan Pokja Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 4.5. Peserta dilarang melibatkan pegawai
 Kementerian/Lembaga/Perangkat Daerah sebagai
 pimpinan dan/atau pengurus badan usaha dan/atau
@@ -155449,7 +155449,7 @@ bersedia menaikkan nilai Jaminan Pelaksanaan menjadi
 sebesar 5% (lima persen) HPS;
 f. pemenang Pemilihan yang telah menerima Surat
 Penunjukan Penyedia Barang Jasa (SPPBJ) mengundurkan
-Paraf 1 Paraf 2 Paraf 3
+
 diri sebelum penandatanganan Kontrak dengan alasan yang
 tidak dapat diterima oleh PPK;
 g. Penyedia yang tidak melaksanakan kontrak, tidak
@@ -155500,7 +155500,7 @@ Penawaran.
 hal:
 a. barang/jasa tersebut belum dapat
 diproduksi/dihasilkan di dalam negeri;
-Paraf 1 Paraf 2 Paraf 3
+
 b. spesifikasi teknis barang yang diproduksi dan/atau
 kualifikasi teknis tenaga ahli dalam negeri belum
 memenuhi persyaratan; dan/atau
@@ -155545,7 +155545,7 @@ dokumen penawaran saat penyerahan lokasi kerja dan
 personel. Pejabat Penandatangan Kontrak meminta
 Penyedia untuk mengganti personel yang memenuhi
 persyaratan yang sudah ditentukan. Penggantian
-Paraf 1 Paraf 2 Paraf 3
+
 personel harus dilakukan dalam jangka waktu
 mobilisasi dan sesuai dengan kesepakatan.
 9. Satu Penawaran 9.1. Setiap peserta, baik tunggal/atas nama sendiri maupun
@@ -155596,7 +155596,7 @@ Satuan Pekerjaan bukan merupakan bagian dari
 Dokumen Kontrak.
 f. Rancangan Kontrak (sudah dilengkapi isiannya oleh
 PPK):
-Paraf 1 Paraf 2 Paraf 3
+
 1) Surat Perjanjian;
 2) Syarat-Syarat Umum Kontrak;
 3) Syarat-Syarat Khusus Kontrak.
@@ -155645,7 +155645,7 @@ informasi yang dianggap penting terkait dengan
 Dokumen Pemilihan.
 12.5. Apabila diperlukan, Pokja Pemilihan dapat memberikan
 penjelasan lanjutan dengan cara melakukan peninjauan
-Paraf 1 Paraf 2 Paraf 3
+
 lapangan sesuai jadwal yang ditetapkan dalam LDP.
 Biaya yang diperlukan peserta dalam rangka
 peninjauan lapangan ditanggung oleh masing-masing
@@ -155691,7 +155691,7 @@ waktu pemasukan penawaran, Pokja Pemilihan dapat
 menetapkan Adendum Dokumen Pemilihan,
 berdasarkan informasi baru yang mempengaruhi
 substansi Dokumen Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 13.5. Setiap Adendum yang ditetapkan merupakan bagian
 yang tidak terpisahkan dari Dokumen Pemilihan.
 13.6. Pokja Pemilihan mengumumkan Adendum Dokumen
@@ -155737,7 +155737,7 @@ a. Dokumen Penawaran Administrasi terdiri atas:
 1) Surat Penawaran (sebagaimana tercantum
 dalam SPSE);
 2) Jaminan Penawaran (apabila disyaratkan);
-Paraf 1 Paraf 2 Paraf 3
+
 3) Surat Perjanjian Kerja Sama Operasi (apabila
 peserta berbentuk KSO);
 b. Dokumen Penawaran Teknis sesuai persyaratan
@@ -155793,7 +155793,7 @@ a) Elemen SMKK; dan
 b) Pakta Komitmen Keselamatan Konstruksi;
 6) Dokumen lain yang disyaratkan (apabila ada).
 c. Dokumen Penawaran Harga terdiri atas:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Penawaran harga, tercantum dalam Surat
 Penawaran;
 2) Daftar Kuantitas dan Harga;
@@ -155849,7 +155849,7 @@ dikompetisikan; dan
 dengan nilai HPS di atas
 Rp100.000.000.000,00 (seratus miliar
 rupiah) disyaratkan paling banyak 10
-Paraf 1 Paraf 2 Paraf 3
+
 (sepuluh) jenis peralatan utama yang
 dikompetisikan.
 b. Jumlah peralatan utama dari setiap jenis
@@ -155905,7 +155905,7 @@ sebagai berikut:
 (a) kualifikasi Usaha Kecil tidak mensyaratkan
 SKA, kecuali SKA Ahli K3 Konstruksi/Ahli
 Keselamatan Konstruksi; dan
-Paraf 1 Paraf 2 Paraf 3
+
 (b) kualifikasi Usaha Menengah dan Usaha
 Besar tidak mensyaratkan SKT;
 7) Untuk pekerjaan yang memiliki tingkat risiko
@@ -155962,7 +155962,7 @@ kualifikasi usaha besar dengan nilai HPS di
 atas Rp100.000.000.000,00 (seratus miliar
 rupiah), pengalaman yang disyaratkan
 paling lama 8 (delapan) tahun; dan
-Paraf 1 Paraf 2 Paraf 3
+
 (e) Untuk tender pekerjaan kompleks,
 pengalaman yang disyaratkan paling lama
 10 (sepuluh) tahun.
@@ -156012,7 +156012,7 @@ pengendalian Risiko Keselamatan Konstruksi.
 18.6. Rincian kegiatan sebagaimana dimaksud dalam angka
 18.5 huruf c, huruf f, huruf g, dan huruf i merupakan
 barang habis pakai.
-Paraf 1 Paraf 2 Paraf 3
+
 18.7. Konsultasi dengan ahli terkait Keselamatan Konstruksi
 sebagaimana dimaksud pada angka 18.5 huruf h tidak
 diharuskan bagi Pekerjaan Konstruksi dengan Risiko
@@ -156061,7 +156061,7 @@ Kualifikasi dan pernyataan yang menjadi bagian
 kualifikasi dianggap telah ditandatangani dan
 disetujui oleh pejabat yang menurut perjanjian
 KSO berhak mewakili/leadfirm KSO.
-Paraf 1 Paraf 2 Paraf 3
+
 22. Pakta Integritas 22.1 Pakta Integritas berisi pernyataan:
 a. Tidak akan melakukan praktek korupsi, kolusi,
 dan/atau nepotisme;
@@ -156111,7 +156111,7 @@ Jaminan Penawaran menjadi risiko peserta.
 a) Bank Umum;
 b) Perusahaan Penjaminan;
 c) Perusahaan Asuransi; atau
-Paraf 1 Paraf 2 Paraf 3
+
 d) Lembaga khusus yang menjalankan usaha di
 bidang pembiayaan, penjaminan, dan asuransi
 untuk mendorong ekspor Indonesia sesuai dengan
@@ -156158,7 +156158,7 @@ Pemilihan, dengan jadwal sebagaimana yang telah
 ditetapkan pada SPSE, dengan ketentuan:
 a. Data Kualifikasi disampaikan melalui formulir
 isian elektronik kualifikasi yang tersedia pada SPSE;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Peserta dapat mengirimkan data kualifikasi secara
 berulang sebelum batas akhir waktu pemasukan
 Dokumen Penawaran. Data kualifikasi yang
@@ -156213,7 +156213,7 @@ dienkripsi menggunakan sistem pengaman dokumen.
 25.6. Peserta mengunggah (upload) Dokumen Penawaran
 administrasi, teknis, dan harga yang telah terenkripsi
 sesuai jadwal yang ditetapkan.
-Paraf 1 Paraf 2 Paraf 3
+
 25.7. Peserta dapat mengunggah Dokumen Penawaran
 secara berulang sebelum batas akhir waktu pemasukan
 Dokumen Penawaran. Dokumen Penawaran terakhir
@@ -156261,7 +156261,7 @@ batas akhir pemasukan penawaran kecuali:
 a. terjadi keadaan diluar kehendak para pihak dan
 tidak dapat diperkirakan sebelumnya;
 b. terjadi gangguan teknis SPSE;
-Paraf 1 Paraf 2 Paraf 3
+
 c. perubahan dokumen pemilihan yang
 mengakibatkan kebutuhan penambahan waktu
 penyiapan Dokumen Penawaran; atau
@@ -156307,7 +156307,7 @@ bersangkutan.
 28.5. Dinyatakan sebagai penawaran yang masuk apabila
 Dokumen Penawaran sebagaimana dimaksud pada IKP
 F. PENETAPAN PEMENANG
-Paraf 1 Paraf 2 Paraf 3
+
 17.1 terpenuhi. Surat pengunduran diri (misalnya) tidak
 termasuk sebagai penawaran.
 28.6. Apabila penawaran yang masuk hanya 1 (satu), maka
@@ -156355,7 +156355,7 @@ HPS dinyatakan gugur.
 aritmatik di atas nilai HPS, tender dinyatakan gagal.
 29.7. Berdasarkan hasil koreksi aritmatik, Pokja Pemilihan
 menyusun urutan dari penawaran terendah.
-Paraf 1 Paraf 2 Paraf 3
+
 29.8. Apabila setelah koreksi aritmatik terdapat kurang dari 3
 (tiga) penawar yang menawar di bawah atau sama
 dengan nilai HPS maka proses tender tetap dilanjutkan
@@ -156408,7 +156408,7 @@ mencantumkan spesifikasi/volume pekerjaan,
 kecuali terdapat ketidaksesuaian terhadap
 penggunaan peralatan atau spesifikasi/volume
 pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 f. Para pihak dilarang mempengaruhi atau melakukan
 intervensi kepada Pokja Pemilihan selama proses
 evaluasi;
@@ -156463,7 +156463,7 @@ administrasi, apabila:
 berdasarkan Dokumen Pemilihan terpenuhi,
 yaitu dengan dilampirkannya:
 a) Jaminan Penawaran (apabila disyaratkan);
-Paraf 1 Paraf 2 Paraf 3
+
 b) Surat Perjanjian Kerja Sama Operasi (apabila
 ber-KSO);
 c) Dokumen Penawaran Teknis;
@@ -156519,7 +156519,7 @@ Jaminan dalam waktu paling lambat 14
 (empat belas) hari kerja, setelah surat
 pernyataan wanprestasi dari Pokja Pemilihan
 diterima oleh Penerbit Jaminan;
-Paraf 1 Paraf 2 Paraf 3
+
 j) Jaminan Penawaran atas nama KSO harus
 ditulis atas nama KSO; dan
 k) Substansi dan keabsahan/keaslian Jaminan
@@ -156575,7 +156575,7 @@ tidak digugurkan;
 (3) Dalam hal metode pelaksanaan peserta
 tidak mencantumkan
 spesifikasi/volume pekerjaan maka
-Paraf 1 Paraf 2 Paraf 3
+
 tidak digugurkan, kecuali terdapat
 ketidaksesuaian terhadap penggunaan
 peralatan atau spesifikasi/volume
@@ -156631,7 +156631,7 @@ menyampaikan surat perjanjian
 sewa harus disertai dengan bukti
 kepemilikan/penguasaan terhadap
 peralatan dari pemberi sewa.
-Paraf 1 Paraf 2 Paraf 3
+
 Evaluasi bukti peralatan utama
 dilakukan dengan ketentuan:
 (a) Dalam hal peserta menyampaikan
@@ -156687,7 +156687,7 @@ digugurkan.
 keselamatan konstruksi untuk
 pekerjaan yang memiliki tingkat risiko
 kecil, peserta dapat menawarkan
-Paraf 1 Paraf 2 Paraf 3
+
 personel dengan jabatan Ahli K3
 Konstruksi/Ahli Keselamatan
 Konstruksi.
@@ -156744,7 +156744,7 @@ konstruksi;
 (b) Perencanaan Keselamatan
 Konstruksi:
 i. uraian pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 ii. manajemen risiko dan rencana
 tindakan, meliputi:
 i) penjelasan manajemen
@@ -156800,7 +156800,7 @@ dukungan keselamatan konstruksi
 menyampaikan tabel Jadwal Program
 Komunikasi yang telah diisi (isian tidak
 dievaluasi);
-Paraf 1 Paraf 2 Paraf 3
+
 (4). Peserta dinyatakan memenuhi elemen
 Operasi Keselamatan Konstruksi
 apabila menyampaikan penjelasan
@@ -156853,7 +156853,7 @@ tidak jelas atau meragukan, Pokja Pemilihan
 melakukan klarifikasi dengan peserta/pihak lain
 yang berwenang. Dalam klarifikasi, peserta tidak
 diperkenankan mengubah substansi penawaran;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Dalam hal klarifikasi dilakukan kepada peserta,
 peserta yang tidak hadir atau tidak memberikan
 tanggapan atas permintaan klarifkasi, maka
@@ -156902,7 +156902,7 @@ c) Pokja Pemilihan menyampaikan daftar
 harga satuan yang dinyatakan timpang
 kepada PPK dalam bentuk berita acara
 klarifikasi harga timpang.
-Paraf 1 Paraf 2 Paraf 3
+
 3) Apabila terdapat mata pembayaran yang
 harganya nol atau tidak ditulis maka dilakukan
 klarifikasi, kegiatan tersebut harus tetap
@@ -156957,7 +156957,7 @@ iv. Hasil penelitian digunakan untuk
 menghitung kewajaran harga tanpa
 memperhitungkan keuntungan yang
 ditawarkan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 v. Harga dalam Analisa Harga Satuan dan
 bukti harga satuan dasar yang dinilai
 wajar dan dapat
@@ -157010,7 +157010,7 @@ perindustrian dengan tetap berpedoman pada
 tata nilai Pengadaan Barang/Jasa.
 3) Rumus penghitungan sebagai berikut:
 = 1−
-Paraf 1 Paraf 2 Paraf 3
+
 HEA = Harga Evaluasi Akhir.
 KP = TKDN x Preferensi Tertinggi.
 KP adalah koefisien preferensi
@@ -157064,7 +157064,7 @@ koreksi aritmatik ada yang tidak memenuhi evaluasi
 harga maka Pokja Pemilihan melakukan evaluasi
 terhadap penawar terendah berikutnya (apabila
 ada) dimulai dari evaluasi administrasi;
-Paraf 1 Paraf 2 Paraf 3
+
 j. Apabila hanya ada 1 (satu) atau 2 (dua) peserta yang
 lulus evaluasi harga, maka evaluasi dilanjutkan
 dengan evaluasi kualifikasi; dan
@@ -157108,7 +157108,7 @@ yang ditetapkan.
 30.12. Pokja Pemilihan menetapkan persyaratan kualifikasi
 sebagaimana dimaksud pada ketentuan 30.11 dalam
 LDK yang terdiri atas:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Persyaratan kepemilikan perizinan berusaha di
 bidang Jasa Konstruksi;
 b. Persyaratan kepemilikan Sertifikat Badan Usaha
@@ -157165,7 +157165,7 @@ tahun terakhir, baik di lingkungan pemerintah atau
 swasta termasuk pengalaman subkontrak.
 i. Untuk kualifikasi Usaha Kecil yang baru berdiri
 kurang dari 3 (tiga) tahun:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Dalam hal Penyedia belum memiliki
 pengalaman, ketentuan huruf h dikecualikan
 untuk pengadaan dengan nilai paket sampai
@@ -157216,7 +157216,7 @@ daring kepada Peserta. Dalam hal diperlukan atau
 apabila tidak memungkinkan dilaksanakan secara
 daring, pelaksanaan pembuktian kualifikasi dapat
 dilakukan secara luring/tatap muka.
-Paraf 1 Paraf 2 Paraf 3
+
 31.8. Apabila peserta tidak dapat menghadiri pembuktian
 kualifikasi dengan alasan yang dapat diterima, maka
 Pokja Pemilihan dapat memperpanjang waktu
@@ -157267,7 +157267,7 @@ namun tetap tidak dapat menghadiri pembuktian
 kualifikasi, maka peserta dinyatakan gugur dan Jaminan
 Penawaran (apabila disyaratkan) dicairkan ke Kas
 Negara/Kas Daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 31.14. Apabila hasil pembuktian kualifikasi ditemukan
 pemalsuan data, maka peserta digugurkan, dikenakan
 sanksi Daftar Hitam, Jaminan Penawaran (apabila
@@ -157314,7 +157314,7 @@ pemenang bersamaan dan/atau sedang melaksanakan
 pekerjaan konstruksi lain/yang sedang berjalan, maka:
 a. Apabila menawarkan peralatan yang sama untuk
 beberapa tender yang diikuti dan dalam evaluasi
-Paraf 1 Paraf 2 Paraf 3
+
 memenuhi persyaratan pada masing-masing
 tender, maka hanya dapat ditetapkan sebagai
 pemenang pada 1 (satu) tender paket pekerjaan
@@ -157369,7 +157369,7 @@ maksimal 3 (tiga) paket bersamaan;
 tindih (overlap) dengan kegiatan lain
 berdasarkan jadwal pelaksanaan pekerjaan
 atau jadwal penugasan; atau
-Paraf 1 Paraf 2 Paraf 3
+
 3) Terdapat personel cadangan yang diusulkan
 dalam Dokumen Penawaran yang memenuhi
 syarat.
@@ -157420,7 +157420,7 @@ dikenakan sanksi.
 34. Pengumuman Pokja Pemilihan mengumumkan pemenang, pemenang
 Pemenang cadangan 1 dan pemenang cadangan 2 (apabila ada) melalui
 SPSE yang memuat paling sedikit :
-Paraf 1 Paraf 2 Paraf 3
+
 a. Nama pemenang;
 b. NPWP;
 c. Alamat;
@@ -157465,7 +157465,7 @@ atau
 c. sanggahan disampaikan diluar masa sanggah.
 35.8 Sanggahan yang dianggap sebagai pengaduan diproses
 sebagaimana penanganan pengaduan.
-Paraf 1 Paraf 2 Paraf 3
+
 36. Sanggah 36.1 Peserta dapat mengajukan sanggah banding apabila
 Banding dari tidak setuju atas jawaban sanggah.
 Peserta Tender
@@ -157512,7 +157512,7 @@ ekspor Indonesia.
 huruf a.2 sampai dengan a.4 telah
 ditetapkan/mendapatkan rekomendasi dari Otoritas
 Jasa Keuangan (OJK).
-Paraf 1 Paraf 2 Paraf 3
+
 b. Untuk Pekerjaan Konstruksi dengan nilai HPS di atas
 Rp100.000.000.000,00 (seratus miliar rupiah),
 diterbitkan oleh Bank Umum yang telah ditetapkan/
@@ -157559,7 +157559,7 @@ d. tidak ada peserta yang menyampaikan Dokumen
 Penawaran setelah ada pemberian waktu
 perpanjangan;
 e. seluruh penawaran harga pada Tender di atas HPS
-Paraf 1 Paraf 2 Paraf 3
+
 f. ditemukan kesalahan dalam Dokumen Pemilihan
 atau Dokumen Pemilihan tidak sesuai dengan
 ketentuan dalam Peraturan Presiden Nomor 16
@@ -157604,7 +157604,7 @@ Rp100.000.000.000,00 (seratus miliar rupiah);
 a. tidak ada peserta yang menyampaikan dokumen
 penawaran setelah ada pemberian waktu
 perpanjangan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. seluruh penawaran harga pada Tender di atas HPS;
 c. tidak ada peserta yang lulus evaluasi penawaran;
 d. ditemukan kesalahan dalam Dokumen Pemilihan
@@ -157656,7 +157656,7 @@ Penunjukan Penyedia Barang/Jasa (SPPBJ).
 ketentuan setelah:
 a. masa sanggah berakhir (apabila tidak ada
 sanggahan);
-Paraf 1 Paraf 2 Paraf 3
+
 b. masa sanggah banding telah berakhir (apabila ada
 sanggahan tetapi tidak ada sanggahan banding); atau
 c. KPA menyatakan sanggah banding salah/tidak
@@ -157708,7 +157708,7 @@ memerintahkan Pejabat Penandatangan kontrak
 untuk menerbitkan SPPBJ paling lambat 5 (lima)
 hari kerja.
 g. Putusan PA/KPA bersifat final.
-Paraf 1 Paraf 2 Paraf 3
+
 h. Dalam hal PA/KPA yang bertindak sebagai PPK tidak
 menyetujui hasil pemilihan penyedia, PA/KPA
 menyampaikan penolakan tersebut kepada Pokja
@@ -157758,7 +157758,7 @@ c. Kelengkapan Rencana Keselamatan Konstruksi;
 d. Rencana penandatanganan Kontrak;
 e. Rencana pemberdayaan tenaga kerja
 praktik/magang (bila ada);
-Paraf 1 Paraf 2 Paraf 3
+
 f. Jaminan Uang Muka (ketentuan, bentuk, isi, waktu
 penyerahan);
 g. Jaminan Pelaksanaan (ketentuan, bentuk, isi, waktu
@@ -157806,7 +157806,7 @@ tidak berkepentingan sampai keputusan pemenang
 diumumkan.
 41.3 Setiap usaha peserta tender mencampuri proses evaluasi
 Dokumen Penawaran atau keputusan pemenang akan
-Paraf 1 Paraf 2 Paraf 3
+
 mengakibatkan ditolaknya penawaran yang
 bersangkutan.
 41.4 Evaluasi penawaran yang disimpulkan dalam Berita
@@ -157857,7 +157857,7 @@ Pejabat Penandatangan Kontrak yang
 menandatangan kontrak;
 h. Paket pekerjaan yang dijamin sama dengan paket
 pekerjaan yang tercantum dalam SPPBJ;
-Paraf 1 Paraf 2 Paraf 3
+
 i. Jaminan Pelaksanaan harus dapat dicairkan tanpa
 syarat (unconditional) sebesar nilai jaminan dalam
 jangka waktu paling lambat 14 (empat belas) hari
@@ -157907,7 +157907,7 @@ kecuali mempersingkat waktu pelaksanaan pekerjaan
 dikarenakan jadwal pelaksanaan pekerjaan yang
 ditetapkan sebelumnya akan melewati batas tahun
 anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 44.5. Pejabat Penandatangan Kontrak dan Penyedia yang
 memenuhi ketentuan Rapat Persiapan Penandatanganan
 Kontrak mengisi substansi rancangan kontrak dengan
@@ -157954,7 +157954,7 @@ sesuai dengan peraturan perundang-undangan.
 44.10. Pejabat Penandatangan Kontrak menginputkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas Pokja 1.1 Identitas Pokja Pemilihan:
@@ -157996,7 +157996,7 @@ Penjelasan lanjutan melalui Peninjauan lapangan akan
 dilaksanakan pada:
 Hari : _______________________
 Tanggal : _______________________
-Paraf 1 Paraf 2 Paraf 3
+
 Waktu : ___________s.d _________
 Tempat : _______________________
 [Dalam hal dilakukan Peninjauan Lapangan]
@@ -158061,7 +158061,7 @@ Keuangan
 4 Ahli K3 ___ SKA___
 Konstruksi/
 Ahli
-Paraf 1 Paraf 2 Paraf 3
+
 Keselamatan
 Konstruksi
 [diisi lama pengalaman kerja dan SKK yang
@@ -158110,7 +158110,7 @@ Dst
 utama dan pekerjaan bukan pekerjaan utama
 yang wajib disubkontrakkan, sesuai ketentuan
 pada IKP 17.3.d]
-Paraf 1 Paraf 2 Paraf 3
+
 5. Rencana Keselamatan Konstruksi (RKK):
 Peserta menyampaikan rencana keselamatan
 konstruksi sesuai tabel jenis pekerjaan dan
@@ -158158,7 +158158,7 @@ pengajuan sanggah banding.
 37.14 Jaminan Sanggah Banding yang dicairkan
 disetorkan pada _______
 [diisi Kas Negara atau Kas Daerah]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. LEMBAR DATA KUALIFIKASI (LDK)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 Persyaratan 30.12 Persyaratan kualifikasi:
@@ -158206,7 +158206,7 @@ perubahan perusahaan (apabila ada perubahan);
 7. Tidak masuk dalam Daftar Hitam,
 keikutsertaannya tidak menimbulkan
 pertentangan kepentingan pihak yang terkait,
-Paraf 1 Paraf 2 Paraf 3
+
 tidak dalam pengawasan pengadilan, tidak pailit,
 kegiatan usahanya tidak sedang dihentikan
 dan/atau yang bertindak untuk dan atas nama
@@ -158257,7 +158257,7 @@ bersamaan selama kurun waktu 5
 a. evaluasi persyaratan pada angka 2, 6, 7, 8, dan
 9 dilakukan untuk setiap perusahaan yang
 tergabung dalam KSO;
-Paraf 1 Paraf 2 Paraf 3
+
 b. evaluasi pada angka 3, dilakukan secara saling
 melengkapi oleh anggota KSO dan setiap
 anggota KSO harus memiliki salah satu SBU
@@ -158270,7 +158270,7 @@ e. dalam hal KSO dilakukan antara usaha
 kualifikasi menengah dengan usaha kualifikasi
 kecil, maka evaluasi pada angka 10 tetap
 dilakukan terhadap usaha kecil tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. BENTUK DOKUMEN PENAWARAN
 A. BENTUK PERJANJIAN KERJA SAMA OPERASI (KSO) – (apabila ber-KSO)
 CONTOH
@@ -158312,7 +158312,7 @@ menyatakan dan menyetujui pakta integritas:
 a. Tidak akan melakukan praktek korupsi, kolusi, dan/atau nepotisme;
 b. Akan melaporkan kepada PA/KPA/APIP jika mengetahui terjadinya praktik
 korupsi, kolusi, dan/atau nepotisme dalam proses pengadaan ini;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional
 untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
@@ -158336,7 +158336,7 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang tender maka Surat Perjanjian Kerja Sama Operasi
 ini harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK JAMINAN PENAWARAN DARI BANK – (apabila disyaratkan)
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -158381,7 +158381,7 @@ dan efektif mulai dari tanggal _______________ [diisi sesuai dengan tanggal bata
 akhir pemasukan penawaran]
 2. Tuntutan pencairan atau klaim dapat diajukan secara tertulis dengan melampirkan
 Surat Pernyataan Wanprestasi dari Penerima Jaminan paling lambat 14 (empat
-Paraf 1 Paraf 2 Paraf 3
+
 belas) hari kalender setelah tanggal jatuh tempo Garansi Bank sebagaimana
 tercantum dalam butir 1.
 3. Penjamin akan membayar kepada Penerima Jaminan sejumlah nilai jaminan
@@ -158409,7 +158409,7 @@ _______________
 disarankan untuk [Nama dan Jabatan]
 mengkonfirmasi Garansi
 ini ke ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN PENAWARAN DARI ASURANSI/PERUSAHAAN PENJAMINAN –
 (apabila disyaratkan)
 CONTOH
@@ -158449,7 +158449,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 6. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah
 diajukan selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah
 berakhirnya masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _______
 pada tanggal _______
 TERJAMIN PENJAMIN
@@ -158461,7 +158461,7 @@ disarankan untuk
 mengkonfirmasi Jaminan
 ini ke ...........[penerbit
 jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK JAMINAN SANGGAHAN BANDING DARI BANK
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -158507,7 +158507,7 @@ Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum
 Perdata.
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak
 lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ....................
@@ -158520,7 +158520,7 @@ ini ke ...........[bank]
 Meterai Rp10.000,00
 _______________
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK JAMINAN SANGGAHAN BANDING DARI ASURANSI/PERUSAHAAN
 PENJAMINAN
 CONTOH
@@ -158565,7 +158565,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama &Jabatan] [Nama &Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK DOKUMEN PENAWARAN TEKNIS
 Dokumen Penawaran Teknis
 [Cantumkan dan jelaskan sesuai dengan ketentuan dalam IKP dan LDP. Jika diperlukan,
@@ -158616,7 +158616,7 @@ dilaksanakan **) ***)
 4 ___ 1. D3, tahun ___ Ahli K3 Konstruksi/Ahli ___
 2. S1, tahun ___ Keselamatan Konstruksi
 3. dst...
-Paraf 1 Paraf 2 Paraf 3
+
 Keterangan:
 *) Riwayat pendidikan bukan hal yang menggugurkan.
 **) Pengalaman kerja yang dihitung adalah pengalaman sesuai dengan keterampilan/keahlian
@@ -158653,7 +158653,7 @@ Mengetahui:
 __________[nama Penyedia Jasa Pekerjaan Konstruksi]
 (__________)
 [nama jelas wakil sah]
-Paraf 1 Paraf 2 Paraf 3
+
 I. BAGIAN PEKERJAAN YANG DISUBKONTRAKKAN (APABILA DISYARATKAN)
 CONTOH
 1. Bagian Pekerjaan yang disubkontrakkan (Disyaratkan untuk paket pekerjaan
@@ -158701,7 +158701,7 @@ Provinsi Setempat
 1. ...... ......
 2. ...... ......
 Dst. Dst. Dst.
-Paraf 1 Paraf 2 Paraf 3
+
 J. BENTUK RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
 BENTUK RENCANA KESELAMATAN KONSTRUKSI
@@ -158728,7 +158728,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 A. Kepemimpinan dan Partisipasi Pekerja dalam Keselamatan Konstruksi
 A.1 Komitmen Keselamatan Konstruksi
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
@@ -158755,7 +158755,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Keselamatan Konstruksi Badan Usaha Dengan KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -158784,7 +158784,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B. Perencanaan keselamatan konstruksi
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 Tabel Contoh Format Tabel IBPRP*
@@ -158818,7 +158818,7 @@ Induction)
 meeting)
 4 Rapat Keselamatan Konstruksi
 (construction safety meeting)
-Paraf 1 Paraf 2 Paraf 3
+
 D. Operasi Keselamatan Konstruksi
 Tabel Contoh Analisis Keselamatan Pekerjaan (Job Safety Analysis)
 Nama Pekerja : [Isi nama pekerja]
@@ -158839,7 +158839,7 @@ No Kegiatan PIC
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 K. BENTUK SURAT PERJANJIAN SEWA PERALATAN
 CONTOH
 [ Kop Perusahaan Lessor/penyedia peralatan ]
@@ -158871,7 +158871,7 @@ dst..
 Untuk selanjutnya disebut sebagai PERALATAN. Perjanjian Sewa antara PIHAK
 PERTAMA dan PIHAK KEDUA ini dilangsungkan dan diterima berdasarkan
 kesepakatan yang termuat secara tertulis dalam pasal- pasal berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 PENERIMAAN PERALATAN
 PIHAK KEDUA akan menerima hak guna dari apa yang disewanya dari PIHAK
@@ -158912,7 +158912,7 @@ PIHAK KEDUA tidak memenangkan tender Paket Pekerjaan ……………[diisi
 nama paket].
 Pasal 6
 TANGGUNG JAWAB PIHAK PERTAMA
-Paraf 1 Paraf 2 Paraf 3
+
 1) PIHAK PERTAMA bersedia menyiapkan alat yang disewa dalam keadaan siap
 operasi dan akan memobilisasi ke Lokasi Pekerjaan sesuai petunjuk dari PIHAK
 KEDUA.
@@ -158938,7 +158938,7 @@ kedua pihak
 PIHAK PERTAMA PIHAK KEDUA
 PT. ……… [diisi nama perusahaan PT. ……… [diisi nama perusahaan
 Lessor/penyedia peralatan] Lessee/penerima peralatan]
-Paraf 1 Paraf 2 Paraf 3
+
 L. BENTUK FORMULIR PENYAMPAIAN TINGKAT KOMPONEN DALAM NEGERI
 (TKDN) [apabila diberikan preferensi harga]
 FORMULIR PENYAMPAIAN
@@ -158966,7 +158966,7 @@ Penawaran
 *) Nilai TKDN Komponen Barang berdasarkan daftar inventarisasi barang/jasa produksi dalam
 negeri yang diterbitkan oleh kementerian yang menyelenggarakan urusan pemerintahan di
 bidang perindustrian.
-Paraf 1 Paraf 2 Paraf 3
+
 M. BENTUK DAFTAR BARANG YANG DIIMPOR
 DAFTAR BARANG YANG DIIMPOR1
 NAMA NEGARA
@@ -158974,13 +158974,13 @@ NO SPESIFIKASI SATUAN JUMLAH HARGA
 BARANG/URAIAN ASAL
 TOTAL HARGA
 Diisi dan dilampirkan dalam penawaran apabila ada barang yang diimpor
-Paraf 1 Paraf 2 Paraf 3
+
 N. ISIAN DATA KUALIFIKASI
 Isian Data Kualifikasi bagi Peserta tunggal/atas nama sendiri atau Peserta sebagai
 Leadfirm KSO berbentuk Isian Elektronik Data Kualifikasi yang tersedia pada SPSE
 Isian Data Kualifikasi bagi anggota KSO disampaikan dalam formulir isian
 kualifikasi untuk anggota KSO
-Paraf 1 Paraf 2 Paraf 3
+
 FORMULIR ISIAN KUALIFIKASI UNTUK ANGGOTA KSO
 Saya yang bertanda tangan di bawah ini:
 Nama : ___________________[nama wakil sah badan usaha
@@ -159008,7 +159008,7 @@ pihak yang terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. badan usaha yang saya wakili tidak masuk dalam Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit, dan kegiatan usahanya tidak sedang dihentikan;
 6. data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : _____________________
 2. Status : Pusat Cabang
@@ -159044,7 +159044,7 @@ D. Izin Usaha
 Konstruksi b. Tanggal ……………
 2. Masa berlaku izin berusaha : …………
 3. Instansi penerbit : …………
-Paraf 1 Paraf 2 Paraf 3
+
 E. Sertifikat Badan Usaha
 1. Sertifikat Badan Usaha : a. Nomor …………
 b. Tanggal …………
@@ -159079,7 +159079,7 @@ Nama Nilai Kontrak Serah
 Telepon Tanggal
 Terima
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 I. Data Pengalaman Perusahaan Dalam Kurun Waktu 4 Tahun Terakhir
 (untuk perusahaan yang telah berdiri 3 tahun atau lebih. Untuk perusahaan yang baru
 berdiri kurang dari 3 tahun tidak wajib mengisi tabel ini)
@@ -159118,7 +159118,7 @@ __________[pilih yang sesuai dan cantumkan nama]
 dan tanda tangan]
 (nama lengkap wakil sah badan usaha anggota KSO atau nama individu leadfirm)
 [jabatan pada badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. PETUNJUK PENGISIAN DATA KUALIFIKASI
 I. Petunjuk Pengisian Untuk Peserta tunggal/atas nama sendiri dan leadfirm KSO
 mengikuti petunjuk dan penggunaan SPSE (User Guide)
@@ -159163,7 +159163,7 @@ F. Sertifikat Lainnya [apabila disyaratkan]
 1. Diisi dengan jenis sertifikat, nomor dan tanggal penerbitannya.
 2. Diisi dengan masa berlaku sertifikat.
 3. Diisi dengan nama instansi penerbit sertifikat.
-Paraf 1 Paraf 2 Paraf 3
+
 G. Data Keuangan
 1. Diisi dengan nama, nomor identitas KTP/SIM/Paspor, alamat pemilik
 saham/pesero dan persentase kepemilikan saham/persero.
@@ -159191,7 +159191,7 @@ tempat pelaksanaan pekerjaan, nama dan alamat/telepon dari pemberi tugas/
 Pejabat Penandatangan Kontrak, nomor/tanggal dan nilai kontrak, serta persentase
 progres menurut kontrak, dan prestasi kerja terakhir. Data ini digunakan untuk
 menghitung Sisa Kemampuan Paket (SKP).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. TATA CARA EVALUASI KUALIFIKASI
 A. Dokumen Kualifikasi yang akan dievaluasi harus memenuhi persyaratan sesuai yang
 tercantum dalam Lembar Data Kualifikasi.
@@ -159237,7 +159237,7 @@ Persyaratan KD untuk paket pekerjaan konstruksi yang diperuntukkan bagi
 kualifikasi usaha besar harus memperhatikan:
 1) Pembagian Subklasifikasi dan Subkualifikasi sesuai ketentuan
 perundang-undangan;
-Paraf 1 Paraf 2 Paraf 3
+
 2) Pemilihan pengalaman pekerjaan pada sub bidang klasifikasi/layanan
 dan lingkup pekerjaan sesuai sub bidang klasifikasi Sertifikat Badan
 Usaha (SBU) yang disyaratkan;
@@ -159286,7 +159286,7 @@ perusahaan (apabila ada perubahan). Akta asli/legalisir wajib dibawa pada saat
 pembuktian kualifikasi.
 7. Khusus untuk pekerjaan konstruksi yang diperuntukkan bagi percepatan
 pembangunan kesejahteraan di Provinsi Papua dan Provinsi Papua Barat:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Domisili Pelaku Usaha Papua wajib berada pada Provinsi lokasi pelaksanaan
 pekerjaan (Provinsi Papua atau Provinsi Papua Barat);
 b. Pembuktian Pelaku Usaha Papua yaitu dengan:
@@ -159334,7 +159334,7 @@ ditentukan sebanyak 5 (lima) paket pekerjaan; dan
 ditentukan sebanyak 6 (enam) atau 1,2 (satu koma
 dua) N.
 P = jumlah paket yang sedang dikerjakan.
-Paraf 1 Paraf 2 Paraf 3
+
 N = jumlah paket pekerjaan terbanyak yang dapat ditangani
 pada saat bersamaan selama kurun waktu 5 (lima) tahun
 terakhir
@@ -159378,7 +159378,7 @@ a. Apabila ditemukan ketidaksesuaian data, maka dinyatakan gugur;
 b. Apabila ditemukan pemalsuan berdasarkan hasil klarifikasi kepada
 penerbit dokumen, maka peserta selain dinyatakan gugur juga dikenakan
 sanksi daftar hitam;
-Paraf 1 Paraf 2 Paraf 3
+
 3. Pokja memeriksa bukti pengalaman pekerjaan yang disampaikan dalam
 Formulir Isian Kualifikasi berdasarkan Kontrak dan Berita Acara Serah terima,
 dengan ketentuan:
@@ -159395,7 +159395,7 @@ G. Apabila ditemukan hal-hal dan/atau data yang kurang jelas maka Pokja Pemiliha
 dapat meminta peserta untuk menyampaikan klarifikasi secara tertulis, termasuk
 dapat melakukan peninjauan lapangan pada pihak-pihak/instansi terkait, namun
 tidak boleh mengubah substansi formulir isian kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -159439,7 +159439,7 @@ diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja;
 dengan Peraturan Pemerintah Nomor 14 Tahun 2021 tentang Perubahan Peraturan
 Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang – Undang
 Nomor 2 tahun 2017 tentang Jasa Konstruksi;
-Paraf 1 Paraf 2 Paraf 3
+
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun
 2021 tentang Perubahan Peraturan Presiden Nomor 16 Tahun 2018 tentang
@@ -159485,7 +159485,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 3. dst.
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
@@ -159531,7 +159531,7 @@ Penyerahan Pertama Pekerjaan selama ………. (… dalam huruf …) hari kalend
 (3) Masa Pemeliharaan ditentukan dalam Syarat-Syarat Khusus Kontrak dihitung sejak
 Tanggal Penyerahan Pertama Pekerjaan sampai dengan Tanggal Penyerahan Akhir
 Pekerjaan selama ......... (.......dalam huruf......) hari kalender.
-Paraf 1 Paraf 2 Paraf 3
+
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
@@ -159548,7 +159548,7 @@ meterai Rp10.000,00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Harga Satuan
@@ -159592,7 +159592,7 @@ diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja;
 3. Peraturan Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang
 – Undang Nomor 2 tahun 2017 tentang Jasa Konstruksi sebagaimana telah diubah
 dengan Peraturan Pemerintah Nomor 14 Tahun 2021 tentang Perubahan Peraturan
-Paraf 1 Paraf 2 Paraf 3
+
 Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang – Undang
 Nomor 2 tahun 2017 tentang Jasa Konstruksi;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
@@ -159637,7 +159637,7 @@ Peristilahan dan ungkapan dalam Surat Perjanjian ini memiliki arti dan makna yan
 seperti yang tercantum dalam lampiran Surat Perjanjian ini.
 Pasal 2
 RUANG LINGKUP PEKERJAAN UTAMA
-Paraf 1 Paraf 2 Paraf 3
+
 Ruang lingkup pekerjaan utama terdiri dari:
 1. ................
 2. ................
@@ -159683,7 +159683,7 @@ Pasal 5
 MASA KONTRAK
 (1) Masa Kontrak adalah jangka waktu berlakunya Kontrak ini terhitung sejak tanggal
 penandatangananan Kontrak sampai dengan Tanggal Penyerahan Akhir Pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 (2) Masa Pelaksanaan ditentukan dalam Syarat-Syarat Khusus Kontrak, dihitung sejak
 Tanggal Mulai Kerja yang tercantum dalam SPMK sampai dengan Tanggal
 Penyerahan Pertama Pekerjaan selama ………. (… dalam huruf …) hari kalender;
@@ -159706,7 +159706,7 @@ menandatangani Kontrak maka rekatkan ini untuk Penyedia maka rekatkan meterai
 meterai Rp10.000,00)] Rp10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 II. SYARAT-SYARAT UMUM KONTRAK
 SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
@@ -159757,7 +159757,7 @@ persiapan pelaksanaan Kontrak.
 1.9 Keadaan Kahar adalah suatu keadaan yang
 terjadi di luar kehendak para pihak dalam
 Kontrak dan tidak dapat diperkirakan
-Paraf 1 Paraf 2 Paraf 3
+
 sebelumnya, sehingga kewajiban yang
 ditentukan dalam Kontrak menjadi tidak dapat
 dipenuhi.
@@ -159810,7 +159810,7 @@ Tanggal Mulai Kerja sampai dengan Tanggal
 Penyerahan Pertama Pekerjaan.
 1.18 Masa Pemeliharaan adalah jangka waktu untuk
 melaksanakan kewajiban pemeliharaan oleh
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia, terhitung sejak Tanggal Penyerahan
 Pertama Pekerjaan sampai dengan Tanggal
 Penyerahan Akhir Pekerjaan.
@@ -159863,7 +159863,7 @@ Negara/Lembaga/Perangkat Daerah.
 Kontrak adalah pemilik atau pemberi pekerjaan
 yang menggunakan layanan Jasa Konstruksi
 yang dapat berupa Pengguna Anggaran, Kuasa
-Paraf 1 Paraf 2 Paraf 3
+
 Pengguna Anggaran, atau Pejabat Pembuat
 Komitmen.
 1.28 Penyedia adalah Pelaku Usaha yang
@@ -159915,7 +159915,7 @@ yang bekerja di sektor konstruksi yang meliputi
 ahli, teknisi atau analis, dan operator.
 2. Penerapan SSUK diterapkan secara luas dalam pelaksanaan
 Pekerjaan Konstruksi ini tetapi tidak dapat bertentangan
-Paraf 1 Paraf 2 Paraf 3
+
 dengan ketentuan-ketentuan dalam Dokumen Kontrak
 lain yang lebih tinggi berdasarkan urutan hierarki
 dalam Surat Perjanjian.
@@ -159968,7 +159968,7 @@ Wewenang serta imbalan berupa apa saja atau melakukan
 Penipuan tindakan lainnya untuk mempengaruhi
 siapapun yang diketahui atau patut dapat
 diduga berkaitan dengan pengadaan ini;
-Paraf 1 Paraf 2 Paraf 3
+
 2) mendorong terjadinya persaingan tidak
 sehat; dan/atau
 3) membuat dan/atau menyampaikan secara
@@ -160019,7 +160019,7 @@ peraturan perundangan terkait beban dan
 dimensi kendaraan.
 8. Pembukuan Penyedia diharapkan untuk melakukan pencatatan
 keuangan yang akurat dan sistematis sehubungan
-Paraf 1 Paraf 2 Paraf 3
+
 dengan pelaksanaan pekerjaan ini berdasarkan standar
 akuntansi yang berlaku.
 9. Perpajakan Penyedia, Subkontraktor (jika ada), dan Tenaga Kerja
@@ -160071,7 +160071,7 @@ dari Personel Pejabat yang berwenang untuk
 menandatangani Kontrak dapat bertindak
 sebagai Wakil Sah Pejabat yang berwenang
 untuk menandatangani Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 15. Tugas dan Wewenang 15.1 Semua gambar dan rencana kerja yang
 Pengawas Pekerjaan digunakan dalam pelaksanaan pekerjaan sesuai
 Kontrak, untuk pekerjaan permanen maupun
@@ -160124,7 +160124,7 @@ Pejabat yang berwenang untuk menandatangani
 Kontrak.
 15.5 Penyedia berkewajiban untuk melaksanakan
 perintah Pengawas Pekerjaan yang sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan kewenangan Pengawas Pekerjaan dalam
 Kontrak ini.
 16. Penemuan-penemuan Penyedia wajib memberitahukan kepada Pejabat yang
@@ -160176,7 +160176,7 @@ jalur akses tersebut di dalam Harga Kontrak.
 Kontrak tidak bertanggung jawab atas klaim
 yang mungkin timbul selain penggunaan jalur
 akses tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 B. PELAKSANAAN, PENYELESAIAN, ADENDUM DAN PEMUTUSAN KONTRAK
 18. Masa Kontrak Kontrak ini berlaku efektif sejak penandatangananan
 Surat Perjanjian oleh Para Pihak sampai dengan
@@ -160226,7 +160226,7 @@ tanpa menghadirkan personel yang
 bersangkutan;
 19.6.3 perubahan jangka waktu pelaksanaan
 pekerjaan dikarenakan jadwal pelaksanaan
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan yang ditetapkan sebelumnya
 akan melewati batas tahun anggaran;
 19.6.4 melakukan sertifikasi bagi operator,
@@ -160277,7 +160277,7 @@ Peristiwa Kompensasi.
 21.6 Pemutakhiran RMPK harus menunjukan
 perkembangan kemajuan setiap pekerjaan dan
 dampaknya terhadap penjadwalan sisa
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan, termasuk perubahan terhadap
 urutan pekerjaan. Pemutakhiran RMPK harus
 mendapatkan persetujuan Pejabat yang
@@ -160328,7 +160328,7 @@ c. organisasi kerja;
 d. tata cara pengaturan pelaksanaan pekerjaan
 termasuk permohonan persetujuan memulai
 pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 e. jadwal pelaksanaan pekerjaan, yang diikuti
 uraian tentang metode kerja yang
 memperhatikan Keselamatan Konstruksi;
@@ -160379,7 +160379,7 @@ harus dituangkan dalam adendum Kontrak.
 25.3 Tindak lanjut hasil pemeriksaan bersama Tenaga
 Kerja Konstruksi dan/atau Peralatan Utama
 mengikuti ketentuan pasal 67 dan 68.
-Paraf 1 Paraf 2 Paraf 3
+
 26. Penggunaan Produksi 26.1 Dalam pelaksanaan pekerjaan ini, Penyedia
 Dalam Negeri berkewajiban mengutamakan material/bahan
 produksi dalam negeri dan tenaga kerja
@@ -160431,7 +160431,7 @@ dikenakan denda.
 pekerjaan (secara parsial), Masa Pelaksanaan
 dibuat berdasarkan bagian pekerjaan tersebut
 sesuai dengan SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 27.5 Bagian pekerjaan pada pasal 27.4 adalah bagian
 pekerjaan yang telah ditetapkan dalam
 Dokumen Pemilihan.
@@ -160483,7 +160483,7 @@ atau memberlakukan ketentuan kontrak kritis.
 a. Dalam periode I (rencana fisik pelaksanaan
 0% - 70% dari Kontrak), selisih
 keterlambatan antara realisasi fisik
-Paraf 1 Paraf 2 Paraf 3
+
 pelaksanaan dengan rencana lebih besar
 10%
 b. Dalam periode II (rencana fisik pelaksanaan
@@ -160538,7 +160538,7 @@ SCM Tahap III.
 e. Apabila Penyedia gagal pada uji coba ketiga,
 maka Pejabat yang berwenang untuk
 menandatangani Kontrak menerbitkan Surat
-Paraf 1 Paraf 2 Paraf 3
+
 Peringatan Kontrak Kritis III dan Pejabat
 yang berwenang untuk menandatangani
 Kontrak dapat melakukan pemutusan
@@ -160587,7 +160587,7 @@ mengatur pengenaan sanksi denda
 keterlambatan kepada Penyedia dan
 perpanjangan masa berlaku Jaminan
 Pelaksanaan (apabila ada).
-Paraf 1 Paraf 2 Paraf 3
+
 4) Pemberian kesempatan kepada Penyedia
 untuk menyelesaikan pekerjaan dapat
 melampaui tahun anggaran.
@@ -160634,7 +160634,7 @@ Kontrak.
 33.4 Hasil pemeriksaan dan/atau pengujian dari
 Pengawas Pekerjaan disampaikan kepada
 Pejabat yang berwenang untuk menandatangani
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak, apabila dalam pemeriksaan hasil
 pekerjaan tidak sesuai dengan ketentuan yang
 tercantum dalam Kontrak dan/atau cacat hasil
@@ -160686,7 +160686,7 @@ Kontrak dan Penyedia menandatangani Berita
 Acara Serah Terima Akhir Pekerjaan.
 33.12 Pejabat yang berwenang untuk menandatangani
 Kontrak wajib melakukan pembayaran sisa
-Paraf 1 Paraf 2 Paraf 3
+
 Harga Kontrak yang belum dibayar atau
 mengembalikan Jaminan Pemeliharaan.
 33.13 Apabila Penyedia tidak melaksanakan kewajiban
@@ -160736,7 +160736,7 @@ Jaminan Pemeliharaan.
 B.4 Adendum
 36. Perubahan Kontrak 36.1 Kontrak hanya dapat diubah melalui adendum
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 36.2 Perubahan Kontrak dapat dilaksanakan apabila
 disetujui oleh para pihak, yang diakibatkan
 beberapa hal berikut meliputi:
@@ -160788,7 +160788,7 @@ Kontrak secara tertulis kepada Penyedia
 kemudian dilanjutkan dengan negosiasi teknis
 dan harga dengan tetap mengacu pada
 ketentuan yang tercantum dalam Kontrak awal.
-Paraf 1 Paraf 2 Paraf 3
+
 37.4 Hasil negosiasi tersebut dituangkan dalam Berita
 Acara sebagai dasar penyusunan adendum
 Kontrak.
@@ -160841,7 +160841,7 @@ pelaksanaan pekerjaan;
 d) penyesuaian harga satuan berlaku bagi
 seluruh kegiatan/mata pembayaran, kecuali
 komponen keuntungan, biaya tidak
-Paraf 1 Paraf 2 Paraf 3
+
 langsung (overhead cost) dan harga satuan
 timpang sebagaimana tercantum dalam
 penawaran;
@@ -160893,7 +160893,7 @@ akibat dari ketentuan pada pasal 39.2 huruf a
 atau b.
 39.4 Pejabat yang berwenang untuk menandatangani
 Kontrak dapat menyetujui perpanjangan Masa
-Paraf 1 Paraf 2 Paraf 3
+
 Pelaksanaan atas Kontrak setelah melakukan
 penelitian terhadap usulan tertulis yang
 diajukan oleh Penyedia dalam jangka waktu
@@ -160947,7 +160947,7 @@ beban dan dimensi kendaraan.
 maka Penyedia berkewajiban untuk
 menyediakan pengganti dan menjamin
 peralatan utama tersebut meninggalkan lokasi
-Paraf 1 Paraf 2 Paraf 3
+
 kerja dalam waktu 7 (tujuh) hari kalender sejak
 diminta oleh Pejabat yang berwenang untuk
 menandatangani Kontrak
@@ -160998,7 +160998,7 @@ Kahar tersebut.
 41.4 Bukti Keadaan Kahar dapat berupa :
 1) pernyataan yang diterbitkan oleh
 pihak/instansi yang berwenang sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 ketentuan peraturan perundang-undangan;
 dan/atau
 2) foto/video dokumentasi Keadaan Kahar
@@ -161050,7 +161050,7 @@ seluruh pekerjaan (baik sementara ataupun
 permanen) karena Keadaan Kahar, maka:
 a. Kontrak dihentikan sementara hingga
 keadaan kahar berakhir; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. Kontrak dihentikan permanen apabila akibat
 Keadaan Kahar tidak memungkinkan
 dilanjutkan/diselesaikannya pekerjaan.
@@ -161102,7 +161102,7 @@ pidana.
 pelanggaran tersebut berdampak terhadap
 kerugian atas konstruksi, jiwa manusia,
 keselamatan publik, dan lingkungan dan
-Paraf 1 Paraf 2 Paraf 3
+
 ditindaklanjuti dengan surat pernyataan
 wanprestasi dari pihak yang dirugikan
 43.4 Pemutusan kontrak dilakukan sekurang-
@@ -161154,7 +161154,7 @@ waktu yang telah ditetapkan;
 h. berdasarkan penelitian Pejabat yang
 berwenang untuk menandatangani Kontrak,
 Penyedia tidak akan mampu menyelesaikan
-Paraf 1 Paraf 2 Paraf 3
+
 keseluruhan pekerjaan walaupun diberikan
 kesempatan untuk menyelesaikan pekerjaan;
 i. Penyedia tidak dapat menyelesaikan
@@ -161204,7 +161204,7 @@ b. dokumen pendukung.
 44.6 Pencairan jaminan sebagaimana dimaksud pada
 pasal 44.2 di atas, dicairkan dan disetorkan
 sesuai ketentuan dalam SSKK
-Paraf 1 Paraf 2 Paraf 3
+
 45. Pemutusan Kontrak oleh Mengesampingkan Pasal 1266 dan 1267 Kitab
 Penyedia Undang-Undang Hukum Perdata, Penyedia dapat
 melakukan pemutusan Kontrak apabila:
@@ -161250,7 +161250,7 @@ kembali semua peninggalan tersebut oleh Penyedia
 hanya dapat dilakukan setelah mempertimbangkan
 kepentingan Pejabat yang berwenang untuk
 menandatangani Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 C. HAK DAN KEWAJIBAN PENYEDIA
 49. Hak dan Kewajiban Hak-hak yang dimiliki serta kewajiban-kewajiban yang
 Penyedia harus dilaksanakan oleh Penyedia dalam melaksanakan
@@ -161300,7 +161300,7 @@ berkaitan dengan Kontrak, kecuali dengan izin tertulis
 dari Pejabat yang berwenang untuk menandatangani
 Kontrak sesuai ketentuan peraturan perundang-
 undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 51. Hak Kekayaan Penyedia wajib melindungi Pejabat yang berwenang
 Intelektual untuk menandatangani Kontrak dari segala tuntutan
 atau klaim dari pihak ketiga yang disebabkan
@@ -161353,7 +161353,7 @@ Pekerjaan harus diganti atau diperbaiki oleh
 Penyedia atas tanggungannya sendiri jika
 kehilangan atau kerusakan tersebut terjadi
 akibat tindakan atau kelalaian Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 53. Perlindungan Tenaga 53.1 Penyedia dan Subkontraktor berkewajiban atas
 Kerja biaya sendiri untuk mengikutsertakan Tenaga
 Kerja Konstruksinya pada program Badan
@@ -161401,7 +161401,7 @@ i. segala risiko terhadap kecelakaan;
 ii. kerusakan akibat kecelakaan.
 b. kehilangan; dan/atau
 c. serta risiko lain yang tidak dapat diduga.
-Paraf 1 Paraf 2 Paraf 3
+
 55.2 Penyedia wajib menyediakan asuransi bagi
 pihak ketiga sebagai akibat kecelakaan di lokasi
 kerja.
@@ -161449,7 +161449,7 @@ a. jenis dan kuantitas bahan yang berada di
 lokasi pekerjaan;
 b. penempatan tenaga kerja konstruksi untuk
 tiap macam tugasnya;
-Paraf 1 Paraf 2 Paraf 3
+
 c. jenis, jumlah dan kondisi peralatan;
 d. jenis dan kuantitas pekerjaan yang
 dilaksanakan;
@@ -161498,7 +161498,7 @@ lima miliar rupiah), jenis pekerjaan yang
 wajib disubkontrakkan dicantumkan
 dalam dokumen pemilihan berdasarkan
 penetapan Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak dalam dokumen persiapan
 pengadaan; dan
 59.1.2 Bagian pekerjaan yang wajib
@@ -161547,7 +161547,7 @@ maka akan dikenakan denda senilai pekerjaan
 yang disubkontrakkan tersebut.
 60. Penyedia Lain Penyedia berkewajiban untuk bekerjasama dan
 menggunakan lokasi kerja termasuk jalan akses
-Paraf 1 Paraf 2 Paraf 3
+
 bersama-sama dengan Penyedia Lain (jika ada) dan
 pihak-pihak lainnya yang berkepentingan atas lokasi
 kerja. Jika dipandang perlu, Pejabat yang berwenang
@@ -161594,7 +161594,7 @@ dan asuransi untuk mendorong ekspor
 Indonesia sesuai dengan ketentuan peraturan
 perundang-undangan di bidang lembaga
 pembiayaan ekspor Indonesia.
-Paraf 1 Paraf 2 Paraf 3
+
 63.4 Jaminan Pelaksanaan diberikan kepada Pejabat
 yang berwenang untuk menandatangani
 Kontrak setelah diterbitkannya Surat
@@ -161642,7 +161642,7 @@ Kontrak.
 kurang sejak Tanggal Penyerahan Pertama
 Pekerjaan sampai dengan Tanggal Penyerahan
 Akhir Pekerjaan (Final Hand Over/FHO).
-Paraf 1 Paraf 2 Paraf 3
+
 D. HAK DAN KEWAJIBAN PEJABAT YANG BERWENANG UNTUK MENANDATANGANI
 KONTRAK
 64. Hak dan Kewajiban Hak-hak yang dimiliki serta kewajiban-kewajiban yang
@@ -161695,7 +161695,7 @@ f. Pejabat yang berwenang untuk
 menandatangani Kontrak memerintahkan
 penundaan pelaksanaan pekerjaan;
 g. Pejabat yang berwenang untuk
-Paraf 1 Paraf 2 Paraf 3
+
 menandatangani Kontrak memerintahkan
 untuk mengatasi kondisi tertentu yang tidak
 dapat diduga sebelumnya yang
@@ -161748,7 +161748,7 @@ yang tercantum dalam Lampiran A SSKK.
 68.3 Personel Manajerial berkewajiban untuk
 menjaga kerahasiaan pekerjaannya. Jika
 diperlukan oleh Pejabat yang berwenang untuk
-Paraf 1 Paraf 2 Paraf 3
+
 menandatangani Kontrak, Personel Manajerial
 dapat sewaktu-waktu disyaratkan untuk
 menjaga kerahasiaan pekerjaan di bawah
@@ -161798,7 +161798,7 @@ melaksanakan pekerjaan sesuai Kontrak dan
 rencana pengembaliannya.
 f. Pejabat yang berwenang untuk
 menandatangani Kontrak harus mengajukan
-Paraf 1 Paraf 2 Paraf 3
+
 Surat Permintaan Pembayaran (SPP) kepada
 Pejabat Penandatangananan Surat Perintah
 Membayar (PPSPM) untuk permohonan
@@ -161852,7 +161852,7 @@ g. pembayaran terakhir hanya dilakukan
 setelah pekerjaan selesai 100% (seratus
 persen) dan Berita Acara Serah Terima
 Pertama Pekerjaan ditandatangani oleh
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat yang berwenang untuk
 menandatangani Kontrak dan Penyedia;
 h. Pejabat yang berwenang untuk
@@ -161905,7 +161905,7 @@ Penyedia;
 d. besaran yang akan dibayarkan dari material
 on site (maksimal sampai dengan 70%) dari
 Harga Satuan Pekerjaan (HSP);
-Paraf 1 Paraf 2 Paraf 3
+
 e. besaran nilai pembayaran dan jenis material
 on site dicantumkan di dalam SSKK.
 70.4 Denda dan Ganti Rugi
@@ -161959,7 +161959,7 @@ dituangkan dalam adendum kontrak.
 i. Pembayaran ganti rugi dilakukan oleh
 Pejabat yang berwenang untuk
 menandatangani Kontrak, apabila Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 telah mengajukan tagihan disertai
 perhitungan dan data-data.
 71. Hari Kerja 71.1 Orang hari standar atau satu hari orang bekerja
@@ -162009,7 +162009,7 @@ pembayaran tagihan angsuran terakhir paling
 lambat 7 (tujuh) hari kerja terhitung sejak
 tagihan dan dokumen penunjang dinyatakan
 lengkap dan diterima oleh Pengawas Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 73. Penangguhan 73.1 Pejabat yang berwenang untuk menandatangani
 Kontrak dapat menangguhkan pembayaran
 setiap angsuran prestasi pekerjaan Penyedia jika
@@ -162057,7 +162057,7 @@ berwenang untuk menandatangani Kontrak
 atau Pengawas Pekerjaan dapat memerintahkan
 Penyedia untuk menemukan dan
 mengungkapkan Cacat Mutu , serta menguji
-Paraf 1 Paraf 2 Paraf 3
+
 hasil pekerjaan yang dianggap oleh Pejabat yang
 berwenang untuk menandatangani Kontrak
 atau Pengawas Pekerjaan mengandung Cacat
@@ -162110,7 +162110,7 @@ yang berwenang untuk menandatangani
 Kontrak selama masa pelaksanaan maka
 penyedia wajib memperbaiki cacat mutu
 tersebut dan Pejabat yang berwenang untuk
-Paraf 1 Paraf 2 Paraf 3
+
 menandatangani Kontrak tidak melakukan
 pembayaran pekerjaan sebelum cacat mutu
 tersebut selesai diperbaiki.
@@ -162162,7 +162162,7 @@ mendasari tuntutan tersebut disebabkan
 kesalahan atau kelalaian Pejabat yang
 berwenang untuk menandatangani Kontrak)
 sehubungan dengan klaim kehilangan atau
-Paraf 1 Paraf 2 Paraf 3
+
 kerusakan harta benda, dan cidera tubuh, sakit
 atau kematian pihak ketiga yang timbul dari
 Kegagalan Bangunan.
@@ -162207,7 +162207,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 III. SYARAT-SYARAT KHUSUS KONTRAK KONTRAK
 Pasal Ketentuan Data
 dalam
@@ -162257,7 +162257,7 @@ menandatangani Kontrak]
 Untuk Penyedia:
 Nama : .......... [diisi nama yang ditunjuk
 menjadi Wakil Sah Penyedia]
-Paraf 1 Paraf 2 Paraf 3
+
 Berdasarkan Surat Keputusan ……
 nomor .…. tanggal ……. [diisi nomor
 dan tanggal SK pengangkatan Wakil
@@ -162297,7 +162297,7 @@ Pekerjaan sebagai berikut:
 Kontrak)
 2. ............
 3. Dst
-Paraf 1 Paraf 2 Paraf 3
+
 [diisi bagian pekerjaan yang akan dilakukan serah terima
 sebagian pekerjaan (secara parsial sesuai dengan yang
 dicantumkan dalam dokumen pemilihan (rancangan
@@ -162347,7 +162347,7 @@ Dn
 Bo, = Indeks harga komponen pada bulan
 Co, penyampaian penawaran.
 Do
-Paraf 1 Paraf 2 Paraf 3
+
 Rumusan tersebut diatas memperhatikan hal-hal sebagai
 berikut:
 a) Penetapan koefisien bahan, tenaga kerja, alat kerja,
@@ -162402,7 +162402,7 @@ Kontrak, apabila Penyedia telah mengajukan tagihan
 disertai perhitungan beserta data-data dan telah
 dilakukan audit sesuai dengan ketentuan peraturan
 perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 45.b Pembayaran Batas akhir waktu yang disepakati untuk penerbitan SPP
 Tagihan oleh Pejabat yang berwenang untuk menandatangani
 Kontrak untuk pembayaran tagihan angsuran adalah
@@ -162449,7 +162449,7 @@ Penyedia untuk kelancaran pelaksanan pekerjaan ini
 Kompensasi kepada Penyedia adalah ..................... [diisi apabila ada
 Peristiwa Kompensasi lain, selain yang telah tertuang
 dalam SSUK]
-Paraf 1 Paraf 2 Paraf 3
+
 70.1.(e) Besaran Uang Uang muka diberikan paling tinggi sebesar .....%
 Muka (.....dalam huruf.....) dari Harga Kontrak.
 70.2.(d) Pembayaran Pembayaran prestasi pekerjaan dilakukan dengan cara:
@@ -162496,7 +162496,7 @@ tahun sejak Tanggal Penyerahan Akhir Pekerjaan.
 [diisi sesuai dengan umur rencana pada huruf a
 apabila umur konstruksinya tidak lebih dari 10
 (sepuluh) tahun]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN A SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR HARGA SATUAN TIMPANG*)
 Harga
@@ -162544,7 +162544,7 @@ Catatan:
 kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen
 penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR PERSONEL MANAJERIAL
 Jabatan Pengalaman
 Nama Sertifikat
@@ -162575,7 +162575,7 @@ Catatan:
 kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen
 penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B SYARAT-SYARAT KHUSUS KONTRAK
 RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
@@ -162603,7 +162603,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
 format di bawah ini:
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha Tunggal/Atas Nama
@@ -162629,7 +162629,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha ber-KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -162658,7 +162658,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 TABEL 1. IDENTIFIKASI BAHAYA, PENILAIAN RISIKO, PENETAPAN PENGENDALIAN RISIKO
 K3
@@ -162693,7 +162693,7 @@ IBPRP) Uraian Tolok Sumber Bentuk
 Kegiatan Pelaksanaan Pencapaian Jawab
 ukur Daya Monitoring
 Dibuat oleh,
-Paraf 1 Paraf 2 Paraf 3
+
 Kepala Pelaksanaan Pekerjaan Konstruksi
 C. Dukungan Keselamatan Konstruksi
 Tabel. Contoh Jadwal Program Komunikasi
@@ -162724,9 +162724,9 @@ No Kegiatan PIC
 1 2 3 4 5 6 7 8 9 10 11 12
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SPESIFIKASI TEKNIS DAN GAMBAR
 A. Uraian Spesifikasi Teknis
 Uraian spesifikasi teknis disusun berdasarkan spesifikasi teknis yang ditetapkan
@@ -162771,7 +162771,7 @@ pedoman/peraturan pihak yang kompeten.
 12. Spesifikasi Proses/Kegiatan:
 a. Pokja Pemilihan (yang bersertifikat Ahli K3 Konstruksi/Ahli Keselamatan
 Konstruksi/petugas Keselamatan Konstruksi atau dengan melibatkan
-Paraf 1 Paraf 2 Paraf 3
+
 Ahli K3 Konstruksi/Ahli Keselamatan Konstruksi petugas Keselamatan
 Konstruksi) harus menilai kesesuaian identifikasi bahaya dari setiap
 tahapan kegiatan yang sudah ditetapkan oleh Pejabat Penandatangan
@@ -162820,7 +162820,7 @@ e. Setiap tahapan pelaksanaan konstruksi utama yang mempunyai potensi
 bahaya tinggi harus dilengkapi dengan metode kerja yang didalamnya
 sudah mencakup analisis keselamatan pekerjaan/Job Safety Analysis
 (JSA). Misalnya untuk pekerjaan di ketinggian, mutlak harus digunakan
-Paraf 1 Paraf 2 Paraf 3
+
 perancah, lantai kerja (platform), papan tepi, tangga kerja, pagar
 pelindung tepi, serta alat pelindung diri (APD) yang sesuai antara lain
 helm dan sabuk keselamatan agar pekerja terlindung dari bahaya jatuh.
@@ -162868,7 +162868,7 @@ jelas, antara lain :
 3. Potongan memanjang
 4. Potongan melintang
 5. Detail-detail konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 C. Pejabat yang berwenang untuk menandatangani Kontrak mengacu pada hasil
 dokumen pekerjaan jasa Konsultansi Konstruksi perancangan dan/atau
 berkonsultasi dengan Ahli K3 Konstruksi/Ahli Keselamatan Konstruksi dalam
@@ -162878,7 +162878,7 @@ Dalam melakukan pengawasan dan evaluasi terhadap RKK dan penerapan SMKK,
 Pejabat yang berwenang untuk menandatangani Kontrak dapat dibantu oleh Ahli
 K3 Konstruksi/Ahli Keselamatan Konstruksi dan/atau Petugas Keselamatan
 Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. DAFTAR KUANTITAS DAN HARGA
 Keterangan
 1. Daftar Kuantitas dan Harga harus sesuai dengan Instruksi Kepada Peserta
@@ -162910,7 +162910,7 @@ pada Surat Penawaran maka yang dicatat nilai dalam huruf; dan
 satuan pekerjaan maka dilakukan pembetulan, dengan ketentuan
 volume pekerjaan sesuai dengan yang tercantum dalam Dokumen
 Pemilihan dan harga satuan tidak boleh diubah.
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 1: Mata Pembayaran Umum
 CONTOH
 Satuan Harga Total
@@ -162923,7 +162923,7 @@ Keterangan:
 umum.
 2. Total harga adalah semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 2: Mata Pembayaran Perkiraan Biaya Penerapan Sistem Manajemen
 Keselamatan Konstruksi*)
 CONTOH
@@ -162964,7 +162964,7 @@ Total Daftar 2 Rp.......
 *) Sesuai dengan ketentuan SMKK
 **) Satuan ukuran dapat berupa meter, orang, buah, LS sesuai dengan ketentuan
 SMKK
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 3: Mata Pembayaran Pekerjaan Utama: __________
 CONTOH
 No. Uraian Pekerjaan Satuan Kuantitas Harga Total
@@ -162977,7 +162977,7 @@ menjadi pokok dari paket Pekerjaan Konstruksi ini di antara bagian-bagian
 pekerjaan lain.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 4: Mata Pembayaran ______________________
 CONTOH
 No. Uraian Pekerjaan Satuan Kuantitas Harga Total
@@ -162990,7 +162990,7 @@ sudah diuraikan dalam Mata Pembayaran Pekerjaan Utama jika terdapat lebih
 dari satu jenis pekerjaan.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 5: Mata Pembayaran Utama
 CONTOH
 Harga Nilai
@@ -163001,7 +163001,7 @@ Keluaran Kumulatif
 Keterangan:
 Diisi mata pembayaran yang pokok dan penting yang nilai bobot kumulatifnya minimal 80%
 dari seluruh nilai pekerjaan dihitung mulai dari mata pembayaran dan nilai bobot terbesar.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR REKAPITULASI
 CONTOH
 Mata Pembayaran Harga
@@ -163015,7 +163015,7 @@ Daftar No. 4: Mata Pembayaran ...................
 TOTAL NILAI
 PPN 10%
 Total termasuk PPN 10%
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
 [kop surat K/L/PD]
@@ -163052,7 +163052,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pokja Pemilihan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA (SPMK)
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -163083,7 +163083,7 @@ dengan ketentuan yang tercantum dalam Syarat-Syarat Khusus Kontrak.
 __________, __ __________ 20__
 Untuk dan atas nama __________
 Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 [tanda tangan]
 [nama lengkap]
 [jabatan]
@@ -163093,7 +163093,7 @@ Untuk dan atas nama __________
 [tanda tangan]
 [nama lengkap wakil sah badan usaha]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT-SURAT JAMINAN
 Jaminan Pelaksanaan dari Bank
 [Kop Bank Penerbit Jaminan]
@@ -163139,7 +163139,7 @@ Surat Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi
 akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-benda
 yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang
-Paraf 1 Paraf 2 Paraf 3
+
 Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang
 Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
@@ -163156,7 +163156,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pelaksanaan dari Asuransi/Konsorsium Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PELAKSANAAN
@@ -163193,7 +163193,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah diajukan
 selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah berakhirnya
 masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -163204,7 +163204,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -163252,7 +163252,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -163263,7 +163263,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Asuransi/Konsorsium Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN UANG MUKA
@@ -163300,7 +163300,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah diajukan
 selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah berakhirnya
 masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -163311,7 +163311,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -163359,7 +163359,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -163370,7 +163370,7 @@ mengkonfirmasi Garansi ini ke
 _____[bank]
 ________________
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PEMELIHARAAN
@@ -163415,7 +163415,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. PETUNJUK EVALUASI KEWAJARAN HARGA
 Tahapan evaluasi kewajaran harga bagi peserta dengan harga penawaran dibawah nilai
 nominal 80% (delapan puluh persen) HPS dilakukan sebagai berikut:
@@ -163441,7 +163441,7 @@ V. BIAYA UMUM ........
 VI. BIAYA KEUNTUNGAN ........
 VII. TOTAL ( IV + V ) ........
 2. Kemudian dilakukan klarifikasi harga dengan membuat format sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 ANALISA HARGA SATUAN PEKERJAAN
 JENIS PEKERJAAN : ....................
 SATUAN MATA PEMBAYARAN : ....................
@@ -163498,7 +163498,7 @@ sekurang-kurangnya pada setiap mata pembayaran utama tanpa memperhitungkan
 keuntungan.
 8. Kemudian dihitung untuk setiap harga satuan penawaran yang bukan Mata
 Pembayaran Utama dengan mengurangi biaya keuntungan, sehingga diperoleh
-Paraf 1 Paraf 2 Paraf 3
+
 harga satuan penawaran yang bukan Mata Pembayaran Utama tanpa
 memperhitungkan keuntungan.
 9. Harga yang diperoleh pada angka 7 dan 8, dimasukkan dalam tabel Daftar Kuantitas
@@ -163511,7 +163511,7 @@ maka harga dinyatakan wajar dan jaminan pelaksanaan dinaikkan sebesar 5% dari
 nilai HPS.
 Jika total harga hasil klarifikasi lebih besar dari total harga penawaran, maka harga
 dinyatakan tidak wajar dan penawaran dinyatakan gugur.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi
@@ -171787,7 +171787,7 @@ _____________________ __________________
 [Nama dan Jabatan] [Nama dan Jabatan]
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
-mengkonfirmasi Jaminan ini ke Paraf I Paraf II Paraf III
+mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
@@ -180010,7 +180010,7 @@ Meterai Rp10.000,00
 _____________________ __________________
 [Nama dan Jabatan] [Nama dan Jabatan]
 Untuk keyakinan, pemegang
-Jaminan disarankan untuk Paraf I Paraf II Paraf III
+Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
 Jaminan Uang Muka dari Bank
@@ -180222,7 +180222,7 @@ Pengadaan
 Pekerjaan Konstruksi
 Metode Tender, Pascakualifikasi, Dua File, Harga Terendah Ambang Batas, Kontrak Harga
 Satuan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Nomor: __________
 Tanggal: __________
@@ -180232,7 +180232,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM .................................................................................................... - 6 -
 BAB II. PENGUMUMAN PEMILIHAN DENGAN PASCAKUALIFIKASI............. - 11 -
@@ -180281,7 +180281,7 @@ F. PENETAPAN PEMENANG ..........................................................
 36. SANGGAH DARI PESERTA TENDER ................................................................... - 52 -
 37. SANGGAH BANDING DARI PESERTA TENDER.................................................... - 52 -
 38. PENGADUAN ................................................................................................ - 54 -
-Paraf 1 Paraf 2 Paraf 3
+
 G. TENDER GAGAL DAN TINDAK LANJUT TENDER GAGAL ......................... - 54 -
 39. TENDER GAGAL ............................................................................................ - 54 -
 40. TINDAK LANJUT TENDER GAGAL ................................................................... - 55 -
@@ -180329,7 +180329,7 @@ F. PEMBAYARAN KEPADA PENYEDIA ..................................................
 G. PENGAWASAN MUTU...........................................................................- 158 -
 H. PENYELESAIAN PERSELISIHAN .............................................................- 160 -
 III. SYARAT-SYARAT KHUSUS KONTRAK ...................................................... - 162 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SPESIFIKASI TEKNIS DAN GAMBAR .................................................. - 176 -
 BAB XI. DAFTAR KUANTITAS DAN HARGA.................................................. - 180 -
 BAB XII. BENTUK DOKUMEN LAIN .............................................................. - 187 -
@@ -180346,7 +180346,7 @@ Jaminan Pemeliharaan dari Bank .................................................
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Perusahaan
 Asuransi/Perusahaan Penjaminan ...................................................... - 200 -
 BAB XIII. PETUNJUK EVALUASI KEWAJARAN HARGA ................................. - 201 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pemilihan ini disusun berdasarkan Peraturan Presiden No. 16 Tahun
 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya dan
@@ -180394,7 +180394,7 @@ sama usaha antar Pelaku Usaha yang
 masing-masing pihak mempunyai hak,
 kewajiban dan tanggung jawab yang jelas
 berdasarkan perjanjian tertulis;
-Paraf 1 Paraf 2 Paraf 3
+
 - LDP : Lembar Data Pemilihan;
 - LDK : Lembar Data Kualifikasi yang memuat
 ketentuan dan informasi yang spesifik sesuai
@@ -180433,7 +180433,7 @@ bentuk fisik lain;
 - SPPBJ : Surat Penunjukan Penyedia Barang/Jasa;
 - Surat Jaminan : jaminan tertulis yang dikeluarkan oleh
 penerbit penjaminan;
-Paraf 1 Paraf 2 Paraf 3
+
 - Daftar Kuantitas dan : daftar kuantitas yang telah diisi harga satuan
 Harga kuantitas dan jumlah biaya keseluruhannya
 yang merupakan bagian dari penawaran;
@@ -180483,7 +180483,7 @@ Konstruksi mendukung Pekerjaan Konstruksi dalam
 mewujudkan pemenuhan standar
 keamanan, keselamatan, kesehatan dan
 keberlanjutan yang menjamin keselamatan
-Paraf 1 Paraf 2 Paraf 3
+
 keteknikan konstruksi, keselamatan dan
 kesehatan tenaga kerja, keselamatan publik
 dan lingkungan;
@@ -180532,7 +180532,7 @@ melaksanakan fungsi layanan pengadaan
 secara elektronik;
 - Dua File : Metode penyampaian dokumen penawaran
 yang persyaratan administrasi dan teknis
-Paraf 1 Paraf 2 Paraf 3
+
 dimasukkan dalam 1 (satu) file sedangkan
 harga penawaran dimasukkan dalam file
 yang lain serta diunggah secara terpisah
@@ -180544,12 +180544,12 @@ pengguna aplikasi;
 - Formulir Isian : Formulir isian elektronik pada SPSE yang
 Elektronik Data digunakan peserta untuk menginputkan dan
 Kualifikasi mengirimkan data kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. PENGUMUMAN PEMILIHAN DENGAN PASCAKUALIFIKASI
 Pengumuman tercantum pada SPSE dan dapat ditambahkan di situs web
 Kementerian/Lembaga/Pemerintah Daerah, papan pengumuman resmi untuk
 masyarakat, surat kabar, dan/atau media lainnya
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum
@@ -180594,7 +180594,7 @@ Operasi.
 3.7. KSO dapat dilakukan antar pelaku usaha yang:
 a. Memiliki Kualifikasi usaha besar dengan
 Kualifikasi usaha besar;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Memiliki Kualifikasi usaha menengah dengan
 Kualifikasi usaha menengah;
 c. Memiliki Kualifikasi usaha besar dengan
@@ -180643,7 +180643,7 @@ Aturan dengan tidak melakukan tindakan sebagai berikut:
 Pengadaan a. menyampaikan dokumen atau keterangan
 palsu/tidak benar untuk memenuhi persyaratan
 yang ditentukan dalam Dokumen Pemilihan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. berusaha mempengaruhi Pokja Pemilihan dalam
 bentuk dan cara apapun, untuk memenuhi
 keinginan peserta yang bertentangan dengan
@@ -180691,7 +180691,7 @@ sama, dikendalikan baik langsung maupun tidak
 langsung oleh pihak yang sama, dan/atau
 kepemilikan sahamnya lebih dari 50% (lima puluh
 persen) dikuasai oleh pemegang saham yang sama.
-Paraf 1 Paraf 2 Paraf 3
+
 5.3 Pegawai Kementerian/Lembaga/Perangkat Daerah
 dilarang menjadi peserta kecuali cuti di luar
 tanggungan negara.
@@ -180742,7 +180742,7 @@ telah dapat diproduksi di dalam negeri dan bagian
 atau komponen yang masih harus diimpor;
 b. komponen berupa bahan baku belum diproduksi di
 dalam negeri dan/atau spesifikasi teknis bahan baku
-Paraf 1 Paraf 2 Paraf 3
+
 yang diproduksi di dalam negeri belum memenuhi
 persyaratan;
 c. pekerjaan pemasangan, pabrikasi, pengujian dan
@@ -180790,7 +180790,7 @@ B. DOKUMEN PEMILIHAN
 Pemilihan Dokumen Kualifikasi.
 10.2 Dokumen Tender terdiri atas:
 a. Umum;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pengumuman;
 c. Instruksi Kepada Peserta;
 d. Lembar Data Pemilihan;
@@ -180844,7 +180844,7 @@ KSO)
 c. Petunjuk Pengisian Formulir Isian Kualifikasi bagi
 peserta KSO;
 d. Tata Cara Evaluasi Kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 10.4 Peserta berkewajiban memeriksa keseluruhan isi
 Dokumen Pemilihan. Kelalaian menyampaikan
 Dokumen Penawaran dan Dokumen Kualifikasi yang
@@ -180889,7 +180889,7 @@ Berita Acara Pemberian Penjelasan Lanjutan dan
 diunggah melalui SPSE.
 12.11 Berita Acara Pemberian Penjelasan Lapangan menjadi
 bagian dari Berita Acara Pemberian Penjelasan (BAPP).
-Paraf 1 Paraf 2 Paraf 3
+
 13. Perubahan 13.1 Apabila pada saat pemberian penjelasan terdapat hal-
 Dokumen hal/ketentuan baru atau perubahan penting yang perlu
 Pemilihan ditampung, maka Pokja Pemilihan menuangkan ke
@@ -180929,7 +180929,7 @@ mempertimbangkan kecukupan waktu bagi peserta
 untuk menyiapkan dokumen penawaran dengan batas
 akhir pemasukan penawaran pada hari kerja dan jam
 kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 C. PENYIAPAN DOKUMEN DAN PENAWARAN KUALIFIKASI
 15. Biaya dalam 15.1 Peserta menanggung semua biaya dalam penyiapan
 Penyiapan dan penyampaian penawaran dan kualifikasi.
@@ -180980,7 +180980,7 @@ perjanjian jual beli, atau bukti
 kepemilikan lainnya; atau
 (2) Bukti kepemilikan peralatan yang
 berupa sewa beli yaitu surat perjanjian
-Paraf 1 Paraf 2 Paraf 3
+
 sewa beli, invois uang muka, kuitansi
 uang muka, angsuran, atau bukti sewa
 beli lainnya;
@@ -181035,7 +181035,7 @@ rupiah) sampai dengan paling banyak
 Rp100.000.000.000,00 (seratus miliar rupiah),
 pekerjaan utama yang ditetapkan paling banyak
 3 (tiga) pekerjaan utama; dan
-Paraf 1 Paraf 2 Paraf 3
+
 3) Untuk tender pekerjaan konstruksi dengan nilai
 HPS paling sedikit di atas Rp100.000.000.000,00
 (seratus miliar rupiah), pekerjaan utama yang
@@ -181091,7 +181091,7 @@ dan besar personel manajerial yang disyaratkan
 meliputi jabatan: Manajer Pelaksanaan/Proyek,
 Manajer Teknik, Manajer Keuangan, dan Ahli
 K3 Konstruksi/Ahli Keselamatan Konstruksi;
-Paraf 1 Paraf 2 Paraf 3
+
 3) Personel manajerial sebagaimana dimaksud
 pada angka 1) dan angka 2) di atas hanya
 disyaratkan 1 (satu) orang untuk masing-
@@ -181147,7 +181147,7 @@ pengalaman 3 (tiga) tahun; atau
 (2) Ahli Utama K3/Ahli Utama Keselamatan
 Konstruksi Konstruksi tanpa syarat
 pengalaman; dan
-Paraf 1 Paraf 2 Paraf 3
+
 (d) Risiko keselamatan konstruksi sebagaimana
 dimaksud pada huruf (a), huruf (b), dan
 huruf (c) berdasarkan ketentuan peraturan
@@ -181200,7 +181200,7 @@ Penawaran Daftar Kuantitas Harga dalam SPSE.
 18.2. Peserta mencantumkan harga satuan dan harga total
 untuk tiap mata pembayaran/pekerjaan dalam Daftar
 Kuantitas dan Harga.
-Paraf 1 Paraf 2 Paraf 3
+
 18.3. Biaya tidak langsung dan keuntungan serta biaya
 langsung termasuk untuk penyelenggaraan biaya
 pengawasan dan staf lapangan/tenaga ahli lapangan,
@@ -181249,7 +181249,7 @@ belum disahkan, Pokja Pemilihan meminta secara
 tertulis kepada pemenang tender untuk
 memperpanjang masa berlakunya penawaran dalam
 jangka waktu tertentu dan diperhitungkan paling
-Paraf 1 Paraf 2 Paraf 3
+
 kurang sampai perkiraan tanggal penandatanganan
 kontrak.
 20.3 Berkaitan dengan 20.2, pemenang tender dapat:
@@ -181297,7 +181297,7 @@ undangan.
 maka peserta tunggal/atas nama sendiri ataupun
 peserta ber-KSO (leadfirm dan anggota KSO), telah
 menyetujui dan menandatangani Pakta Integritas.
-Paraf 1 Paraf 2 Paraf 3
+
 23. Jaminan 23.1 Dalam hal nilai HPS paling sedikit di atas Rp.
 Penawaran 10.000.000.000 (sepuluh miliar rupiah), Jaminan
 Penawaran disampaikan sebagai bagian dari dokumen
@@ -181346,7 +181346,7 @@ Kualifikasi dan terdiri atas 2 (dua) Dokumen penawaran yang
 Dokumen memuat:
 Penawaran a. Penawaran administrasi dan teknis (File I); dan
 b. Penawaran harga (File II).
-Paraf 1 Paraf 2 Paraf 3
+
 24.2 File I dan file II disandikan/dienkripsi dengan sistem
 pengaman dokumen.
 24.3 Peserta menyampaikan File I dan File II yang telah
@@ -181398,7 +181398,7 @@ kegiatan usahanya tidak sedang dihentikan;
 3) perorangan yang bertindak untuk dan atas nama
 badan usaha tidak sedang dalam menjalani
 sanksi pidana;
-Paraf 1 Paraf 2 Paraf 3
+
 4) keikutsertaannya tidak menimbulkan
 pertentangan kepentingan para pihak yang
 terkait baik secara langsung maupun tidak
@@ -181450,7 +181450,7 @@ perusahaan atau kepala cabang perusahaan yang
 diangkat oleh kantor pusat yang dibuktikan dengan
 dokumen autentik atau pejabat yang menurut
 perjanjian kerja sama adalah yang berhak mewakili
-Paraf 1 Paraf 2 Paraf 3
+
 perusahaan yang bekerja sama atau pihak yang diberi
 kuasa oleh pemimpin atau direktur perusahaan yang
 nama pemberi kuasanya tercantum dalam akta
@@ -181497,7 +181497,7 @@ E. PEMBUKAAN DAN EVALUASI PENAWARAN DAN KUALIFIKASI
 27. Pembukaan 27.1 Jadwal pembukaan penawaran sebagaimana
 Penawaran File tercantum dalam SPSE.
 I
-Paraf 1 Paraf 2 Paraf 3
+
 27.2 Pada tahap pembukaan penawaran, Pokja Pemilihan
 mengunduh (download) dan melakukan dekripsi file
 Dokumen Penawaran dengan menggunakan sistem
@@ -181546,7 +181546,7 @@ evaluasi file I melalui menu pengumuman atau menu
 upload informasi lainnya pada SPSE.
 28.5 Selanjutnya Pokja Pemilihan melakukan pembukaan
 penawaran file II dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Dokumen Penawaran file II milik peserta yang tidak
 lulus evaluasi administrasi dan teknis, tidak dibuka.
 b. Pokja Pemilihan tidak boleh menggugurkan
@@ -181602,7 +181602,7 @@ pekerjaan.
 f. Para pihak dilarang mempengaruhi atau
 melakukan intervensi kepada Pokja Pemilihan
 selama proses evaluasi;
-Paraf 1 Paraf 2 Paraf 3
+
 g. Apabila dalam evaluasi ditemukan bukti adanya
 persaingan usaha yang tidak sehat dan/atau terjadi
 pengaturan bersama (indikasi
@@ -181658,7 +181658,7 @@ c) Dokumen Penawaran Teknis;
 d) Dokumen Penawaran Harga.
 2) Jaminan Penawaran (apabila disyaratkan)
 memenuhi ketentuan sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 a) Diterbitkan oleh penerbit jaminan
 penawaran sesuai ketentuan pada IKP 23.4
 b) Masa berlaku tidak kurang dari waktu
@@ -181714,7 +181714,7 @@ ditulis atas nama KSO; dan
 k) Substansi dan keabsahan/keaslian Jaminan
 Penawaran telah dikonfirmasi dan
 diklarifikasi secara tertulis oleh Pokja
-Paraf 1 Paraf 2 Paraf 3
+
 Pemilihan kepada penerbit jaminan apabila
 kurang jelas dan meragukan.
 3) Surat Perjanjian Kerja Sama Operasi memenuhi
@@ -181768,7 +181768,7 @@ jenis pekerjaan utama;
 peralatan utama yang
 ditawarkan/diperlukan dalam
 pelaksanaan pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 (3) Kesesuaian antara metode kerja dengan
 spesifikasi/volume pekerjaan yang
 disyaratkan.
@@ -181823,7 +181823,7 @@ maka Pokja Pemilihan akan
 membandingkan produktivitas alat
 tersebut berdasarkan metode
 pelaksanaan pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 (6) Apabila ada hal-hal yang meragukan
 dan kurang jelas, Pokja dapat
 melakukan klarifikasi kepada pemilik
@@ -181879,7 +181879,7 @@ pekerjaan konstruksi;
 Keselamatan Konstruksi/Ahli K3
 Konstruksi dilakukan terhadap
 pengalaman keterampilan/keahlian
-Paraf 1 Paraf 2 Paraf 3
+
 K3 dalam melaksanakan pekerjaan
 konstruksi;
 (10) Penilaian pengalaman manajer
@@ -181935,7 +181935,7 @@ tercantum dalam LDP, yang memuat:
 (a) Kepemimpinan dan Partisipasi
 pekerja dalam keselamatan
 konstruksi;
-Paraf 1 Paraf 2 Paraf 3
+
 (b) Perencanaan Keselamatan
 Konstruksi:
 i. uraian pekerjaan,
@@ -181992,7 +181992,7 @@ salah satu sub elemen dari elemen
 dukungan keselamatan konstruksi
 (isian tidak dievaluasi) atau
 menyampaikan tabel Jadwal Program
-Paraf 1 Paraf 2 Paraf 3
+
 Komunikasi yang telah diisi (isian tidak
 dievaluasi);
 (4). Peserta dinyatakan memenuhi elemen
@@ -182047,7 +182047,7 @@ yang berwenang. Dalam klarifikasi, peserta tidak
 diperkenankan mengubah substansi penawaran;
 e. Dalam hal klarifikasi dilakukan kepada peserta,
 peserta yang tidak hadir atau tidak memberikan
-Paraf 1 Paraf 2 Paraf 3
+
 tanggapan atas permintaan klarifikasi, maka
 menggugurkan penawaran;
 f. Hasil klarifikasi dapat menggugurkan penawaran;
@@ -182099,7 +182099,7 @@ b) apabila semua harga penawaran terkoreksi
 di atas nilai HPS, tender dinyatakan gagal;
 2) Dalam hal bagian pekerjaan harga satuan maka
 harga satuan penawaran yang nilainya lebih
-Paraf 1 Paraf 2 Paraf 3
+
 besar dari 110% (seratus sepuluh persen) dari
 harga satuan yang tercantum dalam HPS,
 dilakukan klarifikasi dengan ketentuan:
@@ -182155,7 +182155,7 @@ pengukuran dan pembayaran pekerjaan;
 c) Pokja melakukan klarifikasi terhadap
 Analisa Harga Satuan Pekerjaan dan bukti
 pendukung yang disampaikan peserta
-Paraf 1 Paraf 2 Paraf 3
+
 dengan meneliti dan menilai kewajaran
 kuantitas/koefisien, harga satuan dasar
 meliputi harga upah, bahan, dan peralatan
@@ -182211,7 +182211,7 @@ menggugurkan.
 dilakukan untuk tiap komponen barang dengan
 rumus sebagai berikut:
 = 1−
-Paraf 1 Paraf 2 Paraf 3
+
 HEAkomponen barang = Harga Evaluasi Akhir tiap
 komponen barang.
 KP = TKDN x Preferensi Tertinggi.
@@ -182261,7 +182261,7 @@ maka tender dinyatakan gagal.
 30.2 Pokja Pemilihan menyusun urutan 3 (tiga) penawaran
 sebagai calon pemenang dan calon pemenang cadangan
 1 dan 2 (apabila ada).
-Paraf 1 Paraf 2 Paraf 3
+
 31. Evaluasi 31.1 Pokja Pemilihan melakukan evaluasi kualifikasi terhadap
 Kualifikasi dokumen kualifikasi yang disampaikan (diunggah) oleh
 peserta melalui form elektronik isian kualifikasi dalam
@@ -182306,7 +182306,7 @@ mensyaratkan paling banyak 1 (satu) SBU;
 Besar mensyaratkan paling banyak 2 (dua) SBU.
 c. Persyaratan Kemampuan Dasar (KD), bagi Kualifikasi
 Usaha Menengah dan Besar, dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Pengalaman pekerjaan yang digunakan adalah
 pengalaman dalam kurun waktu 15 (lima belas)
 tahun terakhir;
@@ -182363,7 +182363,7 @@ paket pekerjaan paling sedikit di atas
 Rp2.500.000.000,00 (dua miliar lima ratus juta
 rupiah) sampai dengan paling banyak
 Rp15.000.000.000,00 (lima belas miliar rupiah).
-Paraf 1 Paraf 2 Paraf 3
+
 j. Memenuhi Sisa Kemampuan Paket (SKP), dengan
 ketentuan :
 SKP = KP – P
@@ -182411,7 +182411,7 @@ kehadiran peserta dan penyiapan dokumen yang akan
 dibuktikan.
 32.7 Apabila peserta tidak dapat menghadiri pembuktian
 kualifikasi dengan alasan yang dapat diterima, maka
-Paraf 1 Paraf 2 Paraf 3
+
 Pokja Pemilihan dapat memperpanjang waktu
 pembuktian kualifikasi paling kurang 1 (satu) hari kerja.
 32.8 Dalam hal peserta tidak hadir karena tidak dapat
@@ -182462,7 +182462,7 @@ Penawaran (apabila disyaratkan) dicairkan ke Kas
 Negara/Kas Daerah.
 32.13 Apabila hasil pembuktian kualifikasi ditemukan
 pemalsuan data, maka peserta digugurkan, dikenakan
-Paraf 1 Paraf 2 Paraf 3
+
 sanksi Daftar Hitam, Jaminan Penawaran (apabila
 disyaratkan) dicairkan ke Kas Negara/Kas Daerah.
 32.14 Dalam hal tidak ada peserta yang lulus pembuktian
@@ -182509,7 +182509,7 @@ pekerjaan yang ditenderkan oleh beberapa Pokja
 Pemilihan dan telah ditetapkan menjadi pemenang pada
 beberapa paket tersebut, dilakukan perhitungan ulang
 sisa kemampuan menangani paket (SKP).
-Paraf 1 Paraf 2 Paraf 3
+
 34.5 Dalam hal peserta mengikuti tender beberapa paket
 pekerjaan konstruksi dalam waktu penetapan
 pemenang bersamaan dan/atau sedang melaksanakan
@@ -182564,7 +182564,7 @@ konstruksi sebagaimana dimaksud pada huruf d
 dan huruf e, dikecualikan dengan syarat:
 1) Personel yang diusulkan penugasannya
 sebagai Kepala Proyek/ General
-Paraf 1 Paraf 2 Paraf 3
+
 Superintendent (GS) dengan ketentuan
 maksimal 3 (tiga) paket bersamaan;
 2) Jadwal penugasan personel tidak tumpang
@@ -182616,7 +182616,7 @@ secara tertulis sampai dengan perkiraan jadwal
 penandatanganan kontrak.
 34.10 Dalam hal peserta yang lulus evaluasi penawaran dan
 evaluasi kualifikasi tidak bersedia memperpanjang
-Paraf 1 Paraf 2 Paraf 3
+
 surat penawaran dan/atau Jaminan Penawaran
 (apabila disyaratkan) dianggap mengundurkan diri dan
 tidak dikenakan sanksi.
@@ -182663,7 +182663,7 @@ Banding dari tidak setuju atas jawaban sanggah.
 Peserta Tender
 37.2 Penyanggah menyampaikan sanggah banding secara
 tertulis kepada KPA sebagaimana tercantum dalam LDP.
-Paraf 1 Paraf 2 Paraf 3
+
 37.3 Sanggah banding disampaikan paling lambat 5 (lima)
 hari kerja setelah jawaban sanggah dimuat dalam SPSE.
 37.4 Penyanggah banding harus menyerahkan Jaminan
@@ -182708,7 +182708,7 @@ setelah menerima klarifikasi dari Pokja Pemilihan.
 Dalam hal KPA tidak memberikan jawaban Sanggah
 Banding, maka KPA dianggap menerima Sanggah
 Banding.
-Paraf 1 Paraf 2 Paraf 3
+
 37.13 Apabila Sanggah Banding dinyatakan benar/diterima,
 UKPBJ memerintahkan Pokja Pemilihan menyatakan
 tender gagal.
@@ -182759,7 +182759,7 @@ Rp100.000.000.000,00 (seratus miliar rupiah) dan
 Pengadaan Jasa Konsultansi Konstruksi dengan nilai
 Pagu Anggaran paling sedikit diatas
 Rp10.000.000.000,00 (sepuluh miliar rupiah).
-Paraf 1 Paraf 2 Paraf 3
+
 39.2 Tender gagal dalam hal tidak ada peserta yang lulus
 evaluasi penawaran sebagaimana dimaksud pada klausul
 39.1 huruf c dinyatakan setelah melewati masa sanggah
@@ -182810,7 +182810,7 @@ perubahannya dan petunjuk teknisnya;
 e. seluruh peserta terlibat korupsi, kolusi, dan/atau
 nepotisme;
 f. seluruh peserta terlibat persaingan usaha tidak sehat;
-Paraf 1 Paraf 2 Paraf 3
+
 g. tidak menjalankan prosedur berdasarkan dokumen
 pemilihan;
 h. Pokja Pemilihan/PPK terlibat Korupsi, Kolusi, dan/atau
@@ -182857,7 +182857,7 @@ PPK menerima Berita Acara Hasil Pemilihan (BAHP).
 41.4 Dalam hal DIPA/DPA belum terbit, SPPBJ dapat ditunda
 diterbitkan sampai batas waktu penerbitan oleh otoritas
 yang berwenang.
-Paraf 1 Paraf 2 Paraf 3
+
 41.5 Dalam SPPBJ dicantumkan bahwa penyedia harus
 menyiapkan Jaminan Pelaksanaan sebelum
 penandatanganan kontrak.
@@ -182908,7 +182908,7 @@ melakukan evaluasi ulang, atau tender ulang
 paling lambat 6 (enam) hari kerja setelah hasil
 pemilihan penyedia.
 41.8 Pejabat Penandatangan Kontrak menerbitkan SPPBJ
-Paraf 1 Paraf 2 Paraf 3
+
 41.9 Pejabat Penandatangan Kontrak menginputkan data
 SPPBJ dan mengunggah hasil pemindaian SPPBJ yang
 telah diterbitkan pada SPSE dan mengirimkan SPPBJ
@@ -182959,7 +182959,7 @@ ketentuan, bentuk, isi, dan waktu penyerahan;
 dan/atau
 j. Hal-hal yang telah diklarifikasi dan dikonfirmasi
 pada saat evaluasi penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 41.15 Dalam Rapat Persiapan Penandatanganan Kontrak,
 Pejabat Penandatangan Kontrak dan Penyedia mengisi
 substansi rancangan kontrak dengan informasi yang
@@ -183007,7 +183007,7 @@ bersangkutan.
 Acara Hasil Pemilihan (BAHP) oleh Pokja Pemilihan
 bersifat rahasia sampai dengan saat pengumuman
 pemenang.
-Paraf 1 Paraf 2 Paraf 3
+
 I. JAMINAN PELAKSANAAN
 43. Jaminan 43.1 Jaminan Pelaksanaan diberikan Penyedia sebelum
 Pelaksanaan penandatanganan Kontrak.
@@ -183059,7 +183059,7 @@ Pejabat Penandatangan Kontrak diterima oleh
 penerbit Jaminan;
 j. Jaminan Pelaksanaan atas nama KSO ditulis atas
 nama KSO atau masing-masing anggota KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (apabila masing-masing mengajukan Jaminan
 Pelaksanaan secara terpisah); dan
 k. Memuat nama, alamat dan tanda tangan pihak
@@ -183108,7 +183108,7 @@ informasi yang diperoleh dari dokumen penawaran
 penyedia dan perubahannya yang dinyatakan berita
 acara hasil pemilihan dengan tidak mengubah substansi
 yang ditetapkan dalam dokumen pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 44.6 Pejabat Penandatangan Kontrak dan Penyedia yang
 memenuhi ketentuan Rapat Persiapan Penandatanganan
 Kontrak wajib memeriksa konsep Kontrak meliputi
@@ -183149,7 +183149,7 @@ sesuai dengan peraturan perundang-undangan.
 44.10 Pejabat Penandatangan Kontrak menginputkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFOMASI SPESIFIK
 A. Identitas Pokja 1.1 Identitas Pokja Pemilihan:
@@ -183192,7 +183192,7 @@ Tanggal : _______________________
 Waktu : ___________s.d _________
 Tempat : _______________________
 [Dalam hal dilakukan Peninjauan Lapangan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. Persyaratan 17.4 Persyaratan teknis:
 Teknis 1. Pekerjaan utama yang harus diuraikan dalam
 metode pelaksanaan pekerjaan:
@@ -183247,7 +183247,7 @@ yang akan Kerja
 nsi Kerja
 dilaksanak (tahun)
 an
-Paraf 1 Paraf 2 Paraf 3
+
 1 Manajer ___ SKA___
 Pelaksanaa
 n/
@@ -183316,7 +183316,7 @@ b. Peralatan 2
 c. …
 3 Personel Manajerial
 a. Personil 1
-Paraf 1 Paraf 2 Paraf 3
+
 b. Personil 2
 c. …
 4 Bagian Pekerjaan yang akan
@@ -183370,7 +183370,7 @@ Banding ditujukan kepada: ____________
 jelas]
 37.4 Jaminan Sanggah Banding ditujukan kepada ___
 [diisi nama Pokja Pemilihan]
-Paraf 1 Paraf 2 Paraf 3
+
 37.5 Besarnya nilai nominal Jaminan Sanggah
 Banding adalah _______
 [diisi nilai nominal 1% dari nilai HPS]
@@ -183380,7 +183380,7 @@ tanggal pengajuan sanggah banding.
 37.14 Jaminan Sanggah Banding yang dicairkan,
 disetorkan pada _______
 [diisi Kas Negara atau Kas Daerah]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. LEMBAR DATA KUALIFIKASI (LDK)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 Persyaratan 31.12 Persyaratan kualifikasi:
@@ -183430,7 +183430,7 @@ bidang yang sama, untuk pengadaan dengan
 nilai paket pekerjaan paling sedikit di atas
 Rp2.500.000.000,00 (dua miliar lima ratus juta
 rupiah) sampai dengan paling banyak
-Paraf 1 Paraf 2 Paraf 3
+
 Rp15.000.000.000,00 (lima belas miliar
 rupiah).
 7. Untuk pekerjaan yang diperuntukkan bagi
@@ -183482,7 +183482,7 @@ c. evaluasi pada angka 8, dilakukan secara saling
 melengkapi oleh anggota KSO;
 d. evaluasi pada angka 7 hanya dilakukan kepada
 leadfirm KSO.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. BENTUK DOKUMEN PENAWARAN
 A. BENTUK PERJANJIAN KERJA SAMA OPERASI (KSO) – (apabila ber-KSO)
 CONTOH
@@ -183526,7 +183526,7 @@ korupsi, kolusi, dan/atau nepotisme dalam proses pengadaan ini;
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional
 untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 d. Apabila melanggar hal-hal yang dinyatakan dalam huruf a, b dan/atau c maka
 bersedia menerima sanksi sesuai dengan peraturan perundang-undangan.
 7. Wewenang menandatangani untuk dan atas nama KSO diberikan kepada
@@ -183547,7 +183547,7 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang tender maka Surat Perjanjian Kerja Sama Operasi
 ini harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK JAMINAN PENAWARAN DARI BANK – (apabila disyaratkan)
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -183592,7 +183592,7 @@ dan efektif mulai dari tanggal _______________ [diisi sesuai dengan tanggal bata
 akhir pemasukan penawaran]
 2. Tuntutan pencairan atau klaim dapat diajukan secara tertulis dengan melampirkan
 Surat Pernyataan Wanprestasi dari Penerima Jaminan paling lambat 14 (empat
-Paraf 1 Paraf 2 Paraf 3
+
 belas) hari kalender setelah tanggal jatuh tempo Garansi Bank sebagaimana
 tercantum dalam butir 1.
 3. Penjamin akan membayar kepada Penerima Jaminan sejumlah nilai jaminan
@@ -183620,7 +183620,7 @@ _______________
 untuk mengkonfirmasi [Nama dan Jabatan]
 Garansi ini ke
 ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN PENAWARAN DARI ASURANSI/KONSORSIUM PERUSAHAAN
 ASURANSI/PERUSAHAAN PENJAMINAN – (apabila disyaratkan)
 CONTOH
@@ -183660,7 +183660,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 6. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah
 diajukan selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah
 berakhirnya masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _______
 pada tanggal _______
 TERJAMIN PENJAMIN
@@ -183671,7 +183671,7 @@ Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini
 ke ...........[penerbit
 jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK JAMINAN SANGGAHAN BANDING DARI BANK
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -183717,7 +183717,7 @@ Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum
 Perdata.
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak
 lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ....................
@@ -183732,7 +183732,7 @@ Garansi Bank disarankan
 untuk mengkonfirmasi
 Garansi ini ke
 ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK JAMINAN SANGGAHAN BANDING DARI ASURANSI/KONSORSIUM
 PERUSAHAAN ASURANSI/PERUSAHAAN PENJAMINAN
 CONTOH
@@ -183777,12 +183777,12 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK DOKUMEN PENAWARAN TEKNIS
 Dokumen Penawaran Teknis
 [Cantumkan dan jelaskan sesuai dengan ketentuan dalam IKP dan LDP. Jika diperlukan,
 keterangan dapat dicantumkan dalam lembar tersendiri/tambahan]
-Paraf 1 Paraf 2 Paraf 3
+
 G. DATA PERALATAN
 CONTOH
 Merek
@@ -183794,7 +183794,7 @@ Tipe*)
 2 ___ ___ ___ ___ ___
 dst ___ ___ ___ ___ ___
 *) Merek dan Tipe bukan merupakan bagian yang dievaluasi
-Paraf 1 Paraf 2 Paraf 3
+
 H. DATA PERSONEL MANAJERIAL
 CONTOH
 a. Untuk pemaketan kualifikasi Usaha Kecil
@@ -183836,7 +183836,7 @@ Keterangan:
 yang disyaratkan, bukan berdasarkan jabatan yang disyaratkan.
 ***) Pengalaman kerja yang dinilai adalah pengalaman kerja setelah personel lulus pendidikan
 minimal sesuai persyaratan untuk memperoleh Sertifikat Kompetensi Kerja yang disyaratkan.
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 Daftar Riwayat Hidup Personel Manajerial
 1. Jabatan dalam pekerjaan yang akan dilaksanakan : __________
@@ -183867,7 +183867,7 @@ Mengetahui:
 __________[nama Penyedia Jasa Pekerjaan Konstruksi]
 (__________)
 [nama jelas wakil sah]
-Paraf 1 Paraf 2 Paraf 3
+
 I. BAGIAN PEKERJAAN YANG DISUBKONTRAKKAN (APABILA DISYARATKAN)
 1. Bagian Pekerjaan yang disubkontrakkan (Disyaratkan untuk paket pekerjaan
 dengan pagu anggaran di atas Rp25.000.000.000,00 sampai dengan
@@ -183916,7 +183916,7 @@ b. Nama: …
 2. ...... ......
 Dst. Dst.
 Dst.
-Paraf 1 Paraf 2 Paraf 3
+
 J. BENTUK RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
 BENTUK RENCANA KESELAMATAN KONSTRUKSI
@@ -183943,7 +183943,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 A. Kepemimpinan dan Partisipasi Pekerja dalam Keselamatan Konstruksi
 A.1 Komitmen Keselamatan Konstruksi
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
@@ -183970,7 +183970,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Keselamatan Konstruksi Badan Usaha Dengan KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -183999,7 +183999,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B. Perencanaan keselamatan konstruksi
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 Tabel Contoh Format Tabel IBPRP*
@@ -184032,7 +184032,7 @@ Induction)
 meeting)
 4 Rapat Keselamatan Konstruksi
 (construction safety meeting)
-Paraf 1 Paraf 2 Paraf 3
+
 D. Operasi Keselamatan Konstruksi
 Tabel Contoh Analisis Keselamatan Pekerjaan (Job Safety Analysis)
 Nama Pekerja : [Isi nama pekerja]
@@ -184052,7 +184052,7 @@ No Kegiatan PIC
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 K. BENTUK SURAT PERJANJIAN SEWA PERALATAN
 CONTOH
 [ Kop Perusahaan Lessor/ penyedia peralatan ]
@@ -184084,7 +184084,7 @@ dst..
 Untuk selanjutnya disebut sebagai PERALATAN. Perjanjian Sewa antara PIHAK
 PERTAMA dan PIHAK KEDUA ini dilangsungkan dan diterima berdasarkan
 kesepakatan yang termuat secara tertulis dalam pasal- pasal berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 PENERIMAAN PERALATAN
 PIHAK KEDUA akan menerima hak guna dari apa yang disewanya dari PIHAK
@@ -184125,7 +184125,7 @@ pihak lain yang mendapati hak daripadanya.
 4) Perjanjian ini secara otomatis menjadi batal dan tidak berlaku lagi apabila
 PIHAK KEDUA tidak memenangkan tender Paket Pekerjaan ……………[diisi
 nama paket].
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 6
 TANGGUNG JAWAB PIHAK PERTAMA
 1) PIHAK PERTAMA bersedia menyiapkan alat yang disewa dalam keadaan siap
@@ -184155,7 +184155,7 @@ PT. ……… [diisi nama perusahaan PT. ……… [diisi nama perusahaan
 Lessor/ penyedia peralatan] Lessee/ penerima peralatan]
 [rekatkan meterai Rp 10.000,00 [rekatkan meterai Rp 10.000,00
 dan tanda tangan] dan tanda tangan]
-Paraf 1 Paraf 2 Paraf 3
+
 L. BENTUK FORMULIR PENYAMPAIAN TINGKAT KOMPONEN DALAM NEGERI
 (TKDN) [apabila diberikan preferensi harga]
 FORMULIR PENYAMPAIAN
@@ -184183,7 +184183,7 @@ Penawaran
 *) Nilai TKDN Komponen Barang berdasarkan daftar inventarisasi barang/jasa produksi dalam
 negeri yang diterbitkan oleh kementerian yang menyelenggarakan urusan pemerintahan di
 bidang perindustrian.
-Paraf 1 Paraf 2 Paraf 3
+
 M. BENTUK DAFTAR BARANG YANG DIIMPOR
 DAFTAR BARANG YANG DIIMPOR1
 NAMA NEGARA
@@ -184191,13 +184191,13 @@ NO SPESIFIKASI SATUAN JUMLAH HARGA
 BARANG/URAIAN ASAL
 TOTAL HARGA
 1 Diisi dan dilampirkan dalam penawaran apabila ada barang yang diimpor
-Paraf 1 Paraf 2 Paraf 3
+
 N. ISIAN DATA KUALIFIKASI
 Isian Data Kualifikasi bagi Peserta tunggal/atas nama sendiri atau Peserta sebagai
 Leadfirm KSO berbentuk Isian Elektronik Data Kualifikasi yang tersedia pada SPSE
 Isian Data Kualifikasi bagi anggota KSO disampaikan dalam formulir isian
 kualifikasi untuk anggota KSO
-Paraf 1 Paraf 2 Paraf 3
+
 FORMULIR ISIAN KUALIFIKASI UNTUK ANGGOTA KSO
 Saya yang bertanda tangan di bawah ini:
 Nama : ___________________[nama wakil sah badan usaha
@@ -184225,7 +184225,7 @@ yang terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. badan usaha yang saya wakili tidak masuk dalam Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit, dan kegiatan usahanya tidak sedang dihentikan;
 6. data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : _____________________
 2. Status : Pusat Cabang
@@ -184265,7 +184265,7 @@ bidang Jasa Konstruksi
 3. Instansi penerbit : …………
 E. Sertifikat Badan Usaha
 1. Sertifikat Badan Usaha : a. Nomor …………
-Paraf 1 Paraf 2 Paraf 3
+
 b. Tanggal …………
 2. Masa berlaku : …………
 3. Instansi penerbit : …………
@@ -184307,7 +184307,7 @@ Pekerjaan Alamat/ No / BA Serah
 Nama Nilai Kontrak
 Telepon Tanggal Terima
 1 2 3 4 5 6 7 8 9 10
-Paraf 1 Paraf 2 Paraf 3
+
 J. Data Pekerjaan yang Sedang Dilaksanakan (Wajib diisi untuk menghitung SKP)
 Pemberi Pekerjaan Kontrak Total Progres
 Nama Klasifikasi/Sub
@@ -184328,7 +184328,7 @@ __________[pilih yang sesuai dan cantumkan nama]
 dan tanda tangan]
 (nama lengkap wakil sah badan usaha anggota KSO atau nama individu leadfirm)
 [jabatan pada badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. PETUNJUK PENGISIAN DATA KUALIFIKASI
 I. Petunjuk Pengisian Untuk Peserta tunggal/atas nama sendiri dan leadfirm KSO
 mengikuti petunjuk dan penggunaan SPSE (User Guide)
@@ -184374,7 +184374,7 @@ F. Sertifikat Lainnya [apabila disyaratkan]
 1. Diisi dengan jenis sertifikat, nomor dan tanggal penerbitannya.
 2. Diisi dengan masa berlaku sertifikat.
 3. Diisi dengan nama instansi penerbit sertifikat.
-Paraf 1 Paraf 2 Paraf 3
+
 G. Data Keuangan
 1. Diisi dengan nama, nomor identitas KTP/SIM/Paspor, alamat pemilik
 saham/Persero dan persentase kepemilikan saham/Persero.
@@ -184400,7 +184400,7 @@ tempat pelaksanaan pekerjaan, nama dan alamat/telepon dari pemberi
 tugas/PPK/PPK, nomor/tanggal dan nilai kontrak, serta persentase progres menurut
 kontrak, dan prestasi kerja terakhir. Data ini digunakan untuk menghitung Sisa
 Kemampuan Paket (SKP).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. TATA CARA EVALUASI KUALIFIKASI
 A. Dokumen Kualifikasi yang akan dievaluasi harus memenuhi persyaratan sesuai yang
 tercantum dalam Lembar Data Kualifikasi.
@@ -184446,7 +184446,7 @@ disyaratkan; atau
 yang dapat dihitung sebagai KD adalah pengalaman yang sesuai
 dengan sub bidang klasifikasi/layanan dan lingkup pekerjaan SBU
 yang disyaratkan.
-Paraf 1 Paraf 2 Paraf 3
+
 d. Apabila mensyaratkan 2 (dua) SBU, maka penilaian KD peserta cukup
 memenuhi pengalaman pekerjaan pada salah satu sub bidang klasifikasi SBU
 yang disyaratkan;
@@ -184492,7 +184492,7 @@ pekerjaan (Provinsi Papua atau Provinsi Papua Barat);
 b. Pembuktian Pelaku Usaha Papua yaitu dengan:
 1) jumlah kepemilikan saham Orang Asli Papua (OAP) yaitu lebih besar
 dari 50% (lima puluh persen);
-Paraf 1 Paraf 2 Paraf 3
+
 2) Direktur Utama dijabat oleh OAP; dan
 3) jumlah pengurus badan usaha yang dijabat oleh OAP lebih besar dari
 50% (lima puluh persen) apabila berjumlah gasal dan minimal 50%
@@ -184541,7 +184541,7 @@ dikerjakan walaupun sebenarnya ada pekerjaan yang sedang dikerjakan,
 maka apabila pekerjaan tersebut menyebabkan SKP peserta tidak memenuhi,
 maka dinyatakan gugur, dikenakan sanksi daftar hitam, dan pencairan
 jaminan penawaran (apabila ada).
-Paraf 1 Paraf 2 Paraf 3
+
 C. Pokja Pemilihan memeriksa membandingkan/mengevaluasi/ membuktikan antara
 persyaratan pada Dokumen Kualifikasi dengan data isian peserta dalam hal:
 1. kelengkapan Dokumen Kualifikasi; dan
@@ -184588,12 +184588,12 @@ pengalaman berdasarkan bukti pengalaman yang disampaikan;
 c. Apabila ditemukan pemalsuan berdasarkan hasil klarifikasi kepada
 penerbit dokumen, maka peserta selain dinyatakan gugur juga dikenakan
 sanksi daftar hitam.
-Paraf 1 Paraf 2 Paraf 3
+
 G. Apabila ditemukan hal-hal dan/atau data yang kurang jelas maka Pokja Pemilihan
 dapat meminta peserta untuk menyampaikan klarifikasi secara tertulis, termasuk
 dapat melakukan peninjauan lapangan pada pihak-pihak/instansi terkait, namun
 tidak boleh mengubah substansi formulir isian kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -184636,7 +184636,7 @@ Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang – Undang
 Nomor 2 tahun 2017 tentang Jasa Konstruksi;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun
-Paraf 1 Paraf 2 Paraf 3
+
 2021 tentang Perubahan Peraturan Presiden Nomor 16 Tahun 2018 tentang
 Pengadaan Barang/Jasa Pemerintah;
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
@@ -184682,7 +184682,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
-Paraf 1 Paraf 2 Paraf 3
+
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
 total harga penawaran terkoreksi sebagaimana tercantum dalam Daftar Kuantitas dan
 Harga adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..) dengan kode
@@ -184730,7 +184730,7 @@ Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat unt
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
 dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai
-Paraf 1 Paraf 2 Paraf 3
+
 kekuatan hukum yang sama dan mengikat bagi para pihak, rangkap yang lain dapat
 diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
 Untuk dan atas nama Untuk dan atas nama
@@ -184741,7 +184741,7 @@ ini untuk Pejabat Penandatangan Kontrak ini untuk Penyedia maka rekatkan
 maka rekatkan meterai Rp 10.000,00)] meterai Rp 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Harga Satuan
@@ -184786,7 +184786,7 @@ Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang – Undang
 Nomor 2 tahun 2017 tentang Jasa Konstruksi;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun
-Paraf 1 Paraf 2 Paraf 3
+
 2021 tentang Perubahan Peraturan Presiden Nomor 16 Tahun 2018 tentang
 Pengadaan Barang/Jasa Pemerintah;
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
@@ -184831,7 +184831,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
 Pasal 3
-Paraf 1 Paraf 2 Paraf 3
+
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
 total harga penawaran terkoreksi sebagaimana tercantum dalam Daftar Kuantitas dan
@@ -184878,7 +184878,7 @@ Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat unt
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
 dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai
-Paraf 1 Paraf 2 Paraf 3
+
 kekuatan hukum yang sama dan mengikat bagi para pihak, rangkap yang lain dapat
 diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
 Untuk dan atas nama Untuk dan atas nama
@@ -184889,7 +184889,7 @@ ini untuk Pejabat Penandatangan Kontrak ini untuk Penyedia maka rekatkan
 maka rekatkan meterai Rp 10.000,00)] meterai Rp 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 II. SYARAT-SYARAT UMUM KONTRAK
 SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
@@ -184938,7 +184938,7 @@ persiapan pelaksanaan Kontrak.
 1.9 Keadaan Kahar adalah suatu keadaan yang terjadi
 di luar kehendak para pihak dalam Kontrak dan
 tidak dapat diperkirakan sebelumnya, sehingga
-Paraf 1 Paraf 2 Paraf 3
+
 kewajiban yang ditentukan dalam Kontrak
 menjadi tidak dapat dipenuhi.
 1.10 Kegagalan Bangunan adalah suatu keadaan
@@ -184990,7 +184990,7 @@ Penyerahan Pertama Pekerjaan.
 1.18 Masa Pemeliharaan adalah jangka waktu untuk
 melaksanakan kewajiban pemeliharaan oleh
 Penyedia, terhitung sejak Tanggal Penyerahan
-Paraf 1 Paraf 2 Paraf 3
+
 Pertama Pekerjaan sampai dengan Tanggal
 Penyerahan Akhir Pekerjaan.
 1.19 Mata Pembayaran Utama adalah mata
@@ -185041,7 +185041,7 @@ Negara/Lembaga/Perangkat Daerah.
 yang memiliki kewenangan untuk mengikat
 perjanjian atau menandatangani Kontrak dengan
 Penyedia, dapat berasal dari PA, KPA, atau PPK.
-Paraf 1 Paraf 2 Paraf 3
+
 1.28 Penyedia adalah Pelaku Usaha yang
 menyediakan barang/jasa berdasarkan Kontrak.
 1.29 Personel Manajerial adalah tenaga ahli atau
@@ -185092,7 +185092,7 @@ dengan ketentuan-ketentuan dalam Dokumen Kontrak
 lain yang lebih tinggi berdasarkan urutan hierarki
 dalam Surat Perjanjian.
 3. Bahasa dan Hukum 3.1 Bahasa Kontrak harus dalam bahasa Indonesia.
-Paraf 1 Paraf 2 Paraf 3
+
 3.2 Hukum yang digunakan adalah hukum yang
 berlaku di Indonesia.
 4. Korespondensi 4.1 Semua korespondensi dapat berbentuk surat, e-
@@ -185145,7 +185145,7 @@ termasuk semua anggota KSO (apabila berbentuk
 KSO) dan subkontraktornya (jika ada) tidak
 pernah dan tidak akan melakukan tindakan yang
 dilarang pada pasal 6.1 di atas.
-Paraf 1 Paraf 2 Paraf 3
+
 6.3 Penyedia yang menurut penilaian Pejabat
 Penandatangan Kontrak terbukti melakukan
 larangan-larangan di atas dapat dikenakan
@@ -185197,7 +185197,7 @@ sebagai akibat peleburan (merger) maupun
 akibat lainnya.
 10.2 Jika ketentuan di atas dilanggar maka Kontrak
 diputuskan sepihak oleh Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak dan Penyedia dikenakan sanksi
 sebagaimana diatur dalam pasal 44.2.
 11. Pengabaian Jika terjadi pengabaian oleh satu pihak terhadap
@@ -185249,7 +185249,7 @@ dari Pengawas Pekerjaan.
 Pernyataan tidak berkeberatan atas rencana
 pekerjaan sementara ini tidak melepaskan
 Penyedia dari tanggung jawabnya sesuai Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 15.3 Pengawas Pekerjaan melaksanakan tugas dan
 wewenang paling sedikit meliputi:
 1) mengevaluasi dan menyetujui rencana mutu
@@ -185301,7 +185301,7 @@ lapangan dan Penyedia harus berupaya menjaga
 setiap jalan atau jembatan dari kerusakan akibat
 penggunaan/lalu lintas Penyedia atau akibat
 personel Penyedia, maka:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Penyedia harus bertanggung jawab atas
 pemeliharaan yang mungkin diperlukan
 akibat pengunaan jalur akses;
@@ -185353,7 +185353,7 @@ perubahan isi Kontrak maka perubahan tersebut
 harus dituangkan dalam Berita Acara Penyerahan
 Lokasi Kerja yang selanjutnya akan dituangkan
 dalam addendum kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 19.5 Jika Pejabat Penandatangan Kontrak tidak dapat
 menyerahkan lokasi kerja sesuai kebutuhan
 Penyedia yang untuk mulai bekerja pada Tanggal
@@ -185403,7 +185403,7 @@ pekerjaan dan Tanggal Mulai Kerja.
 Pekerjaan Konstruksi dan menyerahkan RMPK sebagai penjaminan dan
 (RMPK) pengendalian mutu pelaksanaan pekerjaan pada
 rapat persiapan pelaksanaan Kontrak, kemudian
-Paraf 1 Paraf 2 Paraf 3
+
 dibahas dan disetujui oleh Pejabat Penandatangan
 Kontrak .
 21.2 RMPK disusun paling sedikit berisi:
@@ -185453,7 +185453,7 @@ kewajiban kontraktual Penyedia.
 Pelaksanaan Kontrak diterbitkannya SPMK dan sebelum pelaksanaan
 pekerjaan, Pejabat Penandatangan Kontrak
 bersama dengan Penyedia, unsur perancangan,
-Paraf 1 Paraf 2 Paraf 3
+
 dan unsur pengawasan, harus sudah
 menyelenggarakan rapat persiapan pelaksanaan
 kontrak.
@@ -185504,7 +185504,7 @@ Pelaksanaan Kontrak. Apabila dalam rapat
 persiapan pelaksanaan kontrak mengakibatkan
 perubahan isi Kontrak, maka harus dituangkan
 dalam adendum Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 23.4 Pada tahapan rapat persiapan pelaksanaan
 Kontrak, PA/KPA dapat membentuk
 Pejabat/Panitia Peneliti Pelaksanaan Kontrak.
@@ -185556,7 +185556,7 @@ dokumen:
 a. formulir Penyampaian Tingkat Komponen
 Dalam Negeri (TKDN), untuk Penyedia yang
 mendapat preferensi harga; dan
-Paraf 1 Paraf 2 Paraf 3
+
 b. daftar barang yang diimpor, untuk barang
 yang diimpor.
 26.3 Apabila dalam pelaksanaan pekerjaan ditemukan
@@ -185609,7 +185609,7 @@ perencanaaan atas sisa pekerjaan serta untuk
 menindaklanjuti peringatan dini.
 29.2 Hasil rapat pemantauan akan dituangkan oleh
 Pengawas Pekerjaan dalam berita acara rapat,
-Paraf 1 Paraf 2 Paraf 3
+
 dan rekamannya diserahkan kepada Pejabat
 Penandatangan Kontrak dan pihak-pihak yang
 menghadiri rapat.
@@ -185662,7 +185662,7 @@ Penandatangan Kontrak berdasarkan
 laporan dari Pengawas Pekerjaan
 memberikan peringatan secara tertulis
 kepada Penyedia dan selanjutnya Pejabat
-Paraf 1 Paraf 2 Paraf 3
+
 Penandatangan Kontrak menyelenggarakan
 Rapat Pembuktian (SCM) Tahap I.
 b. Dalam SCM Tahap I, Pejabat Penandatangan
@@ -185712,7 +185712,7 @@ memberikan kesempatan kepada Penyedia
 untuk menyelesaikan pekerjaan.
 32.2 Hasil penilaian menjadi dasar bagi Pejabat
 Penandatangan Kontrak untuk:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Memberikan kesempatan kepada Penyedia
 untuk menyelesaikan pekerjaannya dengan
 ketentuan sebagai berikut:
@@ -185760,7 +185760,7 @@ adendum Kontrak yang didalamnya mengatur:
 pekerjaan;
 2) pengenaan sanksi denda keterlambatan
 kepada Penyedia;
-Paraf 1 Paraf 2 Paraf 3
+
 3) perpanjangan masa berlaku Jaminan
 Pelaksanaan; dan
 4) sumber dana untuk membiayai penyelesaian
@@ -185813,7 +185813,7 @@ pekerjaan.
 33.8 Masa Pemeliharaan paling singkat untuk
 pekerjaan permanen selama 6 (enam) bulan,
 sedangkan untuk pekerjaan semi permanen
-Paraf 1 Paraf 2 Paraf 3
+
 selama 3 (tiga) bulan dan dapat melampaui
 Tahun Anggaran. Lamanya Masa Pemeliharaan
 ditetapkan dalam SSKK.
@@ -185865,7 +185865,7 @@ ketentuan denda dan kewajiban pemeliharaan
 tersebut di atas disesuaikan.
 33.18 Kewajiban pemeliharaan diperhitungkan
 setelah serah terima pertama pekerjaan untuk
-Paraf 1 Paraf 2 Paraf 3
+
 bagian pekerjaan (PHO parsial) tersebut
 dilaksanakan sampai Masa Pemeliharaan
 bagian pekerjaan tersebut berakhir
@@ -185915,7 +185915,7 @@ dapat melakukan perubahan pekerjaan, yang
 meliputi:
 a. menambah atau mengurangi volume yang
 tercantum dalam Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 b. menambah dan/atau mengurangi jenis
 kegiatan/pekerjaan;
 c. mengubah spesifikasi teknis dan/atau
@@ -185967,7 +185967,7 @@ pekerjaan yang tercantum dalam Dokumen
 Pemilihan. Untuk kuantitas pekerjaan tambahan
 digunakan harga satuan berdasarkan hasil
 negosiasi.
-Paraf 1 Paraf 2 Paraf 3
+
 38.4 Apabila ada daftar mata pembayaran yang
 masuk kategori harga satuan timpang, maka
 dicantumkan dalam Lampiran A SSKK.
@@ -186021,7 +186021,7 @@ harga diatur dalam SSKK.
 38.8 Ketentuan ganti rugi akibat Peristiwa
 Kompensasi mengacu pada pasal Peristiwa
 Kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 39. Perubahan Jadwal 39.1 Perubahan jadwal pelaksanaan pekerjaan dapat
 Pelaksanaan Pekerjaan diakibatkan oleh:
 dan/atau Masa 1) perubahan pekerjaan;
@@ -186074,7 +186074,7 @@ dilakukan melalui adendum Kontrak.
 40. Perubahan personel 40.1 Jika Pejabat Penandatangan Kontrak menilai
 manajerial dan/atau bahwa Personel Manajerial :
 peralatan utama
-Paraf 1 Paraf 2 Paraf 3
+
 1. tidak mampu atau tidak dapat melakukan
 pekerjaan dengan baik;
 2. tidak menerapkan prosedur SMKK;
@@ -186126,7 +186126,7 @@ ekstrim, dan gangguan industri lainnya.
 41.2 Tidak termasuk Keadaan Kahar adalah hal-hal
 merugikan yang disebabkan oleh perbuatan
 atau kelalaian para pihak.
-Paraf 1 Paraf 2 Paraf 3
+
 41.3 Dalam hal terjadi keadaan kahar, Pejabat
 Penandatangan Kontrak atau Penyedia
 memberitahukan tentang terjadinya Keadaan
@@ -186177,7 +186177,7 @@ a. sementara hingga Keadaan Kahar berakhir
 apabila akibat Keadaan Kahar masih
 memungkinkan
 dilanjutkan/diselesaikannya pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. permanen apabila akibat Keadaan Kahar
 tidak memungkinkan
 dilanjutkan/diselesaikannya pekerjaan.
@@ -186230,7 +186230,7 @@ atau kemajuan hasil pekerjaan yang telah
 dicapai setelah dilakukan
 pengukuran/pemeriksaan bersama atau
 berdasarkan hasil audit.
-Paraf 1 Paraf 2 Paraf 3
+
 B.6 Penghentian, Pemutusan, dan Berakhirnya Kontrak
 42. Penghentian Kontrak Penghentian Kontrak dapat dilakukan karena terjadi
 Keadaan Kahar sebagaimana dimaksud pada pasal 41.
@@ -186283,7 +186283,7 @@ c. Penyedia berada dalam keadaan pailit yang
 diputuskan oleh pengadilan;
 d. Penyedia terbukti dikenakan Sanksi Daftar
 Hitam sebelum penandatanganan Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Penyedia gagal memperbaiki kinerja;
 f. Penyedia tidak mempertahankan berlakunya
 Jaminan Pelaksanaan;
@@ -186335,7 +186335,7 @@ Penandatangan Kontrak wajib menyetorkan
 sebagaimana ditetapkan dalam SSKK.
 44.5 Pencairan Jaminan sebagaimana dimaksud
 pasal 44.2 dan pasal 44.4 disertai dengan:
-Paraf 1 Paraf 2 Paraf 3
+
 a. bukti kesalahan penyedia sesuai dengan
 ketentuan Kontrak; dan
 b. dokumen pendukung.
@@ -186384,7 +186384,7 @@ perawatan/pemeliharaan. Pengambilan kembali semua
 peninggalan tersebut oleh Penyedia hanya dapat
 dilakukan setelah mempertimbangkan kepentingan
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 C. HAK DAN KEWAJIBAN PENYEDIA
 49. Hak dan Kewajiban Hak-hak yang dimiliki serta kewajiban-kewajiban yang
 Penyedia harus dilaksanakan oleh Penyedia dalam melaksanakan
@@ -186437,7 +186437,7 @@ ketiga yang disebabkan penggunaan atau atas
 pelanggaran Hak Kekayaan Intelektual oleh Penyedia.
 52. Penanggungan Risiko 52.1 Penyedia berkewajiban untuk melindungi,
 membebaskan, dan menanggung tanpa batas
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Penandatangan Kontrak beserta
 instansinya terhadap semua bentuk tuntutan,
 tanggung jawab, kewajiban, kehilangan,
@@ -186491,7 +186491,7 @@ dalam peraturan perundang-undangan.
 53.2 Penyedia berkewajiban untuk mematuhi dan
 memerintahkan Tenaga Kerja Konstruksinya
 untuk mematuhi peraturan keselamatan
-Paraf 1 Paraf 2 Paraf 3
+
 konstruksi kerja. Pada waktu pelaksanaan
 pekerjaan, Penyedia beserta Tenaga Kerja
 Konstruksinya dianggap telah membaca dan
@@ -186543,7 +186543,7 @@ Pekerjaan belum tercantum dalam Lampiran A SSKK;
 b. menunjuk Personel Manajerial yang
 namanya tidak tercantum dalam Lampiran A
 SSKK;
-Paraf 1 Paraf 2 Paraf 3
+
 c. mengubah atau memutakhirkan dokumen
 penerapan SMKK;
 d. tindakan lain selain yang diatur dalam SSUK.
@@ -186592,7 +186592,7 @@ pekerjaan dalam periode satu minggu, serta hal-
 hal penting yang perlu ditonjolkan.
 57.5 Laporan bulanan terdiri dari rangkuman
 laporan mingguan dan berisi hasil kemajuan
-Paraf 1 Paraf 2 Paraf 3
+
 fisik pekerjaan dalam periode satu bulan, serta
 hal-hal penting yang perlu ditonjolkan.
 57.6 Untuk merekam kegiatan pelaksanaan
@@ -186641,7 +186641,7 @@ Sebagian pekerjaan yang bukan pekerjaan
 utama kepada sub penyedia jasa usaha
 kualifikasi kecil dengan ketentuan:
 a) Paling banyak 2 (dua) pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 b) Pekerjaan sebagaimana dimaksud pada
 huruf a) tidak mensyaratkan subklasifikasi
 SBU.
@@ -186693,7 +186693,7 @@ yang disubkontrakkan tersebut.
 60. Penyedia Lain Penyedia berkewajiban untuk bekerjasama dan
 menggunakan lokasi kerja termasuk jalan akses
 bersama-sama dengan Penyedia Lain (jika ada) dan
-Paraf 1 Paraf 2 Paraf 3
+
 pihak-pihak lainnya yang berkepentingan atas lokasi
 kerja. Jika dipandang perlu, Pejabat Penandatangan
 Kontrak dapat memberikan jadwal kerja Penyedia Lain
@@ -186746,7 +186746,7 @@ Otoritas Jasa Keuangan (OJK).
 63.4 Jaminan Pelaksanaan diberikan kepada Pejabat
 Penandatangan Kontrak setelah diterbitkannya
 Surat Penunjukan Penyedia Barang/Jasa (SPPBJ)
-Paraf 1 Paraf 2 Paraf 3
+
 sebelum dilakukan Penandatanganan Kontrak
 dengan besar:
 a. 5% (lima persen) dari Harga Kontrak; atau
@@ -186797,7 +186797,7 @@ dilaksanakan oleh Penyedia;
 b. menerima laporan-laporan secara periodik
 mengenai pelaksanaan pekerjaan yang
 dilaksanakan oleh Penyedia;
-Paraf 1 Paraf 2 Paraf 3
+
 c. menerima hasil pekerjaan sesuai dengan jadwal
 penyerahan pekerjaan dan ketentuan yang telah
 ditetapkan dalam Kontrak.
@@ -186851,7 +186851,7 @@ perpanjangan Masa Pelaksanaan.
 66.3 Ganti rugi akibat Peristiwa Kompensasi hanya
 dapat dibayarkan jika berdasarkan data
 penunjang dan perhitungan kompensasi yang
-Paraf 1 Paraf 2 Paraf 3
+
 diajukan oleh Penyedia kepada Pejabat
 Penandatangan Kontrak, dapat dibuktikan
 kerugian nyata.
@@ -186902,7 +186902,7 @@ d. biaya penerapan SMKK.
 69.3 Rincian Harga Kontrak sesuai dengan rincian
 yang tercantum dalam Daftar Kuantitas dan
 Harga.
-Paraf 1 Paraf 2 Paraf 3
+
 69.4 Besaran Harga Kontrak sesuai dengan
 penawaran yang sebagaimana yang telah
 diubah terakhir kali sesuai dengan ketentuan
@@ -186958,7 +186958,7 @@ sesuai Kontrak dan rencana
 pengembaliannya.
 g. Pejabat Penandatangan Kontrak harus
 mengajukan Surat Permintaan Pembayaran
-Paraf 1 Paraf 2 Paraf 3
+
 (SPP) kepada Pejabat Penandatanganan
 Surat Perintah Membayar (PPSPM) untuk
 permohonan tersebut pada huruf f, paling
@@ -187012,7 +187012,7 @@ Pejabat Penandatangan Kontrak dan
 Penyedia;
 h. Pejabat Penandatangan Kontrak dalam
 kurun waktu 7 (tujuh) hari kerja setelah
-Paraf 1 Paraf 2 Paraf 3
+
 pengajuan permintaan pembayaran dari
 Penyedia diterima harus sudah mengajukan
 Surat Permintaan Pembayaran kepada
@@ -187063,7 +187063,7 @@ Harga Satuan Pekerjaan (HSP);
 e. besaran nilai pembayaran dan jenis
 material on site dicantumkan di dalam
 SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 70.4 Denda dan Ganti Rugi
 a. Denda merupakan sanksi finansial yang
 dikenakan kepada Penyedia, antara lain:
@@ -187117,7 +187117,7 @@ perhitungan dan data-data.
 71. Hari Kerja 71.1 Orang hari standar atau satu hari orang bekerja
 adalah 8 (delapan) jam, terdiri atas 7 (tujuh)
 jam kerja (efektif) dan 1 (satu) jam istirahat.
-Paraf 1 Paraf 2 Paraf 3
+
 71.2 Penyedia tidak diperkenankan melakukan
 pekerjaan apapun di lokasi kerja pada waktu
 yang secara ketentuan peraturan perundang-
@@ -187170,7 +187170,7 @@ sesuai dengan waktu yang telah ditetapkan.
 memberitahukan kepada Penyedia tentang
 penangguhan hak pembayaran, disertai alasan-
 alasan yang jelas mengenai penangguhan
-Paraf 1 Paraf 2 Paraf 3
+
 tersebut. Penyedia diberi kesempatan untuk
 memperbaiki dalam jangka waktu tertentu.
 73.3 Pembayaran yang ditangguhkan harus
@@ -187223,7 +187223,7 @@ Cacat Mutu kepada Penyedia segera setelah
 ditemukan Cacat Mutu tersebut. Penyedia
 bertanggung jawab atas Cacat Mutu selama
 Masa Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 77.2 Terhadap pemberitahuan Cacat Mutu tersebut,
 Penyedia berkewajiban untuk memperbaiki
 Cacat Mutu dalam jangka waktu yang
@@ -187275,7 +187275,7 @@ jangka waktu perbaikan cacat mutu akan
 melampaui Masa Pemeliharaan.
 78. Kegagalan Bangunan 78.1 Kegagalan Bangunan terhitung sejak Tanggal
 Penyerahan Akhir Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 78.2 Penyedia bertanggung jawab atas Kegagalan
 Bangunan selama Umur Konstruksi yang
 tercantum dalam SSKK tetapi tidak lebih dari 10
@@ -187323,7 +187323,7 @@ dapat mencapai suatu kemufakatan, maka
 penyelesaian perselisihan atau sengketa antara
 para pihak ditempuh melalui tahapan mediasi,
 konsiliasi, dan arbitrase.
-Paraf 1 Paraf 2 Paraf 3
+
 79.3 Selain ketentuan pada pasal 79.2 penyelesaian
 perselisihan/sengketa para pihak dapat
 dilakukan melalui:
@@ -187346,7 +187346,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 III. SYARAT-SYARAT KHUSUS KONTRAK
 Pasal Ketentuan Data
 dalam
@@ -187394,7 +187394,7 @@ Sah Penyedia]
 6.3.3) Jaminan [diisi nama kantor Kas Negara]
 44.4 &
 44.6
-Paraf 1 Paraf 2 Paraf 3
+
 27.1 Masa Masa Pelaksanaan selama ......... [diisi jumlah hari
 Pelaksanaan kalender dalam angka dan huruf] hari kalender
 terhitung sejak Tanggal Mulai Kerja yang tercantum
@@ -187442,7 +187442,7 @@ angka dan huruf] hari kalender terhitung sejak
 tanggal penyerahan pertama bagian pekerjaan
 …………… [diisi bagian pekerjaannya].
 3. Dst.
-Paraf 1 Paraf 2 Paraf 3
+
 Catatan:
 Ketentuan di atas diisi apabila diberlakukan serah
 terima sebagian pekerjaan (secara parsial) dan sudah
@@ -187494,7 +187494,7 @@ b) Koefisien komponen kontrak ditetapkan oleh
 Pejabat Penandatangan Kontrak dari perbandingan
 antara harga bahan, tenaga kerja, alat kerja, dan
 sebagainya (apabila ada) terhadap Harga Satuan
-Paraf 1 Paraf 2 Paraf 3
+
 dari pembobotan HPS dan dicantumkan dalam
 Dokumen Pemilihan (Rancangan Kontrak).
 c) Indeks harga yang digunakan bersumber dari
@@ -187544,7 +187544,7 @@ Penyedia 2. ……….
 [diisi hak dan kewajiban Penyedia yang timbul akibat
 lingkup pekerjaan selain yang sudah tercantum dalam
 SSUK]
-Paraf 1 Paraf 2 Paraf 3
+
 56.3 Tindakan Tindakan lain oleh Penyedia yang memerlukan
 Penyedia yang persetujuan Pejabat Penandatangan Kontrak adalah
 Mensyaratkan .................... [diisi selain yang sudah tercantum dalam
@@ -187591,7 +187591,7 @@ Peralatan pekerjaan utama (material on site), ditetapkan sebagai
 berikut:
 1. ....[diisi bahan/peralatan].... dibayar .......% dari harga
 satuan pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 2. ....[diisi bahan/peralatan].... dibayar .......% dari harga
 satuan pekerjaan;
 3. ..............dst.
@@ -187624,7 +187624,7 @@ apabila umur konstruksinya tidak lebih dari 10
 79.3 Penyelesaian Penyelesaian perselisihan/sengketa para pihak
 Perselisihan/ dilakukan melalui …………..
 Sengketa
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN A SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR HARGA SATUAN TIMPANG*)
 Harga
@@ -187670,7 +187670,7 @@ Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
 **) Wajib diisi saat rapat persiapan pelaksanaan kontrak berdasarkan daftar isian
 pekerjaan yang disubkontrakkan dalam dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR PERSONEL MANAJERIAL
 Jabatan
 Nama Tingkat Pengalaman Sertifikat
@@ -187702,7 +187702,7 @@ Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen
 penawara
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B SYARAT-SYARAT KHUSUS KONTRAK
 RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
@@ -187730,7 +187730,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
 format di bawah ini:
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha Tunggal/Atas Nama
@@ -187756,7 +187756,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha ber-KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -187785,7 +187785,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 TABEL 1. IDENTIFIKASI BAHAYA, PENILAIAN RISIKO, PENETAPAN PENGENDALIAN RISIKO
 K3
@@ -187809,7 +187809,7 @@ Keselamatan Konstruksi, apabila dinilai tidak ada yang diisikan, maka dapat ditu
 atau "n/a".
 Dibuat oleh,
 Kepala Pelaksanaan Pekerjaan Konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 B.2. Rencana tindakan (sasaran khusus & program khusus)
 Tabel Contoh Format Tabel Sasaran Khusus dan Program Khusus
 Nama Perusahaan : ..................
@@ -187849,7 +187849,7 @@ Alat Pelindung Diri yang diperlukan untuk melaksanakan pekerjaan:
 3 Sarung Tangan/Safety Gloves √ 6. …. Dst.
 Urutan Langkah Identifikasi Bahaya Pengendalian Penanggung Jawab
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 E. Evaluasi Keselamatan Konstruksi
 E.1 Pemantauan dan Evaluasi
 Tabel Contoh Jadwal Inspeksi dan Audit
@@ -187861,7 +187861,7 @@ Konstruksi
 2 Patroli Keselamatan
 Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SPESIFIKASI TEKNIS DAN GAMBAR
 A. Uraian Spesifikasi Teknis
 Uraian spesifikasi teknis disusun berdasarkan spesifikasi teknis yang ditetapkan
@@ -187908,7 +187908,7 @@ a. Pokja Pemilihan (yang bersertifikat Ahli K3 Konstruksi/Ahli Keselamatan
 Konstruksi/petugas Keselamatan Konstruksi atau dengan melibatkan Ahli
 K3 Konstruksi/Ahli Keselamatan Konstruksi/petugas Keselamatan
 Konstruksi) harus menilai kesesuaian identifikasi bahaya dari setiap
-Paraf 1 Paraf 2 Paraf 3
+
 tahapan kegiatan yang sudah ditetapkan oleh Pejabat Penandatangan
 Kontrak;
 b. Setiap proses/kegiatan harus dilengkapi dengan prosedur kerja, sistem
@@ -187958,7 +187958,7 @@ sudah mencakup analisis keselamatan pekerjaan/Job Safety Analysis
 perancah, lantai kerja (platform), papan tepi, tangga kerja, pagar
 pelindung tepi, serta alat pelindung diri (APD) yang sesuai antara lain
 helm dan sabuk keselamatan agar pekerja terlindung dari bahaya jatuh.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk pekerjaan saluran galian tanah berpasir yang mudah longsor
 dengan kedalaman 1,5 meter atau lebih, mutlak harus menggunakan
 turap dan tangga akses bagi pekerja untuk naik/turun;
@@ -188005,13 +188005,13 @@ Penandatangan Kontrak secara terinci, lengkap dan jelas, antara lain :
 C. Pejabat Penandatangan Kontrak mengacu pada hasil dokumen pekerjaan jasa
 Konsultansi Konstruksi perancangan dan/atau berkonsultasi dengan Ahli K3
 Konstruksi/Ahli Keselamatan Konstruksi dalam menetapkan uraian pekerjaan,
-Paraf 1 Paraf 2 Paraf 3
+
 identifikasi bahaya, dan penetapan tingkat Risiko Keselamatan Konstruksi pada
 Pekerjaan Konstruksi.
 Dalam melakukan pengawasan dan evaluasi terhadap RKK dan penerapan SMKK,
 Pejabat Penandatangan Kontrak dapat dibantu oleh Ahli K3 Konstruksi/ Ahli
 Keselamatan Konstruksi dan/atau Petugas Keselamatan Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. DAFTAR KUANTITAS DAN HARGA
 Keterangan
 1. Daftar Kuantitas dan Harga harus sesuai dengan Instruksi Kepada Peserta
@@ -188035,7 +188035,7 @@ Kuantitas dan Harga.
 Kontrak harus dianggap telah termasuk dalam setiap mata pembayaran,
 dan jika mata pembayaran terkait tidak ada maka biaya dimaksud harus
 dianggap telah termasuk dalam harga mata pembayaran yang terkait.
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 1: Mata Pembayaran Umum
 CONTOH
 No Satuan Harga Total
@@ -188048,7 +188048,7 @@ Keterangan:
 umum.
 2. Total harga adalah semua jenis harga yang tercantum dalam Daftar Kuantitas dan
 Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 2: Mata Pembayaran Perkiraan Biaya Penerapan Sistem Manajemen
 Keselamatan Konstruksi*)
 CONTOH
@@ -188089,7 +188089,7 @@ Total Daftar 2 Rp.......
 *) Sesuai dengan ketentuan SMKK
 **) Satuan ukuran dapat berupa meter, orang, buah, LS sesuai dengan ketentuan
 SMKK
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 3: Mata Pembayaran Pekerjaan Utama: __________
 CONTOH
 Satuan Harga Total
@@ -188102,7 +188102,7 @@ Keterangan:
 pokok dari paket Pekerjaan Konstruksi ini di antara bagian-bagian pekerjaan lain.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 4: Mata Pembayaran ______________________
 CONTOH
 No Uraian Pekerjaan Satuan Kuantitas Harga Total
@@ -188115,7 +188115,7 @@ sudah diuraikan dalam Mata Pembayaran Pekerjaan Utama jika terdapat lebih
 dari satu jenis pekerjaan.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 5: Mata Pembayaran Utama
 CONTOH
 Nilai
@@ -188127,7 +188127,7 @@ f
 Keterangan:
 Diisi mata pembayaran yang pokok dan penting yang nilai bobot kumulatifnya minimal 80%
 dari seluruh nilai pekerjaan dihitung mulai dari mata pembayaran dan nilai bobot terbesar.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR REKAPITULASI
 CONTOH
 Mata Pembayaran Harga
@@ -188141,7 +188141,7 @@ Daftar No. 4: Mata Pembayaran ...................
 TOTAL NILAI
 PPN 10%
 Total termasuk PPN 10%
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
 [kop surat K/L/PD]
@@ -188178,7 +188178,7 @@ Tembusan Yth. :
 4. ____________ [APIP K/L/PD]
 5. ____________ [Pokja Pemilihan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA (SPMK)
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -188206,7 +188206,7 @@ pekerjaan harus sudah selesai pada tanggal __________
 Penyedia akan dikenakan Denda Keterlambatan sebesar 1/1000 (satu per seribu)
 dari Nilai Kontrak atau bagian tertentu dari Nilai Kontrak sebelum PPN sesuai
 dengan ketentuan yang tercantum dalam Syarat-Syarat Khusus Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 __________, __ __________ 20__
 Untuk dan atas nama __________
 Pejabat Penandatangan Kontrak
@@ -188219,7 +188219,7 @@ Untuk dan atas nama __________
 [tanda tangan]
 [nama lengkap wakil sah badan usaha]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT-SURAT JAMINAN
 Jaminan Pelaksanaan dari Bank
 [Kop Bank Penerbit Jaminan]
@@ -188263,7 +188263,7 @@ di atas dalam waktu paling lambat 14 (empat belas) hari kerja tanpa syarat
 (Unconditional)setelah menerima tuntutan pencairan dari Penerima Jaminan berdasar
 Surat Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi
 akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
-Paraf 1 Paraf 2 Paraf 3
+
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-benda
 yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang
 Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang
@@ -188280,7 +188280,7 @@ Untuk keyakinan, pemegang ________________
 Garansi Bank disarankan untuk
 mengkonfirmasi Garansi ini ke [Nama dan Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pelaksanaan dari Asuransi/Konsorsium Perusahaan Asuransi/Perusahaan
 Penjaminan
 [Kop Penerbit Jaminan]
@@ -188318,7 +188318,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah diajukan
 selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah berakhirnya
 masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -188329,7 +188329,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -188377,7 +188377,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -188386,7 +188386,7 @@ Untuk keyakinan, pemegang ________________
 Garansi Bank disarankan untuk
 mengkonfirmasi Garansi ini ke [Nama dan Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Asuransi/Konsorsium Perusahaan Asuransi/Perusahaan
 Penjaminan
 [Kop Penerbit Jaminan]
@@ -188424,7 +188424,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah diajukan
 selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah berakhirnya
 masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -188435,7 +188435,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -188483,7 +188483,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -188492,7 +188492,7 @@ Untuk keyakinan, pemegang ________________
 Garansi Bank disarankan untuk
 mengkonfirmasi Garansi ini ke [Nama dan Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Perusahaan Asuransi/Perusahaan
 Penjaminan
 [Kop Penerbit Jaminan]
@@ -188538,7 +188538,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XIII. PETUNJUK EVALUASI KEWAJARAN HARGA
 Tahapan evaluasi kewajaran harga bagi peserta dengan harga penawaran dibawah
 nilai nominal 80% (delapan puluh persen) HPS dilakukan sebagai berikut:
@@ -188564,7 +188564,7 @@ IV. JUMLAH ( I + II + III ) ........
 V. BIAYA UMUM ........
 VI. BIAYA KEUNTUNGAN ........
 VII. TOTAL ( IV + V ) ........
-Paraf 1 Paraf 2 Paraf 3
+
 2. Kemudian dilakukan klarifikasi harga dengan membuat format sebagai berikut:
 3. Peserta diminta menjelaskan terhadap kuantitas/koefisien yang dimasukkan
 dalam analisa harga satuan.
@@ -188592,7 +188592,7 @@ satuan dasar, maka kuantitas/koefisien hasil klarifikasi dan harga satuan
 dasar hasil klarifikasi berdasarkan rincian uraian pada HPS.
 7. Dari angka 4, 5 dan 6 diatas diperoleh kuantitas/koefisien hasil klarifikasi dan
 harga satuan dasar hasil klarifikasi. Selanjutnya dihitung harga satuan hasil
-Paraf 1 Paraf 2 Paraf 3
+
 klarifikasi sekurang-kurangnya pada setiap mata pembayaran utama tanpa
 memperhitungkan keuntungan.
 8. Kemudian dihitung untuk setiap harga satuan penawaran yang bukan Mata
@@ -188609,7 +188609,7 @@ penawaran, maka harga dinyatakan wajar dan jaminan pelaksanaan dinaikkan
 sebesar 5% dari nilai HPS.
 Jika total harga hasil klarifikasi lebih besar dari total harga penawaran, maka
 harga dinyatakan tidak wajar dan penawaran dinyatakan gugur.
-Paraf 1 Paraf 2 Paraf 3
+
 Standar Dokumen Pemilihan Secara Elektronik
 (DOKUMEN KUALIFIKASI)
 Pengadaan
@@ -197480,7 +197480,7 @@ Pengadaan
 Pekerjaan Konstruksi
 Metode Tender, Prakualifikasi, Dua File, Sistem Harga Terendah Ambang Batas,
 Kontrak Lumsum
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PEMILIHAN
 Nomor: __________
 Tanggal: __________
@@ -197490,7 +197490,7 @@ __________
 Kelompok Kerja Pemilihan __________
 Kementerian/Lembaga/Pemerintah Daerah _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ................................................................................................................ - 5 -
 BAB II. UNDANGAN TENDER........................................................................................ - 9 -
@@ -197541,7 +197541,7 @@ G. TENDER GAGAL DAN TINDAK LANJUT TENDER GAGAL .................................
 H. PENUNJUKAN PEMENANG .................................................................................... - 45 -
 37. PENUNJUKAN PENYEDIA BARANG/JASA ................................................................... - 45 -
 38. KERAHASIAAN PROSES ............................................................................................. - 48 -
-Paraf 1 Paraf 2 Paraf 3
+
 I. JAMINAN PELAKSANAAN ...................................................................................... - 49 -
 39. JAMINAN PELAKSANAAN .......................................................................................... - 49 -
 J. PENANDATANGANAN KONTRAK ......................................................................... - 50 -
@@ -197590,7 +197590,7 @@ Penjaminan .....................................................................
 Jaminan Pemeliharaan dari Bank ....................................................... - 166 -
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Asuransi/Perusahaan
 Penjaminan ........................................................................................... - 168 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pemilihan ini disusun untuk membantu peserta dalam menyiapkan
 Dokumen Penawaran.
@@ -197633,7 +197633,7 @@ perjanjian tertulis;
 - PA : Pengguna Anggaran
 - KPA : Kuasa Pengguna Anggaran
 - UKPBJ : Unit Kerja Pengadaan Barang/Jasa
-Paraf 1 Paraf 2 Paraf 3
+
 - Pokja Pemilihan : Kelompok Kerja Pemilihan
 - Pejabat yang : yang selanjutnya disebut Pejabat
 mempunyai Penandatangan Kontrak adalah pejabat yang
@@ -197674,7 +197674,7 @@ Utama yang nilai bobot kumulatifnya minimal 80%
 (delapan puluh per seratus) dari seluruh nilai
 pekerjaan, dihitung mulai dari mata
 pembayaran yang nilai bobotnya terbesar.
-Paraf 1 Paraf 2 Paraf 3
+
 - Harga Satuan : yang selanjutnya disingkat HSP adalah harga
 Pekerjaan (HSP) satu jenis pekerjaan tertentu per satu satuan
 tertentu.
@@ -197722,7 +197722,7 @@ Konstruksi.
 Konstruksi dokumen lengkap rencana penerapan SMKK
 dan merupakan satu kesatuan dengan
 dokumen kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 - Ahli K3 : Tenaga ahli yang mempunyai kompetensi
 Konstruksi/Ahli khusus di bidang K3 Konstruksi/Keselamatan
 Keselamatan Kosntruksi dalam merencanakan,
@@ -197766,7 +197766,7 @@ dalam waktu yang bersamaan.
 grafis berisi komponen isian yang dapat
 diinput atau diunggah (upload) oleh
 pengguna aplikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN TENDER
 Peserta yang diundang adalah peserta yang lulus prakualifikasi
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
@@ -197812,7 +197812,7 @@ d. melakukan korupsi, kolusi, dan/atau nepotisme
 dalam proses Tender; atau
 e. mengundurkan diri dengan alasan yang tidak
 dapat diterima oleh Pokja Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 4.2. Peserta yang terbukti melakukan tindakan sebagaimana
 dimaksud pada angka 4.1 dikenakan sanksi
 administratif sebagai berikut:
@@ -197860,7 +197860,7 @@ peserta.
 6. Peserta Tender/ Sanksi daftar hitam dikenakan kepada peserta Tender/Penyedia
 Penyedia Yang apabila:
 Dikenakan
-Paraf 1 Paraf 2 Paraf 3
+
 Sanksi Daftar a. peserta Tender menyampaikan dokumen atau keterangan
 Hitam palsu/tidak benar untuk memenuhi persyaratan yang
 ditentukan dalam Dokumen Pemilihan;
@@ -197914,7 +197914,7 @@ yang ada di dalam negeri, seperti jasa asuransi,
 angkutan, ekspedisi, perbankan, dan pemeliharaan;
 e. penggunaan tenaga ahli asing dilakukan semata-
 mata untuk mencukupi kebutuhan jenis keahlian
-Paraf 1 Paraf 2 Paraf 3
+
 yang belum dapat diperoleh di Indonesia, disusun
 berdasarkan keperluan yang nyata, dan diusahakan
 secara terencana untuk semaksimal mungkin
@@ -197963,7 +197963,7 @@ b) Daftar Peralatan Utama;
 c) Daftar Personel Manajerial;
 d) Formulir Rencana Keselamatan Konstruksi
 (RKK);
-Paraf 1 Paraf 2 Paraf 3
+
 e) Daftar Bagian Pekerjaan yang
 disubkontrakkan (apabila disyaratkan); dan
 f) Dokumen lain yang disyaratkan (apabila
@@ -198012,7 +198012,7 @@ lapangan sesuai jadwal yang ditetapkan dalam LDP.
 Biaya yang diperlukan peserta dalam rangka
 peninjauan lapangan ditanggung oleh masing-masing
 peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 12.5. Pokja Pemilihan menjawab setiap pertanyaan yang
 masuk, kecuali untuk substansi pertanyaan yang telah
 dijawab.
@@ -198056,7 +198056,7 @@ berdasarkan informasi baru yang mempengaruhi
 substansi Dokumen Pemilihan.
 13.5. Setiap Adendum yang ditetapkan merupakan bagian
 yang tidak terpisahkan dari Dokumen Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 13.6. Pokja Pemilihan mengumumkan Adendum Dokumen
 Pemilihan dengan cara mengunggah (upload)
 adendum Dokumen Pemilihan melalui SPSE paling
@@ -198104,7 +198104,7 @@ teknis yang ditetapkan terdiri atas:
 1) Metode pelaksanaan pekerjaan untuk usaha
 kualifikasi besar;
 2) Daftar isian peralatan utama beserta:
-Paraf 1 Paraf 2 Paraf 3
+
 (a) Bukti kepemilikan peralatan yang berupa
 milik sendiri yaitu STNK, BPKB, invois,
 kuitansi, bukti pembelian, surat
@@ -198159,7 +198159,7 @@ File II meliputi:
 1) Penawaran harga, tercantum dalam Surat
 Penawaran; dan
 2) Daftar Keluaran dan Harga.
-Paraf 1 Paraf 2 Paraf 3
+
 17.4. Pokja Pemilihan menetapkan persyaratan teknis
 sebagaimana dimaksud pada ketentuan 17.2.b dalam
 LDP dengan ketentuan:
@@ -198215,7 +198215,7 @@ dengan nilai HPS paling banyak
 Rp100.000.000.000,00 (seratus miliar
 rupiah), disyaratkan paling banyak 3
 (tiga) unit peralatan utama; dan
-Paraf 1 Paraf 2 Paraf 3
+
 (2) Untuk Tender pekerjaan konstruksi
 dengan nilai HPS paling sedikit di atas
 Rp100.000.000.000,00 (seratus miliar
@@ -198271,7 +198271,7 @@ diatur dengan ketentuan sebagai berikut:
 (a) Risiko keselamatan konstruksi kecil,
 mensyaratkan Petugas Keselamatan
 Konstruksi tanpa syarat pengalaman;
-Paraf 1 Paraf 2 Paraf 3
+
 (b) Risiko keselamatan konstruksi sedang,
 mensyaratkan:
 (1) Ahli Muda K3 Konstruksi/ Ahli Muda
@@ -198322,7 +198322,7 @@ paling lama 5 (lima) tahun;
 (d) Untuk tender pekerjaan konstruksi kualifikasi
 usaha besar dengan nilai HPS di atas
 Rp100.000.000.000,00 (seratus miliar
-Paraf 1 Paraf 2 Paraf 3
+
 rupiah), pengalaman yang disyaratkan
 paling lama 8 (delapan) tahun; dan
 (e) Untuk tender pekerjaan kompleks,
@@ -198371,7 +198371,7 @@ diperhitungkan dalam total harga penawaran.
 18.4. Komponen/Item pekerjaan penerapan SMKK
 dimasukkan dalam Daftar Keluaran dan Harga dengan
 besaran biaya sesuai dengan kebutuhan.
-Paraf 1 Paraf 2 Paraf 3
+
 18.5. Perkiraan biaya penerapan SMKK memuat paling
 sedikit:
 a. penyiapan RKK,
@@ -198419,7 +198419,7 @@ sanksi.
 21. Jaminan 21.1. Dalam hal HPS di atas Rp. 10.000.000.000,00 (sepuluh
 penawaran miliar rupiah), Jaminan penawaran disampaikan
 sebagai bagian dari dokumen administrasi.
-Paraf 1 Paraf 2 Paraf 3
+
 21.2. Besaran nilai nominal, masa berlaku, dan pencairan
 Jaminan Penawaran sebagaimana ketentuan jaminan
 penawaran yang tercantum dalam LDP.
@@ -198470,7 +198470,7 @@ Dokumen Pokja Pemilihan, dengan jadwal sebagaimana tercantum
 Penawaran dalam SPSE, dengan ketentuan peserta mengunggah
 Dokumen Penawaran terenkripsi hanya melalui SPSE
 sesuai jadwal yang ditetapkan.
-Paraf 1 Paraf 2 Paraf 3
+
 23.2. Dokumen penawaran administrasi dan teknis (file I)
 dienkripsi menggunakan sistem pengaman dokumen,
 selanjutnya peserta melakukan enkripsi terhadap
@@ -198518,7 +198518,7 @@ pada SPSE.
 23.10. Untuk Peserta yang berbentuk KSO, pemasukan
 penawaran dilakukan oleh badan usaha yang ditunjuk
 mewakili KSO/ leadfirm KSO.
-Paraf 1 Paraf 2 Paraf 3
+
 24. Batas Akhir 24.1. Penawaran harus disampaikan melalui SPSE sesuai
 Waktu jadwal pada SPSE.
 Pemasukan
@@ -198564,7 +198564,7 @@ Penawaran tersebut tidak memenuhi syarat sebagai
 penawaran dan peserta yang mengirimkan Dokumen
 Penawaran tersebut dianggap tidak memasukkan
 penawaran. Apabila dapat dibuka, maka Pokja Pemilihan
-Paraf 1 Paraf 2 Paraf 3
+
 akan melanjutkan proses atas penawaran yang
 bersangkutan.
 25.5. Dinyatakan sebagai penawaran yang masuk apabila
@@ -198614,7 +198614,7 @@ menambah, mengurangi, mengganti, dan/atau
 mengubah isi Dokumen Penawaran;
 c. Penawaran yang memenuhi syarat adalah
 penawaran yang sesuai dengan ketentuan, syarat-
-Paraf 1 Paraf 2 Paraf 3
+
 syarat, dan spesifikasi teknis yang ditetapkan dalam
 Dokumen Pemilihan ini, tanpa ada penyimpangan
 yang bersifat penting/pokok atau penawaran
@@ -198670,7 +198670,7 @@ menetapkan peserta lainnya yang tidak terlibat
 4) apabila tidak ada peserta lain sebagaimana
 dimaksud pada angka 3), maka Tender
 dinyatakan gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 h. Indikasi persekongkolan antar peserta memenuhi
 sekurang-kurangnya 2 (dua) indikasi di bawah ini:
 1) kesamaan dalam Dokumen Penawaran, antara
@@ -198725,7 +198725,7 @@ bermakna/salah, maka dinyatakan
 gugur.
 d) Nama yang tercantum dalam surat Jaminan
 Penawaran sama dengan nama peserta;
-Paraf 1 Paraf 2 Paraf 3
+
 e) Besaran nilai Jaminan Penawaran tidak
 kurang dari nilai nominal sebagaimana yang
 tercantum dalam LDP;
@@ -198782,7 +198782,7 @@ tetap dilanjutkan dengan evaluasi teknis; dan
 h. Apabila tidak ada peserta yang memenuhi
 persyaratan administrasi, maka Tender dinyatakan
 gagal.
-Paraf 1 Paraf 2 Paraf 3
+
 26.8. Evaluasi Teknis:
 a. Evaluasi teknis dilakukan terhadap peserta yang
 memenuhi persyaratan administrasi;
@@ -198836,7 +198836,7 @@ kepemilikan/penguasaan terhadap
 peralatan dari pemberi sewa.
 Evaluasi bukti peralatan utama
 dilakukan dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 (a) Dalam hal peserta menyampaikan
 bukti kepemilikan peralatan yang
 berupa milik/sewa beli bukan atau
@@ -198891,7 +198891,7 @@ keselamatan konstruksi untuk
 pekerjaan yang memiliki tingkat risiko
 kecil, peserta dapat menawarkan
 personil dengan jabatan Ahli K3
-Paraf 1 Paraf 2 Paraf 3
+
 Konstruksi/Ahli Keselamatan
 Konstruksi.
 (3) Kompetensi personel manajerial
@@ -198948,7 +198948,7 @@ pekerja dalam keselamatan
 konstruksi;
 (b) Perencanaan Keselamatan
 Konstruksi:
-Paraf 1 Paraf 2 Paraf 3
+
 i. uraian pekerjaan,
 ii. manajemen risiko dan rencana
 tindakan, meliputi:
@@ -199003,7 +199003,7 @@ salah satu sub elemen dari elemen
 dukungan keselamatan konstruksi
 (isian tidak dievaluasi) atau
 menyampaikan tabel Jadwal Program
-Paraf 1 Paraf 2 Paraf 3
+
 Komunikasi yang telah diisi (isian tidak
 dievaluasi);
 (4). Peserta dinyatakan memenuhi elemen
@@ -199057,7 +199057,7 @@ tidak jelas atau meragukan, Pokja Pemilihan
 melakukan klarifikasi dengan peserta/pihak lain
 yang berwenang. Dalam klarifikasi, peserta tidak
 diperkenankan mengubah substansi penawaran;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Dalam hal klarifikasi dilakukan kepada peserta,
 peserta yang tidak hadir atau tidak memberikan
 tanggapan atas permintaan klarifikasi, maka
@@ -199100,7 +199100,7 @@ Dokumen Penawaran tersebut dianggap tidak
 memasukkan penawaran. Apabila dapat dibuka, maka
 Pokja Pemilihan akan melanjutkan proses atas penawaran
 yang bersangkutan.
-Paraf 1 Paraf 2 Paraf 3
+
 28. Evaluasi 28.1. Evaluasi Harga:
 Penawaran File a) unsur-unsur yang perlu dievaluasi adalah hal-hal
 II yang pokok atau penting, dengan ketentuan:
@@ -199156,7 +199156,7 @@ yang disampaikan peserta dengan meneliti
 dan menilai kewajaran harga satuan keluaran
 pekerjaan berdasarkan harga satuan keluaran
 pekerjaan kontrak sejenis sekurang-
-Paraf 1 Paraf 2 Paraf 3
+
 kurangnya pada setiap mata pembayaran
 utama;
 (d) Hasil penelitian digunakan untuk menghitung
@@ -199210,7 +199210,7 @@ KP = TKDN x Preferensi Tertinggi.
 KP adalah koefisien preferensi
 Preferensi Tertinggi adalah preferensi harga
 maksimum yaitu 7,5% untuk
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan konstruksi dan 25% untuk
 barang/jasa
 HP = Harga Penawaran setelah koreksi
@@ -199264,7 +199264,7 @@ Harga a. klarifikasi dan negosiasi teknis dan harga ;
 b. pada saat acara klarifikasi, peserta menyampaikan
 metode pelaksanaan dan analisa harga
 satuan/rincian harga satuan keluaran;
-Paraf 1 Paraf 2 Paraf 3
+
 29.2. Hal yang diklarifikasi adalah metode pelaksanaan
 pekerjaan yang dapat mempengaruhi harga untuk
 dilakukan negosiasi.
@@ -199311,7 +199311,7 @@ a. Apabila menawarkan peralatan yang sama untuk
 beberapa Tender yang diikuti dan dalam evaluasi
 memenuhi persyaratan pada masing-masing Tender,
 maka hanya dapat ditetapkan sebagai pemenang pada
-Paraf 1 Paraf 2 Paraf 3
+
 1 (satu) Tender paket pekerjaan setelah dilakukan
 klarifikasi untuk menentukan peralatan tersebut akan
 ditempatkan, sedangkan untuk Tender lainnya
@@ -199367,7 +199367,7 @@ dalam Dokumen Penawaran yang memenuhi
 syarat.
 30.6. Pokja Pemilihan membuat dan menandatangani Berita
 Acara Hasil Tender (BAHP) yang paling sedikit memuat:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Tanggal dibuatnya Berita Acara Hasil Tender;
 b. Nama seluruh peserta;
 c. Harga penawaran atau harga penawaran terkoreksi
@@ -199416,7 +199416,7 @@ Pemenang cadangan 1 dan 2 (apabila ada) melalui SPSE.
 Peserta Tender penawaran yang namanya tertera dalam surat
 penawaran dan/atau tertera dalam akta pendirian
 perusahaan.
-Paraf 1 Paraf 2 Paraf 3
+
 32.2. Sanggahan disampaikan secara elektronik melalui SPSE
 disertai bukti terjadinya penyimpangan.
 32.3. Sanggahan diajukan oleh peserta apabila terjadi
@@ -199463,7 +199463,7 @@ Pemilihan sebagaimana tercantum dalam LDP.
 33.5. Nilai nominal jaminan sanggah banding paling kurang
 sebesar 1% (satu persen) dari nilai HPS sebagaimana
 tercantum dalam LDP.
-Paraf 1 Paraf 2 Paraf 3
+
 33.6. Masa berlaku Jaminan Sanggah Banding paling kurang
 30 (tiga puluh) hari kalender sejak tanggal pengajuan
 sanggah banding sebagaimana tercantum dalam LDP.
@@ -199510,7 +199510,7 @@ menyampaikan hasil Tender kepada PPK;
 b. Pokja Pemilihan mencairkan Jaminan Sanggah
 Banding dan disetorkan ke Kas Negara/Kas Daerah
 sebagaimana tercantum dalam LDP.
-Paraf 1 Paraf 2 Paraf 3
+
 33.15. Sanggah Banding menghentikan proses Tender.
 33.16. Sanggah Banding yang disampaikan bukan kepada KPA,
 atau disampaikan diluar masa sanggah banding,
@@ -199561,7 +199561,7 @@ Pemilihan.
 huruf i sampai dengan huruf k ditetapkan oleh PA/KPA.
 35.6. Setelah Tender dinyatakan gagal, diumumkan kepada
 seluruh peserta melalui SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 36. Tindak Lanjut 36.1. Setelah pengumuman adanya Tender gagal, Pokja
 Tender Gagal Pemilihan atau Pokja Pemilihan pengganti (apabila
 diganti) meneliti dan menganalisis penyebab terjadinya
@@ -199614,7 +199614,7 @@ Rp100.000.000.000,00 (seratus miliar rupiah);
 kolusi, dan/atau nepotisme yang melibatkan Pokja
 Pemilihan/PPK, Tender ulang dilakukan oleh Pokja
 Pemilihan/PPK yang baru.
-Paraf 1 Paraf 2 Paraf 3
+
 36.6. Dalam hal Tender gagal karena tidak ada peserta yang
 menyampaikan dokumen penawaran setelah ada
 pemberian waktu perpanjangan, Tender ulang dapat
@@ -199658,7 +199658,7 @@ penandatanganan kontrak.
 37.7. Dalam hal Pejabat Penandatangan Kontrak tidak
 bersedia menerbitkan SPPBJ karena tidak sependapat
 atas penetapan pemenang, maka:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Pejabat Penandatangan Kontrak dapat
 menyampaikan penolakan apabila:
 1) dalam Dokumen Pemilihan ditemukan kesalahan
@@ -199713,7 +199713,7 @@ ketentuan:
 a. apabila yang bersangkutan mengundurkan diri
 dengan alasan yang dapat diterima secara obyektif
 oleh Pejabat Penandatangan Kontrak dan masa
-Paraf 1 Paraf 2 Paraf 3
+
 penawarannya masih berlaku, maka peserta yang
 bersangkutan tidak dikenakan sanksi apapun;
 b. apabila yang bersangkutan mengundurkan diri
@@ -199764,7 +199764,7 @@ ditetapkan dalam Dokumen Pemilihan.
 Pejabat Penandatangan Kontrak meminta Penyedia
 untuk menandatangani Pakta Komitmen Keselamatan
 Konstruksi (apabila Pakta Komitmen Keselamatan
-Paraf 1 Paraf 2 Paraf 3
+
 Konstruksi belum ditandatangani pimpinan tertinggi
 perusahaan Penyedia).
 37.16. Rapat Persiapan Penandatanganan Kontrak dinyatakan
@@ -199801,7 +199801,7 @@ bersangkutan.
 Acara Hasil Pemilihan (BAHP) oleh Pokja Pemilihan
 bersifat rahasia sampai dengan saat pengumuman
 pemenang.
-Paraf 1 Paraf 2 Paraf 3
+
 I. JAMINAN PELAKSANAAN
 39. Jaminan 39.1. Jaminan Pelaksanaan diberikan Penyedia sebelum
 Pelaksanaan penandatanganan Kontrak.
@@ -199854,7 +199854,7 @@ Pejabat Penandatangan Kontrak diterima oleh
 penerbit Jaminan;
 j. Jaminan Pelaksanaan atas nama KSO ditulis atas
 nama KSO atau masing-masing anggota KSO (apabila
-Paraf 1 Paraf 2 Paraf 3
+
 masing-masing mengajukan Jaminan Pelaksanaan
 secara terpisah); dan
 k. Memuat nama, alamat dan tanda tangan pihak
@@ -199903,7 +199903,7 @@ informasi yang diperoleh dari dokumen penawaran
 penyedia dan perubahannya yang dinyatakan Berita
 Acara Hasil Pemilihan dengan tidak mengubah substansi
 yang ditetapkan dalam Dokumen Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 40.6. Pejabat Penandatangan Kontrak dan Penyedia yang
 memenuhi ketentuan Rapat Persiapan Penandatanganan
 Kontrak wajib memeriksa konsep Kontrak meliputi
@@ -199945,7 +199945,7 @@ sesuai dengan peraturan perundang-undangan.
 40.10. Pejabat Penandatangan Kontrak menginputkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas Pokja 1.1 Identitas Pokja Pemilihan:
@@ -199987,7 +199987,7 @@ E. Pemberian 12.4 Apabila diperlukan, pemberian penjelasan
 Penjelasan lanjutan melalui Peninjauan lapangan akan
 dilaksanakan pada:
 Hari : _______________________
-Paraf 1 Paraf 2 Paraf 3
+
 Tanggal : _______________________
 Waktu : ___________s.d _________
 Tempat : _______________________
@@ -200049,7 +200049,7 @@ Proyek
 Teknik
 3 Manajer ___ ___
 Keuangan
-Paraf 1 Paraf 2 Paraf 3
+
 4 Ahli K3 ___ SKA___
 Konstruksi/
 Ahli
@@ -200115,7 +200115,7 @@ b. Sub Unsur 2
 c. …
 Total
 2. Ambang batas total keseluruhan unsur: _____
-Paraf 1 Paraf 2 Paraf 3
+
 [Pokja Pemilihan wajib menguraikan kriteria
 penilaian untuk setiap unsur dan sub unsur yang
 dipersyaratkan secara rinci dan detail]
@@ -200154,7 +200154,7 @@ pengajuan sanggah banding.
 33.14 Jaminan Sanggah Banding yang dicairkan,
 disetorkan pada _____________________
 [diisi Kas Negara atau Kas Daerah]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. BENTUK DOKUMEN PENAWARAN
 A. BENTUK PERJANJIAN KERJA SAMA OPERASI (KSO) – (apabila ber-KSO)
 CONTOH
@@ -200196,7 +200196,7 @@ menyatakan dan menyetujui pakta integritas:
 a. Tidak akan melakukan praktek korupsi, kolusi, dan/atau nepotisme;
 b. Akan melaporkan kepada PA/KPA/APIP jika mengetahui terjadinya praktik
 korupsi, kolusi, dan/atau nepotisme dalam proses pengadaan ini;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional
 untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
@@ -200220,7 +200220,7 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang Tender maka Surat Perjanjian Kerja Sama Operasi ini
 harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK JAMINAN PENAWARAN DARI BANK – (apabila disyaratkan)
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -200263,7 +200263,7 @@ Garansi Bank ini dikeluarkan dengan ketentuan sebagai berikut:
 1. Garansi Bank berlaku selama _______________ (_______________) hari kalender,
 dan efektif mulai dari tanggal _______________ [diisi sesuai dengan tanggal batas
 akhir pemasukan penawaran]
-Paraf 1 Paraf 2 Paraf 3
+
 2. Tuntutan pencairan atau klaim dapat diajukan secara tertulis dengan melampirkan
 Surat Pernyataan Wanprestasi dari Penerima Jaminan paling lambat 14 (empat
 belas) hari kalender setelah tanggal jatuh tempo Garansi Bank sebagaimana
@@ -200293,7 +200293,7 @@ _______________
 untuk mengkonfirmasi [Nama dan Jabatan]
 Garansi ini ke
 ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN PENAWARAN DARI ASURANSI/KONSORSIUM PERUSAHAAN
 ASURANSI/PERUSAHAAN PENJAMINAN – (apabila disyaratkan)
 CONTOH
@@ -200334,7 +200334,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 6. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah
 diajukan selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah
 berakhirnya masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _______
 pada tanggal _______
 TERJAMIN PENJAMIN
@@ -200345,7 +200345,7 @@ Jaminan disarankan untuk
 (______________)
 ke ...........[penerbit
 jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK JAMINAN SANGGAHAN BANDING DARI BANK
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -200391,7 +200391,7 @@ Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum
 Perdata.
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak
 lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ....................
@@ -200405,7 +200405,7 @@ _______________
 untuk mengkonfirmasi [Nama dan Jabatan]
 Garansi ini ke
 ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK JAMINAN SANGGAHAN BANDING DARI ASURANSI/KONSORSIUM
 PERUSAHAAN ASURANSI/PERUSAHAAN PENJAMINAN
 CONTOH
@@ -200450,12 +200450,12 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama &Jabatan] [Nama &Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK DOKUMEN PENAWARAN TEKNIS
 Dokumen Penawaran Teknis
 [Cantumkan dan jelaskan sesuai dengan ketentuan dalam IKP dan LDP. Jika diperlukan,
 keterangan dapat dicantumkan dalam lembar tersendiri/tambahan]
-Paraf 1 Paraf 2 Paraf 3
+
 G. DATA PERALATAN
 CONTOH
 Merk dan Kepemilikan
@@ -200506,7 +200506,7 @@ Keterangan:
 yang disyaratkan, bukan berdasarkan jabatan yang disyaratkan.
 ***) Pengalaman kerja yang dinilai adalah pengalaman kerja setelah personel lulus pendidikan
 minimal sesuai persyaratan untuk memperoleh Sertifikat Kompetensi Kerja yang disyaratkan.
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 Daftar Riwayat Hidup Personel Manajerial
 1. Jabatan dalam pekerjaan yang akan dilaksanakan : __________
@@ -200537,7 +200537,7 @@ Mengetahui:
 __________[nama Penyedia Jasa Pekerjaan Konstruksi]
 (__________)
 [nama jelas wakil sah]
-Paraf 1 Paraf 2 Paraf 3
+
 I. BAGIAN PEKERJAAN YANG DISUBKONTRAKKAN (APABILA DISYARATKAN)
 1. Bagian Pekerjaan yang disubkontrakkan (Disyaratkan untuk paket pekerjaan
 dengan pagu anggaran di atas Rp25.000.000.000,00 sampai dengan
@@ -200589,7 +200589,7 @@ b. Nama: …
 2. ...... ......
 Dst. Dst.
 Dst.
-Paraf 1 Paraf 2 Paraf 3
+
 J. BENTUK RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
 BENTUK RENCANA KESELAMATAN KONSTRUKSI
@@ -200616,7 +200616,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 A. Kepemimpinan dan Partisipasi Pekerja dalam Keselamatan Konstruksi
 A.1 Komitmen Keselamatan Konstruksi
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
@@ -200643,7 +200643,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Keselamatan Konstruksi Badan Usaha Dengan KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -200672,7 +200672,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B. Perencanaan keselamatan konstruksi
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 Tabel Contoh Format Tabel IBPRP*
@@ -200706,7 +200706,7 @@ Induction)
 meeting)
 4 Rapat Keselamatan Konstruksi
 (construction safety meeting)
-Paraf 1 Paraf 2 Paraf 3
+
 D. Operasi Keselamatan Konstruksi
 Tabel Contoh Analisis Keselamatan Pekerjaan (Job Safety Analysis)
 Nama Pekerja : [Isi nama pekerja]
@@ -200727,7 +200727,7 @@ No Kegiatan PIC
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 K. BENTUK SURAT PERJANJIAN SEWA PERALATAN
 CONTOH
 [ Kop Perusahaan Lessor/ penyedia peralatan ]
@@ -200759,7 +200759,7 @@ dst..
 Untuk selanjutnya disebut sebagai PERALATAN. Perjanjian Sewa antara PIHAK
 PERTAMA dan PIHAK KEDUA ini dilangsungkan dan diterima berdasarkan
 kesepakatan yang termuat secara tertulis dalam pasal- pasal berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 PENERIMAAN PERALATAN
 PIHAK KEDUA akan menerima hak guna dari apa yang disewanya dari PIHAK
@@ -200800,7 +200800,7 @@ pihak lain yang mendapati hak daripadanya.
 4) Perjanjian ini secara otomatis menjadi batal dan tidak berlaku lagi apabila
 PIHAK KEDUA tidak memenangkan Tender Paket Pekerjaan ……………[diisi
 nama paket].
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 6
 TANGGUNG JAWAB PIHAK PERTAMA
 1) PIHAK PERTAMA bersedia menyiapkan alat yang disewa dalam keadaan siap
@@ -200828,7 +200828,7 @@ kedua pihak
 PIHAK PERTAMA PIHAK KEDUA
 PT. ……… [diisi nama perusahaan PT. ……… [diisi nama perusahaan
 Lessor/ penyedia peralatan] Lessee/ penerima peralatan]
-Paraf 1 Paraf 2 Paraf 3
+
 L. BENTUK FORMULIR PERHITUNGAN TINGKAT KOMPONEN DALAM NEGERI
 (TKDN) [apabila diberikan preferensi harga]
 FORMULIR PENYAMPAIAN
@@ -200856,7 +200856,7 @@ Penawaran
 *) Nilai TKDN Komponen Barang berdasarkan daftar inventarisasi barang/jasa produksi
 dalam negeri yang diterbitkan oleh kementerian yang menyelenggarakan urusan
 pemerintahan di bidang perindustrian.
-Paraf 1 Paraf 2 Paraf 3
+
 M. BENTUK DAFTAR BARANG YANG DIIMPOR
 DAFTAR BARANG YANG DIIMPOR1
 NAMA NEGARA
@@ -200864,7 +200864,7 @@ NO SPESIFIKASI SATUAN JUMLAH HARGA
 BARANG/URAIAN ASAL
 TOTAL HARGA
 Diisi dan dilampirkan dalam penawaran apabila ada barang yang diimpor
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -200906,7 +200906,7 @@ Kerja;
 2. Kitab Undang-Undang Hukum Perdata (Buku III tentang Perikatan);
 2)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 3. Peraturan Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan
 Undang – Undang Nomor 2 tahun 2017 tentang Jasa Konstruksi sebagaimana
 telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021 tentang
@@ -200953,7 +200953,7 @@ sama seperti yang tercantum dalam lampiran Surat Perjanjian ini.
 Pasal 2
 RUANG LINGKUP PEKERJAAN UTAMA
 Ruang lingkup pekerjaan utama terdiri dari:
-Paraf 1 Paraf 2 Paraf 3
+
 1. ................
 2. ................
 3. dst.
@@ -200999,7 +200999,7 @@ tanggal penandatangananan Kontrak sampai dengan Tanggal Penyerahan Akhir
 Pekerjaan;
 (2) Masa Pelaksanaan ditentukan dalam Syarat-Syarat Khusus Kontrak, dihitung
 sejak Tanggal Mulai Kerja yang tercantum dalam SPMK sampai dengan Tanggal
-Paraf 1 Paraf 2 Paraf 3
+
 Penyerahan Pertama Pekerjaan selama ………. (… dalam huruf …) hari
 kalender;
 (3) Masa Pemeliharaan ditentukan dalam Syarat-Syarat Khusus Kontrak dihitung
@@ -201022,7 +201022,7 @@ Kontrak maka rekatkan meterai Rp
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Lumsum
@@ -201065,7 +201065,7 @@ telah diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta
 Kerja;
 2. Kitab Undang-Undang Hukum Perdata (Buku III tentang Perikatan);
 ) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 3. Peraturan Pemerintah Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan
 Undang – Undang Nomor 2 tahun 2017 tentang Jasa Konstruksi sebagaimana
 telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021 tentang
@@ -201105,7 +201105,7 @@ Maka oleh karena itu, Pejabat Penandatangan Kontrak dan Penyedia dengan ini
 bersepakat dan menyetujui untuk membuat perjanjian pelaksanaan paket Pekerjaan
 Konstruksi ............. [diisi nama paket pekerjaan] dengan syarat dan ketentuan sebagai
 berikut.
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 ISTILAH DAN UNGKAPAN
 Peristilahan dan ungkapan dalam Surat Perjanjian ini memiliki arti dan makna yang
@@ -201151,7 +201151,7 @@ dokumen yang lebih tinggi berdasarkan urutan hierarki sebagai berikut:
 6) spesifikasi teknis dan gambar; dan
 7) Daftar Keluaran dan Harga hasil negosiasi (Daftar Keluaran dan Harga hasil
 negosiasi apabila ada negosiasi).
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 5
 MASA KONTRAK
 (1) Masa Kontrak adalah jangka waktu berlakunya Kontrak ini terhitung sejak
@@ -201180,7 +201180,7 @@ Kontrak maka rekatkan meterai Rp meterai Rp 10.000,00 )]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 II. SYARAT-SYARAT UMUM KONTRAK
 SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
@@ -201231,7 +201231,7 @@ pelaksanaan Kontrak.
 terjadi di luar kehendak para pihak dalam
 Kontrak dan tidak dapat diperkirakan
 sebelumnya, sehingga kewajiban yang
-Paraf 1 Paraf 2 Paraf 3
+
 ditentukan dalam Kontrak menjadi tidak
 dapat dipenuhi.
 1.9 Kegagalan Bangunan adalah suatu keadaan
@@ -201284,7 +201284,7 @@ Pekerjaan.
 untuk melaksanakan kewajiban
 pemeliharaan oleh Penyedia, terhitung sejak
 Tanggal Penyerahan Pertama Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 sampai dengan Tanggal Penyerahan Akhir
 Pekerjaan.
 1.18 Metode Pelaksanaan Pekerjaan adalah metode
@@ -201331,7 +201331,7 @@ disingkat PA adalah pejabat pemegang
 kewenangan penggunaan anggaran
 Kementerian Negara/Lembaga/perangkat
 daerah.
-Paraf 1 Paraf 2 Paraf 3
+
 1.25 Pejabat yang mempunyai kewenangan
 menandatangani Kontrak adalah pemilik atau
 pemberi pekerjaan yang menggunakan
@@ -201384,7 +201384,7 @@ Kontrak.
 tanggal serah terima akhir pekerjaan selesai
 (Final Hand Over/FHO) dinyatakan dalam
 Berita Acara Serah Terima Akhir Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 yang diterbitkan oleh Pejabat Penandatangan
 Kontrak.
 1.35 Tenaga Kerja Konstruksi adalah tenaga kerja
@@ -201437,7 +201437,7 @@ Penandatangan Kontrak, maka selain
 melaksanakan pengelolaan administrasi
 kontrak dan pengendalian pelaksanaan
 pekerjaan, Direksi Lapangan juga
-Paraf 1 Paraf 2 Paraf 3
+
 melaksanakan pendelegasian sesuai dengan
 pelimpahan dari Pejabat Penandatangan
 Kontrak.
@@ -201489,7 +201489,7 @@ material/bahan yang terdiri dari rincian
 komponen dalam negeri dan komponen
 impor selama pelaksanaan pekerjaan kepada
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 7.2 Asal material/bahan merupakan tempat
 material/bahan diperoleh, antara lain tempat
 material/bahan ditambang, tumbuh, atau
@@ -201542,7 +201542,7 @@ Pelaksanaan Pekerjaan Pengawas Pekerjaan untuk melakukan
 pengawasan pelaksanaan pekerjaan sesuai
 Kontrak ini. Pengawas Pekerjaan dapat
 berasal dari personel Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak (Direksi Teknis) atau Penyedia Jasa
 Pengawasan (Konsultan Pengawas).
 14.2 Dalam melaksanakan kewajibannya,
@@ -201593,7 +201593,7 @@ tugas dan tanggungjawabnya;
 g. memberikan laporan secara periodik
 kepada Pejabat Penandatangan Kontrak
 sesuai dengan ketentuan dalam Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 15.4 Dalam hal Pengawas Pekerjaan melaksanakan
 tugas dan wewenang sebagaimana yang
 dimaksud pada pasal 15.3 yang akan
@@ -201647,7 +201647,7 @@ jalan akses tersebut membutuhkan biaya
 yang lebih besar dari biaya umum (overhead)
 dalam Penawaran Penyedia, maka Pejabat
 Penandatangan Kontrak dapat
-Paraf 1 Paraf 2 Paraf 3
+
 mengalokasikan biaya untuk penyediaan
 jalur akses tersebut di dalam Harga Kontrak.
 17.4 Pejabat Penandatangan Kontrak tidak
@@ -201699,7 +201699,7 @@ Konstruksi; atau
 Konstruksi;
 b. bukti sertifikat kompetensi sebagaimana
 dimaksud dalam huruf b dilaksanakan
-Paraf 1 Paraf 2 Paraf 3
+
 tanpa menghadirkan personel yang
 bersangkutan;
 c. perubahan jangka waktu pelaksanaan
@@ -201751,7 +201751,7 @@ dipersyaratkan pada pelaksanaan pekerjaan
 ini.
 21.4 RMPK dapat direvisi sesuai dengan kondisi
 pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 21.5 Penyedia berkewajiban untuk
 memutakhirkan RMPK jika terjadi Adendum
 Kontrak dan/atau Peristiwa Kompensasi.
@@ -201803,7 +201803,7 @@ Pemantauan Lingkungan (RKPPL)
 4) Rencana Manajemen Lalu Lintas
 (RMLL) (apabila ada);
 b. Rencana Kerja;
-Paraf 1 Paraf 2 Paraf 3
+
 c. organisasi kerja;
 d. tata cara pengaturan pelaksanaan
 pekerjaan termasuk permohonan
@@ -201856,7 +201856,7 @@ Utama (Mutual Check 0%).
 25.2 Hasil pemeriksaan bersama dituangkan
 dalam Berita Acara. Apabila dalam
 pengukuran/pemeriksaan bersama
-Paraf 1 Paraf 2 Paraf 3
+
 mengakibatkan perubahan isi Kontrak, maka
 harus dituangkan dalam adendum Kontrak.
 25.3 Tindak lanjut hasil pemeriksaan bersama
@@ -201910,7 +201910,7 @@ kesalahan atau kelalaian Penyedia maka
 Penyedia dikenakan denda.
 27.4 Apabila diberlakukan serah terima sebagian
 pekerjaan (secara parsial), Masa Pelaksanaan
-Paraf 1 Paraf 2 Paraf 3
+
 dibuat berdasarkan bagian pekerjaan tersebut
 sesuai dengan SSKK.
 27.5 Bagian pekerjaan pada pasal 27.4 adalah
@@ -201964,7 +201964,7 @@ memberlakukan ketentuan kontrak kritis.
 31.2 Kontrak dinyatakan kritis apabila:
 a. Dalam periode I (rencana fisik
 pelaksanaan 0% - 70% dari Kontrak),
-Paraf 1 Paraf 2 Paraf 3
+
 selisih keterlambatan antara realisasi
 fisik pelaksanaan dengan rencana lebih
 besar 10%
@@ -202022,7 +202022,7 @@ e. Apabila Penyedia gagal pada uji coba
 ketiga, maka Pejabat Penandatangan
 Kontrak menerbitkan Surat Peringatan
 Kontrak Kritis III dan Pejabat
-Paraf 1 Paraf 2 Paraf 3
+
 Penandatangan Kontrak dapat
 melakukan pemutusan Kontrak secara
 sepihak dengan mengesampingkan Pasal
@@ -202075,7 +202075,7 @@ perpanjangan masa berlaku Jaminan
 Pelaksanaan (apabila ada).
 4) Pemberian kesempatan kepada
 Penyedia untuk menyelesaikan
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan dapat melampaui tahun
 anggaran.
 b. Tidak memberikan kesempatan kepada
@@ -202125,7 +202125,7 @@ Pengawas Pekerjaan disampaikan kepada
 Pejabat Penandatangan Kontrak, apabila
 dalam pemeriksaan dan/atau pengujian hasil
 pekerjaan tidak sesuai dengan ketentuan
-Paraf 1 Paraf 2 Paraf 3
+
 yang tercantum dalam Kontrak dan/atau
 cacat hasil pekerjaan, Pejabat Penandatangan
 Kontrak memerintahkan Penyedia untuk
@@ -202179,7 +202179,7 @@ Terima Akhir Pekerjaan.
 melakukan pembayaran sisa Harga Kontrak
 yang belum dibayar atau mengembalikan
 Jaminan Pemeliharaan.
-Paraf 1 Paraf 2 Paraf 3
+
 2.13 Apabila Penyedia tidak melaksanakan
 kewajiban pemeliharaan sebagaimana
 mestinya, maka Kontrak dapat diputuskan
@@ -202229,7 +202229,7 @@ pedoman pengoperasian dan
 perawatan/pemeliharaan, Pejabat
 Penandatangan Kontrak berhak menahan
 uang retensi atau Jaminan Pemeliharaan.
-Paraf 1 Paraf 2 Paraf 3
+
 B.4 Adendum
 5. Perubahan Kontrak 5.1 Kontrak hanya dapat diubah melalui
 adendum Kontrak.
@@ -202280,7 +202280,7 @@ yang tercantum dalam Kontrak awal.
 6.4 Hasil negosiasi tersebut dituangkan dalam
 Berita Acara sebagai dasar penyusunan
 adendum Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 6.5 Dalam hal perubahan pekerjaan
 sebagaimana dimaksud pada pasal 37.1 dan
 37.2 mengakibatkan penambahan Harga
@@ -202334,7 +202334,7 @@ memperpanjang Masa Pelaksanaan.
 8.5 Pejabat Penandatangan Kontrak berdasarkan
 pertimbangan Pengawas Pekerjaan dan
 Pejabat/Panitia Peneliti Pelaksanaan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 harus telah menetapkan ada tidaknya
 perpanjangan dan untuk berapa lama.
 8.6 Persetujuan perubahan jadwal pelaksanaan
@@ -202384,7 +202384,7 @@ menyediakan pengganti dengan kualifikasi
 yang setara atau lebih baik dari tenaga kerja
 konstruksi dan/atau peralatan yang
 digantikan tanpa biaya tambahan apapun
-Paraf 1 Paraf 2 Paraf 3
+
 9.4 Pejabat Penandatangan Kontrak dapat
 menyetujui penempatan/penggantian
 Personel Manajerial dan/atau Peralatan
@@ -202436,7 +202436,7 @@ terdampak;
 b. Kurva S pekerjaan; dan
 c. Dokumen pendukung lainnya (apabila
 ada).
-Paraf 1 Paraf 2 Paraf 3
+
 10.6 Pejabat Penandatangan Kontrak meminta
 Pengawas Pekerjaan untuk melakukan
 penelitian terhadap penyampaian
@@ -202488,7 +202488,7 @@ diselesaikannya pekerjaan.
 10.11 Penghentian kontrak sebagaimana pasal 41.10
 dilakukan melalui perintah tertulis oleh
 Pejabat Penandatangan Kontrak dengan
-Paraf 1 Paraf 2 Paraf 3
+
 disertai alasan penghentian kontrak dan
 dituangkan dalam adendum kontrak
 10.12 Dalam hal pelaksanaan Kontrak dilanjutkan,
@@ -202541,7 +202541,7 @@ kurangnya 14 (empat belas) hari kalender
 setelah Pejabat Penandatangan
 Kontrak/Penyedia menyampaikan
 pemberitahuan rencana Pemutusan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 secara tertulis kepada Penyedia/Pejabat
 Penandatangan Kontrak.
 12.5 Dalam hal dilakukan pemutusan Kontrak oleh
@@ -202597,7 +202597,7 @@ j. Penyedia menghentikan pekerjaan
 selama 28 (dua puluh delapan) hari
 kalender dan penghentian ini tidak
 tercantum dalam jadwal pelaksanaan
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan serta tanpa persetujuan
 pengawas pekerjaan; atau
 k. Penyedia mengalihkan seluruh kontrak
@@ -202650,7 +202650,7 @@ perintah tersebut tidak ditarik selama 28 (dua
 puluh delapan) hari kalender;
 b. Pejabat Penandatangan Kontrak tidak
 menerbitkan Surat Permintaan Pembayaran
-Paraf 1 Paraf 2 Paraf 3
+
 (SPP) untuk pembayaran tagihan angsuran
 sesuai dengan yang disepakati sebagaimana
 tercantum dalam SSKK.
@@ -202701,7 +202701,7 @@ periodik kepada Pejabat Penandatangan
 Kontrak;
 d. melaksanakan, menyelesaikan dan
 menyerahkan pekerjaan sesuai dengan jadwal
-Paraf 1 Paraf 2 Paraf 3
+
 pelaksanaan pekerjaan dan ketentuan yang telah
 ditetapkan dalam Kontrak;
 e. melaksanakan dan menyelesaikan pekerjaan
@@ -202756,7 +202756,7 @@ sehubungan dengan klaim yang timbul dari
 hal-hal berikut terhitung sejak Tanggal Mulai
 Kerja sampai dengan Tanggal Penyerahan
 Akhir Pekerjaan :
-Paraf 1 Paraf 2 Paraf 3
+
 a. kehilangan atau kerusakan peralatan
 dan harta benda Penyedia, Subkontraktor
 (jika ada), dan tenaga kerja konstruksi;
@@ -202812,7 +202812,7 @@ keselamatan kerja yang sesuai dan memadai.
 untuk melaporkan kecelakaan berdasarkan
 hukum yang berlaku, Penyedia wajib
 melaporkan kepada Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak mengenai setiap kecelakaan yang
 timbul sehubungan dengan pelaksanaan
 Kontrak ini dalam waktu 24 (dua puluh
@@ -202863,7 +202863,7 @@ tindakan berikut:
 a. melaksanakan setiap tahapan pekerjaan
 berdasarkan rencana kerja dan metode
 kerja;
-Paraf 1 Paraf 2 Paraf 3
+
 b. mengubah syarat dan ketentuan polis
 asuransi;
 c. mengubah Personel Manajerial dan/atau
@@ -202914,7 +202914,7 @@ pekerjaan di lokasi pekerjaan sesuai
 kebutuhan.
 26.7 Laporan hasil pekerjaan dibuat oleh Penyedia,
 diperiksa oleh Pengawas Pekerjaan, dan
-Paraf 1 Paraf 2 Paraf 3
+
 disetujui oleh Pejabat Penandatangan
 Kontrak.
 27. Kepemilikan Dokumen Semua rancangan, gambar, spesifikasi, desain,
@@ -202966,7 +202966,7 @@ bagian pekerjaan yang disubkontrakkan
 tersebut.
 28.3 Subkontraktor dilarang mengalihkan atau
 mensubkontrakkan pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 28.4 Penyedia Usaha Kecil tidak boleh
 mensubkontrakkan pekerjaan kepada pihak
 lain.
@@ -203021,7 +203021,7 @@ mudah dicairkan, dan harus dicairkan oleh
 penerbit jaminan paling lambat 14 (empat
 belas) hari kerja setelah surat perintah
 pencairan dari Pejabat Penandatangan
-Paraf 1 Paraf 2 Paraf 3
+
 Kontrak atau pihak yang diberi kuasa oleh
 Pejabat Penandatangan Kontrak diterima.
 32.2 Penerbit jaminan selain Bank Umum harus
@@ -203073,7 +203073,7 @@ muka yang diterima.
 kurang sejak tanggal persetujuan pemberian
 uang muka sampai dengan Tanggal
 Penyerahan Pertama Pekerjaan (PHO).
-Paraf 1 Paraf 2 Paraf 3
+
 32.10 Jaminan Pemeliharaan diberikan kepada
 Pejabat Penandatangan Kontrak setelah
 pekerjaan dinyatakan selesai 100% (seratus
@@ -203127,7 +203127,7 @@ dibutuhkan;
 d. Penyedia belum bisa masuk ke lokasi
 sesuai jadwal dalam kontrak;
 e. Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 menginstruksikan kepada pihak Penyedia
 untuk melakukan pengujian tambahan
 yang setelah dilaksanakan pengujian
@@ -203180,7 +203180,7 @@ kompetensi kerja, maka Penyedia wajib
 memastikan dipenuhinya persyaratan
 sertifikat kompetensi kerja sepanjang Masa
 Pelaksanaan.
-Paraf 1 Paraf 2 Paraf 3
+
 37. Personel Manajerial 37.1 Personel Manajerial yang ditempatkan dan
 dan/atau Peralatan dipekerjakan harus sesuai dengan yang
 Utama tercantum dalam Lampiran A SSKK.
@@ -203232,7 +203232,7 @@ diterima.
 e. Dalam hal diberikan uang muka, maka
 Penyedia harus mengajukan
 permohonan pengambilan uang muka
-Paraf 1 Paraf 2 Paraf 3
+
 secara tertulis kepada Pejabat
 Penandatangan Kontrak disertai dengan
 rencana penggunaan uang muka untuk
@@ -203288,7 +203288,7 @@ Kontrak;
 g. pembayaran terakhir hanya dilakukan
 setelah pekerjaan selesai dan Berita Acara
 Serah Terima Pertama Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 ditandatangani oleh Pejabat
 Penandatangan Kontrak dan Penyedia;
 h. Pejabat Penandatangan Kontrak dalam
@@ -203345,7 +203345,7 @@ Peristiwa Kompensasi yang dibayar oleh
 Pejabat Penandatangan Kontrak atas
 keterlambatan pembayaran adalah
 sebesar bunga dari nilai tagihan yang
-Paraf 1 Paraf 2 Paraf 3
+
 terlambat dibayar, berdasarkan tingkat
 suku bunga yang berlaku pada saat itu
 menurut ketetapan Bank Indonesia,
@@ -203399,7 +203399,7 @@ ditandatangani oleh kedua pihak.
 41.2 Sebelum pembayaran terakhir dilakukan,
 Penyedia berkewajiban untuk menyerahkan
 kepada Pengawas Pekerjaan perhitungan nilai
-Paraf 1 Paraf 2 Paraf 3
+
 tagihan terakhir yang jatuh tempo. Pejabat
 Penandatangan Kontrak berdasarkan hasil
 penelitian tagihan oleh Pengawas Pekerjaan
@@ -203453,7 +203453,7 @@ secara tertulis atas setiap Cacat Mutu yang
 ditemukan. Pejabat Penandatangan Kontrak
 atau Pengawas Pekerjaan dapat
 memerintahkan Penyedia untuk menemukan
-Paraf 1 Paraf 2 Paraf 3
+
 dan mengungkapkan Cacat Mutu, serta
 menguji hasil pekerjaan yang dianggap oleh
 Pejabat Penandatangan Kontrak atau
@@ -203508,7 +203508,7 @@ pembayaran pekerjaan sebelum cacat mutu
 tersebut selesai diperbaiki.
 46.5 Dalam hal cacat mutu ditemukan oleh Pejabat
 Penandatangan Kontrak selama masa
-Paraf 1 Paraf 2 Paraf 3
+
 pemeliharaan maka penyedia wajib
 memperbaiki cacat mutu tersebut dalam
 jangka waktu yang ditentukan dan
@@ -203562,7 +203562,7 @@ memelihara semua dokumen yang digunakan
 dan terkait dengan pelaksanaan ini selama
 Umur Konstruksi yang tercantum dalam SSKK
 tetapi tidak lebih dari 10 (sepuluh) tahun.
-Paraf 1 Paraf 2 Paraf 3
+
 H. PENYELESAIAN PERSELISIHAN
 48. Penyelesaian 48.1 Para Pihak berkewajiban untuk berupaya
 Perselisihan/Sengketa sungguh-sungguh menyelesaikan secara
@@ -203598,7 +203598,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 III. SYARAT-SYARAT KHUSUS KONTRAK KONTRAK
 Pasal Ketentuan Data
 dalam
@@ -203644,7 +203644,7 @@ menjadi Wakil Sah Penyedia]
 Berdasarkan Surat Keputusan
 …… nomor .…. tanggal …….
 [diisi nomor dan tanggal SK
-Paraf 1 Paraf 2 Paraf 3
+
 pengangkatan Wakil Sah
 Penyedia]
 6.3.b & Pencairan Jaminan dicairkan dan disetorkan pada .....................
@@ -203693,7 +203693,7 @@ untuk Serah selama ......... [diisi jumlah hari kalender dalam
 Terima angka dan huruf] hari kalender terhitung sejak
 Sebagian
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 (Bagian tanggal penyerahan pertama bagian pekerjaan
 Kontrak) …………… [diisi bagian pekerjaannya].
 2. Masa Pemeliharaan bagian pekerjaan (bagian
@@ -203741,7 +203741,7 @@ Mensyaratkan [diisi selain yang sudah tercantum dalam SSUK,
 Persetujuan apabila ada]
 Pengawas
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 58 Kepemilikan Penyedia diperbolehkan menggunakan salinan
 Dokumen dokumen dan piranti lunak yang dihasilkan dari
 Pekerjaan Konstruksi ini dengan pembatasan sebagai
@@ -203789,7 +203789,7 @@ mengajukan tagihan pembayaran prestasi pekerjaan :
 Keterlambatan setiap hari keterlambatan adalah 1/1000 (satu
 perseribu) dari ................... (sebelum PPN) [diisi
 dengan memilih salah satu dari Harga Kontrak atau
-Paraf 1 Paraf 2 Paraf 3
+
 harga bagian Kontrak yang tercantum dalam Kontrak
 dan belum diserahterimakan apabila ditetapkan serah
 terima pekerjaan secara parsial]
@@ -203837,8 +203837,7 @@ Catatan:
 rancangan kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan
 dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR PERSONEL MANAJERIAL
 Pengalaman
 Nama Jabatan
@@ -203875,7 +203874,7 @@ Catatan:
 kontrak
 **)Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen
 penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B SYARAT-SYARAT KHUSUS KONTRAK
 RENCANA KESELAMATAN KONSTRUKSI (RKK)
 BENTUK RENCANA KESELAMATAN KONSTRUKSI
@@ -203906,7 +203905,7 @@ Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
 format di bawah ini:
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha Tunggal/Atas Nama
 Sendiri]
-Paraf 1 Paraf 2 Paraf 3
+
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Saya yang bertanda tangan di bawah ini:
 Nama : …………… [nama wakil sah badan usaha]
@@ -203928,7 +203927,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha ber-KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -203957,7 +203956,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 TABEL 1. IDENTIFIKASI BAHAYA, PENILAIAN RISIKO, PENETAPAN PENGENDALIAN RISIKO
 K3
@@ -203981,7 +203980,7 @@ yang diisikan, maka dapat ditulis "tidak ada" atau "n/a".
 Dibuat oleh,
 Kepala Pelaksanaan Pekerjaan
 Konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 B.2. Rencana tindakan (sasaran khusus & program khusus)
 Tabel Contoh Format Tabel Sasaran Khusus dan Program Khusus
 Nama Perusahaan : ..................
@@ -204011,7 +204010,7 @@ Tabel Contoh Analisis Keselamatan Pekerjaan (Job Safety Analysis)
 Nama Pekerja : [Isi nama pekerja]
 Nama Paket Pekerjaan : …….
 Tanggal Pekerjaan : …..s/d……
-Paraf 1 Paraf 2 Paraf 3
+
 Alat Pelindung Diri yang diperlukan untuk melaksanakan pekerjaan:
 1 Helm/Safety Helmet √ 4. Rompi Keselamatan/Safety Vest √
 2 Sepatu/Safety Shoes √ 5. Masker Pernafasan/Respiratory √
@@ -204047,7 +204046,7 @@ diinginkan;
 10. Spesifikasi Bahan Bangunan Konstruksi:
 a. Pokja Pemilihan harus memastikan bahan bangunan konstruksi sesuai
 hasil yang telah diidentifikasi oleh Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Setiap jenis bahan bangunan konstruksi yang tergolong sebagai bahan
 berbahaya dan beracun (B3), seperti cat, thinner, gas acetylene, BBM,
 BBG, bahan peledak, dll, harus diberi penjelasan bahayanya, cara
@@ -204094,7 +204093,7 @@ pada jenis pekerjaan/tugasnya tersebut.
 13. Spesifikasi Metode Konstruksi/ Metode Pelaksanaan/Metode Kerja
 a. Analisis Keselamatan Pekerjaan/Job Safety Analysis (JSA) harus dilakukan
 terhadap setiap metode konstruksi/ metode pelaksanaan pekerjaan, dan
-Paraf 1 Paraf 2 Paraf 3
+
 persyaratan teknis untuk mencegah terjadinya kegagalan konstruksi dan
 kecelakaan kerja;
 b. Metode kerja harus disusun secara logis, realistis dan dapat dilaksanakan
@@ -204143,7 +204142,7 @@ kemampuan untuk melakukan proses manajemen risiko (identifikasi
 bahaya, penilaian risiko dan pengendalian risiko) yang terkait dengan
 disiplin ilmu dan pengalaman profesionalnya, dan dapat memastikan
 bahwa semua potensi bahaya dan risiko yang terkait pada bentuk
-Paraf 1 Paraf 2 Paraf 3
+
 rancangan, spesifikasi teknis dan metode kerja/konstruksi tersebut telah
 diidentifikasi dan telah dikendalikan pada tingkat yang dapat diterima
 sesuai dengan standar teknik dan standar Keselamatan Konstruksi yang
@@ -204175,7 +204174,7 @@ Pekerjaan Konstruksi
 Dalam melakukan pengawasan dan evaluasi terhadap RKK dan penerapan SMKK,
 Pejabat Penandatangan Kontrak dapat dibantu oleh Ahli K3 Konstruksi/ Ahli
 Keselamatan Konstruksi dan/atau Petugas Keselamatan Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. DAFTAR KELUARAN DAN HARGA
 Keterangan
 1. Daftar Keluaran dan Harga harus sesuai dengan Instruksi Kepada Peserta
@@ -204199,7 +204198,7 @@ Keluaran dan Harga.
 Kontrak harus dianggap telah termasuk dalam setiap mata pembayaran,
 dan jika mata pembayaran terkait tidak ada maka biaya dimaksud harus
 dianggap telah termasuk dalam harga mata pembayaran yang terkait.
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 1: Mata Pembayaran Umum
 CONTOH
 Persentase/ Satuan
@@ -204213,7 +204212,7 @@ Keterangan:
 umum.
 2. Total harga adalah semua jenis harga yang tercantum dalam Daftar Keluaran dan
 Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 2: Mata Pembayaran Perkiraan Biaya Penerapan Sistem Manajemen
 Keselamatan Konstruksi*)
 CONTOH
@@ -204229,7 +204228,7 @@ Total Daftar 2
 (pindahkan nilai total ke Daftar Rekapitulasi)
 *) Sesuai dengan ketentuan SMKK
 *
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 3: Mata Pembayaran Pekerjaan Utama: __________
 CONTOH
 Persentase/
@@ -204244,7 +204243,7 @@ menjadi pokok dari paket Pekerjaan Konstruksi ini di antara bagian-bagian
 pekerjaan lain.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Keluaran
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 4: Mata Pembayaran ______________________
 CONTOH
 No Uraian Persentase/ Satuan Satuan Harga Total
@@ -204269,7 +204268,7 @@ f
 Keterangan:
 Diisi mata pembayaran yang pokok dan penting yang nilai bobot kumulatifnya minimal 80%
 dari seluruh nilai pekerjaan dihitung mulai dari mata pembayaran dan nilai bobot terbesar.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR REKAPITULASI
 CONTOH
 Mata Pembayaran Harga
@@ -204283,7 +204282,7 @@ Daftar No. 4: Mata Pembayaran ...................
 TOTAL NILAI
 PPN 10%
 Total termasuk PPN 10%
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
 [kop surat K/L/PD]
@@ -204320,7 +204319,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pokja Pemilihan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA (SPMK)
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -204351,7 +204350,7 @@ dengan ketentuan yang tercantum dalam Syarat-Syarat Khusus Kontrak.
 __________, __ __________ 20__
 Untuk dan atas nama __________
 Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 [tanda tangan]
 [nama lengkap]
 [jabatan]
@@ -204361,7 +204360,7 @@ Untuk dan atas nama __________
 [tanda tangan]
 [nama lengkap wakil sah badan usaha]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT-SURAT JAMINAN
 Jaminan Pelaksanaan dari Bank
 [Kop Bank Penerbit Jaminan]
@@ -204407,7 +204406,7 @@ Surat Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi
 akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-benda
 yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang
-Paraf 1 Paraf 2 Paraf 3
+
 Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang
 Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
@@ -204422,7 +204421,7 @@ Untuk keyakinan, pemegang ________________
 Garansi Bank disarankan untuk
 mengkonfirmasi Garansi ini ke [Nama dan Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pelaksanaan dari Asuransi/Konsorsium Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PELAKSANAAN
@@ -204463,14 +204462,14 @@ Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
 Meterai Rp10.000,00
-Paraf 1 Paraf 2 Paraf 3
+
 _____________________ __________________
 [Nama dan Jabatan] [Nama dan Jabatan]
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -204519,7 +204518,7 @@ Hukum Perdata.
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
 Dikeluarkan di : _____________
-Paraf 1 Paraf 2 Paraf 3
+
 Pada tanggal : _____________
 [Bank]
 Meterai Rp10.000,00
@@ -204527,7 +204526,7 @@ Untuk keyakinan, pemegang ________________
 Garansi Bank disarankan untuk
 mengkonfirmasi Garansi ini ke [Nama dan Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Asuransi/Konsorsium Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN UANG MUKA
@@ -204568,14 +204567,14 @@ Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
 Meterai Rp10.000,00
-Paraf 1 Paraf 2 Paraf 3
+
 _____________________ __________________
 [Nama dan Jabatan] [Nama dan Jabatan]
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -204623,7 +204622,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -204632,7 +204631,7 @@ Untuk keyakinan, pemegang ________________
 Garansi Bank disarankan untuk
 mengkonfirmasi Garansi ini ke [Nama dan Jabatan]
 _____[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PEMELIHARAAN
@@ -204676,13 +204675,13 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi
 Metode Tender, Prakualifikasi, Dua File, Sistem Harga Terendah Ambang Batas,
 Kontrak Harga Satuan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN TENDER
 Nomor: __________
 Tanggal: __________
@@ -204692,7 +204691,7 @@ __________
 Kelompok Kerja Pemilihan __________
 Kementerian/Lembaga/Pemerintah Daerah _______
 Tahun Anggaran _______
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ....................................................................................................................................... - 5 -
 BAB II. UNDANGAN TENDER ............................................................................................................... - 9 -
@@ -204745,7 +204744,7 @@ H. PENUNJUKAN PEMENANG .........................................................
 38. PENUNJUKAN PENYEDIA BARANG/JASA ......................................................................................... - 41 -
 39. KERAHASIAAN PROSES ................................................................................................................... - 44 -
 I. JAMINAN PELAKSANAAN ............................................................................................................. - 44 -
-Paraf 1 Paraf 2 Paraf 3
+
 40. JAMINAN PELAKSANAAN ................................................................................................................ - 44 -
 J. PENANDATANGANAN KONTRAK ................................................................................................ - 45 -
 41. PENANDA-TANGANAN KONTRAK ................................................................................................... - 45 -
@@ -204795,7 +204794,7 @@ Jaminan Pemeliharaan dari Bank .................................................
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Asuransi
 /Perusahaan Penjaminan ....................................................................................................- 152 -
 BAB X. PETUNJUK EVALUASI KEWAJARAN HARGA ....................................................................... - 153 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Tender ini disusun untuk membantu peserta dalam menyiapkan Dokumen
 Penawaran berdasarkan Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan
@@ -204837,7 +204836,7 @@ perjanjian tertulis.
 - UKPBJ : Unit Kerja Pengadaan Barang/Jasa.
 - Pokja Pemilihan : Kelompok Kerja Pemilihan.
 - PPK : Pejabat Pembuat Komitmen.
-Paraf 1 Paraf 2 Paraf 3
+
 - Pejabat : Pejabat yang memiliki kewenangan untuk mengikat
 Penandatangan perjanjian atau menandatangani Kontrak dengan Penyedia,
 Kontrak dapat berasal dari PA, KPA, atau PPK.
@@ -204880,7 +204879,7 @@ satuan tertentu, misalnya:
 a. Upah tenaga kerja (per jam, per hari);
 b. Bahan (per m, per m2, per m3, per kg, per ton);
 c. Peralatan (per jam, per hari).
-Paraf 1 Paraf 2 Paraf 3
+
 - Metode Pelaksanaan : Metode yang menggambarkan penguasaan penyelesaian
 Pekerjaan pekerjaan yang sistematis dari awal sampai akhir meliputi
 tahapan/urutan pekerjaan utama dan uraian/cara kerja
@@ -204928,7 +204927,7 @@ SMKK setiap Pekerjaan Konstruksi.
 - Harga Terendah : Metode evaluasi dalam hal harga menjadi dasar penetapan
 pemenang di antara penawaran yang memenuhi
 persyaratan administrasi, teknis, dan kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 - LPSE : Layanan pengadaan secara elektronik.
 - SPSE : Aplikasi perangkat lunak Sistem Pengadaan Secara
 Elektronik (SPSE) berbasis web yang dapat diakses melalui
@@ -204942,10 +204941,10 @@ yang bersamaan.
 - Isian Elektronik : Tampilan/antarmuka pemakai berbentuk grafis berisi
 komponen isian yang dapat diinput atau diunggah (upload)
 oleh pengguna aplikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN TENDER
 Peserta yang diundang adalah peserta yang lulus prakualifikasi
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam LDP.
@@ -204993,7 +204992,7 @@ a. digugurkan dari proses pemilihan atau pembatalan
 penetapan pemenang;
 b. jaminan penawaran dicairkan (jika ada); dan
 c. sanksi Daftar Hitam.
-Paraf 1 Paraf 2 Paraf 3
+
 4.3 Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan Pokja
@@ -205046,7 +205045,7 @@ Kontrak dengan alasan yang tidak dapat diterima oleh PPK;
 g. Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan
 pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh
 PPK yang disebabkan oleh kesalahan Penyedia Barang/Jasa; atau
-Paraf 1 Paraf 2 Paraf 3
+
 h. Penyedia tidak melaksanakan kewajiban dalam masa pemeliharaan
 sebagaimana mestinya.
 7. Alih 7.1 Dalam hal pelaksanaan paket pekerjaan konstruksi dengan nilai
@@ -205097,7 +205096,7 @@ Kerja kerja.
 8.2 Sertifikat Kompetensi Kerja untuk personel manajerial yang
 ditawarkan dalam dokumen penawaran dibuktikan saat
 penyerahan lokasi kerja dan personel.
-Paraf 1 Paraf 2 Paraf 3
+
 9. Satu Penawaran 9.1 Setiap peserta, baik tunggal/atas nama sendiri maupun sebagai
 Tiap Peserta anggota KSO hanya boleh memasukkan satu penawaran.
 9.2 Setiap peserta yang termasuk dalam KSO dilarang menjadi
@@ -205149,7 +205148,7 @@ Dokumen pemilihan menggunakan Bahasa Indonesia.
 Tender
 12. Pemberian 12.1 Pemberian penjelasan dilakukan secara daring melalui SPSE
 Penjelasan sesuai jadwal dalam SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 12.2 Peserta yang tidak aktif/membuka SPSE dan/atau tidak bertanya
 pada saat pemberian penjelasan, tidak dapat dijadikan dasar
 untuk menolak/menggugurkan penawaran.
@@ -205194,7 +205193,7 @@ yang berlaku adalah Dokumen Tender awal.
 pemasukan penawaran, Pokja Pemilihan dapat menetapkan
 Adendum Dokumen Tender, berdasarkan informasi baru yang
 mempengaruhi substansi Dokumen Tender.
-Paraf 1 Paraf 2 Paraf 3
+
 13.5 Setiap Adendum yang ditetapkan merupakan bagian yang tidak
 terpisahkan dari Dokumen Tender.
 13.6 Pokja Pemilihan mengumumkan Adendum Dokumen Tender
@@ -205241,7 +205240,7 @@ ditetapkan terdiri atas:
 kompleks dan/atau pekerjaan yang diperuntukkan bagi
 kualifikasi usaha besar;
 2) Daftar isian peralatan utama beserta:
-Paraf 1 Paraf 2 Paraf 3
+
 a) Bukti kepemilikan peralatan yang berupa milik
 sendiri yaitu STNK, BPKB, invois, kuitansi, bukti
 pembelian, surat perjanjian jual beli, atau bukti
@@ -205298,7 +205297,7 @@ nilai bobot biayanya tertinggi secara berurutan;
 sedikit di atas Rp50.000.000.000,00 (lima puluh miliar
 rupiah) sampai dengan paling banyak
 Rp100.000.000.000,00 (seratus miliar rupiah), pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 utama yang ditetapkan paling banyak 3 (tiga) pekerjaan
 utama; dan
 3) Untuk tender pekerjaan konstruksi dengan nilai HPS paling
@@ -205358,7 +205357,7 @@ manajer teknis disyaratkan paling banyak 3 (tiga)
 personel;
 4) Hanya mensyaratkan 1 (satu) sertifikat kompetensi kerja
 (SKA/SKT) untuk setiap personel manajerial yang
-Paraf 1 Paraf 2 Paraf 3
+
 disyaratkan, kecuali untuk manajer keuangan, tidak
 mensyaratkan sertifikat kompetensi kerja;
 5) Untuk sertifikat Petugas Keselamatan Konstruksi atau
@@ -205418,7 +205417,7 @@ besar dengan nilai HPS paling sedikit di atas
 Rp100.000.000.000,00 (seratus miliar rupiah),
 pengalaman yang disyaratkan paling lama 8 (delapan)
 tahun.
-Paraf 1 Paraf 2 Paraf 3
+
 d. Daftar Isian Pekerjaan yang disubkontrakkan sesuai dengan
 LDP dengan mengacu ketentuan pada SSUK (apabila
 disyaratkan);
@@ -205468,7 +205467,7 @@ kecil.
 Penawaran Rupiah.
 dan Cara
 Pembayaran
-Paraf 1 Paraf 2 Paraf 3
+
 19.2 Pembayaran atas pelaksanaan pekerjaan dilakukan sesuai dengan
 cara sebagaimana tercantum dalam LDP dan diuraikan dalam
 Syarat-Syarat Umum Kontrak/Syarat-Syarat Khusus Kontrak.
@@ -205520,7 +205519,7 @@ dibuktikan dengan bukti pengiriman.
 d. Dalam hal Jaminan Penawaran tidak diterima Pokja Pemilihan
 sampai dengan batas waktu yang ditentukan, maka
 penawaran dinyatakan gugur apabila berdasarkan klarifikasi
-Paraf 1 Paraf 2 Paraf 3
+
 ke penerbit jaminan, pencairan jaminan penawaran
 memerlukan jaminan penawaran yang asli. Segala risiko
 keterlambatan dan kerusakan pengiriman Jaminan Penawaran
@@ -205569,7 +205568,7 @@ Dokumen Penawaran yang telah terkirim sebelumnya.
 secara elektronik peserta telah menyatakan:
 a. melaksanakan metode pelaksanaan sesuai spesifikasi teknis
 yang disyaratkan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 b. melaksanakan pekerjaan sesuai dengan jangka waktu
 pelaksanaan pekerjaan yang ditentukan dalam LDP.
 24.6 Surat Penawaran, Pakta Komitmen Keselamatan Konstruksi,
@@ -205615,7 +205614,7 @@ memperpanjang batas akhir jadwal pemasukan penawaran.
 25.5 Perpanjangan jangka waktu sebagaimana dimaksud pada angka
 25.4 dilakukan pada hari yang sama dengan batas akhir
 pemasukan penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 E. PEMBUKAAN DAN EVALUASI PENAWARAN
 26. Pembukaan 26.1 Jadwal pembukaan penawaran sebagaimana tercantum dalam
 Dokumen SPSE.
@@ -205664,7 +205663,7 @@ pada SPSE.
 file II dengan ketentuan:
 a. Dokumen Penawaran file II milik peserta yang tidak lulus
 evaluasi administrasi dan teknis, tidak dibuka.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pokja Pemilihan tidak boleh menggugurkan penawaran pada
 waktu pembukaan Dokumen Penawaran file II, kecuali
 penawaran file II tersebut berdasarkan keterangan dari LPSE
@@ -205720,7 +205719,7 @@ terlibat persekongkolan dikenakan sanksi sesuai dengan
 ketentuan peraturan perundang-undangan;
 3) proses evaluasi tetap dilanjutkan dengan menetapkan
 peserta lainnya yang tidak terlibat (apabila ada); dan
-Paraf 1 Paraf 2 Paraf 3
+
 4) apabila tidak ada peserta lain sebagaimana dimaksud
 pada angka 3), maka tender dinyatakan gagal.
 h. Indikasi persekongkolan antar peserta memenuhi sekurang-
@@ -205779,7 +205778,7 @@ angka dan huruf, dengan ketentuan:
 huruf maka nilai yang diakui adalah tulisan huruf;
 (2) apabila yang tertulis dalam angka jelas sedangkan
 dalam huruf tidak jelas/tidak bermakna/salah,
-Paraf 1 Paraf 2 Paraf 3
+
 maka yang diakui adalah nilai yang tertulis dalam
 angka; atau
 (3) apabila yang tertulis dalam angka dan dalam
@@ -205832,7 +205831,7 @@ LDP:
 3) Unsur-unsur pokok yang dinilai adalah:
 a) Metode pelaksanaan pekerjaan memenuhi
 persyaratan substantif yang ditetapkan dalam
-Paraf 1 Paraf 2 Paraf 3
+
 Dokumen Tender dan diyakini menggambarkan
 penguasaan dalam menyelesaikan pekerjaan utama
 sesuai yang disyaratkan dalam LDP, meliputi:
@@ -205891,7 +205890,7 @@ kurang jelas, Pokja dapat melakukan klarifikasi
 kepada pemilik peralatan/ pemilik peralatan
 sewa terhadap bukti-bukti yang disampaikan
 peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 (7) Klarifikasi hanya dilakukan terhadap bukti-
 bukti kepemilikan peralatan, tidak terhadap fisik
 peralatan.
@@ -205949,7 +205948,7 @@ utama;
 (2) Peserta dinyatakan memenuhi unsur pekerjaan
 yang disubkontrakkan apabila Daftar Isian
 Pekerjaan yang Disubkontrakkan yang
-Paraf 1 Paraf 2 Paraf 3
+
 disampaikan sesuai dengan jumlah dan jenis
 pekerjaan yang dipersyaratkan dalam SSKK;
 (3) Dalam hal tender pekerjaan konstruksi yang
@@ -206007,7 +206006,7 @@ paket pekerjaan yang ditenderkan;
 Perencanaan Keselamatan Konstruksi apabila
 menyampaikan tabel B.1 Identifikasi bahaya,
 Penilaian risiko, Pengendalian dan Peluang, serta
-Paraf 1 Paraf 2 Paraf 3
+
 tabel B.2 Rencana tindakan (sasaran khusus &
 program khusus) yang memenuhi ketentuan:
 (a) Kolom uraian pekerjaan dan identifikasi
@@ -206064,7 +206063,7 @@ jelas atau meragukan, Pokja Pemilihan melakukan klarifikasi
 dengan peserta/pihak lain yang berwenang. Dalam
 klarifikasi, peserta tidak diperkenankan mengubah substansi
 penawaran;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Dalam hal klarifikasi dilakukan kepada peserta, peserta yang
 tidak hadir atau tidak memberikan tanggapan atas
 permintaan klarifikasi, maka menggugurkan penawaran;
@@ -206113,7 +206112,7 @@ b) apabila terjadi kesalahan hasil perkalian antara volume
 dengan harga satuan pekerjaan, dilakukan pembetulan,
 dengan ketentuan harga satuan pekerjaan yang
 ditawarkan tidak boleh diubah;
-Paraf 1 Paraf 2 Paraf 3
+
 c) jenis pekerjaan yang tidak diberi harga satuan dianggap
 sudah termasuk dalam harga satuan pekerjaan yang lain
 dan harga satuan pada Daftar Kuantitas dan Harga tetap
@@ -206172,7 +206171,7 @@ biaya penerapan SMKK secara lengkap tidak digugurkan;
 dan
 6) Peserta yang memenangkan tender dan tidak
 menyampaikan rincian komponen biaya penerapan
-Paraf 1 Paraf 2 Paraf 3
+
 SMKK secara lengkap, maka pada saat pelaksanaan
 pekerjaan harus melaksanakan semua komponen biaya
 penerapan SMKK.
@@ -206229,7 +206228,7 @@ diberlakukannya preferensi harga) dengan ketentuan:
 inventarisasi barang/jasa produksi dalam negeri yang
 diterbitkan oleh kementerian yang menyelenggarakan
 urusan pemerintahan di bidang perindustrian;
-Paraf 1 Paraf 2 Paraf 3
+
 2) Preferensi Harga diberikan pada tiap komponen barang
 yang memiliki nilai total paling sedikit di atas
 Rp1.000.000.000,00 (satu miliar rupiah);
@@ -206284,7 +206283,7 @@ evaluasi harga, maka evaluasi dilanjutkan dengan evaluasi
 kualifikasi; dan
 k. Apabila tidak ada peserta yang lulus evaluasi harga maka
 tender dinyatakan gagal
-Paraf 1 Paraf 2 Paraf 3
+
 29.2 Pokja Pemilihan menyusun urutan 3 (tiga) penawaran sebagai
 calon pemenang dan calon pemenang cadangan 1 dan 2 (apabila
 ada).
@@ -206334,7 +206333,7 @@ tender yang diikuti dan dalam evaluasi memenuhi persyaratan
 pada masing-masing tender, maka hanya dapat ditetapkan
 sebagai pemenang pada 1 (satu) tender paket pekerjaan setelah
 dilakukan klarifikasi untuk menentukan peralatan tersebut
-Paraf 1 Paraf 2 Paraf 3
+
 akan ditempatkan, sedangkan untuk tender lainnya
 dinyatakan peralatan tidak ada dan dinyatakan gugur;
 b. Apabila peserta menawarkan peralatan yang sama pada paket
@@ -206393,7 +206392,7 @@ pemenang cadangan;
 j. Keterangan-keterangan lain yang dianggap perlu hal Ikhwal
 pelaksanaan tender, seperti surat sanggah/sanggah banding
 beserta jawabannya (apabila ada); dan
-Paraf 1 Paraf 2 Paraf 3
+
 k. Pernyataan bahwa tender gagal apabila tidak ada penawaran
 yang memenuhi syarat (apabila tender gagal).
 31.7 Dalam hal nilai pagu anggaran paling banyak
@@ -206442,7 +206441,7 @@ setelah akhir masa sanggah, diakhiri pada hari kerja dan jam kerja
 mempengaruhi hasil evaluasi, maka Pokja Pemilihan menyatakan
 tender gagal.
 33.7 Sanggahan dianggap sebagai pengaduan, dalam hal:
-Paraf 1 Paraf 2 Paraf 3
+
 a. sanggahan disampaikan tidak melalui SPSE, kecuali keadaan
 kahar atau gangguan teknis;
 b. sanggahan ditujukan bukan kepada Pokja Pemilihan; atau
@@ -206490,7 +206489,7 @@ klarifikasi Pokja Pemilihan.
 34.12 KPA menyampaikan jawaban Sanggah Banding, dengan tembusan
 kepada UKPBJ paling lambat 14 (empat belas) hari kalender
 diakhiri pada hari kerja dan jam kerja, setelah menerima
-Paraf 1 Paraf 2 Paraf 3
+
 klarifikasi dari Pokja Pemilihan. Dalam hal KPA tidak memberikan
 jawaban Sanggah Banding, maka KPA dianggap menerima
 Sanggah Banding.
@@ -206538,7 +206537,7 @@ Anggaran paling sedikit di atas Rp100.000.000.000,00
 penawaran sebagaimana dimaksud pada klausul 36.1 huruf c
 dinyatakan setelah melewati masa sanggah dan/atau sanggah
 banding.
-Paraf 1 Paraf 2 Paraf 3
+
 36.3 Seluruh peserta terlibat persaingan usaha tidak sehat sebagaimana
 dimaksud pada klausul 36.1 huruf g berdasarkan hasil evaluasi
 penawaran.
@@ -206588,7 +206587,7 @@ j. PA/KPA menolak untuk menetapkan pemenang pemilihan
 untuk Pengadaan Pekerjaan Konstruksi dengan nilai Pagu
 Anggaran paling sedikit di atas Rp100.000.000.000,00
 (seratus miliar rupiah).
-Paraf 1 Paraf 2 Paraf 3
+
 37.5 Dalam hal tender ulang yang disebabkan oleh korupsi, kolusi,
 dan/atau nepotisme yang melibatkan Pokja Pemilihan/PPK, tender
 ulang dilakukan oleh Pokja Pemilihan/PPK yang baru.
@@ -206636,7 +206635,7 @@ Peraturan Perundang-undangan terkait Pengadaan
 Barang/Jasa Pemerintah;
 2) proses pelaksanaan pemilihan tidak sesuai ketentuan
 dalam Dokumen Pemilihan; dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 3) dokumen penawaran dan data kualifikasi pemenang
 dan/atau pemenang cadangan tidak memenuhi
 persyaratan sesuai yang disyaratkan dalam Dokumen
@@ -206691,7 +206690,7 @@ masa penawarannya sudah tidak berlaku, maka peserta yang
 bersangkutan tidak dikenakan sanksi apapun.
 38.11 Apabila pemenang yang ditunjuk mengundurkan diri, maka
 dilakukan penunjukan kepada pemenang cadangan (apabila ada).
-Paraf 1 Paraf 2 Paraf 3
+
 38.12 Kontrak ditandatangani paling lambat 14 (empat belas) hari kerja
 setelah diterbitkannya SPPBJ.
 38.13 Pejabat Penandatangan Kontrak dan Penyedia wajib melaksanakan
@@ -206743,7 +206742,7 @@ ada).
 38.19 Pejabat Penandatangan Kontrak menginputkan data kontrak dan
 mengunggah hasil pemindaian dokumen kontrak yang telah
 ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 39. Kerahasiaan 39.1 Proses evaluasi Dokumen Penawaran bersifat rahasia dan
 Proses dilaksanakan oleh Pokja Pemilihan secara independen.
 39.2 Informasi yang berhubungan dengan penelitian, evaluasi,
@@ -206796,7 +206795,7 @@ h. Paket pekerjaan yang dijamin sama dengan paket pekerjaan
 yang tercantum dalam SPPBJ;
 i. Jaminan Pelaksanaan harus dapat dicairkan tanpa syarat
 (unconditional) sebesar nilai jaminan dalam jangka waktu
-Paraf 1 Paraf 2 Paraf 3
+
 paling lambat 14 (empat belas) hari kerja setelah surat
 pernyataan wanprestasi dari Pejabat Penandatangan Kontrak
 diterima oleh penerbit Jaminan;
@@ -206846,7 +206845,7 @@ mengubah substansi yang ditetapkan dalam Dokumen Tender.
 41.6 Pejabat Penandatangan Kontrak dan Penyedia yang memenuhi
 ketentuan Rapat Persiapan Penandatanganan Kontrak wajib
 memeriksa konsep Kontrak meliputi substansi, bahasa,
-Paraf 1 Paraf 2 Paraf 3
+
 redaksional, angka dan huruf serta membubuhkan paraf pada
 setiap lembar Dokumen Kontrak.
 41.7 Menetapkan urutan hierarki kontrak sebagai berikut:
@@ -206880,7 +206879,7 @@ telah didaftarkan sesuai dengan peraturan perundang-undangan.
 41.10 Pejabat Penandatangan Kontrak menginputkan data kontrak dan
 mengunggah hasil pemindaian dokumen kontrak yang telah
 ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas Pokja 1.1 Identitas Pokja Pemilihan:
@@ -206923,7 +206922,7 @@ Tempat : _______________________
 F. Persyaratan 17.4 Persyaratan teknis:
 Teknis 1. Pekerjaan utama yang harus diuraikan dalam metode
 pelaksanaan pekerjaan:
-Paraf 1 Paraf 2 Paraf 3
+
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 No. Pekerjaan Utama
 1. ___________________________
@@ -206983,7 +206982,7 @@ Konstruksi
 [diisi lama pengalaman kerja dan SKK yang
 disyaratkan, sesuai ketentuan pada IKP 17.4.c:]
 4. Bagian Pekerjaan yang disubkontrakkan:
-Paraf 1 Paraf 2 Paraf 3
+
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 a. Paket pekerjaan dengan nilai pagu anggaran di
 atas Rp 25.000.000.000,00 (dua puluh lima
@@ -207033,7 +207032,7 @@ No. Uraian Identifikasi
 Pekerjaan Bahaya
 1. ____________ ____________
 Dst ____________ ____________
-Paraf 1 Paraf 2 Paraf 3
+
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 [diisi uraian pekerjaan dan identifikasi bahaya,
 sesuai ketentuan pada IKP 17.4.e]
@@ -207103,7 +207102,7 @@ b. Masa berlaku Jaminan Penawaran sampai dengan
 _______
 [diisi tanggal, bulan, dan tahun. Memperhitungkan
 hingga perkiraan penandatanganan kontrak]
-Paraf 1 Paraf 2 Paraf 3
+
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 c. Dalam hal Jaminan Penawaran dicairkan, maka
 dicairkan dan disetorkan pada _______
@@ -207122,7 +207121,7 @@ pengajuan sanggah banding.
 34.14 Jaminan Sanggah Banding yang dicairkan, disetorkan
 pada _______
 [diisi Kas Negara atau Kas Daerah]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. BENTUK DOKUMEN PENAWARAN
 A. BENTUK PERJANJIAN KERJA SAMA OPERASI (KSO) – (apabila ber-KSO)
 CONTOH
@@ -207166,7 +207165,7 @@ c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional un
 memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-undangan; dan
 d. Apabila melanggar hal-hal yang dinyatakan dalam huruf a, b dan/atau c maka bersedia
 menerima sanksi sesuai dengan peraturan perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 7. Wewenang menandatangani untuk dan atas nama KSO diberikan kepada
 _________________________[nama individu dari perusahaan leadfirm KSO] dalam
 kedudukannya sebagai direktur utama/direktur pelaksana _________________________
@@ -207184,7 +207183,7 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang tender maka Surat Perjanjian Kerja Sama Operasi ini
 harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK JAMINAN PENAWARAN DARI BANK – (apabila disyaratkan)
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -207231,7 +207230,7 @@ kalender setelah tanggal jatuh tempo Garansi Bank sebagaimana tercantum dalam bu
 3. Penjamin akan membayar kepada Penerima Jaminan sejumlah nilai jaminan tersebut di
 atas dalam waktu paling lambat 14 (empat belas) hari kerja tanpa syarat (Unconditional)
 setelah menerima tuntutan pencairan dari Penerima Jaminan berdasar Surat Pernyataan
-Paraf 1 Paraf 2 Paraf 3
+
 Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi akibat Yang Dijamin
 cidera janji/lalai/tidak memenuhi kewajibannya.
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-benda yang
@@ -207251,7 +207250,7 @@ _______________
 disarankan untuk [Nama dan Jabatan]
 mengkonfirmasi Garansi
 ini ke ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK JAMINAN PENAWARAN DARI ASURANSI/KONSORSIUM PERUSAHAAN
 ASURANSI/PERUSAHAAN PENJAMINAN – (apabila disyaratkan)
 CONTOH
@@ -207301,7 +207300,7 @@ Meterai Rp.10.000,00
 ini ke ...........[penerbit
 jaminan]
 (______________) (______________)
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK JAMINAN SANGGAHAN BANDING DARI BANK
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -207347,7 +207346,7 @@ sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Garansi Bank ini tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing pihak
 memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri ....................
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _______________
 Pada tanggal : _______________
 [Bank]
@@ -207358,7 +207357,7 @@ _______________
 disarankan untuk [Nama dan Jabatan]
 mengkonfirmasi Garansi
 ini ke ...........[bank]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK JAMINAN SANGGAHAN BANDING DARI ASURANSI/KONSORSIUM
 PERUSAHAAN ASURANSI/PERUSAHAAN PENJAMINAN
 CONTOH
@@ -207402,12 +207401,12 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama &Jabatan] [Nama &Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK DOKUMEN PENAWARAN TEKNIS
 Dokumen Penawaran Teknis
 [Cantumkan dan jelaskan sesuai dengan ketentuan dalam IKP dan LDP. Jika diperlukan,
 keterangan dapat dicantumkan dalam lembar tersendiri/tambahan]
-Paraf 1 Paraf 2 Paraf 3
+
 G. DATA PERALATAN
 CONTOH
 Kepemilikan
@@ -207417,7 +207416,7 @@ No Jenis Merek dan Tipe*) Kapasitas Jumlah
 2 ___ ___ ___ ___ ___
 dst ___ ___ ___ ___ ___
 *) Merek dan Tipe bukan merupakan bagian yang dievaluasi
-Paraf 1 Paraf 2 Paraf 3
+
 H. DATA PERSONEL MANAJERIAL
 CONTOH
 a. Untuk pemaketan kualifikasi Usaha Kecil
@@ -207454,7 +207453,7 @@ Keterangan:
 disyaratkan, bukan berdasarkan jabatan yang disyaratkan.
 ***) Pengalaman kerja yang dinilai adalah pengalaman kerja setelah personel lulus pendidikan minimal
 sesuai persyaratan untuk memperoleh Sertifikat Kompetensi Kerja yang disyaratkan.
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 Daftar Riwayat Hidup Personel Manajerial
 1. Jabatan dalam pekerjaan yang akan dilaksanakan : __________
@@ -207485,7 +207484,7 @@ Mengetahui:
 __________[nama Penyedia Jasa Pekerjaan Konstruksi]
 (__________)
 [nama jelas wakil sah]
-Paraf 1 Paraf 2 Paraf 3
+
 I. BAGIAN PEKERJAAN YANG DISUBKONTRAKKAN (APABILA DISYARATKAN)
 CONTOH
 1. Bagian Pekerjaan yang disubkontrakkan (Disyaratkan untuk paket pekerjaan dengan
@@ -207535,7 +207534,7 @@ Pendirian*) : … c. Nama : …
 Dst.
 Dst.
 *) Dokumen pendirian, identitas pemilik subkontraktor disampaikan melalui fasilitas unggahan lainnya
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
 BENTUK RENCANA KESELAMATAN KONSTRUKSI
@@ -207562,7 +207561,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 A. Kepemimpinan dan Partisipasi Pekerja dalam Keselamatan Konstruksi
 A.1 Komitmen Keselamatan Konstruksi
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan format di
@@ -207589,7 +207588,7 @@ pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Keselamatan Konstruksi Badan Usaha Dengan KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -207618,7 +207617,7 @@ pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B. Perencanaan Keselamatan Konstruksi
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 Tabel Contoh Format Tabel IBPRP*
@@ -207640,7 +207639,7 @@ No.
 Kolom Tabel 6 Tolok Uraian Sumber Jadwal Bentuk Indikator Penanggung
 IBPRP) Uraian
 ukur Kegiatan Daya Pelaksanaan Monitoring Pencapaian Jawab
-Paraf 1 Paraf 2 Paraf 3
+
 C. Dukungan Keselamatan Konstruksi
 Tabel. Contoh Jadwal Program Komunikasi
 NO Jenis Komunikasi PIC Waktu Pelaksanaan
@@ -207671,7 +207670,7 @@ No Kegiatan PIC
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT PERJANJIAN SEWA PERALATAN
 CONTOH
 [ Kop Perusahaan Lessor/ penyedia peralatan ]
@@ -207706,7 +207705,7 @@ Pasal 1
 PENERIMAAN PERALATAN
 PIHAK KEDUA akan menerima hak guna dari apa yang disewanya dari PIHAK PERTAMA
 dalam kondisi baik.
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 2
 NEGOSIASI HARGA SEWA PERALATAN
 Harga Sewa Peralatan tersebut di atas akan diperoleh dari hasil negosiasi antara kedua
@@ -207749,7 +207748,7 @@ mekanik sesuai dengan kebutuhan.
 memindahkan atau mengoperasikan PERALATAN tersebut di tempat lain, selain dari
 yang tertulis dalam surat perjanjian ini kecuali dalam keadaan kahar seperti:
 kebakaran, gempa bumi, dan lainnya.
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 7
 TANGGUNG JAWAB PIHAK KEDUA
 1) PIHAK KEDUA bertanggung jawab atas keamanan alat yang disewanya.
@@ -207765,7 +207764,7 @@ berkekuatan hukum yang sama dan mulai berlaku sejak ditandatangani oleh kedua pi
 PIHAK PERTAMA PIHAK KEDUA
 PT. ……… [diisi nama perusahaan PT. ……… [diisi nama perusahaan
 Lessor/ penyedia peralatan] Lessee/ penerima peralatan]
-Paraf 1 Paraf 2 Paraf 3
+
 D. BENTUK FORMULIR PENYAMPAIAN TINGKAT KOMPONEN DALAM NEGERI (TKDN)
 [apabila diberikan preferensi harga]
 FORMULIR PENYAMPAIAN
@@ -207793,7 +207792,7 @@ Penawaran
 *) Nilai TKDN Komponen Barang berdasarkan daftar inventarisasi barang/jasa produksi dalam
 negeri yang diterbitkan oleh kementerian yang menyelenggarakan urusan pemerintahan di
 bidang perindustrian.
-Paraf 1 Paraf 2 Paraf 3
+
 E. BENTUK DAFTAR BARANG YANG DIIMPOR
 DAFTAR BARANG YANG DIIMPOR1
 NAMA NEGARA
@@ -207801,7 +207800,7 @@ NO SPESIFIKASI SATUAN JUMLAH HARGA
 BARANG/URAIAN ASAL
 TOTAL HARGA
 Diisi dan dilampirkan dalam penawaran apabila ada barang yang diimpor
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -207846,7 +207845,7 @@ Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang – Undang Nomor 2 tahu
 beserta perubahannya dan aturan turunannya;
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa Pemerintah
 untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan Provinsi Papua Barat.
-Paraf 1 Paraf 2 Paraf 3
+
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen Pemilihan;
 (b) Pejabat Penandatangan Kontrak telah menunjuk Penyedia menjadi pihak dalam Kontrak ini
@@ -207893,7 +207892,7 @@ adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..) dengan
 Penyedia : ............... .
 [Catatan : untuk kontrak tahun jamak agar dicantumkan rincian pendanaan untuk masing-
 masing Tahun Anggarannya]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 4
 DOKUMEN KONTRAK
 (1) Kelengkapan dokumen-dokumen berikut merupakan satu kesatuan dan bagian yang tidak
@@ -207942,7 +207941,7 @@ untuk Pejabat Penandatangan Kontrak maka untuk Penyedia maka rekatkan meterai Rp
 rekatkan meterai Rp 10.000,00)] 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Harga Satuan
@@ -207986,7 +207985,7 @@ Undang Nomor 2 tahun 2017 tentang Jasa Konstruksi sebagaimana telah diubah denga
 Peraturan Pemerintah Nomor 14 Tahun 2021 tentang Perubahan Peraturan Pemerintah
 1)
 Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan Undang – Undang Nomor 2 tahun
 2017 tentang Jasa Konstruksi;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah
@@ -208033,7 +208032,7 @@ Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan total
 harga penawaran terkoreksi sebagaimana tercantum dalam Daftar Kuantitas dan Harga
-Paraf 1 Paraf 2 Paraf 3
+
 adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..) dengan kode akun kegiatan
 ……….;
 (2) Kontrak ini dibiayai dari ……….. [diisi sumber pembiayaannya];
@@ -208081,7 +208080,7 @@ dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan dibuat d
 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai kekuatan hukum yang
 sama dan mengikat bagi para pihak, rangkap yang lain dapat diperbanyak sesuai kebutuhan
 tanpa dibubuhi meterai.
-Paraf 1 Paraf 2 Paraf 3
+
 Untuk dan atas nama Untuk dan atas nama
 Penyedia............. [diisi nama KSO] Pejabat Penandatangan Kontrak............. [diisi
 sesuai SK Pengangkatan]
@@ -208090,7 +208089,7 @@ untuk Pejabat Penandatangan Kontrak maka untuk Penyedia maka rekatkan meterai Rp
 rekatkan meterai Rp 10.000,00)] 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 II. SYARAT-SYARAT UMUM KONTRAK
 SYARAT-SYARAT UMUM KONTRAK
 KETENTUAN UMUM
@@ -208140,7 +208139,7 @@ berdasarkan perjanjian tertulis.
 1.12 Kontrak Kerja Konstruksi selanjutnya disebut Kontrak adalah
 keseluruhan dokumen yang mengatur hubungan hukum antara
 Pejabat Penandatangan Kontrak dengan Penyedia dalam
-Paraf 1 Paraf 2 Paraf 3
+
 pelaksanaan jasa konsultansi konstruksi atau pekerjaan
 konstruksi.
 1.13 Kontrak Harga Satuan adalah Kontrak Pengadaan
@@ -208194,7 +208193,7 @@ pembongkaran, dan pembangunan kembali suatu bangunan.
 1.23 Pekerjaan Utama adalah rangkaian kegiatan dalam suatu
 penyelenggaraan pekerjaan konstruksi yang memiliki pengaruh
 terbesar dalam mengakibatkan terjadinya keterlambatan
-Paraf 1 Paraf 2 Paraf 3
+
 penyelesaian pekerjaan konstruksi dan secara langsung
 menunjang terwujudnya dan berfungsinya suatu konstruksi
 sesuai peruntukannya sebagaimana tercantum dalam rancangan
@@ -208246,7 +208245,7 @@ diterbitkan oleh Pejabat Penandatangan Kontrak.
 1.37 Tenaga Kerja Konstruksi adalah tenaga kerja yang bekerja di
 sektor konstruksi yang meliputi ahli, teknisi atau analis, dan
 operator.
-Paraf 1 Paraf 2 Paraf 3
+
 2. Penerapan SSUK diterapkan secara luas dalam pelaksanaan Pekerjaan Konstruksi ini
 tetapi tidak dapat bertentangan dengan ketentuan-ketentuan dalam
 Dokumen Kontrak lain yang lebih tinggi berdasarkan urutan hierarki
@@ -208299,7 +208298,7 @@ Kontrak terbukti melakukan larangan-larangan di atas dapat
 dikenakan sanksi-sanksi administratif oleh Pejabat
 Penandatangan Kontrak sebagai berikut:
 a. pemutusan Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Jaminan Pelaksanaan dicairkan dan disetorkan sebagaimana
 ditetapkan dalam SSKK;
 c. sisa uang muka harus dilunasi oleh Penyedia atau Jaminan
@@ -208351,7 +208350,7 @@ Kontrak ini.
 14. Pengawasan 14.1 Pejabat Penandatangan Kontrak menetapkan Pengawas Pekerjaan
 Pelaksanaan untuk melakukan pengawasan pelaksanaan pekerjaan sesuai
 Pekerjaan Kontrak ini. Pengawas Pekerjaan dapat berasal dari personel
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Penandatangan Kontrak (Direksi Teknis) atau Penyedia
 Jasa Pengawasan (Konsultan Pengawas).
 14.2 Dalam melaksanakan kewajibannya, Pengawas Pekerjaan
@@ -208406,7 +208405,7 @@ negara.
 17. Akses ke Lokasi 17.1 Penyedia berkewajiban untuk menjamin akses Pejabat
 Kerja Penandatangan Kontrak, Wakil Sah Pejabat Penandatangan
 Kontrak , Pengawas Pekerjaan dan/atau pihak yang mendapat
-Paraf 1 Paraf 2 Paraf 3
+
 izin dari Pejabat Penandatangan Kontrak ke lokasi kerja dan
 lokasi lainnya dimana pekerjaan ini sedang atau akan
 dilaksanakan.
@@ -208457,7 +208456,7 @@ yang dapat mengakibatkan perubahan isi Kontrak maka
 perubahan tersebut harus dituangkan dalam Berita Acara
 Penyerahan Lokasi Kerja yang selanjutnya akan dituangkan
 dalam adendum kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 19.5 Jika Pejabat Penandatangan Kontrak tidak dapat menyerahkan
 lokasi kerja sesuai kebutuhan Penyedia yang untuk mulai
 bekerja pada Tanggal Mulai Kerja untuk melaksanakan
@@ -208509,7 +208508,7 @@ dipersyaratkan pada pelaksanaan pekerjaan ini.
 21.4 RMPK dapat direvisi sesuai dengan kondisi pekerjaan.
 21.5 Penyedia berkewajiban untuk memutakhirkan RMPK jika terjadi
 Adendum Kontrak dan/atau Peristiwa Kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 21.6 Pemutakhiran RMPK harus menunjukan perkembangan
 kemajuan setiap pekerjaan dan dampaknya terhadap
 penjadwalan sisa pekerjaan, termasuk perubahan terhadap
@@ -208562,7 +208561,7 @@ dan kesesuaian subklasifikasi SBU subpenyedia jasa
 spesialis yang dinominasikan; dan/atau
 2) Untuk pekerjaan yang bukan pekerjaan utama, maka
 dilakukan klarifikasi terhadap kesesuaian pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 yang disubkontrakkan, kesesuaian kualifikasi usaha, dan
 kesesuaian lokasi/domisili usaha subpenyedia jasa usaha
 kualifikasi kecil yang dinominasikan.
@@ -208613,7 +208612,7 @@ penawaran.
 26.2 Dalam pelaksanaan Pekerjaan Konstruksi, bahan baku, Tenaga
 Kerja Konstruksi, dan perangkat lunak yang digunakan
 mengacu kepada dokumen:
-Paraf 1 Paraf 2 Paraf 3
+
 a. formulir penyampaian Tingkat Komponen Dalam Negeri
 (TKDN), untuk Penyedia yang mendapat preferensi harga;
 dan
@@ -208666,7 +208665,7 @@ Pengawas Pekerjaan atas peristiwa atau kondisi tertentu yang
 dapat mempengaruhi mutu pekerjaan, menaikkan Harga
 Kontrak atau menunda penyelesaian pekerjaan. Pengawas
 Pekerjaan dapat memerintahkan Penyedia untuk menyampaikan
-Paraf 1 Paraf 2 Paraf 3
+
 secara tertulis perkiraan dampak peristiwa atau kondisi tersebut
 di atas terhadap Harga Kontrak dan Masa Pelaksanaan.
 Pernyataan perkiraan ini harus sesegera mungkin disampaikan
@@ -208722,7 +208721,7 @@ Kontrak Kritis III dan Pejabat Penandatangan Kontrak dapat
 melakukan pemutusan Kontrak secara sepihak dengan
 mengesampingkan Pasal 1266 dan 1267 Kitab Undang-
 Undang Hukum Perdata.
-Paraf 1 Paraf 2 Paraf 3
+
 f.Apabila uji coba berhasil, namun pada pelaksanaan
 pekerjaan selanjutnya Kontrak dinyatakan kritis lagi maka
 berlaku ketentuan SCM dari awal.
@@ -208774,7 +208773,7 @@ b. pengenaan sanksi denda keterlambatan kepada Penyedia;
 c. perpanjangan masa berlaku Jaminan Pelaksanaan; dan
 d. sumber dana untuk membiayai penyelesaian sisa pekerjaan
 yang akan dilanjutkan ke Tahun Anggaran berikutnya dari
-Paraf 1 Paraf 2 Paraf 3
+
 DIPA Tahun Anggaran berikutnya, apabila pemberian
 kesempatan melampaui Tahun Anggaran.
 B.3 Penyelesaian Kontrak
@@ -208825,7 +208824,7 @@ dengan baik dan telah sesuai dengan ketentuan yang tercantum
 dalam Kontrak maka Pejabat Penandatangan Kontrak dan
 Penyedia menandatangani Berita Acara Serah Terima Akhir
 Pekerjaan.
-Paraf 1 Paraf 2 Paraf 3
+
 33.12 Pejabat Penandatangan Kontrak wajib melakukan pembayaran
 sisa Harga Kontrak yang belum dibayar atau mengembalikan
 Jaminan Pemeliharaan.
@@ -208874,7 +208873,7 @@ Pelaksanaan;
 d. perubahan personel manajerial dan/atau peralatan utama;
 dan/atau
 e. perubahan Kontrak yang disebabkan masalah administrasi.
-Paraf 1 Paraf 2 Paraf 3
+
 36.3 Untuk kepentingan perubahan Kontrak, Pejabat Penandatangan
 Kontrak dapat meminta pertimbangan dari Pengawas Pekerjaan
 dan Pejabat/Panitia Peneliti Pelaksanaan Kontrak.
@@ -208927,7 +208926,7 @@ timpang, maka harga satuan timpang tersebut hanya berlaku
 untuk kuantitas pekerjaan yang tercantum dalam Dokumen
 Pemilihan. Untuk kuantitas pekerjaan tambahan digunakan
 harga satuan berdasarkan hasil negosiasi.
-Paraf 1 Paraf 2 Paraf 3
+
 38.4 Apabila ada daftar mata pembayaran yang masuk kategori harga
 satuan timpang, maka dicantumkan dalam Lampiran A SSKK.
 38.5 Apabila diperlukan mata pembayaran baru, maka Penyedia jasa
@@ -208983,7 +208982,7 @@ b. Peristiwa Kompensasi; dan/atau
 c. Keadaan Kahar.
 39.3 Masa Pelaksanaan dapat diperpanjang paling kurang sama
 dengan waktu terhentinya Kontrak akibat Keadaan Kahar atau
-Paraf 1 Paraf 2 Paraf 3
+
 waktu yang diperlukan untuk menyelesaikan pekerjaan akibat
 dari ketentuan pada pasal 39.2 huruf a atau b.
 39.4 Pejabat Penandatangan Kontrak dapat menyetujui perpanjangan
@@ -209038,7 +209037,7 @@ lebih baik dari tenaga kerja konstruksi dan/atau peralatan yang
 digantikan tanpa biaya tambahan apapun.
 40.4 Pejabat Penandatangan Kontrak dapat menyetujui
 penempatan/penggantian Personel Manajerial dan/atau
-Paraf 1 Paraf 2 Paraf 3
+
 Peralatan Utama menurut kualifikasi yang dibutuhkan setelah
 mendapat rekomendasi dari Pengawas Pekerjaan.
 40.5 Perubahan Personel Manajerial dan/atau Peralatan Utama
@@ -209091,7 +209090,7 @@ dan/atau akan terdampak akibat dari Keadaan Kahar.
 41.8 Dalam hal terjadi Keadaan Kahar, Pelaksanaan pekerjaan dapat
 dihentikan. Penghentian Pekerjaan karena Keadaan Kahar
 dapat bersifat
-Paraf 1 Paraf 2 Paraf 3
+
 a. sementara hingga Keadaan Kahar berakhir apabila akibat
 Keadaan Kahar masih memungkinkan
 dilanjutkan/diselesaikannya pekerjaan;
@@ -209144,7 +209143,7 @@ Kontrak sebagaimana dimaksud pada pasal 41.
 Kontrak Penandatangan Kontrak atau Penyedia.
 43.2 Pemutusan kontrak dilakukan dengan terlebih dahulu
 memberikan surat peringatan dari salah satu pihak ke pihak
-Paraf 1 Paraf 2 Paraf 3
+
 yang lain yang melakukan tindakan wanprestasi kecuali telah
 ada putusan pidana.
 43.3 Surat peringatan diberikan 3 (tiga) kali kecuali pelanggaran
@@ -209200,7 +209199,7 @@ j. Penyedia menghentikan pekerjaan selama 28 (dua puluh
 delapan) hari kalender dan penghentian ini tidak
 tercantum dalam jadwal pelaksanaan pekerjaan serta
 tanpa persetujuan pengawas pekerjaan; atau
-Paraf 1 Paraf 2 Paraf 3
+
 k. Penyedia mengalihkan seluruh kontrak bukan
 dikarenakan pergantian nama Penyedia.
 44.2 Dalam hal pemutusan Kontrak dilakukan pada Masa
@@ -209251,7 +209250,7 @@ keadaan kahar; atau
 c. ruang lingkup kontrak sudah terwujud.
 46.2 Pengakhiran pekerjaan sesuai pasal 46.1 dituangkan dalam
 addendum final yang berisi perubahan akhir dari Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 47. Berakhirnya 47.1 Pengakhiran pelaksanaan Kontrak dilakukan berdasarkan
 Kontrak kesepakatan para pihak.
 47.2 Kontrak berakhir apabila telah dilakukan pengakhiran
@@ -209304,7 +209303,7 @@ Dokumen Kontrak untuk kepentingan pihak lain, misalnya spesifikasi teknis
 Kontrak dan dan/atau gambar-gambar, serta informasi lain yang berkaitan dengan
 Informasi Kontrak, kecuali dengan izin tertulis dari Pejabat Penandatangan
 Kontrak sesuai ketentuan peraturan perundang-undangan.
-Paraf 1 Paraf 2 Paraf 3
+
 51. Hak Kekayaan Penyedia wajib melindungi Pejabat Penandatangan Kontrak dari segala
 Intelektual tuntutan atau klaim dari pihak ketiga yang disebabkan penggunaan
 atau atas pelanggaran Hak Kekayaan Intelektual oleh Penyedia.
@@ -209359,7 +209358,7 @@ Subkontraktor, jika ada) perlengkapan keselamatan kerja yang
 sesuai dan memadai.
 53.4 Tanpa mengurangi kewajiban Penyedia untuk melaporkan
 kecelakaan berdasarkan hukum yang berlaku, Penyedia wajib
-Paraf 1 Paraf 2 Paraf 3
+
 melaporkan kepada Pejabat Penandatangan Kontrak mengenai
 setiap kecelakaan yang timbul sehubungan dengan pelaksanaan
 Kontrak ini dalam waktu 24 (dua puluh empat) jam setelah
@@ -209411,7 +209410,7 @@ pemeriksaan pekerjaan dituangkan dalam laporan kemajuan
 hasil pekerjaan.
 57.2 Untuk kepentingan pengendalian dan pengawasan pelaksanaan
 pekerjaan, seluruh aktivitas kegiatan pekerjaan dilokasi
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan dicatat sebagai bahan laporan harian pekerjaan yang
 berisi rencana dan realisasi pekerjaan harian.
 57.3 Laporan harian berisi:
@@ -209461,7 +209460,7 @@ kepada penyedia jasa spesialis, dengan ketentuan:
 (a) Paling banyak 2 (dua) pekerjaan;
 (b) Pekerjaan sebagaimana dimaksud pada huruf a)
 sesuai dengan subklasifikasi SBU;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Sebagian pekerjaan yang bukan pekerjaan utama
 kepada sub penyedia jasa usaha kualifikasi kecil
 dengan ketentuan:
@@ -209514,7 +209513,7 @@ ahlian Penyedia memenuhi ketentuan alih pengalaman/keahlian bidang
 konstruksi melalui sistem kerja praktek/magang sesuai dengan jumlah
 peserta, durasi pelaksanaan, dan jenis keahlian yang disepakati pada
 saat Rapat Persiapan Penandatanganan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 62. Pembayaran Penyedia berkewajiban untuk membayar sanksi finansial berupa denda
 Denda sebagai akibat wanprestasi atau cidera janji terhadap kewajiban-
 kewajiban Penyedia dalam Kontrak ini. Pejabat Penandatangan Kontrak
@@ -209566,7 +209565,7 @@ besarannya paling kurang sama dengan besarnya uang muka
 yang diterima Penyedia.
 63.8 Nilai Jaminan Uang Muka dapat dikurangi secara proporsional
 sesuai dengan sisa uang muka yang diterima.
-Paraf 1 Paraf 2 Paraf 3
+
 63.9 Masa berlakunya Jaminan Uang Muka paling kurang sejak
 tanggal persetujuan pemberian uang muka sampai dengan
 Tanggal Penyerahan Pertama Pekerjaan (PHO).
@@ -209619,7 +209618,7 @@ g. Pejabat Penandatangan Kontrak memerintahkan untuk
 mengatasi kondisi tertentu yang tidak dapat diduga
 sebelumnya yang disebabkan/tidak disebabkan oleh
 Pejabat Penandatangan Kontrak; atau
-Paraf 1 Paraf 2 Paraf 3
+
 h. ketentuan lain dalam SSKK.
 66.2 Jika Peristiwa Kompensasi mengakibatkan pengeluaran
 tambahan dan/atau keterlambatan penyelesaian pekerjaan
@@ -209668,7 +209667,7 @@ c. biaya pelaksanaan pekerjaan; dan
 d. biaya penerapan SMKK.
 69.3 Rincian Harga Kontrak sesuai dengan rincian yang tercantum
 dalam Daftar Kuantitas dan Harga.
-Paraf 1 Paraf 2 Paraf 3
+
 69.4 Besaran Harga Kontrak sesuai dengan penawaran yang
 sebagaimana yang telah diubah terakhir kali sesuai dengan
 ketentuan dalam Kontrak.
@@ -209726,7 +209725,7 @@ Pembayaran prestasi hasil pekerjaan yang disepakati dilakukan
 oleh Pejabat Penandatangan Kontrak, dengan ketentuan:
 a. Penyedia telah mengajukan tagihan disertai laporan
 kemajuan hasil pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. pembayaran dilakukan tidak boleh melebihi kemajuan
 hasil pekerjaan yang telah dicapai dan diterima oleh
 Pejabat Penandatangan Kontrak;
@@ -209781,7 +209780,7 @@ dalam Kontrak dan perubahannya;
 ditunjuk oleh produsen;
 (4) disetujui oleh Pejabat Penandatangan Kontrak sesuai
 dengan capaian fisik yang diterima;
-Paraf 1 Paraf 2 Paraf 3
+
 (5) dilarang dipindahkan dari area lokasi pekerjaan
 dan/atau dipindah-tangankan oleh pihak manapun;
 dan
@@ -209838,7 +209837,7 @@ mengajukan tagihan disertai perhitungan dan data-data.
 71. Hari Kerja 71.1 Orang hari standar atau satu hari orang bekerja adalah 8
 (delapan) jam, terdiri atas 7 (tujuh) jam kerja (efektif) dan 1
 (satu) jam istirahat.
-Paraf 1 Paraf 2 Paraf 3
+
 71.2 Penyedia tidak diperkenankan melakukan pekerjaan apapun di
 lokasi kerja pada waktu yang secara ketentuan peraturan
 perundang-undangan dinyatakan sebagai hari libur atau di
@@ -209891,7 +209890,7 @@ PENGAWASAN MUTU
 74. Pengawasan dan Pejabat Penandatangan Kontrak berwenang melakukan pengawasan
 Pemeriksaan dan pemeriksaan terhadap pelaksanaan pekerjaan yang dilaksanakan
 oleh Penyedia. Pejabat Penandatangan Kontrak dapat memerintahkan
-Paraf 1 Paraf 2 Paraf 3
+
 kepada pihak ketiga untuk melakukan pengawasan dan pemeriksaan
 atas semua pelaksanaan pekerjaan yang dilaksanakan oleh Penyedia.
 75. Penilaian 75.1 Pejabat Penandatangan Kontrak dalam Masa Pelaksanaan
@@ -209946,7 +209945,7 @@ cacat mutu tersebut selesai diperbaiki.
 77.5 Dalam hal cacat mutu ditemukan oleh Pejabat Penandatangan
 Kontrak selama masa pemeliharaan maka penyedia wajib
 memperbaiki cacat mutu tersebut dalam jangka waktu yang
-Paraf 1 Paraf 2 Paraf 3
+
 ditentukan dan mengenakan denda keterlambatan untuk setiap
 keterlambatan perbaikan Cacat Mutu.
 77.6 Penyedia yang tidak melaksanakan perbaikan cacat mutu
@@ -209998,7 +209997,7 @@ pada pasal 79.1 tidak dapat mencapai suatu kemufakatan,
 maka penyelesaian perselisihan atau sengketa antara para
 pihak ditempuh melalui tahapan mediasi, konsiliasi, dan
 arbitrase.
-Paraf 1 Paraf 2 Paraf 3
+
 79.3 Selain ketentuan pada pasal 79.2 penyelesaian
 perselisihan/sengketa para pihak dapat dilakukan melalui:
 a. layanan penyelesaian sengketa Kontrak;
@@ -210016,7 +210015,7 @@ tanpa menonjolkan kepentingan masing-masing pihak.
 Apabila selama Kontrak, salah satu pihak merasa dirugikan,
 maka diupayakan tindakan yang terbaik untuk mengatasi
 keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 III. SYARAT-SYARAT KHUSUS KONTRAK
 Pasal Ketentuan Data
 dalam
@@ -210068,7 +210067,7 @@ untuk Serah jumlah hari kalender dalam angka dan huruf] hari kalender
 Terima terhitung sejak Tanggal Mulai Kerja yang tercantum dalam
 Sebagian SPMK.
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 (Bagian 2. Masa Pelaksanaan bagian pekerjaan (bagian Kontrak)
 Kontrak) …………… [diisi bagian pekerjaannya] selama ......... [diisi
 jumlah hari kalender dalam angka dan huruf] hari kalender
@@ -210119,7 +210118,7 @@ Hn = Ho (a+b.Bn/Bo+c.Cn/Co+d.Dn/Do+.....)
 Hn = Harga Satuan pada saat pekerjaan dilaksanakan;
 Ho = Harga Satuan pada saat harga penawaran;
 A = Koefisien tetap yang terdiri atas keuntungan dan
-Paraf 1 Paraf 2 Paraf 3
+
 overhead, dalam hal penawaran tidak
 mencantumkan besaran komponen keuntungan
 dan overhead maka a = 0,15
@@ -210174,7 +210173,7 @@ perundang-undangan.
 g) Penyedia dapat mengajukan tagihan secara berkala paling
 cepat 6 (enam) bulan setelah pekerjaan yang diberikan
 penyesuaian harga tersebut dilaksanakan.
-Paraf 1 Paraf 2 Paraf 3
+
 h) Pembayaran penyesuaian harga dilakukan oleh Pejabat
 Penandatangan Kontrak, apabila Penyedia telah mengajukan
 tagihan disertai perhitungan beserta data-data dan telah
@@ -210222,7 +210221,7 @@ Muka huruf.....) dari Harga Kontrak.
 70.2.d Pembayaran Pembayaran prestasi pekerjaan dilakukan dengan cara: ….. [diisi
 Prestasi dengan memilih Termin/Bulanan]
 Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 Dokumen penunjang yang disyaratkan untuk mengajukan tagihan
 pembayaran prestasi pekerjaan :
 1. ……….
@@ -210263,7 +210262,7 @@ konstruksinya tidak lebih dari 10 (sepuluh) tahun]
 79.3 Penyelesaian Penyelesaian perselisihan/sengketa para pihak dilakukan melalui
 Perselisihan/ ………
 Sengketa
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN A SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR HARGA SATUAN TIMPANG*)
 Harga
@@ -210322,7 +210321,7 @@ o Manajerial** Pekerjaa Profesional n
 3 Dst
 Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
 DAFTAR PERALATAN UTAMA
 Nama Merek Status
@@ -210336,7 +210335,7 @@ Utama *) Tipe **) **)
 Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B SYARAT-SYARAT KHUSUS KONTRAK
 RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
@@ -210364,7 +210363,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan format di
 bawah ini:
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha Tunggal/Atas Nama Sendiri]
@@ -210389,7 +210388,7 @@ pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha ber-KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -210418,7 +210417,7 @@ pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 Tabel 1. Identifikasi Bahaya, Penilaian Risiko, Penetapan Pengendalian Risiko K3
 Nama Perusahaan : ..................
@@ -210452,7 +210451,7 @@ IBPRP) Uraian
 ukur Kegiatan Daya Pelaksanaan Monitoring Pencapaian Jawab
 Dibuat oleh,
 Kepala Pelaksanaan Pekerjaan Konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 C. Dukungan Keselamatan Konstruksi
 Tabel Contoh Jadwal Program Komunikasi
 NO Jenis Komunikasi PIC Waktu Pelaksanaan
@@ -210482,7 +210481,7 @@ No Kegiatan PIC 1 2 3 4 5 6 7 8 9 10 11 12
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. SPESIFIKASI TEKNIS DAN GAMBAR
 A. Uraian Spesifikasi Teknis
 Uraian spesifikasi teknis disusun berdasarkan spesifikasi teknis yang ditetapkan oleh PPK
@@ -210528,7 +210527,7 @@ b. Setiap proses/kegiatan harus dilengkapi dengan prosedur kerja, sistem perlind
 terhadap pekerja, perlengkapan pengaman, dan rambu-rambu peringatan dan
 kewajiban pekerja menggunakan alat pelindung diri (APD) yang sesuai dengan
 potensi bahaya pada proses tersebut;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Setiap jenis proses/kegiatan pekerjaan yang berisiko tinggi, atau pekerjaan yang
 berisiko tinggi pada keadaan yang berbeda, harus lebih dulu dilakukan analisis
 keselamatan pekerjaan (Job Safety Analysis) dan tindakan pengendaliannya;
@@ -210577,7 +210576,7 @@ a. Setiap kegiatan/pekerjaan perancangan, perencanaan, perhitungan dan gambar-
 gambar konstruksi, penetapan spesifikasi dan prosedur teknis serta metode
 pelaksanaan/ konstruksi/kerja harus dilakukan oleh tenaga ahli yang mempunyai
 kompetensi yang disyaratkan, baik pekerjaan arsitektur, struktur/sipil, mekanikal,
-Paraf 1 Paraf 2 Paraf 3
+
 elektrikal, plumbing dan penataan lingkungan maupun interior dan jenis pekerjaan
 lain yang terkait;
 b. Setiap tenaga ahli tersebut pada butir a. di atas harus mempunyai kemampuan untuk
@@ -210613,7 +210612,7 @@ penetapan tingkat Risiko Keselamatan Konstruksi pada Pekerjaan Konstruksi
 Dalam melakukan pengawasan dan evaluasi terhadap RKK dan penerapan SMKK, Pejabat
 Penandatangan Kontrak dapat dibantu oleh Ahli K3 Konstruksi/Ahli Keselamatan Konstruksi
 dan/atau Petugas Keselamatan Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. DAFTAR KUANTITAS DAN HARGA
 Keterangan
 1. Daftar Kuantitas dan Harga harus sesuai dengan Instruksi Kepada Peserta (IKP), Syarat-
@@ -210649,7 +210648,7 @@ huruf maka nilai yang diakui adalah nilai dalam tulisan huruf;
 2) apabila penawaran dalam angka tertulis dengan jelas sedangkan dalam huruf
 tidak jelas dan/atau tidak bermakna dan/atau salah, maka nilai yang diakui
 adalah nilai dalam tulisan angka.
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 1: Mata Pembayaran Umum
 CONTOH
 Satuan Harga
@@ -210660,7 +210659,7 @@ Keterangan:
 1. Mata Pembayaran Umum memuat rincian komponen pekerjaan yang bersifat umum.
 2. Total harga adalah semua jenis harga yang tercantum dalam Daftar Kuantitas dan Harga
 merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 2: Mata Pembayaran Perkiraan Biaya Penerapan Sistem Manajemen Keselamatan
 Konstruksi*)
 CONTOH
@@ -210700,7 +210699,7 @@ Total Daftar 2 Rp.......
 (pindahkan nilai total ke Daftar Rekapitulasi)
 *) Sesuai dengan ketentuan SMKK
 **) Satuan ukuran dapat berupa meter, orang, buah, LS sesuai dengan ketentuan SMKK
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 3: Mata Pembayaran Pekerjaan Utama: __________
 CONTOH
 Satuan Harga
@@ -210712,7 +210711,7 @@ Keterangan:
 paket Pekerjaan Konstruksi ini di antara bagian-bagian pekerjaan lain.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas dan Harga
 merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 4: Mata Pembayaran ______________________
 CONTOH
 No. Uraian Pekerjaan Satuan Kuantitas Harga Total Harga
@@ -210725,7 +210724,7 @@ diuraikan dalam Mata Pembayaran Pekerjaan Utama jika terdapat lebih dari satu je
 pekerjaan.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas dan Harga
 merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 5: Mata Pembayaran Utama
 CONTOH
 Harga Nilai Bobot
@@ -210736,7 +210735,7 @@ Keluaran
 Keterangan:
 Diisi mata pembayaran yang pokok dan penting yang nilai bobot kumulatifnya minimal 80%
 dari seluruh nilai pekerjaan dihitung mulai dari mata pembayaran dan nilai bobot terbesar.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR REKAPITULASI
 CONTOH
 Mata Pembayaran Harga
@@ -210750,7 +210749,7 @@ Daftar No. 4: Mata Pembayaran ...................
 TOTAL NILAI
 PPN 10%
 Total termasuk PPN 10%
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
 [kop surat K/L/PD]
@@ -210784,7 +210783,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pokja Pemilihan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA (SPMK)
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -210824,7 +210823,7 @@ Untuk dan atas nama __________
 [tanda tangan]
 [nama lengkap wakil sah badan usaha]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT-SURAT JAMINAN
 Jaminan Pelaksanaan dari Bank
 [Kop Bank Penerbit Jaminan]
@@ -210867,7 +210866,7 @@ atas dalam waktu paling lambat 14 (empat belas) hari kerja tanpa syarat
 (Unconditional)setelah menerima tuntutan pencairan dari Penerima Jaminan berdasar
 Surat Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi akibat
 Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
-Paraf 1 Paraf 2 Paraf 3
+
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-benda yang
 diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang Yang Dijamin
 sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
@@ -210884,7 +210883,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pelaksanaan dari Asuransi /Konsorsium Asuransi /Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PELAKSANAAN
@@ -210921,7 +210920,7 @@ KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah diajukan
 selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah berakhirnya masa
 berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -210930,7 +210929,7 @@ _____________________ __________________ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 [Nama dan Jabatan] [Nama dan Jabatan] mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -210973,7 +210972,7 @@ memenuhi kewajibannya.
 diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang Yang Dijamin
 sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing pihak
 memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri ________.
 Dikeluarkan di : _____________
@@ -210986,7 +210985,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Asuransi/Konsorsium Asuransi /Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN UANG MUKA
@@ -211030,7 +211029,7 @@ _____________________ __________________
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
-_____[Penerbit Jaminan] Paraf 1 Paraf 2 Paraf 3
+_____[Penerbit Jaminan]
 Jaminan Pemeliharaan dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -211073,7 +211072,7 @@ Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang Yang Dijamin
 sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing pihak
 memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri ________.
 Dikeluarkan di : _____________
@@ -211086,7 +211085,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Asuransi/Konsorsium Asuransi /Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PEMELIHARAAN
@@ -211131,7 +211130,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. PETUNJUK EVALUASI KEWAJARAN HARGA
 Tahapan evaluasi kewajaran harga bagi peserta dengan harga penawaran dibawah nilai nominal
 80% (delapan puluh persen) HPS dilakukan sebagai berikut:
@@ -211158,7 +211157,7 @@ IV. JUMLAH ( I + II + III ) ........
 V. BIAYA UMUM ........
 VI. BIAYA KEUNTUNGAN ........
 VII. TOTAL ( IV + V ) ........
-Paraf 1 Paraf 2 Paraf 3
+
 2. Kemudian dilakukan klarifikasi harga dengan membuat format sebagai berikut:
 ANALISA HARGA SATUAN PEKERJAAN
 JENIS PEKERJAAN : .......... ..........
@@ -211189,7 +211188,7 @@ b : Hasil klarifikasi
 *) : Hasil klarifikasi dan pembuktian
 **) : Biaya keuntungan tidak
 diperhitungkan
-Paraf 1 Paraf 2 Paraf 3
+
 3. Peserta diminta menjelaskan terhadap kuantitas/koefisien yang dimasukkan dalam
 analisa harga satuan.
 4. Apabila penjelasannya diyakini dapat memenuhi persyaratan dan spesifikasi teknis, maka
@@ -211228,13 +211227,13 @@ maka harga dinyatakan wajar dan jaminan pelaksanaan dinaikkan sebesar 5% dari ni
 HPS.
 Jika total harga hasil klarifikasi lebih besar dari total harga penawaran, maka harga
 dinyatakan tidak wajar dan penawaran dinyatakan gugur.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi
 Penunjukan Langsung
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 Petunjuk Penggunaan Model Dokumen Pemilihan
 1. Model Dokumen Kualifikasi ini ditujukan untuk
 Penunjukan Langsung dengan nilai paling sedikit di atas
@@ -211248,7 +211247,7 @@ Langsung telah terkualifikasi dalam SIKaP, maka Pelaku
 Usaha tersebut dapat langsung diundang untuk
 menyampaikan Penawaran tanpa melalui proses
 Prakualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN KUALIFIKASI
 PENUNJUKAN LANGSUNG
 Nomor : __________
@@ -211259,7 +211258,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ........................................................................................................................ - 5 -
 BAB II. UNDANGAN PRAKUALIFIKASI PENUNJUKAN LANGSUNG ................................. - 8 -
@@ -211280,7 +211279,7 @@ BAB V ISIAN DATA KUALIFIKASI ...................................................
 BAB VI BENTUK SURAT PERJANJIAN KERJA SAMA OPERASI (KSO)............................... - 31 -
 BAB VII PETUNJUK PENGISIAN DATA KUALIFIKASI........................................................ - 33 -
 BAB VIII TATA CARA EVALUASI KUALIFIKASI ................................................................. - 35 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Kualifikasi ini disusun berdasarkan Peraturan Presiden Nomor 16
 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya
@@ -211327,7 +211326,7 @@ Kontrak ditandatangani;
 b. pembayaran berdasarkan hasil
 pengukuran bersama atas realisasi
 volume pekerjaan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 nilai akhir Kontrak ditetapkan setelah seluruh
 pekerjaan diselesaikan
 - Kontrak Gabungan : Kontrak yang merupakan gabungan lumsum
@@ -211367,7 +211366,7 @@ untuk melaksanakan sebagian pekerjaan
 - Penyedia Jasa Spesialis : Penyedia jasa yang memberikan layanan
 usaha Pekerjaan Konstruksi yang bersifat
 spesialis yang mampu mengerjakan bagian
-Paraf 1 Paraf 2 Paraf 3
+
 tertentu dari bangunan konstruksi atau
 bentuk fisik lain.
 - APIP : Aparat Pengawas Intern Pemerintah.
@@ -211400,7 +211399,7 @@ pengguna aplikasi.
 - Formulir Isian : Formulir isian elektronik pada SPSE yang
 Elektronik Data digunakan peserta untuk memasukkan dan
 Kualifikasi mengirimkan data kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PRAKUALIFIKASI PENUNJUKAN LANGSUNG
 CONTOH
 HH
@@ -211423,7 +211422,7 @@ Demikian disampaikan, atas perhatian dan kerjasama Saudara diucapkan terima kasi
 ...................................................
 [nama lengkap]
 Catatan : Undangan Prakualifikasi mengikuti format undangan yang tersedia dalam SPSE
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas Pokja Pemilihan sebagaimana tercantum
@@ -211470,7 +211469,7 @@ c. Memiliki Kualifikasi usaha besar dengan
 Kualifikasi usaha menengah;
 d. Memiliki Kualifikasi usaha menengah dengan
 Kualifikasi usaha kecil;
-Paraf 1 Paraf 2 Paraf 3
+
 3.7 Dalam melaksanakan KSO salah satu badan usaha
 anggota KSO harus menjadi pimpinan KSO
 (leadfirm).
@@ -211521,7 +211520,7 @@ perjanjian KSO.
 4. Perbuatan yang 4.1 Peserta berkewajiban untuk mematuhi aturan
 dilarang dan pengadaan dengan tidak melakukan perbuatan
 Sanksi sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 a. menyampaikan dokumen atau keterangan
 palsu/tidak benar untuk memenuhi
 persyaratan yang ditentukan dalam Dokumen
@@ -211569,7 +211568,7 @@ tanggungan negara.
 5.4 Peserta yang terbukti melanggar ketentuan
 pertentangan kepentingan, digugurkan sebagai
 peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Satu Data Setiap peserta, baik atas nama sendiri maupun sebagai
 Kualifikasi Tiap anggota KSO hanya diperbolehkan untuk menyampaikan
 Peserta satu Data Kualifikasi untuk satu paket pengadaan.
@@ -211612,7 +211611,7 @@ Penjelasan Kualifikasi.
 12. Perubahan 12.1 Apabila pada saat pemberian penjelasan terdapat
 Dokumen hal-hal/ketentuan baru atau perubahan yang perlu
 Kualifikasi ditampung, maka Pokja Pemilihan menuangkan ke
-Paraf 1 Paraf 2 Paraf 3
+
 dalam Adendum Dokumen Kualifikasi sebelum
 batas akhir penyampaian data kualifikasi.
 12.2 Apabila ketentuan baru atau perubahan tersebut
@@ -211658,7 +211657,7 @@ transparan, dan profesional.
 tunggal/atas nama sendiri ataupun peserta ber-
 KSO (leadfirm dan anggota KSO), telah menyetujui
 dan menandatangani Pakta Integritas.
-Paraf 1 Paraf 2 Paraf 3
+
 15. Pengisian Data 15.1 Pengisian Data Kualifikasi
 Kualifikasi a. Peserta mengisi Data kualifikasi disampaikan
 melalui Form Isian Elektronik Kualifikasi yang
@@ -211712,7 +211711,7 @@ ketentuan peraturan perundang-undangan.
 e. Untuk peserta yang berbentuk KSO, pemasukan
 kualifikasi dilakukan oleh badan usaha yang
 ditunjuk mewakili KSO/leadfirm.
-Paraf 1 Paraf 2 Paraf 3
+
 15.2 Pengisian data kualifikasi dilakukan sesuai dengan
 BAB VII Petunjuk Pengisian Formulir Isian
 Kualifikasi.
@@ -211759,7 +211758,7 @@ terhadap data kualifikasi yang disampaikan
 (diunggah) oleh peserta melalui form elektronik
 isian kualifikasi dalam SPSE atau pada fasilitas
 upload data kualifikasi lainnya.
-Paraf 1 Paraf 2 Paraf 3
+
 18.4 Data kualifikasi pada form elektronik isian
 kualifikasi dalam SPSE atau pada fasilitas upload
 data kualifikasi lainnya merupakan bagian yang
@@ -211806,7 +211805,7 @@ dengan ketentuan:
 1) Pengalaman pekerjaan yang digunakan
 adalah pengalaman dalam kurun waktu
 15 tahun terakhir;
-Paraf 1 Paraf 2 Paraf 3
+
 2) untuk kualifikasi Usaha Menengah,
 pengalaman pekerjaan sesuai sub bidang
 klasifikasi/layanan SBU yang disyaratkan;
@@ -211865,7 +211864,7 @@ sebanyak 6 (enam) paket pekerjaan atau
 pekerjaan terbanyak yang dapat ditangani
 pada saat bersamaan selama kurun waktu
 5 (lima) tahun terakhir.
-Paraf 1 Paraf 2 Paraf 3
+
 j. Untuk kualifikasi Usaha Kecil yang baru
 berdiri kurang dari 3 (tiga) tahun:
 1) Dikecualikan dari ketentuan huruf h)
@@ -211913,7 +211912,7 @@ dilakukan hal-hal sebagai berikut :
 a. Peserta Penunjukan Langsung mengirimkan
 foto dokumen asli yang diperlukan secara
 elektronik kepada akun resmi Pokja Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 b. Foto dokumen asli merupakan foto langsung
 dari kamera/telepon genggam tanpa proses
 edit.
@@ -211964,7 +211963,7 @@ penerima kuasanya tercantum dalam akta
 pendirian/perubahan;
 c. Pihak lain yang bukan direksi dapat
 menghadiri pembuktian kualifikasi selama
-Paraf 1 Paraf 2 Paraf 3
+
 berstatus sebagai tenaga kerja tetap dan
 memperoleh kuasa dari Direksi yang namanya
 ada dalam akta pendirian/perubahan atau
@@ -212013,7 +212012,7 @@ kerja.
 22.2 Sanggah Kualifikasi diajukan oleh peserta apabila
 terjadi:
 a. kesalahan dalam melakukan evaluasi;
-Paraf 1 Paraf 2 Paraf 3
+
 b. penyimpangan terhadap ketentuan dan
 prosedur yang diatur dalam Peraturan Presiden
 No. 16 Tahun 2018 tentang Pengadaan
@@ -212065,7 +212064,7 @@ melibatkan Pokja Pemilihan/PPK;
 b. peserta yang diundang tidak menyampaikan
 Dokumen Kualifikasi;
 BAB IV. LEMBAR DATA KUALIFIKASI (LDK)
-Paraf 1 Paraf 2 Paraf 3
+
 Catatan dalam pengisian lembar data kualifikasi (LDK)
 Lembar Data Kualifikasi (LDK) diisi oleh Pokja Pemilihan
 sebelum menerbitkan dokumen kualifikasi. LDK berisi
@@ -212074,7 +212073,7 @@ penyedia pada paket pengadaan yang dimaksud. Pokja
 Pemilihan harus mengisi informasi dalam LDK ini yang
 terkait Instruksi Kepada Peserta (IKP). Semua informasi harus
 diisi tanpa ada isian yang dikosongkan.
-Paraf 1 Paraf 2 Paraf 3
+
 LEMBAR DATA KUALIFIKASI (LDK)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -212114,7 +212113,7 @@ D. Persyaratan 3, 18.11 dan Persyaratan kualifikasi:
 Kualifikasi 18.13
 1. Ketentuan jumlah anggota KSO bagi peserta yang
 melakukan KSO:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Untuk pekerjaan yang bersifat tidak
 kompleks, paling banyak 3 (tiga)
 perusahaan dalam 1 (satu) KSO;
@@ -212169,7 +212168,7 @@ pada bidang yang sama, untuk pengadaan
 dengan nilai paket pekerjaan paling sedikit
 di atas Rp2.500.000.000,00 (dua miliar
 lima ratus juta rupiah) sampai dengan
-Paraf 1 Paraf 2 Paraf 3
+
 paling banyak Rp15.000.000.000,00 (lima
 belas miliar rupiah).
 6. Memiliki Kemampuan Dasar (KD) dengan nilai
@@ -212221,7 +212220,7 @@ saling melengkapi oleh seluruh anggota
 KSO; dan
 d. evaluasi pada angka 6 hanya dilakukan
 kepada leadfirm KSO
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V
 ISIAN DATA KUALIFIKASI
 Isian Data Kualifikasi bagi Peserta tunggal/atas nama sendiri atau Peserta
@@ -212229,7 +212228,7 @@ sebagai Leadfirm KSO berbentuk Isian Elektronik Data Kualifikasi yang tersedia
 pada SPSE
 Isian Data Kualifikasi bagi anggota KSO disampaikan dalam formulir isian
 kualifikasi untuk anggota KSO
-Paraf 1 Paraf 2 Paraf 3
+
 FORMULIR ISIAN KUALIFIKASI UNTUK ANGGOTA KSO
 Saya yang bertanda tangan di bawah ini:
 Nama : ___________________[nama wakil sah badan usaha
@@ -212257,7 +212256,7 @@ pihak yang terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. badan usaha yang saya wakili tidak masuk dalam Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit, dan kegiatan usahanya tidak sedang dihentikan;
 6. data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : _____________________
 2. Status : Pusat Cabang
@@ -212295,7 +212294,7 @@ Jasa Konstruksi b. Tanggal ……………
 : …………
 bidang Jasa Konstruksi
 3. Instansi penerbit : …………
-Paraf 1 Paraf 2 Paraf 3
+
 E. Sertifikat Badan Usaha
 1. Sertifikat Badan Usaha : a. Nomor …………
 b. Tanggal …………
@@ -212330,7 +212329,7 @@ Nama Nilai Kontrak Serah
 Telepon Tanggal
 Terima
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 I. Data Pengalaman Perusahaan Dalam Kurun Waktu 4 Tahun Terakhir
 (untuk perusahaan yang telah berdiri 3 tahun atau lebih. Untuk Usaha Kecil
 yang baru berdiri kurang dari 3 tahun tidak wajib mengisi tabel ini)
@@ -212365,7 +212364,7 @@ __________[pilih yang sesuai dan cantumkan nama]
 dan tanda tangan]
 (nama lengkap wakil sah badan usaha anggota KSO atau nama individu leadfirm)
 [jabatan pada badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI
 BENTUK SURAT PERJANJIAN KERJA SAMA OPERASI (KSO)
 CONTOH
@@ -212410,7 +212409,7 @@ korupsi, kolusi, dan/atau nepotisme dalam proses pengadaan ini;
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional
 untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 d. Apabila melanggar hal-hal yang dinyatakan dalam huruf a, b dan/atau c maka
 bersedia menerima sanksi sesuai dengan peraturan perundang-undangan.
 7. Wewenang menandatangani untuk dan atas nama KSO diberikan kepada
@@ -212431,7 +212430,7 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang Penunjukan Langsung maka Surat
 Perjanjian KSO ini harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII
 PETUNJUK PENGISIAN DATA KUALIFIKASI
 I. Petunjuk Pengisian Untuk Peserta tunggal/atas nama sendiri dan leadfirm KSO
@@ -212478,7 +212477,7 @@ penerbitannya.
 5. Diisi dengan klasifikasi usaha.
 6. Diisi dengan sub bidang klasifikasi/layanan.
 F. Sertifikat Lainnya [apabila disyaratkan]
-Paraf 1 Paraf 2 Paraf 3
+
 1. Diisi dengan jenis sertifikat, nomor dan tanggal penerbitannya.
 2. Diisi dengan masa berlaku sertifikat.
 3. Diisi dengan nama instansi penerbit sertifikat.
@@ -212507,7 +212506,7 @@ tempat pelaksanaan pekerjaan, nama dan alamat/telepon dari pemberi
 pekerjaan, nomor/tanggal dan nilai kontrak, serta persentase progres menurut
 kontrak, dan prestasi kerja terakhir. Data ini digunakan untuk menghitung
 Sisa Kemampuan Paket (SKP).
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII
 TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi yang akan dievaluasi harus memenuhi persyaratan sesuai
@@ -212552,7 +212551,7 @@ c. Dalam hal mensyaratkan lebih dari 1 (satu) SBU:
 pekerjaan yang dapat dihitung sebagai KD adalah pengalaman
 yang sesuai dengan salah satu sub bidang klasifikasi SBU yang
 disyaratkan;
-Paraf 1 Paraf 2 Paraf 3
+
 2) Untuk pekerjaan kualifikasi Usaha Besar, pengalaman pekerjaan
 yang dapat dihitung sebagai KD adalah pengalaman yang sesuai
 dengan sub bidang klasifikasi/layanan dan lingkup pekerjaan SBU
@@ -212600,7 +212599,7 @@ saat pembuktian kualifikasi.
 pembangunan kesejahteraan di Provinsi Papua dan Provinsi Papua Barat:
 a. Domisili Pelaku Usaha Papua wajib berada pada Provinsi lokasi
 pelaksanaan pekerjaan (Provinsi Papua atau Provinsi Papua Barat);
-Paraf 1 Paraf 2 Paraf 3
+
 b. Pembuktian Pelaku Usaha Papua yaitu dengan:
 1) jumlah kepemilikan saham Orang Asli Papua (OAP) yaitu lebih
 besar dari 50% (lima puluh persen);
@@ -212649,7 +212648,7 @@ dimana N adalah jumlah paket pekerjaan terbanyak yang
 dapat ditangani pada saat bersamaan selama kurun
 waktu 5 (lima) tahun terakhir (untuk usaha Menengah
 dan Usaha Besar)
-Paraf 1 Paraf 2 Paraf 3
+
 b. Peserta wajib mengisi daftar pekerjaan yang sedang dikerjakan;
 c. Apabila ditemukan bukti peserta tidak mengisi daftar pekerjaan yang
 sedang dikerjakan walaupun sebenarnya ada pekerjaan yang sedang
@@ -212694,7 +212693,7 @@ dikenakan sanksi daftar hitam;
 3. Pokja memeriksa bukti pengalaman pekerjaan yang disampaikan dalam
 Formulir Isian Kualifikasi berdasarkan Kontrak dan Berita Acara Serah
 terima, dengan ketentuan:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Apabila bukti pengalaman pekerjaan lebih banyak dibandingkan
 dengan yang tercantum pada Formulir Isian Kualifikasi, maka yang
 dinilai adalah pengalaman yang tercantum dalam isian kualifikasi;
@@ -212710,13 +212709,13 @@ Pemilihan dapat meminta peserta untuk menyampaikan klarifikasi secara
 tertulis, termasuk dapat melakukan peninjauan lapangan pada pihak-
 pihak/instansi terkait, namun tidak boleh mengubah substansi formulir isian
 kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi
 -Penunjukan Langsung-
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
-Paraf 1 Paraf 2 Paraf 3
+
 PETUNJUK PENGGUNAAN MODEL DOKUMEN
 PENUNJUKAN LANGSUNG
 1. Model Dokumen Penunjukan Langsung ditujukan untuk
@@ -212730,7 +212729,7 @@ Pejabat Pengadaan.
 Langsung telah terkualifikasi dalam SIKaP, maka Pelaku Usaha
 tersebut dapat langsung diundang untuk menyampaikan
 Penawaran tanpa melalui proses Prakualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PENUNJUKAN LANGSUNG
 Nomor: __________
 Tanggal: __________
@@ -212740,7 +212739,7 @@ __________
 Kelompok Kerja Pemilihan __________
 Kementerian/Lembaga/Pemerintah Daerah _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 ii
 DAFTAR ISI
 BAB I. UMUM ................................................................................................................. - 1 -
@@ -212787,7 +212786,7 @@ H. PERSIAPAN PENANDATANGANAN KONTRAK ...........................................
 F. JAMINAN PELAKSANAAN ....................................................................................... - 35 -
 31. JAMINAN PELAKSANAAN ................................................................................. - 35 -
 G. PENANDATANGANAN KONTRAK .......................................................................... - 36 -
-Paraf 1 Paraf 2 Paraf 3
+
 iii
 32. PENANDA-TANGANAN KONTRAK..................................................................... - 36 -
 BAB IV. LEMBAR DATA PEMILIHAN (LDP) ................................................................. - 38 -
@@ -212839,13 +212838,13 @@ Jaminan Pelaksanaan dari Bank ..................................................
 Jaminan Pelaksanaan dari Asuransi/Perusahaan Penjaminan ........ - 145 -
 Jaminan Uang Muka dari Bank........................................................... - 147 -
 Jaminan Uang Muka dari Asuransi/Perusahaan Penjaminan ......... - 149 -
-Paraf 1 Paraf 2 Paraf 3
+
 iv
 Jaminan Pemeliharaan dari Bank ....................................................... - 151 -
 Jaminan Pemeliharaan dari Asuransi/Perusahaan Penjaminan ...... - 153 -
 BAB IX. PETUNJUK EVALUASI KEWAJARAN HARGA ................................................ - 154 -
 BAB X. KETENTUAN LAIN-LAIN................................................................................. - 157 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Penunjukan Langsung ini disusun berdasarkan Peraturan Presiden Nomor
 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya
@@ -212890,7 +212889,7 @@ ketentuan sebagai berikut:
 a. volume atau kuantitas pekerjaannya
 masih bersifat perkiraan pada saat
 Kontrak ditandatangani;
-Paraf 1 Paraf 2 Paraf 3
+
 b. pembayaran berdasarkan hasil
 pengukuran bersama atas realisasi
 volume pekerjaan; dan
@@ -212930,7 +212929,7 @@ untuk melaksanakan sebagian pekerjaan
 - Penyedia Jasa Spesialis : Penyedia Jasa yang memberikan layanan
 usaha Pekerjaan Konstruksi yang bersifat
 spesialis yang mampu mengerjakan bagian
-Paraf 1 Paraf 2 Paraf 3
+
 tertentu dari bangunan konstruksi atau
 bentuk fisik lain.
 - Pejabat : Pejabat yang memiliki kewenangan untuk
@@ -212973,7 +212972,7 @@ pekerjaan utama dan uraian/cara kerja dari
 masing-masing jenis kegiatan pekerjaan
 utama yang dapat dipertanggungjawabkan
 secara teknis.
-Paraf 1 Paraf 2 Paraf 3
+
 - Personel Manajerial : tenaga ahli atau tenaga teknis yang
 ditempatkan sesuai penugasan pada
 organisasi pelaksanaan pekerjaan.
@@ -213022,7 +213021,7 @@ dan Perumahan Rakyat dan/atau yang
 diterbitkan oleh lembaga atau instansi yang
 berwenang yang mengacu Standar
 Kompetensi Kerja Nasional Indonesia (SKKNI)
-Paraf 1 Paraf 2 Paraf 3
+
 dan ketentuan peraturan perundang-
 undangan.
 - Biaya Penerapan : biaya SMKK yang diperlukan untuk
@@ -213047,7 +213046,7 @@ Elektronik Data digunakan peserta untuk menginputkan dan
 Kualifikasi mengirimkan data kualifikasi.
 D. Penunjukan Langsung ini diikuti oleh peserta yang lulus kualifikasi dan
 diundang untuk menyampaikan penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PENYAMPAIAN PENAWARAN
 CONTOH
 [kop surat K/L/PD]
@@ -213074,7 +213073,7 @@ Demikian disampaikan, atas perhatian dan kerjasama Saudara diucapkan terima kasi
 [tanda tangan]
 ...................................................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja 1.1 Identitas pokja pemilihan sebagaimana tercantum dalam
@@ -213120,7 +213119,7 @@ pembatalan penetapan calon Penyedia; dan
 b. Sanksi Daftar Hitam;
 4.3. Pengenaan Sanksi dilaporkan oleh Pokja Pemilihan kepada
 PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4. Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas usulan
 Pokja Pemilihan.
 4.5. Peserta dilarang melibatkan pegawai Kementerian/
@@ -213171,7 +213170,7 @@ kontrak secara sepihak oleh PPK yang disebabkan oleh
 kesalahan Penyedia Barang/Jasa; atau
 h. Penyedia tidak melaksanakan kewajiban dalam masa
 pemeliharaan sebagaimana mestinya.
-Paraf 1 Paraf 2 Paraf 3
+
 7. Alih Pengalaman 7.1. Dalam hal pelaksanaan paket pekerjaan konstruksi
 dan dengan nilai pagu anggaran di atas Rp50.000.000.000,00
 Pendayagunaan (lima puluh miliar rupiah), penyedia jasa pelaksana
@@ -213222,7 +213221,7 @@ Kompetensi Kerja melaksanakan pekerjaan wajib memiliki sertifikat
 kompetensi kerja.
 8.2. Sertifikat Kompetensi Kerja untuk personel inti (tenaga
 ahli perancang dan personel manajerial) yang ditawarkan
-Paraf 1 Paraf 2 Paraf 3
+
 dalam dokumen penawaran dibuktikan pada saat
 penyerahan lokasi kerja dan personel kepada Pejabat
 Penandatangan Kontrak
@@ -213276,7 +213275,7 @@ g. Spesifikasi Teknis dan/atau Gambar;
 h. Detailed Engineering Design;
 i. Contoh Bentuk Dokumen Lain:
 1) SPPBJ;
-Paraf 1 Paraf 2 Paraf 3
+
 2) SPMK;
 3) Jaminan Pelaksanaan;
 4) Jaminan Uang Muka (apabila diberikan uang
@@ -213320,7 +213319,7 @@ Penunjukan ditampung, maka Pokja Pemilihan menuangkan ke dalam
 Langsung Adendum Dokumen Penunjukan Langsung yang menjadi
 bagian tidak terpisahkan dari Dokumen Penunjukan
 Langsung.
-Paraf 1 Paraf 2 Paraf 3
+
 12.2. Perubahan rancangan kontrak, spesifikasi teknis,
 gambar, dan/atau HPS, harus mendapatkan persetujuan
 PPK sebelum dituangkan dalam Adendum Dokumen
@@ -213365,7 +213364,7 @@ apapun yang dialami oleh peserta.
 15. Bahasa 15.1. Semua Dokumen Penawaran harus menggunakan
 Dokumen Bahasa Indonesia.
 Penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 15.2. Dokumen penunjang yang terkait dengan Dokumen
 Penawaran dapat menggunakan Bahasa Indonesia atau
 bahasa asing.
@@ -213419,7 +213418,7 @@ ke pemberi sewa; atau
 (d) bukti pendukung lainnya yang
 mencantumkan adanya
 pemberian kuasa peralatan dari
-Paraf 1 Paraf 2 Paraf 3
+
 pemilik peralatan ke pemberi
 sewa;
 3) Daftar isian personel manajerial beserta daftar
@@ -213474,7 +213473,7 @@ surat dukungan).
 c. Personel manajerial:
 1) Untuk pekerjaan kualifikasi usaha kecil
 personel manajerial yang disyaratkan meliputi
-Paraf 1 Paraf 2 Paraf 3
+
 jabatan Pelaksana dan Petugas Keselamatan
 Konstruksi/Ahli K3 Konstruksi/Ahli
 Keselamatan Konstruksi;
@@ -213529,7 +213528,7 @@ mensyaratkan:
 (1) Ahli Madya K3 Konstruksi/Ahli Madya
 Keselamatan Konstruksi dengan
 pengalaman 3 (tiga) tahun; atau
-Paraf 1 Paraf 2 Paraf 3
+
 (2) Ahli Utama K3 Konstruksi/Ahli Utama
 Keselamatan Konstruksi tanpa syarat
 pengalaman; dan
@@ -213584,7 +213583,7 @@ sebagaimana dimaksud pada angka 1)
 didasarkan pada tingkat risiko terbesar dari
 seluruh uraian pekerjaan dan identifikasi
 bahaya yang telah ditetapkan PPK dalam
-Paraf 1 Paraf 2 Paraf 3
+
 rancangan konseptual sistem manajemen
 keselamatan konstruksi.
 17. Harga 17.1. Peserta menginput nilai penawaran dan mengunggah
@@ -213631,7 +213630,7 @@ pengendalian Risiko Keselamatan Konstruksi.
 17.7. Rincian kegiatan sebagaimana dimaksud dalam angka
 17.6 huruf c, huruf f, huruf g, dan huruf i merupakan
 barang habis pakai.
-Paraf 1 Paraf 2 Paraf 3
+
 17.8. Konsultasi dengan ahli terkait Keselamatan Konstruksi
 sebagaimana dimaksud pada angka 17.6 huruf h tidak
 diharuskan bagi Pekerjaan Konstruksi dengan Risiko
@@ -213678,7 +213677,7 @@ melalui SPSE sesuai jadwal yang ditetapkan.
 21.2. Surat Penawaran, Pakta Komitmen Keselamatan
 Konstruksi, dan/atau Dokumen lain sebagai bagian
 dari Dokumen Penawaran yang diunggah (upload) ke
-Paraf 1 Paraf 2 Paraf 3
+
 dalam SPSE dianggap sah sebagai dokumen elektronik
 dan dianggap telah disetujui dan ditandatangani secara
 elektronik oleh pemimpin/direktur perusahaan atau
@@ -213723,7 +213722,7 @@ batas akhir pemasukan penawaran.
 E. PEMBUKAAN DAN EVALUASI PENAWARAN
 23. Pembukaan 23.1. Jadwal pembukaan penawaran sebagaimana tercantum
 Penawaran dalam SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 23.2. Pada tahap pembukaan penawaran, Pokja Pemilihan
 mengunduh (download) dan melakukan dekripsi file
 Dokumen Penawaran dengan menggunakan sistem
@@ -213773,7 +213772,7 @@ pemilihan dan harga satuan pekerjaan dimaksud
 dianggap nol.
 24.3. Hasil koreksi aritmatik dapat mengubah nilai total harga
 penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 24.4. Penawaran setelah koreksi aritmatik yang melebihi nilai
 total HPS dinyatakan gugur.
 24.5. Apabila harga penawaran setelah koreksi aritmatik di atas
@@ -213824,7 +213823,7 @@ a. evaluasi administrasi meliputi pemeriksaan
 kelengkapan dokumen penawaran.
 b. penawaran dinyatakan memenuhi persyaratan
 administrasi, apabila:
-Paraf 1 Paraf 2 Paraf 3
+
 1) syarat-syarat substansial yang diminta
 berdasarkan Dokumen Pemilihan terpenuhi,
 yaitu dengan dilampirkannya:
@@ -213880,7 +213879,7 @@ spesifikasi/volume pekerjaan yang
 disyaratkan.
 Penilaian metode pelaksanaan tidak
 mengevaluasi jobmix/rincian/
-Paraf 1 Paraf 2 Paraf 3
+
 campuran/komposisi material dari jenis
 pekerjaan.
 Dalam melakukan evaluasi terhadap
@@ -213934,7 +213933,7 @@ secara fisik.
 (3) Pencantuman merek, tipe, dan lokasi
 peralatan dalam daftar isian peralatan
 tidak menggugurkan.
-Paraf 1 Paraf 2 Paraf 3
+
 (4) Jenis, kapasitas, dan jumlah yang
 disediakan untuk pelaksanaan
 pekerjaan sesuai dengan yang
@@ -213989,7 +213988,7 @@ dari pemberi pekerjaan.
 (5) Pengalaman yang disampaikan tanpa
 melampirkan daftar riwayat
 pengalaman kerja atau referensi maka
-Paraf 1 Paraf 2 Paraf 3
+
 tidak dapat dihitung sebagai
 pengalaman.
 (6) Pengalaman kerja yang dihitung per
@@ -214045,7 +214044,7 @@ memeriksa bukti identitas dari
 subkontraktor yang disampaikan dalam
 Daftar Isian Pekerjaan yang
 Disubkontrakkan; dan
-Paraf 1 Paraf 2 Paraf 3
+
 (4) Dalam hal pekerjaan konstruksi yang
 diperuntukkan bagi percepatan
 pembangunan kesejahteraan di Provinsi
@@ -214100,7 +214099,7 @@ Keselamatan Konstruksi; dan
 (b) nama paket pekerjaan sesuai
 dengan nama paket pekerjaan
 yang ditenderkan;
-Paraf 1 Paraf 2 Paraf 3
+
 (2). Peserta dinyatakan memenuhi elemen
 Perencanaan Keselamatan Konstruksi
 apabila menyampaikan tabel B.1
@@ -214152,7 +214151,7 @@ huruf f angka (2) ditunjukkan dalam
 Rapat Persiapan Penandatanganan
 Kontrak dan diserahkan kepada
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 f) Dokumen lain yang disyaratkan
 sebagaimana tercantum dalam LDP,
 dengan ketentuan:
@@ -214201,7 +214200,7 @@ tercantum dalam HPS, dilakukan klarifikasi
 dengan ketentuan:
 a) apabila setelah dilakukan klarifikasi,
 ternyata harga satuan tersebut dapat
-Paraf 1 Paraf 2 Paraf 3
+
 dipertanggungjawabkan/ sesuai dengan
 harga pasar maka harga satuan tersebut
 dinyatakan tidak timpang;
@@ -214256,7 +214255,7 @@ iii. Pokja melakukan klarifikasi terhadap
 Analisa Harga Satuan Pekerjaan dan
 bukti pendukung yang disampaikan
 peserta dengan meneliti dan menilai
-Paraf 1 Paraf 2 Paraf 3
+
 kewajaran kuantitas/koefisien, harga
 satuan dasar meliputi harga upah,
 bahan, dan peralatan dari harga satuan
@@ -214312,7 +214311,7 @@ telepon), tidak dapat dibuka/dihubungi, tidak
 sempat mengakses atau alasan teknis apapun dari
 sisi peserta, maka risiko sepenuhnya ada pada
 peserta;
-Paraf 1 Paraf 2 Paraf 3
+
 g. Apabila peserta tidak lulus evaluasi harga maka
 Penjukan Langsung dinyatakan gagal.
 25. Klarifikasi dan Klarifikasi dan Negosiasi Teknis dan Harga dilakukan dengan
@@ -214362,7 +214361,7 @@ c. Harga penawaran atau harga penawaran terkoreksi dari
 peserta;
 d. Harga penawaran hasil negosiasi;
 e. Kriteria dan unsur yang dievaluasi;
-Paraf 1 Paraf 2 Paraf 3
+
 f. Keterangan-keterangan lain yang dianggap perlu hal ikhwal
 pelaksanaan Penunjukan Langsung; dan
 g. Pernyataan bahwa Penunjukan Langsung gagal apabila
@@ -214409,7 +214408,7 @@ Pokja Pemilihan disertai alasan dan bukti;
 d. PPK melakukan pembahasan bersama Pokja
 Pemilihan terkait perbedaan pendapat atas hasil
 pemilihan penyedia;
-Paraf 1 Paraf 2 Paraf 3
+
 e. Dalam hal tidak tercapai kesepakatan, maka
 pengambilan keputusan diserahkan kepada PA/KPA
 paling lambat 6 (enam) hari kerja setelah tidak
@@ -214461,7 +214460,7 @@ Penawaran (apabila disyaratkan) dicairkan dan
 disetorkan ke Kas Negara; atau
 c. apabila yang bersangkutan tidak bersedia ditunjuk
 karena masa penawarannya sudah tidak berlaku,
-Paraf 1 Paraf 2 Paraf 3
+
 maka peserta yang bersangkutan tidak dikenakan
 sanksi apapun.
 29.12. Apabila penyedia yang ditunjuk mengundurkan diri,
@@ -214508,7 +214507,7 @@ ditandatangani pimpinan tertinggi perusahaan Penyedia).
 30.4 Penandatanganan Kontrak untuk pekerjaan yang bersifat
 kompleks dilakukan setelah rancangan kontrak
 memperoleh pendapat ahli hukum Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 F. JAMINAN PELAKSANAAN
 31. Jaminan 31.1 Jaminan Pelaksanaan diberikan Calon Penyedia sebelum
 Pelaksanaan penandatanganan Kontrak.
@@ -214560,7 +214559,7 @@ Pejabat Pembuat Komitmen diterima oleh penerbit
 Jaminan;
 j. Jaminan Pelaksanaan atas nama KSO ditulis atas nama
 KSO atau masing-masing anggota KSO (apabila
-Paraf 1 Paraf 2 Paraf 3
+
 masing-masing mengajukan Jaminan Pelaksanaan
 secara terpisah); dan
 k. Memuat nama, alamat dan tanda tangan pihak
@@ -214607,7 +214606,7 @@ memenuhi ketentuan Rapat Persiapan Penandatanganan
 Kontrak mengisi substansi rancangan kontrak dengan
 informasi yang diperoleh dari dokumen penawaran
 penyedia dan perubahannya yang dinyatakan berita
-Paraf 1 Paraf 2 Paraf 3
+
 acara hasil pemilihan dengan tidak mengubah substansi
 yang ditetapkan dalam dokumen pemilihan.
 32.6 Pejabat Penandatangan Kontrak dan Penyedia yang
@@ -214650,7 +214649,7 @@ dengan peraturan perundang-undangan.
 32.10 Pejabat Penandatangan Kontrak menginputkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas Pokja 1.1 Identitas Pokja Pemilihan:
@@ -214691,7 +214690,7 @@ E. Pemberian 12.4 Apabila diperlukan, pemberian penjelasan
 Penjelasan lanjutan melalui Peninjauan lapangan akan
 dilaksanakan pada:
 Hari : _______________________
-Paraf 1 Paraf 2 Paraf 3
+
 Tanggal : _______________________
 Waktu : ___________s.d _________
 Tempat : _______________________
@@ -214753,7 +214752,7 @@ Pelaksanaan/
 Proyek
 2 Manajer ___ SKA___
 Teknik
-Paraf 1 Paraf 2 Paraf 3
+
 3 Manajer ___ ___
 Keuangan
 4 Ahli K3 ___ SKA___
@@ -214803,7 +214802,7 @@ Setempat)
 1. __________________
 2. __________________
 Dst
-Paraf 1 Paraf 2 Paraf 3
+
 [Diisi pekerjaan spesialis pada pekerjaan
 utama dan pekerjaan bukan pekerjaan utama
 yang wajib disubkontrakkan, sesuai ketentuan
@@ -214832,7 +214831,7 @@ Penawaran akhir pemasukan Dokumen Penawaran.
 [diisi dengan memperhitungkan akhir
 pemasukan Dokumen Penawaran sampai
 penandatanganan kontrak]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. BENTUK DOKUMEN PENAWARAN
 A. BENTUK PERJANJIAN KERJA SAMA OPERASI (KSO)
 CONTOH
@@ -214874,7 +214873,7 @@ ini, kami menyatakan dan menyetujui pakta integritas:
 a. Tidak akan melakukan praktek korupsi, kolusi, dan/atau nepotisme;
 b. Akan melaporkan kepada PA/KPA/APIP jika mengetahui terjadinya praktik
 korupsi, kolusi, dan/atau nepotisme dalam proses pengadaan ini;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional
 untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
@@ -214898,12 +214897,12 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang Penunjukan Langsung maka Surat Perjanjian
 Kerja Sama Operasi ini harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DOKUMEN PENAWARAN TEKNIS
 Dokumen Penawaran Teknis
 [Cantumkan dan jelaskan sesuai dengan ketentuan dalam IKP dan LDP. Jika diperlukan,
 keterangan dapat dicantumkan dalam lembar tersendiri/tambahan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. DATA PERALATAN
 CONTOH
 Merek
@@ -214915,7 +214914,7 @@ Tipe*)
 2 ___ ___ ___ ___ ___
 dst ___ ___ ___ ___ ___
 *) Merek dan Tipe bukan merupakan bagian yang dievaluasi
-Paraf 1 Paraf 2 Paraf 3
+
 D. DATA PERSONEL MANAJERIAL
 CONTOH
 a. Untuk pemaketan kualifikasi Usaha Kecil
@@ -214957,7 +214956,7 @@ Keterangan:
 yang disyaratkan, bukan berdasarkan jabatan yang disyaratkan.
 ***) Pengalaman kerja yang dinilai adalah pengalaman kerja setelah personel lulus pendidikan
 minimal sesuai persyaratan untuk memperoleh Sertifikat Kompetensi Kerja yang disyaratkan.
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 Daftar Riwayat Hidup Personel Manajerial
 1. Jabatan dalam pekerjaan yang akan dilaksanakan : __________
@@ -214988,7 +214987,7 @@ Mengetahui:
 __________[nama Penyedia Jasa Pekerjaan Konstruksi]
 (__________)
 [nama jelas wakil sah]
-Paraf 1 Paraf 2 Paraf 3
+
 E. BAGIAN PEKERJAAN YANG DISUBKONTRAKKAN (APABILA DISYARATKAN)
 CONTOH
 1. Bagian Pekerjaan yang disubkontrakkan (Disyaratkan untuk paket pekerjaan
@@ -215039,7 +215038,7 @@ b. Nama: …
 2. ...... ......
 Dst. Dst.
 Dst.
-Paraf 1 Paraf 2 Paraf 3
+
 F. BENTUK RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
 BENTUK RENCANA KESELAMATAN KONSTRUKSI
@@ -215066,7 +215065,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 A. Kepemimpinan dan Partisipasi Pekerja dalam Keselamatan Konstruksi
 A.1 Komitmen Keselamatan Konstruksi
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
@@ -215093,7 +215092,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Keselamatan Konstruksi Badan Usaha Dengan KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -215122,7 +215121,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B. Perencanaan keselamatan konstruksi
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 Tabel Contoh Format Tabel IBPRP*
@@ -215155,7 +215154,7 @@ Induction)
 meeting)
 4 Rapat Keselamatan Konstruksi
 (construction safety meeting)
-Paraf 1 Paraf 2 Paraf 3
+
 D. Operasi Keselamatan Konstruksi
 Tabel Contoh Analisis Keselamatan Pekerjaan (Job Safety Analysis)
 Nama Pekerja : [Isi nama pekerja]
@@ -215176,7 +215175,7 @@ No Kegiatan PIC
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 G. BENTUK SURAT PERJANJIAN SEWA PERALATAN
 CONTOH
 [ Kop Perusahaan Lessor/ penyedia peralatan ]
@@ -215208,7 +215207,7 @@ dst..
 Untuk selanjutnya disebut sebagai PERALATAN. Perjanjian Sewa antara PIHAK
 PERTAMA dan PIHAK KEDUA ini dilangsungkan dan diterima berdasarkan
 kesepakatan yang termuat secara tertulis dalam pasal- pasal berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 1
 PENERIMAAN PERALATAN
 PIHAK KEDUA akan menerima hak guna dari apa yang disewanya dari PIHAK
@@ -215249,7 +215248,7 @@ PIHAK KEDUA tidak memenangkan tender Paket Pekerjaan ……………[diisi
 nama paket].
 Pasal 6
 TANGGUNG JAWAB PIHAK PERTAMA
-Paraf 1 Paraf 2 Paraf 3
+
 1) PIHAK PERTAMA bersedia menyiapkan alat yang disewa dalam keadaan siap
 operasi dan akan memobilisasi ke Lokasi Pekerjaan sesuai petunjuk dari PIHAK
 KEDUA.
@@ -215275,7 +215274,7 @@ kedua pihak
 PIHAK PERTAMA PIHAK KEDUA
 PT. ……… [diisi nama perusahaan PT. ……… [diisi nama perusahaan
 Lessor/ penyedia peralatan] Lessee/ penerima peralatan]
-Paraf 1 Paraf 2 Paraf 3
+
 H. BENTUK DAFTAR BARANG YANG DIIMPOR
 DAFTAR BARANG YANG DIIMPOR1
 NAMA NEGARA
@@ -215283,7 +215282,7 @@ NO SPESIFIKASI SATUAN JUMLAH HARGA
 BARANG/URAIAN ASAL
 TOTAL HARGA
 Diisi dan dilampirkan dalam penawaran apabila ada barang yang diimpor
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -215326,7 +215325,7 @@ Pemerintah beserta perubahannya dan aturan turunannya;
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan
 Provinsi Papua Barat;
-Paraf 1 Paraf 2 Paraf 3
+
 *) Disesuaikan dengan nama K/L/PD
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
@@ -215368,7 +215367,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
-Paraf 1 Paraf 2 Paraf 3
+
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
 total harga penawaran terkoreksi sebagaimana tercantum dalam Daftar Kuantitas
 dan Harga adalah sebesar Rp. ……….. (……….. ditulis dalam huruf ……..) dengan
@@ -215415,7 +215414,7 @@ Tanggal Penyerahan Pertama Pekerjaan sampai dengan Tanggal Penyerahan Akhir
 Pekerjaan selama ......... (.......dalam huruf......) hari kalender.
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
 dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai
 kekuatan hukum yang sama dan mengikat bagi para pihak, rangkap yang lain dapat
@@ -215430,7 +215429,7 @@ maka rekatkan meterai Rp 10.000,00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Harga Satuan
@@ -215475,7 +215474,7 @@ Pemerintah besrta perbuhannya dan aturan turunannya;
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan
 Provinsi Papua Barat;
-Paraf 1 Paraf 2 Paraf 3
+
 *) Disesuaikan dengan nama K/L/PD
 PARA PIHAK MENERANGKAN TERLEBIH DAHULU BAHWA:
 (a) telah dilakukan proses pemilihan Penyedia yang telah sesuai dengan Dokumen
@@ -215515,7 +215514,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 3. dst.
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
@@ -215561,7 +215560,7 @@ Penyerahan Pertama Pekerjaan selama ………. (… dalam huruf …) hari kalend
 (3) Masa Pemeliharaan ditentukan dalam Syarat-Syarat Khusus Kontrak dihitung sejak
 Tanggal Penyerahan Pertama Pekerjaan sampai dengan Tanggal Penyerahan Akhir
 Pekerjaan selama ......... (.......dalam huruf......) hari kalender.
-Paraf 1 Paraf 2 Paraf 3
+
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
@@ -215576,7 +215575,7 @@ ini untuk Pejabat Penandatangan Kontrak ini untuk Penyedia maka rekatkan
 maka rekatkan meterai Rp 10.000,00)] meterai Rp 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 II. SYARAT-SYARAT UMUM KONTRAK
 SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
@@ -215626,7 +215625,7 @@ persiapan pelaksanaan Kontrak.
 terjadi di luar kehendak para pihak dalam
 Kontrak dan tidak dapat diperkirakan
 sebelumnya, sehingga kewajiban yang
-Paraf 1 Paraf 2 Paraf 3
+
 ditentukan dalam Kontrak menjadi tidak dapat
 dipenuhi.
 1.10 Kegagalan Bangunan adalah suatu keadaan
@@ -215678,7 +215677,7 @@ Penyerahan Pertama Pekerjaan.
 1.18 Masa Pemeliharaan adalah jangka waktu untuk
 melaksanakan kewajiban pemeliharaan oleh
 Penyedia, terhitung sejak Tanggal Penyerahan
-Paraf 1 Paraf 2 Paraf 3
+
 Pertama Pekerjaan sampai dengan Tanggal
 Penyerahan Akhir Pekerjaan.
 1.19 Mata Pembayaran Utama adalah mata
@@ -215727,7 +215726,7 @@ Penandatangan Kontrak yang bertugas untuk
 mengawasi pelaksanaan pekerjaan.
 1.27 Pengguna Anggaran yang selanjutnya disingkat
 PA adalah pejabat pemegang kewenangan
-Paraf 1 Paraf 2 Paraf 3
+
 penggunaan anggaran Kementerian
 Negara/Lembaga/Perangkat Daerah.
 1.28 Pejabat Penandatangan Kontrak adalah pemilik
@@ -215779,7 +215778,7 @@ Kontrak.
 1.37 Tanggal Penyerahan Akhir Pekerjaan adalah
 tanggal serah terima akhir pekerjaan selesai
 (Final Hand Over/FHO) dinyatakan dalam Berita
-Paraf 1 Paraf 2 Paraf 3
+
 Acara Serah Terima Akhir Pekerjaan yang
 diterbitkan oleh Pejabat Penandatangan Kontrak.
 1.38 Tenaga Kerja Konstruksi adalah tenaga kerja
@@ -215831,7 +215830,7 @@ nepotisme, a. menawarkan, menerima atau menjanjikan
 Penyalahgunaan untuk memberi atau menerima hadiah atau
 Wewenang serta imbalan berupa apa saja atau melakukan
 Penipuan tindakan lainnya untuk mempengaruhi
-Paraf 1 Paraf 2 Paraf 3
+
 siapapun yang diketahui atau patut dapat
 diduga berkaitan dengan pengadaan ini;
 b. mendorong terjadinya persaingan tidak
@@ -215883,7 +215882,7 @@ selama pelaksanaan pekerjaan kepada Pejabat
 Penandatangan Kontrak.
 7.2 Asal material/bahan merupakan tempat
 material/bahan diperoleh, antara lain tempat
-Paraf 1 Paraf 2 Paraf 3
+
 material/bahan ditambang, tumbuh, atau
 diproduksi.
 7.3 Kendaraan yang digunakan untuk pengiriman
@@ -215934,7 +215933,7 @@ Kontrak ini. Pengawas Pekerjaan dapat berasal
 dari personel Pejabat Penandatangan Kontrak
 (Direksi Teknis) atau Penyedia Jasa Pengawasan
 (Konsultan Pengawas).
-Paraf 1 Paraf 2 Paraf 3
+
 14.2 Dalam melaksanakan kewajibannya, Pengawas
 Pekerjaan bertindak profesional. Jika tercantum
 dalam SSKK, Pengawas Pekerjaan yang berasal
@@ -215986,7 +215985,7 @@ tugas dan wewenang sebagaimana yang
 dimaksud pada pasal 15.3 yang akan
 mempengaruhi ketentuan atau persyaratan
 dalam kontrak maka Pengawas Pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 terlebih dahulu mendapatkan persetujuan dari
 Pejabat Penandatangan Kontrak.
 15.5 Penyedia berkewajiban untuk melaksanakan
@@ -216035,7 +216034,7 @@ Penawaran Penyedia, maka Pejabat
 Penandatangan Kontrak dapat mengalokasikan
 biaya untuk penyediaan jalur akses tersebut di
 dalam Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 17.4 Pejabat Penandatangan Kontrak tidak
 bertanggung jawab atas klaim yang mungkin
 timbul selain penggunaan jalur akses tersebut.
@@ -216085,7 +216084,7 @@ dengan menghadirkan personel yang
 bersangkutan;
 c. perubahan jangka waktu pelaksanaan
 pekerjaan dikarenakan jadwal pelaksanaan
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan yang ditetapkan sebelumnya akan
 melewati batas tahun anggaran;
 d. melakukan sertifikasi bagi operator, teknisi,
@@ -216131,7 +216130,7 @@ pekerjaan.
 21.5 Penyedia berkewajiban untuk memutakhirkan
 RMPK jika terjadi Adendum Kontrak dan/atau
 Peristiwa Kompensasi.
-Paraf 1 Paraf 2 Paraf 3
+
 21.6 Pemutakhiran RMPK harus menunjukan
 perkembangan kemajuan setiap pekerjaan dan
 dampaknya terhadap penjadwalan sisa
@@ -216178,7 +216177,7 @@ Pemantauan Lingkungan (RKPPL)
 4) Rencana Manajemen Lalu Lintas (RMLL)
 (apabila ada);
 b. Rencana Kerja;
-Paraf 1 Paraf 2 Paraf 3
+
 c. organisasi kerja;
 d. tata cara pengaturan pelaksanaan pekerjaan
 termasuk permohonan persetujuan memulai
@@ -216226,7 +216225,7 @@ dilaksanakan dalam waktu 30 (tiga puluh) hari
 kalender sejak diterbitkan SPMK, atau sesuai
 kebutuhan dan Rencana Kerja yang disepakati
 saat Rapat Persiapan Pelaksanaan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 24.2 Mobilisasi dilakukan sesuai dengan lingkup
 pekerjaan, yaitu :
 a. mendatangkan peralatan-peralatan terkait
@@ -216274,7 +216273,7 @@ lebih awal, Penyedia berkewajiban untuk
 memulai pelaksanaan pekerjaan pada Tanggal
 Mulai Kerja, dan melaksanakan pekerjaan sesuai
 dengan RMPK, serta menyelesaikan pekerjaan
-Paraf 1 Paraf 2 Paraf 3
+
 paling lambat selama Masa Pelaksanaan yang
 dinyatakan dalam SSKK.
 27.2 Apabila Penyedia berpendapat tidak dapat
@@ -216323,7 +216322,7 @@ diputuskan, Pengawas Pekerjaan dapat
 memutuskan baik dalam rapat atau setelah rapat
 melalui pernyataan tertulis kepada semua pihak
 yang menghadiri rapat.
-Paraf 1 Paraf 2 Paraf 3
+
 30. Peringatan Dini 30.1 Penyedia berkewajiban untuk memperingatkan
 sedini mungkin Pengawas Pekerjaan atas
 peristiwa atau kondisi tertentu yang dapat
@@ -216375,7 +216374,7 @@ Kontrak, Pengawas Pekerjaan dan Penyedia
 membahas dan menyepakati besaran
 kemajuan fisik yang harus dicapai oleh
 Penyedia dalam periode waktu tertentu (uji
-Paraf 1 Paraf 2 Paraf 3
+
 coba pertama) yang dituangkan dalam Berita
 Acara SCM Tahap I.
 c. Apabila Penyedia gagal pada uji coba
@@ -216428,7 +216427,7 @@ hari kalender.
 2) Dalam hal setelah diberikan
 kesempatan sebagaimana angka 1
 diatas, Penyedia masih belum dapat
-Paraf 1 Paraf 2 Paraf 3
+
 menyelesaikan pekerjaan, PPK
 dapat:
 a) Memberikan kesempatan kedua
@@ -216480,7 +216479,7 @@ Anggaran.
 B.3 Penyelesaian Kontrak
 33. Serah Terima Pekerjaan 33.1 Setelah pekerjaan dan/atau bagian pekerjaan
 selesai, sesuai dengan ketentuan dalam Kontrak,
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia mengajukan permintaan secara
 tertulis kepada Pejabat Penandatangan Kontrak
 untuk serah terima pertama pekerjaan.
@@ -216532,7 +216531,7 @@ penyerahan akhir pekerjaan.
 33.10 Pejabat Penandatangan Kontrak setelah
 menerima pegajuan sebagaimana pasal 33.9
 memerintahkan Pengawas Pekerjaan untuk
-Paraf 1 Paraf 2 Paraf 3
+
 melakukan pemeriksaan (dan pengujian apabila
 diperlukan) terhadap hasil pekerjaan.
 33.11 Apabila dalam pemeriksaan hasil pekerjaan,
@@ -216582,7 +216581,7 @@ dalam Berita Acara.
 33.19 Serah terima pekerjaan dapat dilakukan
 perbagian pekerjaan (secara parsial) yang
 ketentuannya ditetapkan dalam SSKK.
-Paraf 1 Paraf 2 Paraf 3
+
 33.20 Bagian pekerjaan yang dapat dilakukan serah
 terima pekerjaan sebagian atau secara parsial
 yaitu:
@@ -216627,7 +216626,7 @@ a. perubahan pekerjaan;
 b. perubahan Harga Kontrak;
 c. perubahan jadwal pelaksanaan pekerjaan
 dan/atau Masa Pelaksanaan;
-Paraf 1 Paraf 2 Paraf 3
+
 d. perubahan personel manajerial dan/atau
 peralatan utama; dan/atau
 e. perubahan Kontrak yang disebabkan
@@ -216677,7 +216676,7 @@ mengakibatkan penambahan Harga Kontrak,
 perubahan Kontrak dilaksanakan dengan
 ketentuan penambahan Harga Kontrak akhir
 tidak melebihi 10% (sepuluh persen) dari harga
-Paraf 1 Paraf 2 Paraf 3
+
 yang tercantum dalam Kontrak awal dan
 tersedianya anggaran.
 38. Perubahan Harga 38.1 Perubahan Harga Kontrak dapat diakibatkan
@@ -216728,7 +216727,7 @@ e) penyesuaian harga satuan diberlakukan
 sesuai dengan jadwal pelaksanaan yang
 tercantum dalam Kontrak awal/adendum
 Kontrak;
-Paraf 1 Paraf 2 Paraf 3
+
 f) penyesuaian harga satuan bagi komponen
 pekerjaan yang berasal dari luar negeri,
 menggunakan indeks penyesuaian harga
@@ -216779,7 +216778,7 @@ pertimbangan yang wajar setelah Penyedia
 meminta perpanjangan. Jika Penyedia lalai
 untuk memberikan peringatan dini atas
 keterlambatan atau tidak dapat bekerja sama
-Paraf 1 Paraf 2 Paraf 3
+
 untuk mencegah keterlambatan sesegera
 mungkin, maka keterlambatan seperti ini tidak
 dapat dijadikan alasan untuk memperpanjang
@@ -216832,7 +216831,7 @@ menyediakan pengganti dengan kualifikasi yang
 setara atau lebih baik dari tenaga kerja
 konstruksi dan/atau peralatan yang digantikan
 tanpa biaya tambahan apapun.
-Paraf 1 Paraf 2 Paraf 3
+
 40.4 Pejabat Penandatangan Kontrak dapat
 menyetujui penempatan/penggantian Personel
 Manajerial dan/atau Peralatan Utama menurut
@@ -216882,7 +216881,7 @@ a. Foto/video dokumentasi pekerjaan yang
 terdampak;
 b. Kurva S pekerjaan; dan
 c. Dokumen pendukung lainnya (apabila ada).
-Paraf 1 Paraf 2 Paraf 3
+
 41.6 Pejabat Penandatangan Kontrak meminta
 Pengawas Pekerjaan untuk melakukan
 penelitian terhadap penyampaian
@@ -216934,7 +216933,7 @@ adendum kontrak.
 41.12 Dalam hal pelaksanaan Kontrak dilanjutkan,
 para pihak dapat melakukan perubahan
 Kontrak. Masa Pelaksanaan dapat diperpanjang
-Paraf 1 Paraf 2 Paraf 3
+
 sekurang-kurangnya sama dengan jangka
 waktu terhentinya Kontrak akibat Keadan
 Kahar. Perpanjangan Masa Pelaksanaan dapat
@@ -216984,7 +216983,7 @@ Penandatangan Kontrak.
 43.5 Dalam hal dilakukan pemutusan Kontrak oleh
 salah satu pihak maka Pejabat Penandatangan
 Kontrak membayar kepada Penyedia sesuai
-Paraf 1 Paraf 2 Paraf 3
+
 dengan pencapaian prestasi pekerjaan yang
 telah diterima oleh Pejabat Penandatangan
 Kontrak dikurangi denda yang harus dibayar
@@ -217034,7 +217033,7 @@ persetujuan pengawas pekerjaan; atau
 k. Penyedia mengalihkan seluruh Kontrak
 bukan dikarenakan pergantian nama
 Penyedia.
-Paraf 1 Paraf 2 Paraf 3
+
 44.2 Dalam hal pemutusan Kontrak dilakukan pada
 Masa Pelaksanaan karena kesalahan Penyedia,
 maka:
@@ -217084,7 +217083,7 @@ pembayaran tagihan angsuran sesuai dengan yang
 disepakati sebagaimana tercantum dalam SSKK.
 46. Pengakhiran Pekerjaan 46.1 Para Pihak dapat menyepakati pengakhiran
 pekerjaan dalam hal terjadi:
-Paraf 1 Paraf 2 Paraf 3
+
 a. penyimpangan prosedur yang diakibatkan
 bukan oleh kesalahan para pihak;
 b. pelaksanaan kontrak tidak dapat dilanjutkan
@@ -217132,7 +217131,7 @@ dalam Kontrak;
 e. melaksanakan dan menyelesaikan pekerjaan secara
 cermat, akurat dan penuh tanggung jawab dengan
 menyediakan tenaga kerja, bahan-bahan, peralatan,
-Paraf 1 Paraf 2 Paraf 3
+
 angkutan ke atau dari lapangan, dan segala
 pekerjaan permanen maupun sementara yang
 diperlukan untuk pelaksanaan, penyelesaian dan
@@ -217181,7 +217180,7 @@ Tanggal Penyerahan Akhir Pekerjaan :
 a. kehilangan atau kerusakan peralatan dan
 harta benda Penyedia, Subkontraktor (jika
 ada), dan tenaga kerja konstruksi;
-Paraf 1 Paraf 2 Paraf 3
+
 b. cidera tubuh, sakit atau kematian tenaga
 kerja konstruksi;
 c. kehilangan atau kerusakan harta benda,
@@ -217233,7 +217232,7 @@ keselamatan kerja yang sesuai dan memadai.
 melaporkan kecelakaan berdasarkan hukum
 yang berlaku, Penyedia wajib melaporkan
 kepada Pejabat Penandatangan Kontrak
-Paraf 1 Paraf 2 Paraf 3
+
 mengenai setiap kecelakaan yang timbul
 sehubungan dengan pelaksanaan Kontrak ini
 dalam waktu 24 (dua puluh empat) jam setelah
@@ -217280,7 +217279,7 @@ Pekerjaan sebelum melakukan tindakan-
 tindakan berikut:
 a. melaksanakan setiap tahapan pekerjaan
 berdasarkan rencana kerja dan metode kerja;
-Paraf 1 Paraf 2 Paraf 3
+
 b. mengubah syarat dan ketentuan polis
 asuransi;
 c. mengubah Personel Manajerial dan/atau
@@ -217328,7 +217327,7 @@ dokumentasi dan video pelaksanaan pekerjaan
 di lokasi pekerjaan sesuai kebutuhan.
 57.7 Laporan hasil pekerjaan dibuat oleh Penyedia,
 diperiksa oleh Pengawas Pekerjaan, dan
-Paraf 1 Paraf 2 Paraf 3
+
 disetujui oleh Pejabat Penandatangan
 Kontrak/pihak Pejabat Penandatangan Kontrak.
 58. Kepemilikan Dokumen Semua rancangan, gambar, spesifikasi, desain, laporan,
@@ -217377,7 +217376,7 @@ pembangunan kesejahteraan di Provinsi
 Papua dan Provinsi Papua Barat, apabila
 Pelaku Usaha tersebut tidak melakukan KSO
 dengan Pelaku Usaha Papua maka harus
-Paraf 1 Paraf 2 Paraf 3
+
 melakukan subkontrak kepada Pelaku Usaha
 Papua;
 d. Dalam hal Peserta bukan Pelaku Usaha Papua
@@ -217426,7 +217425,7 @@ Pengalaman/Keahlian dengan nilai pagu anggaran di atas
 Rp50.000.000.000,00 (lima puluh miliar rupiah),
 Penyedia memenuhi ketentuan alih
 pengalaman/keahlian bidang konstruksi melalui sistem
-Paraf 1 Paraf 2 Paraf 3
+
 kerja praktek/magang sesuai dengan jumlah peserta,
 durasi pelaksanaan, dan jenis keahlian yang disepakati
 pada saat Rapat Persiapan Penunjukan Penyedia.
@@ -217476,7 +217475,7 @@ dengan besar:
 a. 5% (lima persen) dari Harga Kontrak; atau
 b. 5% (lima persen) dari nilai total HPS untuk
 harga penawaran atau penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 terkoreksi di bawah 80% (delapan puluh
 persen) nilai total HPS.
 63.5 Masa berlakunya Jaminan Pelaksanaan paling
@@ -217525,7 +217524,7 @@ dilaksanakan oleh Penyedia;
 c. menerima hasil pekerjaan sesuai dengan jadwal
 penyerahan pekerjaan dan ketentuan yang telah
 ditetapkan dalam Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 d. membayar pekerjaan sesuai dengan harga yang
 tercantum dalam Kontrak yang telah ditetapkan
 kepada Penyedia;
@@ -217575,7 +217574,7 @@ perpanjangan Masa Pelaksanaan.
 66.3 Ganti rugi akibat Peristiwa Kompensasi hanya
 dapat dibayarkan jika berdasarkan data
 penunjang dan perhitungan kompensasi yang
-Paraf 1 Paraf 2 Paraf 3
+
 diajukan oleh Penyedia kepada Pejabat
 Penandatangan Kontrak, dapat dibuktikan
 kerugian nyata.
@@ -217622,7 +217621,7 @@ dalam Kontrak sebesar Harga Kontrak.
 a. beban pajak;
 b. keuntungan dan biaya tidak langsung
 (overhead);
-Paraf 1 Paraf 2 Paraf 3
+
 c. biaya pelaksanaan pekerjaan; dan
 d. biaya penerapan SMKK.
 69.3 Rincian Harga Kontrak sesuai dengan rincian
@@ -217672,7 +217671,7 @@ jamak diberikan Uang muka paling tinggi
 d. Untuk usaha non kecil, uang muka dapat
 diberikan paling tinggi 20% (dua puluh
 persen) dari Harga Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 e. Untuk Kontrak Tahun Jamak, uang muka
 dapat diberikan paling tinggi 15% (lima
 belas persen) dari Harga Kontrak.
@@ -217725,7 +217724,7 @@ sebelumnya;
 3) denda (apabila ada);
 4) pajak; dan/atau
 5) uang retensi.
-Paraf 1 Paraf 2 Paraf 3
+
 f. untuk Kontrak yang mempunyai
 subkontrak, permintaan pembayaran harus
 dilengkapi bukti pembayaran kepada
@@ -217776,7 +217775,7 @@ oleh produsen;
 (4) disetujui oleh Pejabat Penandatangan
 Kontrak sesuai dengan capaian fisik
 yang diterima;
-Paraf 1 Paraf 2 Paraf 3
+
 (5) dilarang dipindahkan dari area lokasi
 pekerjaan dan/atau dipindah-
 tangankan oleh pihak manapun; dan
@@ -217830,7 +217829,7 @@ Penandatangan Kontrak atas keterlambatan
 pembayaran adalah sebesar bunga dari nilai
 tagihan yang terlambat dibayar,
 berdasarkan tingkat suku bunga yang
-Paraf 1 Paraf 2 Paraf 3
+
 berlaku pada saat itu menurut ketetapan
 Bank Indonesia, sepanjang telah diputuskan
 oleh lembaga yang berwenang;
@@ -217880,7 +217879,7 @@ telah ditandatangani oleh kedua pihak.
 Penyedia berkewajiban untuk menyerahkan
 kepada Pengawas Pekerjaan rincian
 perhitungan nilai tagihan terakhir yang jatuh
-Paraf 1 Paraf 2 Paraf 3
+
 tempo. Pejabat Penandatangan Kontrak
 berdasarkan hasil penelitian tagihan oleh
 Pengawas Pekerjaan berkewajiban untuk
@@ -217928,7 +217927,7 @@ Pengujian Cacat Mutu Pekerjaan akan memeriksa setiap hasil
 pekerjaan dan memberitahukan Penyedia secara
 tertulis atas setiap Cacat Mutu yang ditemukan.
 Pejabat Penandatangan Kontrak atau Pengawas
-Paraf 1 Paraf 2 Paraf 3
+
 Pekerjaan dapat memerintahkan Penyedia untuk
 menemukan dan mengungkapkan Cacat Mutu ,
 serta menguji hasil pekerjaan yang dianggap
@@ -217980,7 +217979,7 @@ Penandatangan Kontrak selama masa
 pelaksanaan maka penyedia wajib memperbaiki
 cacat mutu tersebut dan Pejabat Penandatangan
 Kontrak tidak melakukan pembayaran
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan sebelum cacat mutu tersebut selesai
 diperbaiki.
 77.5 Dalam hal cacat mutu ditemukan oleh Pejabat
@@ -218031,7 +218030,7 @@ Kontrak) sehubungan dengan klaim kehilangan
 atau kerusakan harta benda, dan cidera tubuh,
 sakit atau kematian pihak ketiga yang timbul
 dari Kegagalan Bangunan.
-Paraf 1 Paraf 2 Paraf 3
+
 78.5 Pejabat Penandatangan Kontrak maupun
 Penyedia berkewajiban untuk menyimpan dan
 memelihara semua dokumen yang digunakan
@@ -218074,7 +218073,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 III. SYARAT-SYARAT KHUSUS KONTRAK KONTRAK
 Pasal Ketentuan Data
 dalam
@@ -218121,7 +218120,7 @@ Sah Penyedia]
 6.3.c Jaminan [diisi nam kantor Kas Negara]
 44.4 &
 44.6
-Paraf 1 Paraf 2 Paraf 3
+
 27.1 Masa Masa Pelaksanaan selama ......... [diisi jumlah hari
 Pelaksanaan kalender dalam angka dan huruf] hari kalender
 terhitung sejak Tanggal Mulai Kerja yang tercantum
@@ -218170,7 +218169,7 @@ angka dan huruf] hari kalender terhitung sejak
 tanggal penyerahan pertama bagian pekerjaan
 …………… [diisi bagian pekerjaannya].
 3. Dst.
-Paraf 1 Paraf 2 Paraf 3
+
 Catatan:
 Ketentuan di atas diisi apabila diberlakukan serah terima
 sebagian pekerjaan (secara parsial) dan sudah ditetapkan
@@ -218222,7 +218221,7 @@ b) Koefisien komponen kontrak ditetapkan oleh Pejabat
 Penandatangan Kontrak dari perbandingan antara
 harga bahan, tenaga kerja, alat kerja, dan sebagainya
 (apabila ada) terhadap Harga Satuan dari
-Paraf 1 Paraf 2 Paraf 3
+
 pembobotan HPS dan dicantumkan dalam Dokumen
 Pemilihan (Rancangan Kontrak).
 c) Indeks harga yang digunakan bersumber dari
@@ -218271,7 +218270,7 @@ SSUK]
 56.3 Tindakan Tindakan lain oleh Penyedia yang memerlukan
 Penyedia yang persetujuan Pejabat Penandatangan Kontrak adalah
 Mensyaratkan
-Paraf 1 Paraf 2 Paraf 3
+
 Persetujuan .................... [diisi selain yang sudah tercantum dalam
 Pejabat SSUK, apabila ada]
 Penandatangan
@@ -218317,7 +218316,7 @@ berikut:
 satuan pekerjaan;
 2. ....[diisi bahan/peralatan].... dibayar .......% dari harga
 satuan pekerjaan;
-Paraf 1 Paraf 2 Paraf 3
+
 3. ..............dst.
 [contoh yang termasuk material on site peralatan:
 eskalator, lift, pompa air stationer, turbin, peralatan
@@ -218348,7 +218347,7 @@ apabila umur konstruksinya tidak lebih dari 10
 79.3 Penyelesaian c. Penyelesaian perselisihan/sengketa para pihak
 Perselisihan/ dilakukan melalui …………..
 Sengketa
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN A SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR HARGA SATUAN TIMPANG*)
 Harga
@@ -218394,7 +218393,7 @@ Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen
 penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR PERSONEL MANAJERIAL
 Jabatan Pengalaman
 Nama Sertifikat
@@ -218423,7 +218422,7 @@ Catatan:
 *) Wajib diisi oleh PPK sewaktu penyusunan rancangan kontrak
 **) Wajib diisi saat rapat persiapan penandatanganan kontrak berdasarkan dokumen
 penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B SYARAT-SYARAT KHUSUS KONTRAK
 RENCANA KESELAMATAN KONSTRUKSI (RKK)
 CONTOH
@@ -218451,7 +218450,7 @@ E. Evaluasi Kinerja Keselamatan Konstruksi
 E.1. Pemantauan dan evaluasi
 E.2. Tinjauan manajemen
 E.3. Peningkatan kinerja keselamatan konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 Penjelasan mengenai isi Komitmen Keselamatan Konstruksi poin (A.2) sesuai dengan
 format di bawah ini:
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha Tunggal/Atas Nama
@@ -218477,7 +218476,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [Nama Penyedia]
 [tanda tangan],
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 [Contoh Pakta Komitmen Keselamatan Konstruksi Badan Usaha ber-KSO]
 PAKTA KOMITMEN KESELAMATAN KONSTRUKSI
 Kami yang bertanda tangan di bawah ini:
@@ -218506,7 +218505,7 @@ memastikan bahwa seluruh pelaksanaan konstruksi:
 [tanda tangan], [tanda tangan], [tanda tangan],
 [nama lengkap] [nama lengkap] [nama lengkap]
 [cantumkan tanda tangan dan nama setiap anggota KSO]
-Paraf 1 Paraf 2 Paraf 3
+
 B.1. Identifikasi bahaya, Penilaian risiko, Pengendalian dan Peluang.
 TABEL 1. IDENTIFIKASI BAHAYA, PENILAIAN RISIKO, PENETAPAN PENGENDALIAN RISIKO
 K3
@@ -218541,7 +218540,7 @@ Kegiatan Pelaksanaan Pencapaian Jawab
 ukur Daya Monitoring
 Dibuat oleh,
 Kepala Pelaksanaan Pekerjaan Konstruksi
-Paraf 1 Paraf 2 Paraf 3
+
 C. Dukungan Keselamatan Konstruksi
 Tabel. Contoh Jadwal Program Komunikasi
 NO Jenis Komunikasi PIC Waktu Pelaksanaan
@@ -218572,7 +218571,7 @@ No Kegiatan PIC
 1 Inspeksi Keselamatan Konstruksi
 2 Patroli Keselamatan Konstruksi
 3 Audit internal
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. SPESIFIKASI TEKNIS DAN GAMBAR
 A. Uraian Spesifikasi Teknis
 Uraian spesifikasi teknis disusun berdasarkan spesifikasi teknis yang ditetapkan
@@ -218618,7 +218617,7 @@ pedoman/peraturan pihak yang kompeten.
 a. Pokja Pemilihan (yang bersertifikat Ahli K3 Konstruksi/Ahli Keselamatan
 Konstruksi/petugas Keselamatan Konstruksi atau dengan melibatkan
 Ahli K3 Konstruksi/Ahli Keselamatan Konstruksi/petugas Keselamatan
-Paraf 1 Paraf 2 Paraf 3
+
 Konstruksi) harus menilai kesesuaian identifikasi bahaya dari setiap
 tahapan kegiatan yang sudah ditetapkan oleh PPK;
 b. Setiap proses/kegiatan harus dilengkapi dengan prosedur kerja, sistem
@@ -218666,7 +218665,7 @@ bahaya tinggi harus dilengkapi dengan metode kerja yang didalamnya
 sudah mencakup analisis keselamatan pekerjaan/Job Safety Analysis
 (JSA). Misalnya untuk pekerjaan di ketinggian, mutlak harus digunakan
 perancah, lantai kerja (platform), papan tepi, tangga kerja, pagar
-Paraf 1 Paraf 2 Paraf 3
+
 pelindung tepi, serta alat pelindung diri (APD) yang sesuai antara lain
 helm dan sabuk keselamatan agar pekerja terlindung dari bahaya jatuh.
 Untuk pekerjaan saluran galian tanah berpasir yang mudah longsor
@@ -218713,7 +218712,7 @@ Pembuat Komitmen (PPK) secara terinci, lengkap dan jelas, antara lain :
 2. Lay out
 3. Potongan memanjang
 4. Potongan melintang
-Paraf 1 Paraf 2 Paraf 3
+
 5. Detail-detail konstruksi
 C. Pejabat Penandatangan Kontrak mengacu pada hasil dokumen pekerjaan jasa
 Konsultansi Konstruksi perancangan dan/atau berkonsultasi dengan Ahli K3
@@ -218723,7 +218722,7 @@ Dalam melakukan pengawasan dan evaluasi terhadap RKK dan penerapan
 SMKK, Pejabat Penandatangan Kontrak dapat dibantu oleh Ahli K3
 Konstruksi/Ahli Keselamatan Konstruksi dan/atau Petugas Keselamatan
 Konstruksi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. DAFTAR KUANTITAS DAN HARGA
 Keterangan
 1. Daftar Kuantitas dan Harga harus sesuai dengan Instruksi Kepada Peserta
@@ -218762,7 +218761,7 @@ tulisan huruf;
 2) apabila penawaran dalam angka tertulis dengan jelas sedangkan
 dalam huruf tidak jelas dan/atau tidak bermakna dan/atau salah,
 maka nilai yang diakui adalah nilai dalam tulisan angka.
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 1: Mata Pembayaran Umum
 CONTOH
 Satuan Harga Total
@@ -218775,7 +218774,7 @@ Keterangan:
 umum.
 2. Total harga adalah semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 2: Mata Pembayaran Perkiraan Biaya Penerapan Sistem Manajemen
 Keselamatan Konstruksi*)
 CONTOH
@@ -218816,7 +218815,7 @@ Total Daftar 2 Rp.......
 *) Sesuai dengan ketentuan SMKK
 **) Satuan ukuran dapat berupa meter, orang, buah, LS sesuai dengan ketentuan
 SMKK
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 3: Mata Pembayaran Pekerjaan Utama: __________
 CONTOH
 No. Uraian Pekerjaan Satuan Kuantitas Harga Total
@@ -218829,7 +218828,7 @@ menjadi pokok dari paket Pekerjaan Konstruksi ini di antara bagian-bagian
 pekerjaan lain.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 4: Mata Pembayaran ______________________
 CONTOH
 No. Uraian Pekerjaan Satuan Kuantitas Harga Total
@@ -218842,7 +218841,7 @@ sudah diuraikan dalam Mata Pembayaran Pekerjaan Utama jika terdapat lebih
 dari satu jenis pekerjaan.
 2. Total Harga adalah Semua jenis harga yang tercantum dalam Daftar Kuantitas
 dan Harga merupakan harga sebelum PPN (Pajak Pertambahan Nilai).
-Paraf 1 Paraf 2 Paraf 3
+
 Daftar 5: Mata Pembayaran Utama
 CONTOH
 Harga Nilai
@@ -218854,7 +218853,7 @@ Keterangan:
 Diisi mata pembayaran yang pokok dan penting yang nilai bobot kumulatifnya minimal
 80% dari seluruh nilai pekerjaan dihitung mulai dari mata pembayaran dan nilai bobot
 terbesar.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR REKAPITULASI
 CONTOH
 Mata Pembayaran Harga
@@ -218868,7 +218867,7 @@ Daftar No. 4: Mata Pembayaran ...................
 TOTAL NILAI
 PPN 10%
 Total termasuk PPN 10%
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII BENTUK DOKUMEN LAIN
 A. BENTUK SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
 [kop surat K/L/PD]
@@ -218905,7 +218904,7 @@ Tembusan Yth. :
 2. ____________ [APIP K/L/PD]
 3. ____________ [Pokja Pemilihan]
 ......... dst
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK SURAT PERINTAH MULAI KERJA (SPMK)
 [kop surat satuan kerja K/L/PD]
 SURAT PERINTAH MULAI KERJA (SPMK)
@@ -218936,7 +218935,7 @@ PPN sesuai dengan ketentuan yang tercantum dalam Syarat-Syarat Khusus
 Kontrak.
 __________, __ __________ 20__
 Untuk dan atas nama __________
-Paraf 1 Paraf 2 Paraf 3
+
 Pejabat Pembuat Komitmen
 [tanda tangan]
 [nama lengkap]
@@ -218947,7 +218946,7 @@ Untuk dan atas nama __________
 [tanda tangan]
 [nama lengkap wakil sah badan usaha]
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK SURAT-SURAT JAMINAN
 Jaminan Pelaksanaan dari Bank
 [Kop Bank Penerbit Jaminan]
@@ -218993,7 +218992,7 @@ berdasar Surat Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan
 sanksi akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-benda
 yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk melunasi hutang
-Paraf 1 Paraf 2 Paraf 3
+
 Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab Undang-Undang
 Hukum Perdata.
 5. Tidak dapat dipindahtangankan atau dijadikan jaminan kepada pihak lain.
@@ -219010,7 +219009,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pelaksanaan dari Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PELAKSANAAN
@@ -219047,7 +219046,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah
 diajukan selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah
 berakhirnya masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -219058,7 +219057,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -219106,7 +219105,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -219117,7 +219116,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Uang Muka dari Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN UANG MUKA
@@ -219154,7 +219153,7 @@ dimaksud dalam Pasal 1831 KUH Perdata.
 7. Tuntutan pencairan terhadap PENJAMIN berdasarkan Jaminan ini harus sudah
 diajukan selambat-lambatnya dalam waktu 30 (tiga puluh) hari kalender sesudah
 berakhirnya masa berlaku Jaminan ini.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di _____________
 pada tanggal _______________
 TERJAMIN PENJAMIN
@@ -219165,7 +219164,7 @@ Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasi Jaminan ini ke
 _____[Penerbit Jaminan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -219213,7 +219212,7 @@ Hukum Perdata.
 6. Segala hal yang mungkin timbul sebagai akibat dari Garansi Bank ini, masing-masing
 pihak memilih domisili hukum yang umum dan tetap di Kantor Pengadilan Negeri
 ________.
-Paraf 1 Paraf 2 Paraf 3
+
 Dikeluarkan di : _____________
 Pada tanggal : _____________
 [Bank]
@@ -219224,7 +219223,7 @@ ________________
 mengkonfirmasi Garansi ini ke
 _____[bank]
 [Nama dan Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 Jaminan Pemeliharaan dari Asuransi/Perusahaan Penjaminan
 [Kop Penerbit Jaminan]
 JAMINAN PEMELIHARAAN
@@ -219269,7 +219268,7 @@ TERJAMIN PENJAMIN
 Meterai Rp10.000,00
 __________________ __________________
 [Nama & Jabatan] [Nama & Jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IX. PETUNJUK EVALUASI KEWAJARAN HARGA
 Tahapan evaluasi kewajaran harga bagi peserta dengan harga penawaran dibawah nilai
 nominal 80% (delapan puluh persen) HPS dilakukan sebagai berikut:
@@ -219294,7 +219293,7 @@ IV. JUMLAH ( I + II + III ) ........
 V. BIAYA UMUM ........
 VI. BIAYA KEUNTUNGAN ........
 VII. TOTAL ( IV + V ) ........
-Paraf 1 Paraf 2 Paraf 3
+
 2. Kemudian dilakukan klarifikasi harga dengan membuat format sebagai berikut:
 ANALISA HARGA SATUAN PEKERJAAN
 JENIS PEKERJAAN : ....................
@@ -219350,7 +219349,7 @@ hasil klarifikasi berdasarkan rincian uraian pada HPS.
 satuan dasar hasil klarifikasi. Selanjutnya dihitung harga satuan hasil klarifikasi
 sekurang-kurangnya pada setiap mata pembayaran utama tanpa memperhitungkan
 keuntungan.
-Paraf 1 Paraf 2 Paraf 3
+
 8. Kemudian dihitung untuk setiap harga satuan penawaran yang bukan Mata
 Pembayaran Utama dengan mengurangi biaya keuntungan, sehingga diperoleh
 harga satuan penawaran yang bukan Mata Pembayaran Utama tanpa
@@ -219365,7 +219364,7 @@ maka harga dinyatakan wajar dan jaminan pelaksanaan dinaikkan sebesar 5% dari
 nilai total HPS.
 Jika total harga hasil klarifikasi lebih besar dari total harga penawaran, maka harga
 dinyatakan tidak wajar dan penawaran dinyatakan gugur.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB X. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Pekerjaan Konstruksi harus
 mematuhi ketentuan sebagai berikut:
@@ -219379,7 +219378,7 @@ satu kesatuan tanggung jawab atas risiko kegagalan bangunan yang secara
 keseluruhan tidak dapat direncanakan/diperhitungkan sebelumnya;
 2) pemilihan Penyedia pengganti yang mampu dan memenuhi syarat untuk kontrak
 yang dilakukan pemutusan sepihak oleh PPK.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 (DOKUMEN KUALIFIKASI)
 Pengadaan
@@ -220840,7 +220839,7 @@ Model Dokumen Pemilihan
 Pengadaan
 Jasa Konsultan Konstruksi
 Penunjukan Langsung, Satu File, Kontrak Lumsum/Waktu Penugasan
-Paraf 1 Paraf 2 Paraf 3
+
 DOKUMEN PENUNJUKAN LANGSUNG
 Nomor: __________
 Tanggal: __________
@@ -220850,7 +220849,7 @@ __________
 Kelompok Kerja Pemilihan __________
 Kementerian/Lembaga/Pemerintah Daerah _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR ISI
 BAB I. UMUM ...................................................................................................................... - 5 -
 BAB II. UNDANGAN PENYAMPAIAN PENAWARAN .......................................................... - 8 -
@@ -220901,7 +220900,7 @@ B. EVALUASI TEKNIS .............................................................
 BAB VII. BENTUK DOKUMEN PENAWARAN.................................................................... - 43 -
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS ...........................................................- 43 -
 (IX) BENTUK JADWAL PENUGASAN TENAGA AHLI ........................................... - 51 -
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN ......... - 52 -
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN .......... - 54 -
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA .............................................................- 55 -
@@ -220926,7 +220925,7 @@ LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ) .................... 
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA ............................................................ - 110 -
 LAMPIRAN 3 : JAMINAN UANG MUKA .......................................................................... - 112 -
 BAB XII. KETENTUAN LAIN-LAIN ...................................................................................- 115 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Pemilihan ini disusun berdasarkan Peraturan Presiden Nomor 16
 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya
@@ -220972,7 +220971,7 @@ sama usaha antar penyedia yang masing-
 masing pihak mempunyai hak, kewajiban dan
 tanggung jawab yang jelas berdasarkan
 perjanjian tertulis.
-Paraf 1 Paraf 2 Paraf 3
+
 - LDP : Lembar Data Pemilihan.
 - PA : Pengguna Anggaran.
 - KPA : Kuasa Pengguna Anggaran.
@@ -221014,7 +221013,7 @@ Konstruksi mendukung Jasa Konsultan Konstruksi dalam
 mewujudkan pemenuhan standar keamanan,
 keselamatan, kesehatan dan keberlanjutan yang
 menjamin keselamatan keteknikan konstruksi,
-Paraf 1 Paraf 2 Paraf 3
+
 keselamatan dan kesehatan tenaga kerja,
 keselamatan publik dan lingkungan.
 - Sistem Manajemen : yang selanjutnya disingkat SMKK adalah bagian
@@ -221055,7 +221054,7 @@ oleh user ID dan password yang diberikan oleh
 LPSE.
 D. Penunjukan Langsung ini dapat diikuti oleh peserta yang lulus kualifikasi
 dan diundang untuk menyampaikan penawaran
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. UNDANGAN PENYAMPAIAN PENAWARAN
 CONTOH
 [kop surat K/L/PD]
@@ -221085,7 +221084,7 @@ kasih.
 [tanda tangan]
 ...................................................
 [nama lengkap]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Lingkup Pekerjaan 1.1 Pokja Pemilihan mengundang peserta untuk
@@ -221124,7 +221123,7 @@ Pengadaan dengan tidak melakukan tindakan sebagai berikut:
 a. menyampaikan dokumen atau keterangan
 palsu/tidak benar untuk memenuhi persyaratan
 yang ditentukan dalam Dokumen Pemilihan;
-Paraf 1 Paraf 2 Paraf 3
+
 b. berusaha mempengaruhi Pokja Pemilihan dalam
 bentuk dan cara apapun, untuk memenuhi
 keinginan peserta yang bertentangan dengan
@@ -221172,7 +221171,7 @@ kerja kecuali cuti di luar tanggungan Negara.
 5.4. Peserta yang terbukti melanggar ketentuan
 pertentangan kepentingan, maka digugurkan sebagai
 peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 6. Peserta Sanksi daftar hitam dikenakan kepada peserta
 Pemilihan/ pemilihan/Penyedia apabila:
 Penyedia Yang a. peserta pemilihan menyampaikan dokumen atau
@@ -221225,7 +221224,7 @@ persyaratan yang sudah ditentukan.
 b. Penyedia wajib mengganti dengan personel inti
 Tenaga Ahli yang memenuhi persyaratan yang
 sudah ditentukan.
-Paraf 1 Paraf 2 Paraf 3
+
 B. DOKUMEN PENUNJUKAN LANGSUNG
 9. Isi Dokumen 9.1. Dokumen Penunjukan Langsung, terdiri atas:
 Pemilihan a. ketentuan umum;
@@ -221271,7 +221270,7 @@ satuan kerja (user) dalam pemberian penjelasan.
 11.5. Apabila diperlukan, Pokja Pemilihan dapat memberikan
 penjelasan lanjutan dengan cara melakukan peninjauan
 lapangan sesuai jadwal yang ditetapkan dalam LDP.
-Paraf 1 Paraf 2 Paraf 3
+
 Biaya yang diperlukan peserta dalam rangka peninjauan
 lapangan ditanggung oleh peserta.
 11.6. Pokja Pemilihan menjawab setiap pertanyaan yang
@@ -221315,7 +221314,7 @@ waktu penyampaian penawaran, Pokja Pemilihan dapat
 menetapkan Adendum Dokumen Penunjukan Langsung
 berdasarkan informasi baru yang mempengaruhi
 substansi Dokumen Penunjukan Langsung.
-Paraf 1 Paraf 2 Paraf 3
+
 12.5 Setiap Adendum yang ditetapkan merupakan bagian
 yang tidak terpisahkan dari Dokumen Penunjukan
 Langsung.
@@ -221361,7 +221360,7 @@ tercantum dalam SPSE) dan
 peserta berbentuk KSO).
 b. Dokumen Penawaran Teknis sesuai persyaratan
 teknis yang ditetapkan terdiri atas:
-Paraf 1 Paraf 2 Paraf 3
+
 1) Data pengalaman perusahaan, terdiri dari
 sub-unsur:
 a) Pengalaman kerja sejenis 10 (sepuluh)
@@ -221417,7 +221416,7 @@ tidak bermakna dan/atau salah maka yang diakui
 adalah yang tertulis dalam angka;
 c. Apabila nilai yang tertulis dalam angka dan yang
 tertulis dalam huruf tidak jelas dan/atau tidak
-Paraf 1 Paraf 2 Paraf 3
+
 bermakna dan/atau salah maka penawaran
 dinyatakan gugur.
 17.2. Untuk Kontrak Waktu Penugasan, peserta
@@ -221467,7 +221466,7 @@ elektronik oleh pemimpin/direktur perusahaan atau
 kepala cabang perusahaan yang diangkat oleh kantor
 pusat yang dibuktikan dengan dokumen otentik atau
 pejabat yang menurut perjanjian kerja sama adalah yang
-Paraf 1 Paraf 2 Paraf 3
+
 berhak mewakili perusahaan yang bekerja sama atau
 pihak yang diberi kuasa oleh pemimpin atau direktur
 perusahaan yang nama pemberi kuasanya tercantum
@@ -221513,7 +221512,7 @@ pemasukan penawaran.
 22.5 Perpanjangan jangka waktu sebagaimana dimaksud pada
 angka 22.4 dilakukan pada hari yang sama dengan batas
 akhir pemasukan penawaran.
-Paraf 1 Paraf 2 Paraf 3
+
 E. PEMBUKAAN DAN EVALUASI PENAWARAN
 23. Pembukaan Dokumen Penawaran dibuka Pokja Pemilihan segera setelah
 Penawaran Dokumen Penawaran diterima.
@@ -221564,7 +221563,7 @@ hal-hal yang kurang jelas dan meragukan; dan
 a. Evaluasi administrasi menghasilkan dua kesimpulan,
 yaitu memenuhi syarat administrasi atau tidak
 memenuhi syarat administrasi;
-Paraf 1 Paraf 2 Paraf 3
+
 d. apabila peserta tidak memenuhi persyaratan
 administrasi, maka Penunjukan Langsung dinyatakan
 gagal.
@@ -221620,7 +221619,7 @@ maka tidak dinilai;
 adalah:
 a) pengalaman melaksanakan pekerjaan sejenis
 (Bobot 7-12%)
-Paraf 1 Paraf 2 Paraf 3
+
 b) pengalaman melaksanakan pekerjaan di
 provinsi lokasi kegiatan (Bobot 3-8%);
 c) nilai pekerjaan sejenis tertinggi (Bobot 5-10%)
@@ -221677,7 +221676,7 @@ karakteristik pekerjaan dalam periode waktu yang
 sama;
 3) tenaga ahli yang ditawarkan harus dilengkapi
 dengan Surat Pernyataan Kesediaan untuk tenaga
-Paraf 1 Paraf 2 Paraf 3
+
 ahli yang ditandatangani di atas meterai oleh
 Tenaga Ahli yang bersangkutan. Apabila tidak
 dilengkapi dan/atau tidak ditandatangani, maka
@@ -221734,7 +221733,7 @@ dari yang tertulis dalam penawaran,
 maka yang diambil adalah perhitungan
 Pokja Pemilihan. Apabila perhitungan
 Pokja Pemilihan lebih besar
-Paraf 1 Paraf 2 Paraf 3
+
 dibandingkan dengan yang tertulis
 dalam penawaran, maka yang diambil
 adalah yang tertulis dalam penawaran;
@@ -221791,7 +221790,7 @@ pengalaman kerja semasa menjabat
 sebagai ASN yang sesuai dengan lingkup
 pekerjaan yang akan dilaksanakan
 dapat diperhitungkan, dan dinilai
-Paraf 1 Paraf 2 Paraf 3
+
 kesesuaiannya dengan lingkup
 pekerjaan “MENUNJANG” dan posisi
 “TIDAK SESUAI”.
@@ -221847,7 +221846,7 @@ maka penunjukan langsung dinyatakan gagal.
 24.7 Pokja Pemilihan membuat Berita Acara Hasil Evaluasi
 yang paling sedikit memuat:
 a. Tanggal dibuatnya berita acara;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Nama peserta;
 c. Hasil evaluasi penawaran administrasi dan teknis
 termasuk alasan ketidaklulusan peserta;
@@ -221901,7 +221900,7 @@ Penugasan.
 Negosiasi Personel sebagaimana pada klausul 16.2 huruf c.
 Teknis dan
 Biaya
-Paraf 1 Paraf 2 Paraf 3
+
 25.2 Aspek-aspek teknis yang perlu diklarifikasi dan
 dinegosiasi terutama mencerminkan kesesuaian dengan
 KAK:
@@ -221956,7 +221955,7 @@ ahli konsultan yang bersangkutan;
 Upah Minimum Provinsi atau Upah Minimum
 Kabupaten/Kota yang ditetapkan oleh Gubernur;
 atau
-Paraf 1 Paraf 2 Paraf 3
+
 3) kontrak pekerjaan sejenis yang pernah
 dilaksanakan sebelumnya.
 d. Apabila tidak dapat membuktikan maka dilakukan
@@ -222003,7 +222002,7 @@ penawaran teknis.
 tidak ditemukan hal-hal yang tidak wajar, maka total
 penawaran biaya dapat diterima sepanjang tidak melebihi
 pagu anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 25.13 Klarifikasi dan negosiasi teknis dan biaya tidak harus
 mengakibatkan turunnya harga penawaran.
 25.14 Apabila terjadi keterlambatan jadwal sampai dengan
@@ -222051,7 +222050,7 @@ usulan penetapan calon Penyedia diterima. Dalam hal
 PA/KPA tidak memberikan keputusan (penetapan atau
 penolakan) maka PA/KPA dianggap menyetujui usulan
 Pokja Pemilihan.
-Paraf 1 Paraf 2 Paraf 3
+
 d. Dalam hal PA/KPA tidak sependapat selanjutnya UKPBJ
 memerintahkan Pokja Pemilihan bersangkutan untuk
 menindaklanjuti penolakan tersebut.
@@ -222099,7 +222098,7 @@ dengan alasan yang tidak dapat diterima secara
 obyektif oleh Pejabat Penandatangan Kontrak maka
 yang bersangkutan dikenakan sanksi Daftar Hitam;
 atau
-Paraf 1 Paraf 2 Paraf 3
+
 c. apabila yang bersangkutan tidak bersedia ditunjuk
 karena masa penawarannya dalam Dokumen
 Penunjukan Langsung sudah tidak berlaku maka
@@ -222149,7 +222148,7 @@ Penandatangan melakukan rapat persiapan penandatanganan kontrak dengan
 an Kontrak Calon Penyedia dengan ketentuan sebagai berikut:
 a. finalisasi rancangan kontrak dengan memeriksa konsep
 Kontrak meliputi substansi, bahasa, redaksional, angka dan
-Paraf 1 Paraf 2 Paraf 3
+
 huruf serta membubuhkan paraf pada setiap lembar
 Dokumen Kontrak;
 b. memeriksa kelengkapan dokumen pendukung kontrak,
@@ -222200,7 +222199,7 @@ bagian yang ditandatangani oleh penyedia; dan
 2) kontrak asli kedua untuk penyedia dibubuhi
 meterai pada bagian yang ditandatangani oleh
 Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 b. rangkap kontrak lainnya (apabila diperlukan) tanpa
 dibubuhi meterai.
 1.7 Pihak yang berwenang menandatangani kontrak atas
@@ -222211,7 +222210,7 @@ dengan peraturan perundang-undangan.
 1.8 Pejabat Penandatangan Kontrak memasukkan data
 kontrak dan mengunggah hasil pemindaian dokumen
 kontrak yang telah ditandatangani pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV. LEMBAR DATA PEMILIHAN (LDP)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
 A. Identitas 1.1 Identitas Pokja Pemilihan:
@@ -222249,7 +222248,7 @@ Penugasan]
 E. Mata Uang 18 Mata uang yang digunakan: __________
 Penawaran [diisi Rupiah atau mata uang dari negara pemberi
 pinjaman]
-Paraf 1 Paraf 2 Paraf 3
+
 F. Cara 18 Pembayaran dilakukan dengan cara __________
 Pembayaran [diisi pembayarannya dilaksanakan secara:
 bulanan (monthly certificate), berdasarkan
@@ -222265,7 +222264,7 @@ penandatanganan kontrak].
 (______________) hari kalender.
 [diisi waktu yang diperlukan untuk
 menyelesaikan pekerjaan]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V. KERANGKA ACUAN KERJA (KAK)
 Uraian Pendahuluan1
 1. Latar Belakang
@@ -222298,7 +222297,7 @@ Material dari
 3 Dijelaskan pula keterkaitan antara suatu keluaran dengan keluaran lain. (untuk jasa konsultansi konstruksi
 perancangan termasuk identifikasi bahaya sesuai dengan metode pelaksanaan serta metode operasi dan
 pemeliharaan bangunan).
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia Jasa
 Konsultansi
 15. Lingkup
@@ -222338,7 +222337,7 @@ sebanyak __ (__________) buku laporan.
 Laporan harus diserahkan selambat-lambatnya: __
 (__________) hari kerja/bulan sejak SPMK diterbitkan
 sebanyak _____ (__________) buku laporan dan media
-Paraf 1 Paraf 2 Paraf 3
+
 penyimpan data (compact disc/flashdisk/dll) (jika
 diperlukan).
 Hal-Hal Lain
@@ -222375,7 +222374,7 @@ terdiri dari Ahli Muda K3 Konstruksi.
 Tenaga Ahli mensyaratkan Tenaga Ahli K3 Konstruksi/ Ahli Keselamatan
 Konstruksi.
 **) Untuk kontrak lumsum, maka jenis laporan disesuaikan dengan keluaran.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI. LEMBAR KRITERIA EVALUASI
 A. Evaluasi Administrasi
 Penawaran dinyatakan memenuhi persyaratan administrasi, apabila:
@@ -222430,7 +222429,7 @@ sejenis tertinggi sebagai berikut:
 dalam kurun waktu 𝑁𝑃𝑇 𝑋
 𝑁𝑖𝑙𝑎𝑖 𝑋 = × 100
 𝑁𝑃𝑇 𝑇𝑒𝑟𝑡𝑖𝑛𝑔𝑔𝑖
-Paraf 1 Paraf 2 Paraf 3
+
 10 (sepuluh) tahun
 terakhir Keterangan:
 X : Nama perusahaan
@@ -222492,7 +222491,7 @@ subunsur] bobot subunsur.
 1) Ketepatan analisa - - Kriteria penilaian:
 yang disampaikan 1) sangat baik diberi nilai
 dan langkah 100;
-Paraf 1 Paraf 2 Paraf 3
+
 pemecahan yang 2) cukup baik diberi nilai
 diusulkan 60;
 2) konsistensi antara - - 3) kurang diberi nilai 20;
@@ -222551,7 +222550,7 @@ Ahli4. Masing-masing [diisi
 harus diberi bobot tenaga ahli:
 1) Tenaga Ahli 1 (Team Leader), diberi bobot =_____________
 2) Tenaga Ahli 2 (____________), diberi bobot =_____________
-Paraf 1 Paraf 2 Paraf 3
+
 tenaga ahli dihitung ambang
 dengan subunsur: batas
 unsur]
@@ -222608,7 +222607,7 @@ nilai 0,75
 c) terkait, diberi nilai
 0,5
 3) dan seterusnya
-Paraf 1 Paraf 2 Paraf 3
+
 d) lingkup pekerjaan
 yang :
 (1) sesuai adalah:
@@ -222673,7 +222672,7 @@ tahun pengalaman
 kerja profesional,
 diberi nilai 50 (lima
 puluh).
-Paraf 1 Paraf 2 Paraf 3
+
 c. status tenaga ahli yang 5% _____ Kriteria penilaian:
 diusulkan [diisi 1) Berstatus sebagai tenaga
 ambang ahli tetap, diberi nilai
@@ -222708,7 +222707,7 @@ evaluasi teknis apabila nilai
 Jumlah 100% ____ ____
 masing-masing unsur diatas
 ambang batas.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII. BENTUK DOKUMEN PENAWARAN
 LAMPIRAN A : DOKUMEN PENAWARAN TEKNIS
 (i) BENTUK DATA ORGANISASI PERUSAHAAN
@@ -222717,7 +222716,7 @@ DATA ORGANISASI _____________[ PT/CV/Firma/KSO]
 [cantumkan uraian ringkas mengenai latar belakang dan organisasi peserta dan
 penanggung jawab yang ditugaskan untuk mengelola pekerjaan jasa konsultansi
 konstruksi ini].
-Paraf 1 Paraf 2 Paraf 3
+
 (ii) BENTUK DAFTAR PENGALAMAN KERJA SEJENIS 10 (SEPULUH) TAHUN
 TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -222738,7 +222737,7 @@ Keterangan isi kolom :
 6. Jumlah orang bulan yang digunakan
 7. Nilai kontrak pekerjaan
 8. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iii) BENTUK DAFTAR PENGALAMAN KERJA DI PROVINSI LOKASI KEGIATAN 10
 (SEPULUH) TAHUN TERAKHIR (PENGALAMAN PERUSAHAAN)
 CONTOH
@@ -222762,7 +222761,7 @@ Keterangan isi kolom :
 7. Jumlah orang bulan yang digunakan
 8. Nilai kontrak pekerjaan
 9. Mitra kerja dan posisinya dalam KSO
-Paraf 1 Paraf 2 Paraf 3
+
 (iv) BENTUK URAIAN PENGALAMAN KERJA SEJENIS ATAU PENGALAMAN KERJA
 DI PROVINSI LOKASI KEGIATAN 10 (SEPULUH) TAHUN TERAKHIR
 (PENGALAMAN PERUSAHAAN)
@@ -222796,7 +222795,7 @@ c. _________________ ___________________ _________________
 d. _________________ ___________________ _________________
 e. _________________ ___________________ _________________
 dst.
-Paraf 1 Paraf 2 Paraf 3
+
 (v) BENTUK PEMAHAMAN DAN SARAN TERHADAP KERANGKA ACUAN KERJA
 DAN PERSONEL/FASILITAS PENDUKUNG DARI PPK
 CONTOH
@@ -222813,7 +222812,7 @@ DARI PPK
 pendukung oleh PPK sesuai dengan Dokumen Penunjukan Langsung ini
 meliputi antara lain (jika ada): dukungan administrasi, ruang kerja,
 transportasi lokal, peralatan, data, dan lain-lain]
-Paraf 1 Paraf 2 Paraf 3
+
 (vi) BENTUK URAIAN PENDEKATAN, METODOLOGI DAN PROGRAM KERJA
 CONTOH
 [Pendekatan teknis, metodologi dan program kerja adalah kriteria pokok dari
@@ -222841,7 +222840,7 @@ konsisten dengan Jadwal Pelaksanaan Pekerjaan.
 c) Organisasi dan Personel. Dalam bab ini usulkan struktur dan komposisi tim.
 Peserta harus menyusun bidang-bidang pokok dari pekerjaan, tenaga ahli inti
 sebagai penanggung jawab, dan tenaga pendukung.
-Paraf 1 Paraf 2 Paraf 3
+
 (vii) BENTUK JADWAL WAKTU PELAKSANAAN PEKERJAAN
 CONTOH
 JADWAL WAKTU PELAKSANAAN PEKERJAAN
@@ -222856,7 +222855,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti pen
 laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara terpisah
 berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 (viii) BENTUK KOMPOSISI TIM DAN PENUGASAN
 CONTOH
 KOMPOSISI TIM DAN PENUGASAN
@@ -222875,7 +222874,7 @@ Tenaga Ahli Uraian
 Nama Personel Posisi Diusulkan Orang
 Lokal/Asing Pekerjaan
 Bulan
-Paraf 1 Paraf 2 Paraf 3
+
 (ix) BENTUK JADWAL PENUGASAN TENAGA AHLI
 CONTOH
 JADWAL PENUGASAN TENAGA AHLI
@@ -222897,7 +222896,7 @@ Penuh-
 Waktu
 Keterangan:
 Masukan personel dihitung dalam bulan dimulai sejak penugasan.
-Paraf 1 Paraf 2 Paraf 3
+
 (x) BENTUK DAFTAR RIWAYAT HIDUP PERSONEL YANG DIUSULKAN
 CONTOH
 Daftar Riwayat Hidup
@@ -222940,12 +222939,12 @@ sengaja atau sepatutnya diduga maka saya siap untuk digugurkan sebagai personel
 inti atau dikeluarkan jika sudah diperkerjakan.
 ____________,_____20__
 Yang membuat pernyataan,
-Paraf 1 Paraf 2 Paraf 3
+
 (__________)
 [nama jelas]
 Catatan: Setiap pengalaman kerja yang dicantumkan harus disertai dengan referensi dari
 Pemberi pekerjaan yang bersangkutan
-Paraf 1 Paraf 2 Paraf 3
+
 (xi) BENTUK SURAT PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
 CONTOH
 PERNYATAAN KESEDIAAN UNTUK DITUGASKAN
@@ -222967,7 +222966,7 @@ ____________,_____20__
 Yang membuat pernyataan,
 (__________)
 [nama jelas]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN B : DOKUMEN PENAWARAN BIAYA
 A. BENTUK SURAT PENAWARAN BIAYA CONTOH
 [KOP SURAT BADAN USAHA]
@@ -223005,7 +223004,7 @@ PT/CV/Fa/KSO_________________
 [pilih yang sesuai dan cantumkan nama]
 …………………….
 Jabatan
-Paraf 1 Paraf 2 Paraf 3
+
 B. BENTUK DAFTAR KELUARAN DAN HARGA
 CONTOH
 REKAPITULASI PENAWARAN BIAYA
@@ -223017,7 +223016,7 @@ II Output ......(dst)
 Sub-total
 PPN 10%
 Total
-Paraf 1 Paraf 2 Paraf 3
+
 C. BENTUK RINCIAN KOMPONEN REMUNERASI PERSONEL
 CONTOH
 RINCIAN KOMPONEN REMUNERASI PERSONEL
@@ -223039,7 +223038,7 @@ administrasi, dan sebagainya.
 2. Komponen remunerasi sesuai ketentuan peraturan perundangan terkait remunerasi minimal yang ditetapkan oleh
 Menteri yang membidangi jasa konstruksi.
 3. Rincian Komponen Remunerasi Personel hanya disampaikan pada saat klarifikasi dan negosiasi teknis dan biaya.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII. RANCANGAN KONTRAK
 I. SURAT PERJANJIAN
 CONTOH 1 - PENYEDIA TUNGGAL
@@ -223080,7 +223079,7 @@ perubahannya;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah beserta perubahannya dan aturan turunannya;
 1*) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan
 Provinsi Papua Barat;
@@ -223122,7 +223121,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 3. dst.
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
@@ -223167,7 +223166,7 @@ Penyerahan Pekerjaan.
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
-Paraf 1 Paraf 2 Paraf 3
+
 dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai
 kekuatan hukum yang sama dan mengikat bagi para pihak, rangkap yang lain dapat
 diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
@@ -223181,7 +223180,7 @@ Kontrak maka rekatkan meterai Rp meterai Rp 10.000,00)]
 [nama lengkap]
 [nama lengkap] NIP. ……………………
 [jabatan]
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH 2 - PENYEDIA KSO
 SURAT PERJANJIAN
 Kontrak Lumsum
@@ -223225,7 +223224,7 @@ perubahannya;
 4. Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah beserta perubahannya dan aturan turunannya;
 *) Disesuaikan dengan nama K/L/PD
-Paraf 1 Paraf 2 Paraf 3
+
 5. Peraturan Presiden Nomor 17 Tahun 2019 tentang Pengadaan Barang/Jasa
 Pemerintah untuk Percepatan Pembangunan Kesejahteraan di Provinsi Papua dan
 Provinsi Papua Barat;
@@ -223267,7 +223266,7 @@ Ruang lingkup pekerjaan utama terdiri dari:
 3. dst.
 [Catatan: ruang lingkup pekerjaan utama diisi dengan output dari pekerjaan tersebut
 sesuai dengan dokumen identifikasi kebutuhan dalam Renstra]
-Paraf 1 Paraf 2 Paraf 3
+
 Pasal 3
 HARGA KONTRAK, SUMBER PEMBIAYAAN DAN PEMBAYARAN
 (1) Harga Kontrak termasuk Pajak Pertambahan Nilai (PPN) yang diperoleh berdasarkan
@@ -223312,7 +223311,7 @@ Penyerahan Pekerjaan.
 Dengan demikian, Pejabat Penandatangan Kontrak dan Penyedia telah bersepakat untuk
 menandatangani Kontrak ini pada tanggal tersebut di atas dan melaksanakan Kontrak
 sesuai dengan ketentuan peraturan perundang-undangan di Republik Indonesia dan
-Paraf 1 Paraf 2 Paraf 3
+
 dibuat dalam 2 (dua) rangkap, masing-masing dibubuhi dengan meterai, mempunyai
 kekuatan hukum yang sama dan mengikat bagi para pihak, rangkap yang lain dapat
 diperbanyak sesuai kebutuhan tanpa dibubuhi meterai.
@@ -223325,7 +223324,7 @@ Kontrak maka rekatkan meterai Rp ini untuk Penyedia maka rekatkan
 10.000,00)] meterai Rp 10.000,00)]
 [nama lengkap] [nama lengkap]
 [jabatan] NIP. ……………………
-Paraf 1 Paraf 2 Paraf 3
+
 I. SYARAT-SYARAT UMUM KONTRAK
 SYARAT-SYARAT UMUM KONTRAK
 A. KETENTUAN UMUM
@@ -223375,7 +223374,7 @@ Pelaksanaan digunakan untuk untuk
 menghitung kesesuaian Rincian Komponen
 Remunerasi Personel dan Biaya Langsung Non
 Personel.
-Paraf 1 Paraf 2 Paraf 3
+
 1.9 Kerangka Acuan Kerja yang selanjutnya disebut
 KAK adalah yang disusun oleh Pejabat
 Penandatangan Kontrak untuk menjelaskan
@@ -223426,7 +223425,7 @@ sebagian tugas dan fungsi perangkat daerah
 1.17 Masa Kontrak adalah jangka waktu berlakunya
 Kontrak ini terhitung sejak tanggal
 penandatanganan Kontrak sampai dengan
-Paraf 1 Paraf 2 Paraf 3
+
 selesainya pekerjaan dan terpenuhinya hak dan
 kewajiban para pihak.
 1.18 Masa Pelaksanaan Kontrak adalah jangka waktu
@@ -223479,7 +223478,7 @@ perkiraan kegiatan. Biaya Non Personel dapat
 dibayarkan secara Lumsum, Harga Satuan
 dan/atau penggantian biaya sesuai yang
 dikeluarkan (at cost).
-Paraf 1 Paraf 2 Paraf 3
+
 1.27 Rincian Komponen Remunerasi Personel adalah
 rincian biaya langsung yang diperlukan untuk
 membayar remunerasi personel berdasarkan
@@ -223531,7 +223530,7 @@ dengan ketentuan-ketentuan dalam Dokumen Kontrak
 lain yang lebih tinggi berdasarkan urutan hierarki
 dalam Surat Perjanjian.
 3. Bahasa dan Hukum 3.1 Bahasa Kontrak harus dalam bahasa Indonesia.
-Paraf 1 Paraf 2 Paraf 3
+
 3.2 Dalam hal Kontrak dilakukan dengan pihak
 asing harus dibuat dalam bahasa Indonesia dan
 bahasa Inggris. Dalam hal terjadi perselisihan
@@ -223584,7 +223583,7 @@ sanksi-sanksi administratif sebagai berikut:
 a. pemutusan Kontrak;
 b. sisa uang muka harus dilunasi oleh Penyedia
 atau Jaminan Uang Muka dicairkan dan
-Paraf 1 Paraf 2 Paraf 3
+
 disetorkan sebagaimana ditetapkan dalam
 SSKK; dan
 c. pengenaan Sanksi Daftar Hitam.
@@ -223636,7 +223635,7 @@ pekerjaan setelah mendapat persetujuan tertulis
 dari Pejabat Penandatangan Kontrak. Penyedia
 tetap bertanggungjawab atas bagian pekerjaan
 yang disubkontrakkan.
-Paraf 1 Paraf 2 Paraf 3
+
 9.6 Jika ketentuan di atas dilanggar maka Penyedia
 dikenakan sanksi yang diatur dalam SSKK.
 10. Pengabaian Jika terjadi pengabaian oleh satu pihak terhadap
@@ -223686,7 +223685,7 @@ personel Penyedia, maka:
 a. Penyedia harus bertanggung jawab atas
 pemeliharaan yang mungkin diperlukan
 akibat pengunaan jalur akses;
-Paraf 1 Paraf 2 Paraf 3
+
 b. Penyedia harus menyediakan rambu atau
 petunjuk sepanjang jalur akses, dan
 mendapatkan perizinan yang mungkin
@@ -223739,7 +223738,7 @@ menyerahkan lokasi kerja sesuai kebutuhan
 Penyedia untuk mulai bekerja pada Tanggal
 Mulai Kerja untuk melaksanakan pekerjaan dan
 terbukti merupakan suatu hambatan yang
-Paraf 1 Paraf 2 Paraf 3
+
 disebabkan oleh Pejabat Penandatangan Kontrak,
 maka kondisi ini ditetapkan sebagai Peristiwa
 Kompensasi.
@@ -223788,7 +223787,7 @@ Konstruksi (RKK) mempresentasikan dan menyerahkan RKK pada
 saat rapat persiapan pelaksanaan Kontrak,
 kemudian pelaksanaan RKK dibahas dan
 disetujui oleh Pejabat Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 19.2 Para Pihak wajib menerapkan dan
 mengendalikan pelaksanaan RKK secara
 konsisten.
@@ -223838,7 +223837,7 @@ dalam adendum Kontrak.
 20.4 Pada tahapan rapat persiapan pelaksanaan
 Kontrak, PA/KPA dapat membentuk
 Pejabat/Panitia Peneliti Pelaksanaan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 21. Mobilisasi 21.1 Mobilisasi paling lambat harus sudah mulai
 dilaksanakan dalam waktu 30 (tiga puluh) hari
 kalender sejak diterbitkan SPMK, atau sesuai
@@ -223891,7 +223890,7 @@ mempengaruhi mutu pekerjaan, menaikkan
 Harga Kontrak atau menunda penyelesaian
 pekerjaan. Pengawas Pekerjaan dapat
 memerintahkan Penyedia untuk menyampaikan
-Paraf 1 Paraf 2 Paraf 3
+
 secara tertulis perkiraan dampak peristiwa atau
 kondisi tersebut di atas terhadap Harga Kontrak
 dan Masa Pelaksanaan. Pernyataan perkiraan ini
@@ -223945,7 +223944,7 @@ Kontrak Kritis I dan harus diselenggarakan
 SCM Tahap II yang membahas dan
 menyepakati besaran kemajuan fisik yang
 harus dicapai oleh Penyedia dalam waktu
-Paraf 1 Paraf 2 Paraf 3
+
 tertentu (uji coba kedua) yang dituangkan
 dalam Berita Acara SCM Tahap II.
 d. Apabila Penyedia gagal pada uji coba kedua,
@@ -223996,7 +223995,7 @@ Penyerahan Pekerjaan semula terlewati.
 25.4 Pemberian kesempatan kepada Penyedia untuk
 menyelesaikan pekerjaan dapat melampaui
 Tahun Anggaran.
-Paraf 1 Paraf 2 Paraf 3
+
 B.3 Penyelesaian Kontrak
 26. Serah Terima Pekerjaan 26.1 Setelah pekerjaan selesai sesuai dengan
 ketentuan dalam Kontrak, Penyedia
@@ -224046,7 +224045,7 @@ terlambat melewati batas waktu akhir kontrak
 karena kesalahan atau kelalaian Penyedia atau
 bukan akibat Keadaan Kahar maka Penyedia
 dikenakan denda keterlambatan.
-Paraf 1 Paraf 2 Paraf 3
+
 B.4 Adendum
 27. Perubahan Kontrak 27.1 Kontrak hanya dapat diubah melalui adendum
 Kontrak.
@@ -224097,7 +224096,7 @@ c. perubahan Jadwal Pelaksanaan Pekerjaan.
 Pejabat Penandatangan Kontrak secara tertulis
 kepada Penyedia kemudian dilanjutkan dengan
 negosiasi teknis dan harga dengan tetap
-Paraf 1 Paraf 2 Paraf 3
+
 mengacu pada ketentuan yang tercantum dalam
 Kontrak awal.
 28.4 Hasil negosiasi tersebut dituangkan dalam Berita
@@ -224149,7 +224148,7 @@ atas Kontrak setelah melakukan penelitian
 terhadap usulan tertulis yang diajukan oleh
 Penyedia dalam jangka waktu sesuai
 pertimbangan yang wajar setelah Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 meminta perpanjangan. Jika Penyedia lalai
 untuk memberikan peringatan dini atas
 keterlambatan atau tidak dapat bekerja sama
@@ -224200,7 +224199,7 @@ Inti diusulkan oleh Penyedia akibat perubahan
 pekerjaan, Penyedia mengajukan permohonan
 terlebih dahulu kepada Pejabat Penandatangan
 Kontrak disertai alasan penambahan.
-Paraf 1 Paraf 2 Paraf 3
+
 31.4 Penggantian dan/ atau penambahan Personel
 Inti sebagaimana ketentuan klausul 30.3
 diajukan dengan melampirkan riwayat
@@ -224251,7 +224250,7 @@ ketentuan peraturan perundang-undangan;
 dan/atau
 b. foto/video dokumentasi Keadaan Kahar
 yang telah diverifikasi kebenarannya.
-Paraf 1 Paraf 2 Paraf 3
+
 32.5 Hasil identifikasi kewajiban dan kinerja
 pelaksanaan dapat berupa:
 a. Foto/video dokumentasi pekerjaan yang
@@ -224304,7 +224303,7 @@ dilanjutkan/diselesaikannya pekerjaan.
 32.11 Penghentian kontrak sebagaimana pasal 41.10
 dilakukan melalui perintah tertulis oleh Pejabat
 Penandatangan Kontrak dengan disertai alasan
-Paraf 1 Paraf 2 Paraf 3
+
 penghentian kontrak dan dituangkan dalam
 adendum kontrak.
 32.12 Dalam hal pelaksanaan Kontrak dilanjutkan,
@@ -224356,7 +224355,7 @@ setelah Pejabat Penandatangan Kontrak
 rencana Pemutusan Kontrak secara tertulis
 kepada Penyedia/ Pejabat Penandatangan
 Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 34.5 Dalam hal dilakukan pemutusan Kontrak oleh
 salah satu pihak maka Pejabat Penandatangan
 Kontrak membayar kepada Penyedia sesuai
@@ -224409,7 +224408,7 @@ menyelesaikan pekerjaan; atau
 i. Penyedia menghentikan pekerjaan selama
 waktu yang ditentukan dalam Kontrak dan
 penghentian ini tidak tercantum dalam
-Paraf 1 Paraf 2 Paraf 3
+
 jadwal pelaksanaan pekerjaan serta tanpa
 persetujuan pengawas pekerjaan; atau
 j. Penyedia mengalihkan seluruh Kontrak
@@ -224462,7 +224461,7 @@ bukan oleh kesalahan para pihak;
 b. pelaksanaan kontrak tidak dapat dilanjutkan
 akibat keadaan kahar; atau
 c. ruang lingkup kontrak sudah terwujud.
-Paraf 1 Paraf 2 Paraf 3
+
 37.2 Pengakhiran pekerjaan sesuai pasal 46.1
 dituangkan dalam addendum final yang berisi
 perubahan akhir dari Kontrak.
@@ -224515,7 +224514,7 @@ dilakukan Pejabat Penandatangan Kontrak ;
 g. mengambil langkah-langkah yang memadai dalam
 rangka memberi perlindungan kepada setiap orang
 yang berada di tempat kerja maupun masyarakat
-Paraf 1 Paraf 2 Paraf 3
+
 dan lingkungan sekitar yang berhubungan dengan
 pemindahan bahan baku, penggunaan peralatan
 kerja konstruksi dan proses produksi;
@@ -224569,7 +224568,7 @@ dengan Tanggal Penyerahan Akhir Pekerjaan,
 semua risiko kehilangan atau kerusakan hasil
 pekerjaan ini, bahan dan perlengkapan
 merupakan risiko Penyedia, kecuali kerugian
-Paraf 1 Paraf 2 Paraf 3
+
 atau kerusakan tersebut diakibatkan oleh
 kesalahan atau kelalaian Pejabat Penandatangan
 Kontrak.
@@ -224621,7 +224620,7 @@ baik di dalam maupun di luar tempat kerja dan
 membatasi gangguan lingkungan terhadap pihak ketiga
 dan harta bendanya sehubungan dengan pelaksanaan
 Kontrak ini, sesuai dengan ketentuan peraturan
-Paraf 1 Paraf 2 Paraf 3
+
 perundang-undangan yang mengatur mengenai
 pengelolaan lingkungan hidup.
 47. Asuransi 47.1 Apabila disyaratkan, Penyedia menyediakan
@@ -224674,7 +224673,7 @@ cidera janji terhadap kewajiban-kewajiban Penyedia
 dalam Kontrak ini. Pejabat Penandatangan Kontrak
 mengenakan denda dengan memotong angsuran
 pembayaran prestasi pekerjaan Penyedia. Pembayaran
-Paraf 1 Paraf 2 Paraf 3
+
 denda tidak mengurangi tanggung jawab kontraktual
 Penyedia.
 51. Jaminan 51.1 Jaminan yang digunakan dalam pelaksanaan
@@ -224726,7 +224725,7 @@ dengan besarnya uang muka.
 51.5 Nilai Jaminan Uang Muka dapat dikurangi
 secara proporsional sesuai dengan sisa uang
 muka yang diterima.
-Paraf 1 Paraf 2 Paraf 3
+
 51.6 Masa berlakunya Jaminan Uang Muka paling
 kurang sejak tanggal persetujuan pemberian
 uang muka sampai dengan Tanggal Penyerahan
@@ -224780,7 +224779,7 @@ mencakup hal tersebut.
 55. Hari Kerja 55.1 Penyedia tidak diperkenankan melakukan
 pekerjaan apapun di lokasi kerja pada waktu
 yang secara ketentuan peraturan perundang-
-Paraf 1 Paraf 2 Paraf 3
+
 undangan dinyatakan sebagai hari libur atau di
 luar jam kerja normal, kecuali:
 a. dinyatakan lain di dalam Kontrak;
@@ -224836,7 +224835,7 @@ serta dapat dibantu oleh Tim Pendukung .
 sebagaimana diatur pada klausul 56.4 atau
 56.5 maka akan dikenakan denda senilai
 pekerjaan yang disubkontrakkan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 E. HAK DAN KEWAJIBAN PEJABAT PENANDATANGAN KONTRAK
 57. Hak dan Kewajiban Hak-hak yang dimiliki serta kewajiban-kewajiban yang
 Pejabat Penandatangan harus dilaksanakan oleh Pejabat Penandatangan
@@ -224887,7 +224886,7 @@ g. ketentuan lain dalam SSKK.
 pengeluaran tambahan dan/atau keterlambatan
 penyelesaian pekerjaan maka Pejabat
 Penandatangan Kontrak berkewajiban untuk
-Paraf 1 Paraf 2 Paraf 3
+
 membayar ganti rugi dan/atau memberikan
 perpanjangan Masa Pelaksanaan Kontrak .
 59.3 Ganti rugi akibat Peristiwa Kompensasi hanya
@@ -224938,7 +224937,7 @@ yang diterima oleh personelnya sesuai dengan
 Waktu Penugasan.
 61.3 Pembayaran berdasarkan Rincian Biaya
 Langsung Non Personel harus dilengkapi
-Paraf 1 Paraf 2 Paraf 3
+
 Penyedia dengan bukti pengeluaran yang dapat
 dipertanggungjawabkan.
 61.4 Pembayaran Biaya Langsung Non Personel
@@ -224994,7 +224993,7 @@ dapat diberikan paling tinggi 15% (lima
 belas persen) dari harga Kontrak;
 e. Besaran uang muka ditentukan dalam
 SSKK dan dibayar setelah Penyedia
-Paraf 1 Paraf 2 Paraf 3
+
 menyerahkan Jaminan Uang Muka paling
 sedikit sebesar uang muka yang diterima;
 f. Dalam hal diberikan uang muka, maka
@@ -225049,7 +225048,7 @@ Penandatangan Kontrak.
 f. pembayaran terakhir hanya dilakukan
 setelah pekerjaan selesai 100% (seratus
 persen) dan Berita Acara Serah Terima
-Paraf 1 Paraf 2 Paraf 3
+
 Pekerjaan ditandatangani oleh Pejabat
 Penandatangan Kontrak dan Penyedia;
 g. Pejabat Penandatangan Kontrak dalam
@@ -225102,7 +225101,7 @@ tagihan yang terlambat dibayar,
 berdasarkan tingkat suku bunga yang
 berlaku pada saat itu menurut ketetapan
 Bank Indonesia.
-Paraf 1 Paraf 2 Paraf 3
+
 f. Pembayaran denda dan/atau ganti rugi
 diperhitungkan dalam pembayaran prestasi
 pekerjaan.
@@ -225154,7 +225153,7 @@ kelalaian Penyedia.
 64.4 Jika dipandang perlu oleh Pejabat
 Penandatangan Kontrak, penangguhan
 pembayaran akibat keterlambatan penyerahan
-Paraf 1 Paraf 2 Paraf 3
+
 pekerjaan dapat dilakukan bersamaan dengan
 pengenaan denda kepada Penyedia.
 G. PENYELESAIAN PERSELISIHAN
@@ -225189,7 +225188,7 @@ kepentingan masing-masing pihak. Apabila
 selama Kontrak, salah satu pihak merasa
 dirugikan, maka diupayakan tindakan yang
 terbaik untuk mengatasi keadaan tersebut.
-Paraf 1 Paraf 2 Paraf 3
+
 II. SYARAT-SYARAT KHUSUS KONTRAK
 Klausul Ketentuan Data
 4 Korespondensi Alamat Para Pihak sebagai berikut:
@@ -225238,7 +225237,7 @@ Sah Penyedia]
 48.1.a & dan/atau 1. __________________________
 48.1.b & Subkontrak 2. ___________________________
 56.5
-Paraf 1 Paraf 2 Paraf 3
+
 3. _______dst
 [diisi pada saat finalisasi Kontrak, sesuai dengan
 penawaran Penyedia]
@@ -225285,7 +225284,7 @@ personel yang bersifat Harga Satuan
 𝐵0
 Hn = Harga Satuan komponen non-
 personel setelah penyesuaian harga;
-Paraf 1 Paraf 2 Paraf 3
+
 H0 = Harga Satuan komponen non-
 personel saat penawaran biaya;
 a = Koefisien tetap yang terdiri atas
@@ -225333,7 +225332,7 @@ Konstruksi ini dengan pembatasan sebagai berikut:
 dalam penggunaannya, misalnya: untuk penelitian/riset
 setelah mendapat persetujuan tertulis dari Pejabat
 Penandatangan Kontrak ]
-Paraf 1 Paraf 2 Paraf 3
+
 52.1 Persyaratan Persyaratan Personel:
 Personel 1……..
 2……..
@@ -225360,7 +225359,7 @@ salah satu dari Harga Kontrak atau harga Bagian Kontrak
 yang tercantum dalam Kontrak dan belum
 diserahterimakan apabila ditetapkan serah terima
 pekerjaan secara parsial]
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN SYARAT-SYARAT KHUSUS KONTRAK
 DAFTAR PEKERJAAN UTAMA YANG DISUBKONTRAKKAN DAN SUBPENYEDIA
 (Apabila Ada)
@@ -225400,7 +225399,7 @@ Subtotal
 Total
 Full time input
 Part time input
-Paraf 1 Paraf 2 Paraf 3
+
 JADWAL PELAKSANAAN PEKERJAAN
 Bulan ke-
 No. Kegiatan Keterangan
@@ -225413,7 +225412,7 @@ persetujuan PPK. Untuk paket pekerjaan yang ditahapkan maka kegiatan seperti
 penyerahan laporan, dan kegiatan lain yang memerlukan persetujuan dicantumkan secara
 terpisah berdasarkan tahapannya
 2) Bulan ke: Jangka waktu kegiatan dicantumkan dalam bentuk diagram balok.
-Paraf 1 Paraf 2 Paraf 3
+
 DAFTAR KELUARAN DAN HARGA
 Total Harga
 No. Keluaran Satuan
@@ -225427,7 +225426,7 @@ Sub-total …
 PPN 10%
 Total …
 Terbilang:
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XI. BENTUK DOKUMEN LAIN
 CONTOH
 LAMPIRAN 1 : SURAT PENUNJUKAN PENYEDIA BARANG/JASA (SPPBJ)
@@ -225458,7 +225457,7 @@ Meterai Rp. 10.000,00
 [nama lengkap]
 [jabatan]
 NIP. __________
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 2 : SURAT PERINTAH MULAI KERJA
 CONTOH
 [kop surat satuan kerja/KPA]
@@ -225500,12 +225499,12 @@ Untuk dan atas nama __________[nama penyedia]
 [tanda tangan]
 Meterai Rp. 10.000,00
 [nama lengkap wakil sah badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 [jabatan]
 Keterangan:
 Arsip I (satu) disimpan oleh Badan Usaha, Arsip II disimpan oleh Pejabat
 Penandatangan Kontrak.
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN 3 : JAMINAN UANG MUKA
 CONTOH
 [Kop Bank Penerbit Jaminan]
@@ -225549,7 +225548,7 @@ dalam waktu paling lambat 14 (empat belas) hari kerja tanpa syarat setelah
 menerima tuntutan pencairan dari Penerima Jaminan berdasar Surat
 Pernyataan Wanprestasi dari Penerima Jaminan mengenai pengenaan sanksi
 akibat Yang Dijamin cidera janji/lalai/tidak memenuhi kewajibannya.
-Paraf 1 Paraf 2 Paraf 3
+
 4. Penjamin melepaskan hak-hak istimewanya untuk menuntut supaya benda-
 benda yang diikat sebagai jaminan lebih dahulu disita dan dijual untuk
 melunasi hutang Yang Dijamin sebagaimana dimaksud dalam Pasal 1831 Kitab
@@ -225568,7 +225567,7 @@ Jaminan disarankan untuk
 mencocokkan Jaminan ini ke
 Bank ................ [bank] ........................
 Pemimpin
-Paraf 1 Paraf 2 Paraf 3
+
 CONTOH
 [Kop Perusahaan Penjaminan/Perusahaan Asuransi, konsorsium perusahaan asuransi
 umum/lembaga penjaminan/perusahaan penjaminan]
@@ -225612,7 +225611,7 @@ mengkonfirmasi Jaminan ini ke
 TERJAMIN ………[Penerbit Jaminan] PENJAMIN
 (..........................................) (..........................................)
 Nama Jelas Nama Jelas
-Paraf 1 Paraf 2 Paraf 3
+
 BAB XII. KETENTUAN LAIN-LAIN
 Para pihak yang terkait dalam pelaksanaan pengadaan Jasa Konsultansi Konstruksi harus
 mematuhi ketentuan sebagai berikut:
@@ -225650,7 +225649,7 @@ PENGADAAN BARANG/JASA
 PEMERINTAH REPUBLIK INDONESIA,
 ttd
 RONI DWI SUSANTO
-Paraf 1 Paraf 2 Paraf 3
+
 LAMPIRAN VI
 PERATURAN LEMBAGA KEBIJAKAN
 PENGADAAN BARANG/JASA
@@ -225683,7 +225682,7 @@ Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun
 (Design and Build)
-Paraf 1 Paraf 2 Paraf 3
+
 ii
 DOKUMEN KUALIFIKASI
 Nomor : __________
@@ -225694,7 +225693,7 @@ __________
 Kelompok Kerja Pemilihan: __________
 Kementerian/Lembaga/Pemerintah Daerah: _______
 Tahun Anggaran ____
-Paraf 1 Paraf 2 Paraf 3
+
 iii
 DAFTAR ISI
 BAB I. UMUM .......................................................................................................................... - 1 -
@@ -225738,12 +225737,12 @@ B. LINGKUP PEKERJAAN ...........................................................
 C. SUMBER DANA .............................................................................................................- 20 -
 D. PERSYARATAN KUALIFIKASI .......................................................................................- 20 -
 BAB V ISIAN DATA KUALIFIKASI ........................................................................................- 24 -
-Paraf 1 Paraf 2 Paraf 3
+
 iv
 BAB VI BENTUK SURAT PERJANJIAN KERJA SAMA OPERASI (KSO) ...............................- 29 -
 BAB VII PETUNJUK PENGISIAN DATA KUALIFIKASI ........................................................- 31 -
 BAB VIII TATA CARA EVALUASI KUALIFIKASI ..................................................................- 33 -
-Paraf 1 Paraf 2 Paraf 3
+
 BAB I. UMUM
 A. Dokumen Kualifikasi ini disusun berdasarkan Peraturan Presiden Nomor 16
 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah beserta perubahannya
@@ -225784,7 +225783,7 @@ Penyedia.
 - PPK : Pejabat Pembuat Komitmen;
 - Pelaku Usaha : Badan usaha atau perseorangan yang melakukan
 usaha dan/atau kegiatan pada bidang tertentu
-Paraf 1 Paraf 2 Paraf 3
+
 - Pelaku Usaha : yang selanjutnya disebut pelaku usaha Papua adalah
 Orang Asli Papua calon penyedia yang merupakan/dimiliki orang asli
 Papua dan berdomisili/berkedudukan di Provinsi
@@ -225805,12 +225804,12 @@ pengguna aplikasi.
 - Form Isian : Formulir isian elektronik pada SPSE yang digunakan
 Elektronik Data peserta untuk menginputkan dan mengirimkan data
 Kualifikasi kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB II. PENGUMUMAN TENDER DENGAN PRAKUALIFIKASI
 Pengumuman tercantum pada SPSE dan dapat ditambahkan di situs web
 Kementerian/Lembaga/Pemerintah Daerah, papan pengumuman resmi untuk
 masyarakat, surat kabar, dan/atau media lainnya
-Paraf 1 Paraf 2 Paraf 3
+
 BAB III. INSTRUKSI KEPADA PESERTA (IKP)
 A. UMUM
 1. Identitas Pokja dan 1.1 Identitas pokja pemilihan sebagaimana tercantum
@@ -225856,7 +225855,7 @@ tergabung dalam KSO.
 pengadaan pekerjaan konstruksi adalah leadfirm
 yang telah dicantumkan dalam Perjanjian Kerja
 Sama Operasi.
-Paraf 1 Paraf 2 Paraf 3
+
 3.7 KSO harus terdiri atas perusahaan nasional.
 3.8 Dalam hal KSO dilakukan antara Badan Usaha Jasa
 Pelaksana Konstruksi Terintegrasi dengan Badan
@@ -225905,7 +225904,7 @@ Menengah.
 3.12 Dalam hal leadfirm KSO merupakan Badan Usaha
 Jasa Pelaksana Konstruksi dengan kualifikasi Usaha
 Besar, ketentuan anggota KSO adalah:
-Paraf 1 Paraf 2 Paraf 3
+
 a. paling kurang terdiri dari 1 (satu) Badan Usaha
 Jasa Perencana/Perancang Konstruksi dengan
 kualifikasi Usaha Besar.
@@ -225956,7 +225955,7 @@ pembatalan kelulusan kualifikasi; dan/atau
 b. sanksi Daftar Hitam.
 4.3 Pengenaan sanksi dilaporkan oleh Pokja Pemilihan
 kepada PA/KPA.
-Paraf 1 Paraf 2 Paraf 3
+
 4.4 Pengenaan Sanksi Daftar Hitam oleh PA/KPA atas
 usulan Pokja Pemilihan.
 5. Larangan 5.1 Para pihak dalam melaksanakan tugas, fungsi, dan
@@ -226003,7 +226002,7 @@ pekerjaan yang sama.
 Kualifikasi disebut dalam LDK.
 8. Biaya Kualifikasi 8.1 Peserta sepenuhnya menanggung biaya untuk
 mengikuti kualifikasi ini.
-Paraf 1 Paraf 2 Paraf 3
+
 8.2 Pokja Pemilihan tidak bertanggung jawab atas
 kerugian apapun yang ditanggung oleh peserta.
 B. DOKUMEN KUALIFIKASI
@@ -226046,7 +226045,7 @@ memberikan penjelasan (ulang).
 berlangsungnya pemberian penjelasan dapat
 menambah waktu batas akhir tahapan tersebut
 sesuai dengan kebutuhan.
-Paraf 1 Paraf 2 Paraf 3
+
 11.8 Dalam hal waktu tahap penjelasan telah berakhir,
 perserta tidak dapat mengajukan pertanyaan
 namun Pokja Pemilihan masih mempunyai
@@ -226091,7 +226090,7 @@ isian elektronik data kualifikasi pada SPSE.
 elektronik data kualifikasi dalam SPSE.
 13.3 Jika Form Isian Elektronik Kualifikasi yang tersedia
 pada SPSE belum mengakomodir data kualifikasi
-Paraf 1 Paraf 2 Paraf 3
+
 yang disyaratkan Pokja Pemilihan, maka data
 kualifikasi tersebut diunggah (upload) pada
 fasilitas pengunggahan lain yang tersedia pada
@@ -226140,7 +226139,7 @@ isian elektronik kualifikasi yang tersedia pada
 SPSE;
 b. Peserta dapat mengirimkan data kualifikasi
 secara berulang sebelum batas akhir waktu
-Paraf 1 Paraf 2 Paraf 3
+
 pemasukan Dokumen Kualifikasi. Data
 kualifikasi yang dikirimkan terakhir akan
 menggantikan data kualifikasi yang telah
@@ -226196,7 +226195,7 @@ perpanjangan penyampaian dokumen
 kualifikasi
 15.3 Data Kualifikasi dapat dibuka pada saat Data
 Kualifikasi diterima Pokja Pemilihan pada SPSE.
-Paraf 1 Paraf 2 Paraf 3
+
 15.4 Data Kualifikasi yang kurang tidak dapat
 dilengkapi setelah batas akhir pemasukan data
 kualifikasi
@@ -226240,7 +226239,7 @@ menggunakan sistem gugur
 18.2 Pokja Pemilihan menetapkan persyaratan
 kualifikasi sebagaimana dimaksud pada ketentuan
 19.10 dalam LDK yang terdiri atas:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Persyaratan kepemilikan perizinan berusaha
 di bidang Jasa Konstruksi;
 b. Persyaratan kepemilikan Sertifikat Badan
@@ -226294,7 +226293,7 @@ unggahan data kualifikasi lainnya.
 maka data yang kurang masih dapat dilengkapi
 setelah Pokja Pemilihan menyampaikan hasil
 evaluasi kualifikasi, dengan cara:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Setelah jadwal tahapan evaluasi kualifikasi
 berakhir, Pokja Pemilihan menyampaikan
 informasi kekurangan data kualifikasi kepada
@@ -226342,7 +226341,7 @@ memberikan tanggapan atas permintaan
 klarifikasi, maka menggugurkan peserta.
 18.11 Hasil klarifikasi/konfirmasi dapat menggugurkan
 peserta.
-Paraf 1 Paraf 2 Paraf 3
+
 18.12 Selain ketentuan di atas, Peserta dinyatakan lulus
 kualifikasi apabila memenuhi persyaratan
 kualifikasi yang ditetapkan dalam LDK.
@@ -226389,7 +226388,7 @@ dilakukan dengan cara mengundang dan
 mencocokan data pada Form Isian Elektronik Data
 kualifikasi pada SPSE dengan dokumen asli dan
 meminta rekaman dokumennya.
-Paraf 1 Paraf 2 Paraf 3
+
 19.8 Pokja Pemilihan memverifikasi data kualifikasi
 calon pemenang melalui Aplikasi Sistem Informasi
 Kinerja Penyedia (SIKaP).
@@ -226438,7 +226437,7 @@ menghadiri pembuktian kualifikasi selama
 berstatus sebagai tenaga kerja tetap dan
 memperoleh kuasa dari Direksi yang namanya
 ada dalam akta pendirian/perubahan atau
-Paraf 1 Paraf 2 Paraf 3
+
 pihak yang sah menurut akta
 pendirian/perusahaan;
 d. kepala cabang perusahaan yang diangkat oleh
@@ -226484,7 +226483,7 @@ SPSE atas penetapan hasil kualifikasi kepada Pokja
 Pemilihan paling lambat 5 (lima) hari kalender
 setelah pengumuman hasil kualifikasi, diakhiri
 pada hari kerja dan jam kerja.
-Paraf 1 Paraf 2 Paraf 3
+
 22.2 Sanggah yang diajukan oleh peserta yang tidak
 memasukkan data kualifikasi maka sanggahan
 tersebut dianggap tidak memenuhi syarat.
@@ -226534,7 +226533,7 @@ c. prakualifikasi ulang.
 pembuktian kualifikasi ulang apabila:
 a. evaluasi tidak sesuai dengan ketentuan yang
 tercantum dalam dokumen kualifikasi; atau
-Paraf 1 Paraf 2 Paraf 3
+
 b. kesalahan dalam mengevaluasi dokumen
 kualifikasi peserta.
 23.3 Pokja pemilihan mengundang peserta untuk
@@ -226581,7 +226580,7 @@ Kualifikasi melalui SPSE.
 Dokumen Tender
 Bagi Peserta yang
 Lulus Kualifikasi
-Paraf 1 Paraf 2 Paraf 3
+
 BAB IV
 LEMBAR DATA KUALIFIKASI (LDK)
 HAL NOMOR IKP KETENTUAN DAN INFORMASI SPESIFIK
@@ -226620,7 +226619,7 @@ dokumen anggaran]
 Terintegrasi Rancang dan Bangun]
 D. Persyaratan 18.10 dan Persyaratan kualifikasi:
 Kualifikasi 18.13
-Paraf 1 Paraf 2 Paraf 3
+
 1. Peserta yang melakukan Kerja Sama Operasi
 (KSO) maka jumlah anggota KSO dapat
 dilakukan dengan batasan paling banyak
@@ -226674,7 +226673,7 @@ disyaratkan];
 5. Memiliki Sertifikat Manajemen Mutu, Sertifikat
 Manajemen Lingkungan, dan Sertifikat
 Keselamatan dan Kesehatan Kerja;
-Paraf 1 Paraf 2 Paraf 3
+
 6. Nomor NPWP ____________, dengan status
 keterangan Wajib Pajak berdasarkan hasil
 Konfirmasi Status Wajib Pajak_______;
@@ -226725,7 +226724,7 @@ belas) tahun terakhir.
 10. Memenuhi Sisa Kemampuan Paket (SKP)
 dengan perhitungan:
 SKP = KP – P, dimana:
-Paraf 1 Paraf 2 Paraf 3
+
 Kemampuan Paket (KP) sebanyak 6 (enam) atau
 1,2 (satu koma dua) N
 P = jumlah paket yang sedang dikerjakan
@@ -226745,7 +226744,7 @@ dilakukan secara saling melengkapi oleh
 seluruh anggota KSO;
 d. evaluasi pada angka 10 hanya dilakukan
 kepada leadfirm KSO.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB V
 ISIAN DATA KUALIFIKASI
 Isian Data Kualifikasi bagi Peserta tunggal/atas nama sendiri atau Peserta
@@ -226753,7 +226752,7 @@ sebagai Leadfirm KSO berbentuk Isian Elektronik Data Kualifikasi yang tersedia
 pada SPSE
 Isian Data Kualifikasi bagi anggota KSO disampaikan dalam formulir isian
 kualifikasi untuk anggota KSO
-Paraf 1 Paraf 2 Paraf 3
+
 FORMULIR ISIAN KUALIFIKASI UNTUK ANGGOTA KSO
 Saya yang bertanda tangan di bawah ini:
 Nama : ___________________[nama wakil sah badan usaha
@@ -226781,7 +226780,7 @@ pihak yang terkait, langsung maupun tidak langsung dalam proses pengadaan ini;
 5. badan usaha yang saya wakili tidak masuk dalam Daftar Hitam, tidak dalam
 pengawasan pengadilan, tidak pailit, dan kegiatan usahanya tidak sedang dihentikan;
 6. data-data badan usaha yang saya wakili adalah sebagai berikut:
-Paraf 1 Paraf 2 Paraf 3
+
 A. Data Administrasi
 1. Nama Badan Usaha : _____________________
 2. Status : Pusat Cabang
@@ -226819,7 +226818,7 @@ Konstruksi b. Tanggal ……………
 : …………
 bidang Jasa Konstruksi
 3. Instansi penerbit : …………
-Paraf 1 Paraf 2 Paraf 3
+
 E. Sertifikat Badan Usaha
 1. Sertifikat Badan Usaha : a. Nomor …………
 b. Tanggal …………
@@ -226854,7 +226853,7 @@ Nama Nilai Kontrak Serah
 Telepon Tanggal
 Terima
 1 2 3 4 5 6 7 8 9 10 11
-Paraf 1 Paraf 2 Paraf 3
+
 I. Data Pekerjaan yang Sedang Dilaksanakan (wajib untuk menghitung SKP)
 Pemilik
 Kontrak Total Progres
@@ -226878,7 +226877,7 @@ dan tanda tangan]
 (nama lengkap wakil sah badan usaha anggota KSO atau nama individu
 leadfirm)
 [jabatan pada badan usaha]
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VI
 BENTUK SURAT PERJANJIAN KERJA SAMA OPERASI (KSO)
 CONTOH
@@ -226921,7 +226920,7 @@ menyatakan dan menyetujui pakta integritas:
 a. Tidak akan melakukan praktek korupsi, kolusi, dan/atau nepotisme;
 b. Akan melaporkan kepada PA/KPA/APIP jika mengetahui terjadinya praktik
 korupsi, kolusi, dan/atau nepotisme dalam proses pengadaan ini;
-Paraf 1 Paraf 2 Paraf 3
+
 c. Akan mengikuti proses pengadaan secara bersih, transparan, dan profesional
 untuk memberikan hasil kerja terbaik sesuai ketentuan peraturan perundang-
 undangan; dan
@@ -226945,7 +226944,7 @@ ________________________
 Catatan:
 Apabila ditetapkan sebagai pemenang tender maka Surat Perjanjian Kerja Sama
 Operasi ini harus dinotariatkan
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VII
 PETUNJUK PENGISIAN DATA KUALIFIKASI
 I. Petunjuk Pengisian Untuk Peserta tunggal/atas nama sendiri dan leadfirm KSO
@@ -226992,7 +226991,7 @@ Tabel Sertifikat Badan usaha:
 6. Diisi dengan sub bidang klasifikasi/layanan.
 F. Sertifikat Lainnya [apabila disyaratkan]
 1. Diisi dengan jenis sertifikat, nomor dan tanggal penerbitannya.
-Paraf 1 Paraf 2 Paraf 3
+
 2. Diisi dengan masa berlaku sertifikat.
 3. Diisi dengan nama instansi penerbit sertifikat.
 G. Data Keuangan
@@ -227020,7 +227019,7 @@ Diisi dengan nama paket pekerjaan, klasifikasi/subklasifikasi pekerjaan, lokasi
 tempat pelaksanaan pekerjaan, nama dan alamat/telepon dari pemberi
 pekerjaan, nomor/tanggal dan nilai kontrak, serta persentase progres menurut
 kontrak, dan prestasi kerja terakhir.
-Paraf 1 Paraf 2 Paraf 3
+
 BAB VIII
 TATA CARA EVALUASI KUALIFIKASI
 A. Data Kualifikasi yang akan dievaluasi harus memenuhi persyaratan sesuai yang
@@ -227069,7 +227068,7 @@ f. pengalaman perusahaan dinilai dari pengalaman tertinggi pada
 pekerjaan sesuai yang disyaratkan dalam 15 (lima belas) tahun terakhir,
 nilai kontrak dan status peserta pada saat menyelesaikan kontrak
 pekerjaan tersebut:
-Paraf 1 Paraf 2 Paraf 3
+
 1) sebagai anggota KSO/ leadfirm KSO mendapat bobot nilai sesuai
 dengan porsi/sharing kemitraan;
 2) sebagai sub penyedia jasa mendapat nilai sebesar nilai pekerjaan
@@ -227121,7 +227120,7 @@ bahwa peserta memang benar adalah subkon untuk pekerjaan
 dimaksud;
 8. Khusus untuk pekerjaan konstruksi yang diperuntukkan bagi percepatan
 pembangunan kesejahteraan di Provinsi Papua dan Provinsi Papua Barat:
-Paraf 1 Paraf 2 Paraf 3
+
 a. Domisili Pelaku Usaha Papua wajib berada pada Provinsi lokasi
 pelaksanaan pekerjaan (Provinsi Papua atau Provinsi Papua Barat);
 b. Pembuktian Pelaku Usaha Papua yaitu dengan:
@@ -227169,7 +227168,7 @@ F. Pada tahap Pembuktian Kualifikasi:
 1. Pokja memeriksa legalitas wakil peserta yang hadir pada saat pembuktian
 kualifikasi dengan cara:
 a. Meminta identitas diri (KTP/SIM/Passport);
-Paraf 1 Paraf 2 Paraf 3
+
 b. Membandingkan identitas wakil peserta dengan Akta
 Pendirian/Perubahan Terakhir untuk memastikan bahwa wakil
 peserta adalah Direksi yang namanya tertuang dalam Akta;
@@ -227205,7 +227204,7 @@ Pemilihan dapat meminta peserta untuk menyampaikan klarifikasi secara
 tertulis, termasuk dapat melakukan peninjauan lapangan pada pihak-
 pihak/instansi terkait, namun tidak boleh mengubah substansi formulir isian
 kualifikasi.
-Paraf 1 Paraf 2 Paraf 3
+
 Model Dokumen Pemilihan
 Pengadaan
 Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun
@@ -230293,7 +230292,7 @@ ____________________ __________________
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasiJaminan ini ke
-_____[Penerbit Jaminan] Paraf I Paraf II Paraf II
+_____[Penerbit Jaminan]
 Jaminan Uang Muka dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
@@ -230391,7 +230390,7 @@ _____________________ __________________
 Untuk keyakinan, pemegang
 Jaminan disarankan untuk
 mengkonfirmasiJaminan ini
-ke _____[Penerbit Jaminan] Paraf I Paraf II Paraf II
+ke _____[Penerbit Jaminan]
 Jaminan Pemeliharaan dari Bank
 [Kop Bank Penerbit Jaminan]
 GARANSI BANK
