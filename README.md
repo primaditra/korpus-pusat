@@ -13,7 +13,7 @@ tag.csv                  daftar tag isu (dipakai juga oleh korpus-daerah)
 laporan/AAAA-BB.md       laporan berkala
 ```
 
-Nilai `<jenis>`: `uu`, `perppu`, `pp`, `perpres`, `permen`, `peraturan-lembaga`, `kepmen`, `se`.
+Nilai `<jenis>`: `uu`, `perppu`, `pp`, `perpres`, `permen`, `peraturan-lembaga`, `kepmen`, `keputusan-pejabat`, `se`.
 
 Jenis yang diterima:
 
@@ -26,6 +26,7 @@ Jenis yang diterima:
 | Permen | Peraturan Menteri |
 | Peraturan Lembaga | Peraturan lembaga negara/pemerintah |
 | Kepmen | Keputusan Menteri |
+| Keputusan pejabat | Keputusan pejabat di bawah menteri atau keputusan pimpinan lembaga, misalnya Keputusan Direktur Jenderal (Kepdirjen), Keputusan Kepala Lembaga (Kepka), dan Keputusan Deputi |
 | SE | Surat Edaran |
 
 Jenis di luar daftar ini tidak dimasukkan tanpa persetujuan pemilik korpus.
@@ -38,7 +39,7 @@ Naskah PDF disimpan di Google Drive akun khusus, di bawah folder induk `Peratura
 Peraturan/
 ├── Kotak-Masuk/              PDF yang belum diproses, nama file bebas (pusat maupun daerah)
 │   └── duplikat/             PDF duplikat dari Kotak-Masuk; tidak dipindai, dikosongkan pemilik korpus secara berkala
-├── Korpus-Pusat/naskah/<jenis>/<ID>.pdf
+├── Korpus-Pusat/naskah/<jenis>/<ID>.pdf (lampiran terpisah: <ID>_LAMPIRAN-I.pdf, ...)
 └── Korpus-Daerah/<provinsi>/<entitas>/<ID>.pdf
 ```
 
@@ -54,6 +55,8 @@ Peraturan/
 - ID peraturan sekaligus menjadi nama file: `<ID>.md` di repositori, `<ID>.pdf` di Google Drive.
 - ID ditulis huruf kapital dengan garis bawah sebagai pemisah: `<JENIS>_<NOMOR>_<TAHUN>`.
 - Untuk Permen, Kepmen, Peraturan Lembaga, dan SE, `<JENIS>` memuat singkatan penerbit agar unik: `PERMEN<PENERBIT>`, `KEPMEN<PENERBIT>`, `PER<LEMBAGA>`, `SE<PENERBIT>`.
+- Untuk keputusan pejabat, `<JENIS>` memuat jabatan dan unit atau lembaga penerbit: `KEPDIRJEN<UNIT>`, `KEPKA<LEMBAGA>`, `KEPDEPUTI<LEMBAGA>`. Contoh: `KEPKALKPP_<NOMOR>_<TAHUN>`.
+- Lampiran yang disimpan sebagai PDF terpisah diberi nama `<ID>_LAMPIRAN-I.pdf`, `<ID>_LAMPIRAN-II.pdf`, dan seterusnya, di folder yang sama dengan PDF induknya. Lampiran tunggal: `<ID>_LAMPIRAN.pdf`.
 - Singkatan penerbit yang belum pernah dipakai di katalog mengikuti singkatan yang tertulis di naskah atau di JDIH (Jaringan Dokumentasi dan Informasi Hukum) penerbitnya.
 - Tanggal ditulis `AAAA-BB-HH`.
 
@@ -74,7 +77,7 @@ Kolom, berurutan:
 | berlaku_sampai | Tanggal mulai berlakunya peraturan pencabut; kosong bila masih berlaku |
 | diubah_dicabut_oleh | ID peraturan pengubah atau pencabut; beberapa ID dipisah titik koma |
 | tautan_sumber | Tautan resmi (JDIH penerbit atau Pasal.id); kosong bila tidak ditemukan |
-| tautan_pdf_drive | Tautan PDF di Google Drive, bila disimpan |
+| tautan_pdf_drive | Tautan PDF di Google Drive, bila disimpan; bila lampiran disimpan terpisah, tautan induk lalu tautan lampiran, dipisah titik koma |
 | tag_isu | Tag dari tag.csv, dipisah titik koma |
 | tag_jenis_pemeriksaan | `keuangan`, `kinerja`, `pdtt` (Pemeriksaan Dengan Tujuan Tertentu); boleh lebih dari satu |
 | tanggal_verifikasi | Tanggal terakhir status dicek ke sumber luar |
