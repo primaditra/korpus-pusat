@@ -16,7 +16,7 @@ TENTANG
 PENGADAAN BARANG/JASA PEMERINTAH
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 PRESIDEN REPUBLIK INDONESIA,
-Menimbang : a bahwa Pengadaan Barang/Jasa Pemerinta.h mempunyai
+Menimbang : a. bahwa Pengadaan Barang/Jasa Pemerintah mempunyai
 peran penting dalam pelaksanaan pembangunan nasional
 untuk peningkatan pelayanan publik dan pengembangan
 perekonomian nasional dan daerah;
@@ -29,8 +29,7 @@ produk dalam negeri, peningkatan peran Usaha Mikro,
 Usaha Kecil, dan Usaha Menengah serta pembangunan
 berkelanjutan;
 c. bahwa Peraturan Presiden Nomor 54 Tahun 2010 tentang
-Pengadaan Baran
-- g/Jasa Pemerintah sebagaimana telah
+Pengadaan Barang/Jasa Pemerintah sebagaimana telah
 beberapa kali diubah, terakhir dengan Peraturan Presiden
 Nomor 4 Tahun 2015 tentang Perubahan Keempat atas
 Peraturan Presiden Nomor 54 Tahun 2010 tentang
@@ -39,11 +38,10 @@ kekurangan dan belum menampung perkembangan
 kebutuhan Pemerintah mengenai pengaturan atas
 Pengadaan Barang/Jasa yang baik;
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud
-pada huruf- a, huruf b, dan huruf c, perlu menetapkan
+pada huruf a, huruf b, dan huruf c, perlu menetapkan
 Peraturan Presiden tentang Pengadaan Barang/Jasa
 Pemerintah;
-Mengingat :
-Mengingat 1. Pasal 4 ayat (1) Undang-Undang Dasar Negara .Republik
+Mengingat : 1. Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik
 Indonesia Tahun 1945;
 2. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
@@ -63,25 +61,25 @@ BARANG/JASA PEMERINTAH.
 
 Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
-1. Pengadaan Barang/Jasa Pemerintah yang selanjutnya disebut Pengadaan Barang/Jasa adalah kegiatan Pengadaan Barang/Jasa oleh Kementerian/Lembaga/Perangkat Daerah yang dibiayai oleh APBN/APBD yang pro sesnya sejak identifikasi kebutuhan, sampai dengan serah terima hasil pekerjaan.
+1. Pengadaan Barang/Jasa Pemerintah yang selanjutnya disebut Pengadaan Barang/Jasa adalah kegiatan Pengadaan Barang/Jasa oleh Kementerian/Lembaga/Perangkat Daerah yang dibiayai oleh APBN/APBD yang prosesnya sejak identifikasi kebutuhan, sampai dengan serah terima hasil pekerjaan.
 
 2. Kementerian Negara yang selanjutnya disebut Kementerian adalah perangkat pemerintah yang membidangi urusan tertentu dalam pemerintahan.
 
-3. Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanaka.n tugas tertentu berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.
+3. Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanakan tugas tertentu berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.
 
 4. Perangkat Daerah adalah unsur pembantu Kepala Daerah dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.
 
 5. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
 
-6. Lembaga Kebijakan Pengadaan. Barang/Jasa Pemerintah yang selanjutnya disingkat LKPP adalah lembaga Pemerintah yang bertugas mengembangkan dan merumuskan kebijakan Pengadaan Barang/Jasa Pemerintah.
+6. Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah yang selanjutnya disingkat LKPP adalah lembaga Pemerintah yang bertugas mengembangkan dan merumuskan kebijakan Pengadaan Barang/Jasa Pemerintah.
 
 7. Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran Kementerian Negara/Lembaga/Perangkat Daerah.
 
-8. Kuasa Pengguna Anggaran pada Pelaksanaan APBN yang selanjutnya disingkat KPA adalah pejabat yang memperoleh kuasa dari PA untuk melaksanakan sebagian kewenangan dan tanggung jawab penggUnaan anggaran pada Kementerian Negara/Lembaga yang bersangkutan.
+8. Kuasa Pengguna Anggaran pada Pelaksanaan APBN yang selanjutnya disingkat KPA adalah pejabat yang memperoleh kuasa dari PA untuk melaksanakan sebagian kewenangan dan tanggung jawab penggunaan anggaran pada Kementerian Negara/Lembaga yang bersangkutan.
 
 9. Kuasa Pengguna Anggaran pada Pelaksanaan APBD yang selanjutnya disingkat KPA adalah pejabat yang diberi kuasa untuk melaksanakan sebagian kewenangan pengguna anggaran dalam melaksanakan sebagian tugas dan fungsi Perangkat Daerah.
 
-10. Pejabat Pembuat Komitmen yang selanjutnya ‘disingkat PPK adalah pejabat yang diberi kewenangan oleh PA/ KPA untuk mengambil keputusan dan/atau melakukan tindakan yang dapat mengakibatkan pengeluaran anggaran be1anja negara/anggaran belanja daerah.
+10. Pejabat Pembuat Komitmen yang selanjutnya disingkat PPK adalah pejabat yang diberi kewenangan oleh PA/KPA untuk mengambil keputusan dan/atau melakukan tindakan yang dapat mengakibatkan pengeluaran anggaran belanja negara/anggaran belanja daerah.
 
 11. Unit Kerja Pengadaan Barang/Jasa yang selanjutnya disingkat UKPBJ adalah unit kerja di Kementerian/Lembaga/Pemerintah Daerah yang menjadi pusat keunggulan Pengadaan Barang/Jasa.
 
@@ -99,7 +97,7 @@ Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
 18. Pengelola Pengadaan Barang/Jasa adalah Pejabat Fungsional yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan Pengadaan Barang/Jasa.
 
-19. Rencana Umum Pengadaan Barang/Jasa yang selanjutnya disingkat RUP adalah daftar rencana Pengadaan Barang/Jasa yang akan dilaksanakan oleh Kementerian/ Lembaga/ Perangkat Daerah.
+19. Rencana Umum Pengadaan Barang/Jasa yang selanjutnya disingkat RUP adalah daftar rencana Pengadaan Barang/Jasa yang akan dilaksanakan oleh Kementerian/Lembaga/Perangkat Daerah.
 
 20. E-marketplace Pengadaan Barang/Jasa adalah pasar elektronik yang disediakan untuk memenuhi kebutuhan barang/jasa pemerintah.
 
@@ -107,27 +105,25 @@ Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
 22. Aparat Pengawas Intern Pemerintah yang selanjutnya disingkat APIP adalah aparat yang melakukan pengawasan melalui audit, reviu, pemantauan, evaluasi, dan kegiatan pengawasan lain terhadap penyelenggaraan tugas dan fungsi Pemerintah.
 
-23. Pengadaan Barang/Jasa melalui Swakelola yang selanjutnya disebut Swakelola adalah cara memperoleh barang/jasa yang dikerjakan sendiri oleh Kementerian/ Lembaga/ Perangkat Daerah, Kementerian / Lembaga/ Perangkat Daerah lain, organisasi kemasyarakatan, atau kelompok masyarakat.
+23. Pengadaan Barang/Jasa melalui Swakelola yang selanjutnya disebut Swakelola adalah cara memperoleh barang/jasa yang dikerjakan sendiri oleh Kementerian/Lembaga/Perangkat Daerah, Kementerian/Lembaga/Perangkat Daerah lain, organisasi kemasyarakatan, atau kelompok masyarakat.
 
 24. Organisasi Kemasyarakatan yang selanjutnya disebut Ormas adalah organisasi yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
 
-25. Kelompok Masyarakat adalah kelompok masyarakat yang melaksanakan Pengadaan Barang/Jasa den.gan dukungan anggaran belanja dari APBN/APBD.
+25. Kelompok Masyarakat adalah kelompok masyarakat yang melaksanakan Pengadaan Barang/Jasa dengan dukungan anggaran belanja dari APBN/APBD.
 
-26. Pengadaan Barang/Jasa melalui Penyedia adalah cara memperoleh barang/jasa yang • disediakan oleh Pelaku Usaha.
+26. Pengadaan Barang/Jasa melalui Penyedia adalah cara memperoleh barang/jasa yang disediakan oleh Pelaku Usaha.
 
 27. Pelaku Usaha adalah setiap orang perorangan atau badan usaha, baik yang berbentuk badan hukum maupun bukan badan hukum yang didirikan dan berkedudukan atau melakukan kegiatan dalam wilayah hukum negara Republik Indonesia, baik sendiri maupun bersama-sama melalui perjanjian menyelenggarakan kegiatan usaha dalam berbagai bidang ekonomi.
 
 28. Penyedia Barang/Jasa Pemerintah yang selanjutnya disebut Penyedia adalah Pelaku Usaha yang menyediakan barang/jasa berdasarkan kontrak.
 
-29. Barang adalah setiap benda baik berwujud maupun tidak berwujud, bergerak maupun tidak bergerak, yang dapat diperdagangkan, dipakai, dipergunakan atau dimanfaatkan oleh Pengguna Barang,.
+29. Barang adalah setiap benda baik berwujud maupun tidak berwujud, bergerak maupun tidak bergerak, yang dapat diperdagangkan, dipakai, dipergunakan atau dimanfaatkan oleh Pengguna Barang.
 
 30. Pekerjaan Konstruksi adalah keseluruhan atau sebagian kegiatan yang meliputi pembangunan, pengoperasian, pemeliharaan, pembongkaran, dan pembangunan kembali suatu bangunan.
 
 31. Jasa Konsultansi adalah jasa layanan profesional yang membutuhkan keahlian tertentu diberbagai bidang keilmuan yang mengutamakan adanya olah pikir.
 
-32. Jasa Lainnya adalah jasa non-kon.sultansi atau jasa yang membutuhkan peralatan, metodologi khusus, dan/atau keterampilan dalam suatu sistem tata kelola yang telah dikenal luas di dunia usaha untuk menyelesaikan suatu pekerjaan.
-
-33. Harga .
+32. Jasa Lainnya adalah jasa non-konsultansi atau jasa yang membutuhkan peralatan, metodologi khusus, dan/atau keterampilan dalam suatu sistem tata kelola yang telah dikenal luas di dunia usaha untuk menyelesaikan suatu pekerjaan.
 
 33. Harga Perkiraan Sendiri yang selanjutnya disingkat HPS adalah perkiraan harga barang/jasa yang ditetapkan oleh PPK.
 
@@ -139,19 +135,19 @@ Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
 37. Seleksi adalah metode pemilihan untuk mendapatkan Penyedia Jasa Konsultansi.
 
-38. Tender/ Seleksi Internasional adalah pemilihan Penyedia Barang/Jasa dengan peserta pemilihan dapat berasal dari pelaku usaha nasional dan pelaku usaha asing.
+38. Tender/Seleksi Internasional adalah pemilihan Penyedia Barang/Jasa dengan peserta pemilihan dapat berasal dari pelaku usaha nasional dan pelaku usaha asing.
 
 39. Penunjukan Langsung adalah metode pemilihan untuk mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Konsultansi/Jasa Lainnya dalam keadaan tertentu.
 
-40. Pengadaan Langsung Barang/Pekerjaan Konstruksi/Jasa Lainnya adalah metode pemilihan untuk mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua rates juta rupiah).
+40. Pengadaan Langsung Barang/Pekerjaan Konstruksi/Jasa Lainnya adalah metode pemilihan untuk mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 
-41. Pengadaan Langsung Jasa Konsultansi adalah metode pemilihan untuk mendapatkan Penyedia Jasa Konsultansi yang bernilai paling banyak Rp100.900.000,00 (seratus juta rupiah).
+41. Pengadaan Langsung Jasa Konsultansi adalah metode pemilihan untuk mendapatkan Penyedia Jasa Konsultansi yang bernilai paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
 42. E-reverse Auction adalah metode penawaran harga secara berulang.
 
 43. Dokumen Pemilihan adalah dokumen yang ditetapkan oleh Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan yang memuat informasi dan ketentuan yang harus ditaati oleh para pihak dalam pemilihan Penyedia.
 
-44. Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut Kontrak adalah perjanjian tertulis antara PA/ KPA/ PPK dengan Penyedia Barang/Jasa atau pelaksana Swakelola.
+44. Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut Kontrak adalah perjanjian tertulis antara PA/KPA/PPK dengan Penyedia Barang/Jasa atau pelaksana Swakelola.
 
 45. Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang memenuhi kriteria Usaha Mikro sebagaimana dimaksud dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah.
 
@@ -159,15 +155,13 @@ Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
 47. Usaha Menengah adalah usaha ekonomi produktif yang berdiri sendiri, yang dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau cabang perusahaan yang dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dengan Usaha Kecil atau Usaha Besar dengan jumlah kekayaan bersih atau hasil penjualan tahunan sebagaimana diatur dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah.
 
-48. Surat Jaminan yang selanjutnya disebut Jaminan adalah jaminan tertulis yang dikeluarkan oleh Bank Umum/ Perusahaan Penjaminan/ Perusahaan Asuransi/ lembaga keuangan khusus yang menjalankan usaha di bidang pembiayaan, penjaminan, dan asuransi untuk mendorong ekspor Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang lembaga pembiayaan ekspor Indonesia.
+48. Surat Jaminan yang selanjutnya disebut Jaminan adalah jaminan tertulis yang dikeluarkan oleh Bank Umum/Perusahaan Penjaminan/Perusahaan Asuransi/lembaga keuangan khusus yang menjalankan usaha di bidang pembiayaan, penjaminan, dan asuransi untuk mendorong ekspor Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang lembaga pembiayaan ekspor Indonesia.
 
-49. Sanksi Daftar Hitam adalah •sanksi yang diberikan kepada peserta pemilihan/Penyedia berupa larangan mengikuti Pengadaan Barang/Jasa di seluruh Kementerian/Lembaga/Perangkat Daerah dalam jangka waktu tertentu.
+49. Sanksi Daftar Hitam adalah sanksi yang diberikan kepada peserta pemilihan/Penyedia berupa larangan mengikuti Pengadaan Barang/Jasa di seluruh Kementerian/Lembaga/Perangkat Daerah dalam jangka waktu tertentu.
 
-50. Pengadaan Berkelanjutan adalah Pengadaan Barang/Jasa yang bertujuan untuk mencapai nilai manfaat yang menguntungkan secara ekonomis tidak hanya untuk Kementerian/ Lembaga/ Perangkat Daerah sebagai penggunanya tetapi juga untuk masyarakat, serta signifikan mengurangi dampak negatif terhadap lingkungan dalam keseluruhan siklus penggunaannya.
+50. Pengadaan Berkelanjutan adalah Pengadaan Barang/Jasa yang bertujuan untuk mencapai nilai manfaat yang menguntungkan secara ekonomis tidak hanya untuk Kementerian/Lembaga/Perangkat Daerah sebagai penggunanya tetapi juga untuk masyarakat, serta signifikan mengurangi dampak negatif terhadap lingkungan dalam keseluruhan siklus penggunaannya.
 
-51. Konsolidasi Pengadaan Barang/Jasa adalah strategi Pengadaan. Barang/Jasa yang menggabungkan beberapa paket Pengadaan Barang/Jasa sejenis.
-
-52. Keadaan
+51. Konsolidasi Pengadaan Barang/Jasa adalah strategi Pengadaan Barang/Jasa yang menggabungkan beberapa paket Pengadaan Barang/Jasa sejenis.
 
 52. Keadaan Kahar adalah suatu keadaan yang terjadi di luar kehendak para pihak dalam kontrak dan tidak dapat diperkirakan sebelumnya, sehingga kewajiban yang ditentukan dalam kontrak menjadi tidak dapat dipenuhi.
 
@@ -177,9 +171,9 @@ Dalam Peraturan Presiden ini, yang dimaksud dengan:
 
 Ruang lingkup pemberlakuan Peraturan Presiden ini meliputi:
 
-a. Pengadaan Barang/Jasa di lingkungan Kementerian/ Lembaga/ Perangkat Daerah yang menggunakan anggaran belanja dari APBN/APBD;
+a. Pengadaan Barang/Jasa di lingkungan Kementerian/Lembaga/Perangkat Daerah yang menggunakan anggaran belanja dari APBN/APBD;
 
-b. Pengadaan. Barang/Jasa yang menggunakan anggaran belanja dari APBN/APBD sebagaimana dimaksud pada huruf a, termasuk Pengadaan Barang/Jasa yang sebagian atau seluruh dananya bersumber dari pinjaman dalam negeri dan/atau hibah dalam negeri yang diterima oleh Pemerintah dan/atau Pemerintah Daerah; dan/atau
+b. Pengadaan Barang/Jasa yang menggunakan anggaran belanja dari APBN/APBD sebagaimana dimaksud pada huruf a, termasuk Pengadaan Barang/Jasa yang sebagian atau seluruh dananya bersumber dari pinjaman dalam negeri dan/atau hibah dalam negeri yang diterima oleh Pemerintah dan/atau Pemerintah Daerah; dan/atau
 
 c. Pengadaan Barang/Jasa yang menggunakan anggaran belanja dari APBN/APBD sebagaimana dimaksud pada huruf a termasuk Pengadaan Barang/Jasa yang sebagian atau seluruhnya dibiayai dari pinjaman luar negeri atau hibah luar negeri.
 
@@ -195,8 +189,6 @@ c. Jasa Konsultansi; dan
 
 d. Jasa Lainnya.
 
-(2) Pengadaan
-
 (2) Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) dapat dilakukan secara terintegrasi.
 
 (3) Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara:
@@ -207,7 +199,7 @@ b. Penyedia.
 
 ## BAB II - TUJUAN, KEBIJAKAN, PRINSIP, DAN ETIKA PENGADAAN BARANG/JASA
 
-**Bagian Kesatu** **Tujuan. Pengadaan Barang/Jasa**
+**Bagian Kesatu** **Tujuan Pengadaan Barang/Jasa**
 
 ### Pasal 4
 
@@ -227,7 +219,7 @@ f. meningkatkan keikutsertaan industri kreatif;
 
 g. mendorong pemerataan ekonomi; dan
 
-h. mendorong Pengadaan Berkelanjutan. Bagian
+h. mendorong Pengadaan Berkelanjutan.
 
 **Bagian Kedua** **Kebijakan Pengadaan Barang/Jasa**
 
@@ -265,8 +257,6 @@ b. efektif;
 
 c. transparan;
 
-c. transparan;
-
 d. terbuka;
 
 e. bersaing;
@@ -291,8 +281,6 @@ d. menerima dan bertanggung jawab atas segala keputusan yang ditetapkan sesuai d
 
 e. menghindari dan mencegah terjadinya pertentangan kepentingan pihak yang terkait, baik secara langsung maupun tidak langsung, yang berakibat persaingan usaha tidak sehat dalam Pengadaan Barang/Jasa;
 
-f. menghindari
-
 f. menghindari dan mencegah pemborosan dan kebocoran keuangan negara;
 
 g. menghindari dan mencegah penyalahgunaan wewenang dan/atau kolusi; dan
@@ -301,19 +289,17 @@ h. tidak menerima, tidak menawarkan, atau tidak menjanjikan untuk memberi atau m
 
 (2) Pertentangan kepentingan pihak yang terkait sebagaimana dimaksud pada ayat (1) huruf e, dalam hal:
 
-a. Direksi, Dewan Komisaris, atau personel inti pada suatu badan usaha, merangkap sebagai Direksi, Dewan Komisaris, atau personel inti pada badan usaha lain yang mengikuti Tender/ Seleksi yang sama;
+a. Direksi, Dewan Komisaris, atau personel inti pada suatu badan usaha, merangkap sebagai Direksi, Dewan Komisaris, atau personel inti pada badan usaha lain yang mengikuti Tender/Seleksi yang sama;
 
 b. konsultan perencana/pengawas dalam Pekerjaan Konstruksi bertindak sebagai pelaksana Pekerjaan Konstruksi yang direncanakannya/diawasinya, kecuali dalam pelaksanaan pengadaan pekerjaan terintegrasi;
 
 c. konsultan manajemen konstruksi berperan sebagai konsultan perencana;
 
-d. pengurus/manajer koperasi merangkap sebagai PPK/ Pokja Pemilihan/ Pejabat Pengadaan pada pelaksanaan Pengadaan Barang/Jasa di Kementerian/ Lembaga/ Perangkat Daerah;
+d. pengurus/manajer koperasi merangkap sebagai PPK/Pokja Pemilihan/Pejabat Pengadaan pada pelaksanaan Pengadaan Barang/Jasa di Kementerian/Lembaga/Perangkat Daerah;
 
-e. PPK/ Pokja Pemilihan/ Pejabat Pengadaan baik langsung maupun tidak langsung mengendalikan atau menjalankan badan usaha Penyedia; dan/atau
+e. PPK/Pokja Pemilihan/Pejabat Pengadaan baik langsung maupun tidak langsung mengendalikan atau menjalankan badan usaha Penyedia; dan/atau
 
-f. beberapa
-
-f. beberapa badan usaha yang mengikuti Tender/ Seleksi yang sama, dikendalikan baik langsung maupun tidak langsung oleh pihak yang sama, dan/atau kepemilikan sahamnya lebih dari 50% (lima puluh persen) dikuasai oleh pemegang saham yang sama.
+f. beberapa badan usaha yang mengikuti Tender/Seleksi yang sama, dikendalikan baik langsung maupun tidak langsung oleh pihak yang sama, dan/atau kepemilikan sahamnya lebih dari 50% (lima puluh persen) dikuasai oleh pemegang saham yang sama.
 
 ## BAB III - PELAKU PENGADAAN BARANG/JASA
 
@@ -347,8 +333,6 @@ i. Penyedia.
 
 (1) PA sebagaimana dimaksud dalam Pasal 8 huruf a memiliki tugas dan kewenangan:
 
-a. melakukan
-
 a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja;
 
 b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan;
@@ -359,7 +343,7 @@ d. menetapkan dan mengumumkan RUP;
 
 e. melaksanakan Konsolidasi Pengadaan Barang/Jasa;
 
-f. menetapkan Penunjukan Langsung untuk Tender/ Seleksi ulang gagal;
+f. menetapkan Penunjukan Langsung untuk Tender/Seleksi ulang gagal;
 
 g. menetapkan PPK;
 
@@ -371,13 +355,13 @@ j. menetapkan Penyelenggara Swakelola;
 
 k. menetapkan tim teknis;
 
-1. menetapkan tim juri/tim ahli untuk pelaksanaan melalui Sayembara/Kontes;
+l. menetapkan tim juri/tim ahli untuk pelaksanaan melalui Sayembara/Kontes;
 
 m. menyatakan Tender gagal/Seleksi gagal; dan
 
 n. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
-1. Tender/ Penunjukan Langsung/ E-purchasing untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling sedikit di atas Rp100.000.000.000,00 (seratus miliar rupiah); atau
+1. Tender/Penunjukan Langsung/E-purchasing untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling sedikit di atas Rp100.000.000.000,00 (seratus miliar rupiah); atau
 
 2. Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai Pagu Anggaran paling sedikit di atas Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
@@ -401,7 +385,7 @@ b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang tel
 
 (4) KPA dapat dibantu oleh Pengelola Pengadaan Barang/Jasa.
 
-(5) Dalam hal tidak ada personel yang dapat ditunjuk sebagai PPK, KPA dapat merangkap sebagai PPK. Bagian
+(5) Dalam hal tidak ada personel yang dapat ditunjuk sebagai PPK, KPA dapat merangkap sebagai PPK.
 
 **Bagian Keempat** **Pejabat Pembuat Komitmen**
 
@@ -425,21 +409,21 @@ g. menetapkan tim pendukung;
 
 h. menetapkan tim atau tenaga ahli;
 
-i. melaksanakan E-purchasing untuk nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah); J menetapkan Surat Penunjukan Penyedia Barang/Jasa;
+i. melaksanakan E-purchasing untuk nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah);
+
+j. menetapkan Surat Penunjukan Penyedia Barang/Jasa;
 
 k. mengendalikan Kontrak;
 
-1. melaporkan pelaksanaan dan penyelesaian kegiatan kepada PA/ KPA;
+l. melaporkan pelaksanaan dan penyelesaian kegiatan kepada PA/KPA;
 
-m. menyerahkan hasil pekerjaan pelaksanaan kegiatan kepada PA/ KPA dengan berita acara penyerahan;
+m. menyerahkan hasil pekerjaan pelaksanaan kegiatan kepada PA/KPA dengan berita acara penyerahan;
 
 n. menyimpan dan menjaga keutuhan seluruh dokumen pelaksanaan kegiatan; dan
 
 o. menilai kinerja Penyedia.
 
-(2) Selain
-
-(2) Selain melaksanakan tugas sebagaimana dimaksud pada ayat (1), PPK melaksanakan tugas pelimpahan kewenangan dari PA/ KPA, meliputi:
+(2) Selain melaksanakan tugas sebagaimana dimaksud pada ayat (1), PPK melaksanakan tugas pelimpahan kewenangan dari PA/KPA, meliputi:
 
 a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja; dan
 
@@ -459,7 +443,7 @@ b. melaksanakan persiapan dan pelaksanaan Penunjukan Langsung untuk pengadaan Ba
 
 c. melaksanakan persiapan dan pelaksanaan Penunjukan Langsung untuk pengadaan Jasa Konsultansi yang bernilai paling banyak Rp100.000.000,00 (seratus juta rupiah); dan
 
-d. melaksanakan E-purchasing yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah). Bagian
+d. melaksanakan E-purchasing yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 
 **Bagian Keenam** **Kelompok Kerja Pemilihan**
 
@@ -473,15 +457,15 @@ b. melaksanakan persiapan dan pelaksanaan pemilihan Penyedia untuk katalog elekt
 
 c. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
-1. Tender/Penu.njukan Langsung untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling banyak Rp100.000.000.000,00 (seratus miliar rupiah); dan
+1. Tender/Penunjukan Langsung untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling banyak Rp100.000.000.000,00 (seratus miliar rupiah); dan
 
-2. Seleksi/ Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai Pagu Anggaran paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
+2. Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai Pagu Anggaran paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
 (2) Pokja Pemilihan sebagaimana dimaksud pada ayat (1) beranggotakan 3 (tiga) orang.
 
 (3) Dalam hal berdasarkan pertimbangan kompleksitas pemilihan Penyedia, anggota Pokja Pemilihan sebagaimana dimaksud pada ayat (2) dapat ditambah sepanjang berjumlah gasal.
 
-(4) Pokja Pemilihan dapat dibantu oleh tim atau tenaga ahli. Bagian
+(4) Pokja Pemilihan dapat dibantu oleh tim atau tenaga ahli.
 
 **Bagian Ketujuh** **Agen Pengadaan**
 
@@ -489,7 +473,7 @@ c. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
 (1) Agen Pengadaan sebagaimana dimaksud dalam Pasal 8 huruf f dapat melaksanakan Pengadaan Barang/Jasa.
 
-(2) Pelaksanaan tugas Agen Pengadaan sebagaimana dimaksud pada ayat (1) mutatis mutandis dengan tugas Pokja Pemilihan. dan/atau PPK.
+(2) Pelaksanaan tugas Agen Pengadaan sebagaimana dimaksud pada ayat (1) mutatis mutandis dengan tugas Pokja Pemilihan dan/atau PPK.
 
 (3) Pelaksanaan tugas Pokja Pemilihan dan/atau PPK dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -501,7 +485,7 @@ c. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
 (1) PjPHP sebagaimana dimaksud dalam Pasal 8 huruf g memiliki tugas memeriksa administrasi hasil pekerjaan pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah) dan Jasa Konsultansi yang bernilai paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
-(2) PPHP sebagaimana dimaksud dalam Pasal 8 huruf g memiliki tugas memeriksa administrasi hasil pekerjaan pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah) dan Jasa Konsultansi yang bernilai paling sedikit di atas Rp100.000.000,00 (seratus juta rupiah). Bagian
+(2) PPHP sebagaimana dimaksud dalam Pasal 8 huruf g memiliki tugas memeriksa administrasi hasil pekerjaan pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah) dan Jasa Konsultansi yang bernilai paling sedikit di atas Rp100.000.000,00 (seratus juta rupiah).
 
 **Bagian Kesembilan** **Penyelenggara Swakelola**
 
@@ -513,7 +497,7 @@ c. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
 (3) Tim Pelaksana memiliki tugas melaksanakan, mencatat, mengevaluasi, dan melaporkan secara berkala kemajuan pelaksanaan kegiatan dan penyerapan anggaran.
 
-(4) Tim Pengawas memiliki tugas mengawasi persiapan dan pelaksanaan fisik maupu.n administrasi Swakelola.
+(4) Tim Pengawas memiliki tugas mengawasi persiapan dan pelaksanaan fisik maupun administrasi Swakelola.
 
 **Bagian Kesepuluh** **Penyedia**
 
@@ -557,19 +541,17 @@ a. penetapan tipe Swakelola;
 
 b. penyusunan spesifikasi teknis/KAK; dan
 
-c. penyusunan perkiraan biaya/ Rencana Anggaran Biaya (RAB).
-
-(6) Tipe
+c. penyusunan perkiraan biaya/Rencana Anggaran Biaya (RAB).
 
 (6) Tipe Swakelola sebagaimana dimaksud pada ayat (5) huruf a terdiri atas:
 
-a. Tipe I yaitu Swakelola yang direncanakan, dilaksanakan, dan diawasi oleh Kementerian/ Lembaga/ Perangkat Daerah penanggung jawab anggaran;
+a. Tipe I yaitu Swakelola yang direncanakan, dilaksanakan, dan diawasi oleh Kementerian/Lembaga/Perangkat Daerah penanggung jawab anggaran;
 
-b. Tipe II yaitu Swakelola yang direncanakan dan diawasi oleh Kementerian/ Lembaga/ Perangkat Daerah penanggung jawab anggaran dan dilaksanakan oleh Kementerian/ Lembaga/ Perangkat Daerah lain pelaksana Swakelola;
+b. Tipe II yaitu Swakelola yang direncanakan dan diawasi oleh Kementerian/Lembaga/Perangkat Daerah penanggung jawab anggaran dan dilaksanakan oleh Kementerian/Lembaga/Perangkat Daerah lain pelaksana Swakelola;
 
-c. Tipe III yaitu Swakelola yang direncanakan dan diawasi oleh Kementerian/ Lembaga/ Perangkat Daerah penanggung jawab anggaran dan dilaksanakan oleh Ormas pelaksana Swakelola; atau
+c. Tipe III yaitu Swakelola yang direncanakan dan diawasi oleh Kementerian/Lembaga/Perangkat Daerah penanggung jawab anggaran dan dilaksanakan oleh Ormas pelaksana Swakelola; atau
 
-d. Tipe IV yaitu Swakelola yang direncanakan oleh Kementerian/ Lembaga/ Perangkat Daerah penanggung jawab anggaran dan/atau berdasarkan usulan Kelompok Masyarakat, dan dilaksanakan serta diawasi oleh Kelompok Masyarakat pelaksana Swakelola.
+d. Tipe IV yaitu Swakelola yang direncanakan oleh Kementerian/Lembaga/Perangkat Daerah penanggung jawab anggaran dan/atau berdasarkan usulan Kelompok Masyarakat, dan dilaksanakan serta diawasi oleh Kelompok Masyarakat pelaksana Swakelola.
 
 (7) Perencanaan pengadaan melalui Penyedia meliputi:
 
@@ -582,8 +564,6 @@ c. pemaketan Pengadaan Barang/Jasa;
 d. Konsolidasi Pengadaan Barang/Jasa; dan
 
 e. penyusunan biaya pendukung.
-
-(8) Hasil
 
 (8) Hasil perencanaan Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (4) dimuat dalam RUP.
 
@@ -623,8 +603,6 @@ a. keluaran atau hasil;
 
 b. volume barang/jasa;
 
-c. ketersediaan
-
 c. ketersediaan barang/jasa;
 
 d. kemampuan Pelaku Usaha; dan/atau
@@ -639,29 +617,29 @@ b. menyatukan beberapa paket Pengadaan Barang/Jasa yang menurut sifat dan jenis 
 
 c. menyatukan beberapa paket Pengadaan Barang/Jasa yang besaran nilainya seharusnya dilakukan oleh usaha kecil; dan/atau
 
-d. memecah Pengadaan Barang/Jasa menjadi beberapa paket dengan maksud menghindari Tender/ Seleksi.
+d. memecah Pengadaan Barang/Jasa menjadi beberapa paket dengan maksud menghindari Tender/Seleksi.
 
 **Bagian Keempat** **Konsolidasi Pengadaan Barang/Jasa**
 
 ### Pasal 21
 
-Konsolidasi Pengadaan Barang/Jasa dilakukan pada tahap perencanaan pengadaan, persiapan Pengadaan Barang/Jasa melalui Penyedia, dan/atau persiapan pemilihan Penyedia.
+(1) Konsolidasi Pengadaan Barang/Jasa dilakukan pada tahap perencanaan pengadaan, persiapan Pengadaan Barang/Jasa melalui Penyedia, dan/atau persiapan pemilihan Penyedia.
 
-(2) Konsolidasi Pengadaan Barang/Jasa dilaksanakan oleh PA/ KPA/PPK dan/atau UKPBJ. Bagian
+(2) Konsolidasi Pengadaan Barang/Jasa dilaksanakan oleh PA/KPA/PPK dan/atau UKPBJ.
 
 **Bagian Kelima** **Pengumuman Rencana Umum Pengadaan**
 
 ### Pasal 22
 
-(1) Pengumuman RUP Kementerian/ Lembaga dilakukan setelah penetapan alokasi anggaran belanja.
+(1) Pengumuman RUP Kementerian/Lembaga dilakukan setelah penetapan alokasi anggaran belanja.
 
 (2) Pengumuman RUP Perangkat Daerah dilakukan setelah rancangan Peraturan Daerah tentang APBD disetujui bersama oleh Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah.
 
 (3) Pengumuman RUP sebagaimana dimaksud pada ayat (1) dan ayat (2), dilakukan melalui aplikasi Sistem Informasi Rencana Umum Pengadaan (SIRUP).
 
-(4) Pengumuman RUP melalui SIRUP sebagaimana dimaksud pada ayat (3) dapat ditambahkan dalam situs web Kementerian / Lembaga/ Pemerintah Daerah, papan pengumuman resmi untuk masyarakat, surat kabar, dan/atau media lainnya.
+(4) Pengumuman RUP melalui SIRUP sebagaimana dimaksud pada ayat (3) dapat ditambahkan dalam situs web Kementerian/Lembaga/Pemerintah Daerah, papan pengumuman resmi untuk masyarakat, surat kabar, dan/atau media lainnya.
 
-(5) Pengumuman RUP dilakukan kembali dalam hal terdapat perubahan/revisi paket pengadaan atau Daftar Isian Pelaksanaan Anggaran (DIPA) / Dokumen Pelaksanaan Anggaran (DPA).
+(5) Pengumuman RUP dilakukan kembali dalam hal terdapat perubahan/revisi paket pengadaan atau Daftar Isian Pelaksanaan Anggaran (DIPA)/Dokumen Pelaksanaan Anggaran (DPA).
 
 ## BAB V - PERSIAPAN PENGADAAN BARANG/JASA
 
@@ -675,21 +653,19 @@ Konsolidasi Pengadaan Barang/Jasa dilakukan pada tahap perencanaan pengadaan, pe
 
 (3) Penetapan Penyelenggara Swakelola dilakukan sebagai berikut:
 
-a. Tipe I Penyelenggara Swakelola ditetapkan oleh PA/ KPA;
+a. Tipe I Penyelenggara Swakelola ditetapkan oleh PA/KPA;
 
-b. Tipe II Tim Persiapan dan Tim Pengawas ditetapkan oleh PA/KPA, serta Tim Pelaksana ditetapkan oleh Kementerian/ Lembaga/ Perangkat Daerah lain pelaksana Swakelola;
+b. Tipe II Tim Persiapan dan Tim Pengawas ditetapkan oleh PA/KPA, serta Tim Pelaksana ditetapkan oleh Kementerian/Lembaga/Perangkat Daerah lain pelaksana Swakelola;
 
 c. Tipe III Tim Persiapan dan Tim Pengawas ditetapkan oleh PA/KPA serta Tim Pelaksana ditetapkan oleh pimpinan Ormas pelaksana Swakelola; atau
 
 d. Tipe IV Penyelenggara Swakelola ditetapkan oleh pimpinan Kelompok Masyarakat pelaksana Swakelola.
 
-(4) Rencana kegiatan sebagaimana dimaksud pada ayat (1) ditetapkan oleh PPK dengan memperhitungkan tenaga ahli/ peralatan/ bahan tertentu yang dilaksanakan dengan Kontrak tersendiri.
-
-(5) Tenaga
+(4) Rencana kegiatan sebagaimana dimaksud pada ayat (1) ditetapkan oleh PPK dengan memperhitungkan tenaga ahli/peralatan/bahan tertentu yang dilaksanakan dengan Kontrak tersendiri.
 
 (5) Tenaga ahli sebagaimana dimaksud pada ayat (4) hanya dapat digunakan dalam pelaksanaan Swakelola tipe I dan jumlah tenaga ahli tidak boleh melebihi 50% (lima puluh persen) dari jumlah anggota Tim Pelaksana.
 
-(6) Hasil persiapan Pengadaan Barang/Jasa melalui Swakelola sebagaimana dimaksud pada ayat (1) dituangkan dalam KAK kegiatan/ subkegiatan/ output.
+(6) Hasil persiapan Pengadaan Barang/Jasa melalui Swakelola sebagaimana dimaksud pada ayat (1) dituangkan dalam KAK kegiatan/subkegiatan/output.
 
 (7) Rencana kegiatan yang diusulkan oleh Kelompok Masyarakat dievaluasi dan ditetapkan oleh PPK.
 
@@ -711,7 +687,7 @@ b. menetapkan rancangan kontrak;
 
 c. menetapkan spesifikasi teknis/KAK; dan/atau
 
-d. menetapkan uang muka, jaminan uang muka, jaminan pelaksanaan, jaminan pemeliharaan, sertifikat garansi, dan/atau penyesuaian harga. Pasal
+d. menetapkan uang muka, jaminan uang muka, jaminan pelaksanaan, jaminan pemeliharaan, sertifikat garansi, dan/atau penyesuaian harga.
 
 ### Pasal 26
 
@@ -727,7 +703,7 @@ d. menetapkan uang muka, jaminan uang muka, jaminan pelaksanaan, jaminan pemelih
 
 a. alat untuk menilai kewajaran harga penawaran dan/atau kewajaran harga satuan;
 
-b. dasar untuk menetapkan batas tertinggi penawaran yang sah dalam Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya; dan
+b. dasar untuk menetapkan batas tertinggi penawaran yang sah dalam Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya; dan
 
 c. dasar untuk menetapkan besaran nilai Jaminan Pelaksanaan bagi penawaran yang nilainya lebih rendah 80% (delapan puluh persen) dari nilai HPS.
 
@@ -739,11 +715,11 @@ c. dasar untuk menetapkan besaran nilai Jaminan Pelaksanaan bagi penawaran yang 
 
 a. pemasukan penawaran untuk pemilihan dengan pascakualifikasi; atau
 
-b. pemasukan dokumen kualifikasi untuk pemilihan dengan prakualifikasi. Pasal
+b. pemasukan dokumen kualifikasi untuk pemilihan dengan prakualifikasi.
 
 ### Pasal 27
 
-(1) Jenis Kontrak Pengadaan Barang/ Pekerj aan Konstruksi/Jasa Lainnya terdiri atas:
+(1) Jenis Kontrak Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya terdiri atas:
 
 a. Lumsum;
 
@@ -771,7 +747,7 @@ b. berorientasi kepada keluaran; dan
 
 c. pembayaran didasarkan pada tahapan produk/keluaran yang dihasilkan sesuai dengan Kontrak.
 
-(4) Kontrak Harga Satuan sebagaimana dimaksud pada ayat (1) huruf b merupakan kontrak Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan harga satuan yang tetap untuk setiap satuan atau unsur pekerjaan dengan spesifikasi teknis tertentu atas penyelesaian seluruh pekerjaan dalam batas waktu yang telah ditetapkan dengan ketentuan sebagai berikut:
+(4) Kontrak Harga Satuan sebagaimana dimaksud pada ayat (1) huruf b merupakan kontrak Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan harga satuan yang tetap untuk setiap satuan atau unsur pekerjaan dengan spesifikasi teknis tertentu atas penyelesaian seluruh pekerjaan dalam batas waktu yang telah ditetapkan dengan ketentuan sebagai berikut:
 
 a. volume atau kuantitas pekerjaannya masih bersifat perkiraan pada saat Kontrak ditandatangani;
 
@@ -790,8 +766,6 @@ b. pembayaran dapat dilakukan berdasarkan termin sesuai kesepakatan dalam Kontra
 (7) Kontrak Payung sebagaimana dimaksud pada ayat (1) huruf e dan ayat (2) huruf c dapat berupa kontrak harga satuan dalam periode waktu tertentu untuk barang/jasa yang belum dapat ditentukan volume dan/atau waktu pengirimannya pada saat Kontrak ditandatangani.
 
 (8) Kontrak berdasarkan Waktu Penugasan sebagaimana dimaksud pada ayat (2) huruf b merupakan Kontrak Jasa Konsultansi untuk pekerjaan yang ruang lingkupnya belum bisa didefinisikan dengan rinci dan/atau waktu yang dibutuhkan untuk menyelesaikan pekerjaan belum bisa dipastikan.
-
-(9) Kontrak
 
 (9) Kontrak Tahun Jamak merupakan Kontrak Pengadaan Barang/Jasa yang membebani lebih dari 1 (satu) Tahun Anggaran dilakukan setelah mendapatkan persetujuan pejabat yang berwenang sesuai dengan ketentuan peraturan perundang-undangan, dapat berupa:
 
@@ -817,11 +791,9 @@ e. surat pesanan.
 
 (3) Kuitansi sebagaimana dimaksud pada ayat (1) huruf b digunakan untuk Pengadaan Barang/Jasa Lainnya dengan nilai paling banyak Rp50.000.000,00 (lima puluh juta rupiah).
 
-(4) SPK
-
 (4) SPK sebagaimana dimaksud pada ayat (1) huruf c digunakan untuk Pengadaan Jasa Konsultansi dengan nilai paling banyak Rp100.000.000,00 (seratus juta rupiah), Pengadaan Barang/Jasa Lainnya dengan nilai paling sedikit di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan nilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah), dan Pengadaan Pekerjaan Konstruksi dengan nilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 
-(5) Surat perjanjian sebagaimana dimaksud pada ayat (1) huruf d digunakan untuk Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah) dan untuk Pengadaan Jasa Konsultansi dengan nilai paling sedikit di atas Rp100.000.000,00 (seratus juta rupiah).
+(5) Surat perjanjian sebagaimana dimaksud pada ayat (1) huruf d digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai paling sedikit di atas Rp200.000.000,00 (dua ratus juta rupiah) dan untuk Pengadaan Jasa Konsultansi dengan nilai paling sedikit di atas Rp100.000.000,00 (seratus juta rupiah).
 
 (6) Surat pesanan sebagaimana dimaksud pada ayat (1) huruf e digunakan untuk Pengadaan Barang/Jasa melalui E-purchasing atau pembelian melalui toko daring.
 
@@ -867,8 +839,6 @@ b. mudah dicairkan; dan
 
 c. harus dicairkan oleh penerbit jaminan paling lambat 14 (empat belas) hari kerja setelah surat perintah pencairan dari Pokja Pemilihan/PPK/Pihak yang diberi kuasa oleh Pokja Pemilihan/PPK diterima.
 
-(5) Pengadaan
-
 (5) Pengadaan Jasa Konsultansi tidak diperlukan Jaminan Penawaran, Jaminan Sanggah Banding, Jaminan Pelaksanaan, dan Jaminan Pemeliharaan.
 
 (6) Jaminan dari Bank Umum, Perusahaan Penjaminan, Perusahaan Asuransi, lembaga keuangan khusus yang menjalankan usaha di bidang pembiayaan, penjaminan, dan asuransi untuk mendorong ekspor Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang lembaga pembiayaan ekspor Indonesia dapat digunakan untuk semua jenis Jaminan.
@@ -881,7 +851,7 @@ c. harus dicairkan oleh penerbit jaminan paling lambat 14 (empat belas) hari ker
 
 (2) Jaminan Penawaran sebagaimana dimaksud pada ayat (1) besarnya antara 1% (satu persen) hingga 3% (tiga persen) dari nilai total HPS.
 
-(3) Untuk Pekerjaan Konstruksi terintegrasi, Jaminan Penawaran sebagaimana dimaksud pada ayat (1) besarnya antara 1% (satu persen) hingga 3% (tiga persen) dari nilai Pagu Anggaran. Pasal . - 37 -
+(3) Untuk Pekerjaan Konstruksi terintegrasi, Jaminan Penawaran sebagaimana dimaksud pada ayat (1) besarnya antara 1% (satu persen) hingga 3% (tiga persen) dari nilai Pagu Anggaran.
 
 ### Pasal 32
 
@@ -905,8 +875,6 @@ a. untuk nilai penawaran terkoreksi antara 80% (delapan puluh persen) sampai den
 
 b. untuk nilai penawaran terkoreksi di bawah 80% (delapan puluh persen) dari nilai HPS, Jaminan Pelaksanaan sebesar 5% (lima persen) dari nilai total HPS.
 
-(4) Besaran
-
 (4) Besaran nilai Jaminan Pelaksanaan untuk pekerjaan terintegrasi adalah sebagai berikut:
 
 a. untuk nilai penawaran antara 80% (delapan puluh persen) sampai dengan 100% (seratus persen) dari nilai Pagu Anggaran, Jaminan Pelaksanaan sebesar 5% (lima persen) dari nilai kontrak; atau
@@ -926,8 +894,6 @@ b. untuk nilai penawaran di bawah 80% (delapan puluh persen) dari nilai Pagu Ang
 (1) Jaminan Pemeliharaan sebagaimana dimaksud dalam Pasal 30 ayat (1) huruf e diberlakukan untuk Pekerjaan Konstruksi atau Jasa Lainnya yang membutuhkan masa pemeliharaan, dalam hal Penyedia menerima uang retensi pada serah terima pekerjaan pertama (Provisional Hand Over).
 
 (2) Jaminan Pemeliharaan sebagaimana dimaksud pada ayat (1) dikembalikan 14 (empat belas) hari kerja setelah masa pemeliharaan selesai.
-
-(3) Besaran
 
 (3) Besaran nilai Jaminan Pemeliharaan sebesar 5% (lima persen) dari nilai kontrak.
 
@@ -949,8 +915,6 @@ b. tata cara penghitungan penyesuaian harga harus dicantumkan dengan jelas dalam
 
 a. penyesuaian harga diberlakukan pada Kontrak Tahun Jamak yang masa pelaksanaannya lebih dari 18 (delapan belas) bulan;
 
-b. penyesuaian
-
 b. penyesuaian harga sebagaimana dimaksud pada huruf a diberlakukan mulai bulan ke-13 (tiga belas) sejak pelaksanaan pekerjaan;
 
 c. penyesuaian harga satuan berlaku bagi seluruh kegiatan/mata pembayaran, kecuali komponen keuntungan, biaya tidak langsung (overhead cost), dan harga satuan timpang sebagaimana tercantum dalam penawaran;
@@ -965,7 +929,7 @@ g. indeks yang digunakan dalam hal pelaksanaan Kontrak terlambat disebabkan oleh
 
 ### Pasal 38
 
-(1) Metode pemilihan Penyedia Barang/ Pekerjaan Konstruksi/Jasa Lainnya terdiri atas:
+(1) Metode pemilihan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya terdiri atas:
 
 a. E-purchasing;
 
@@ -977,23 +941,20 @@ d. Tender Cepat; dan
 
 e. Tender.
 
-(2) E-purchasing
+(2) E-purchasing sebagaimana dimaksud pada ayat (1) huruf a dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya yang sudah tercantum dalam katalog elektronik.
 
-(2) E-purchasing sebagaimana dimaksud pada ayat (1) huruf a dilaksanakan untuk Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang sudah tercantum dalam katalog elektronik.
-
-(3) Pengadaan Langsung sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan untuk Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
+(3) Pengadaan Langsung sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 
 (4) Penunjukan Langsung sebagaimana dimaksud pada ayat (1) huruf c dilaksanakan untuk Barang/Pekerjaan Konstruksi/Jasa Lainnya dalam keadaan tertentu.
 
-(5) Kriteria Barang/ Pekerj aan Konstruksi/Jasa Lainnya untuk keadaan tertentu sebagaimana dimaksud pada ayat (4) meliputi:
+(5) Kriteria Barang/Pekerjaan Konstruksi/Jasa Lainnya untuk keadaan tertentu sebagaimana dimaksud pada ayat (4) meliputi:
 
 a. penyelenggaraan penyiapan kegiatan yang mendadak untuk menindaklanjuti komitmen internasional yang dihadiri oleh Presiden/Wakil Presiden;
 
-b. barang/jasa yang bersifat rahasia untuk kepentingan Negara meliputi intelijen, perlindungan saksi, pengamanan Presiden dan Wakil Presiden, Mantan Presiden dan Mantan Wakil Presiden beserta keluarganya serta tamu negara setingkat kepala negara/ kepala pemerintahan, atau barang/jasa lain bersifat rahasia sesuai dengan ketentuan peraturan perundang-undangan;
+b. barang/jasa yang bersifat rahasia untuk kepentingan Negara meliputi intelijen, perlindungan saksi, pengamanan Presiden dan Wakil Presiden, Mantan Presiden dan Mantan Wakil Presiden beserta keluarganya serta tamu negara setingkat kepala negara/kepala pemerintahan, atau barang/jasa lain bersifat rahasia sesuai dengan ketentuan peraturan perundang-undangan;
 
 c. Pekerjaan Konstruksi bangunan yang merupakan satu kesatuan sistem konstruksi dan satu kesatuan tanggung jawab atas risiko kegagalan bangunan yang secara keseluruhan tidak dapat direncanakan/diperhitungkan sebelumnya;
 
-d. Barang/
 
 d. Barang/Pekerjaan Konstruksi/Jasa Lainnya yang hanya dapat disediakan oleh 1 (satu) Pelaku Usaha yang mampu;
 
@@ -1001,17 +962,17 @@ e. pengadaan dan penyaluran benih unggul yang meliputi benih padi, jagung, dan k
 
 f. pekerjaan prasarana, sarana, dan utilitas umum di lingkungan perumahan bagi Masyarakat Berpenghasilan Rendah yang dilaksanakan oleh pengembang yang bersangkutan;
 
-g. Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang spesifik dan hanya dapat dilaksanakan oleh pemegang hak paten, atau pihak yang telah mendapat izin dari pemegang hak paten, atau pihak yang menjadi pemenang tender untuk mendapatkan izin dari pemerintah; atau
+g. Barang/Pekerjaan Konstruksi/Jasa Lainnya yang spesifik dan hanya dapat dilaksanakan oleh pemegang hak paten, atau pihak yang telah mendapat izin dari pemegang hak paten, atau pihak yang menjadi pemenang tender untuk mendapatkan izin dari pemerintah; atau
 
 h. Barang/Pekerjaan Konstruksi/Jasa Lainnya yang setelah dilakukan Tender ulang mengalami kegagalan.
 
-(6) Tender Cepat sebagaimana dimaksud pada ayat ( I) huruf d dilaksanakan dalam hal:
+(6) Tender Cepat sebagaimana dimaksud pada ayat (1) huruf d dilaksanakan dalam hal:
 
 a. spesifikasi dan volume pekerjaannya sudah dapat ditentukan secara rinci; dan
 
 b. Pelaku Usaha telah terkualifikasi dalam Sistem Informasi Kinerja Penyedia.
 
-(7) Tender sebagaimana dimaksud pada ayat (1) huruf e dilaksanakan dalam hal tidak dapat menggunakan metode pemilihan Penyedia sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf d. Pasal
+(7) Tender sebagaimana dimaksud pada ayat (1) huruf e dilaksanakan dalam hal tidak dapat menggunakan metode pemilihan Penyedia sebagaimana dimaksud pada ayat (1) huruf a sampai dengan huruf d.
 
 ### Pasal 39
 
@@ -1025,7 +986,7 @@ c. Harga Terendah.
 
 (2) Metode evaluasi Sistem Nilai digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang memperhitungkan penilaian teknis dan harga.
 
-(3) Metode evaluasi Penilaian Biaya Selama Umur Ekonomis digunakan untuk Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya yang memperhitungkan faktor umur ekonomis, harga, biaya operasional, biaya pemeliharaan, dan nilai sisa dalam jangka waktu operasi tertentu.
+(3) Metode evaluasi Penilaian Biaya Selama Umur Ekonomis digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang memperhitungkan faktor umur ekonomis, harga, biaya operasional, biaya pemeliharaan, dan nilai sisa dalam jangka waktu operasi tertentu.
 
 (4) Metode evaluasi Harga Terendah digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dalam hal harga menjadi dasar penetapan pemenang di antara penawaran yang memenuhi persyaratan teknis.
 
@@ -1043,7 +1004,7 @@ c. 2 (dua) tahap.
 
 (3) Metode dua file digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang memerlukan penilaian teknis terlebih dahulu.
 
-(4) Metode dua tahap digunakan untuk Pengadaan Barang/ Pekerjaan Konstruksi/Jasa. Lainnya yang memiliki karakteristik sebagai berikut:
+(4) Metode dua tahap digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang memiliki karakteristik sebagai berikut:
 
 a. spesifikasi teknisnya belum bisa ditentukan dengan pasti;
 
@@ -1093,8 +1054,6 @@ c. Pagu Anggaran; atau
 
 d. Biaya Terendah.
 
-(2) Metode
-
 (2) Metode evaluasi Kualitas dan Biaya digunakan untuk pekerjaan yang ruang lingkup pekerjaan, jenis tenaga ahli, dan waktu penyelesaian pekerjaan dapat diuraikan dengan pasti dalam KAK.
 
 (3) Metode evaluasi Kualitas digunakan untuk pekerjaan yang ruang lingkup pekerjaan, jenis tenaga ahli, dan waktu penyelesaian pekerjaan tidak dapat diuraikan dengan pasti dalam KAK atau untuk pekerjaan Penyedia Jasa Konsultansi Perorangan.
@@ -1115,11 +1074,9 @@ d. Biaya Terendah.
 
 (2) Kualifikasi dilakukan dengan pascakualifikasi atau prakualifikasi.
 
-(3) Pascakualifikasi
-
 (3) Pascakualifikasi dilaksanakan pada pelaksanaan pemilihan sebagai berikut:
 
-a. Tender Barang/ Pekerjaan Konstruksi/Jasa Lainnya untuk Pengadaan yang bersifat tidak kompleks; atau
+a. Tender Barang/Pekerjaan Konstruksi/Jasa Lainnya untuk Pengadaan yang bersifat tidak kompleks; atau
 
 b. Seleksi Jasa Konsultansi Perorangan.
 
@@ -1127,7 +1084,7 @@ b. Seleksi Jasa Konsultansi Perorangan.
 
 (5) Prakualifikasi dilaksanakan pada pelaksanaan pemilihan sebagai berikut:
 
-a. Tender Barang/ Pekerjaan Konstruksi/Jasa Lainnya untuk Pengadaan yang bersifat kompleks;
+a. Tender Barang/Pekerjaan Konstruksi/Jasa Lainnya untuk Pengadaan yang bersifat kompleks;
 
 b. Seleksi Jasa Konsultansi Badan Usaha; atau
 
@@ -1135,7 +1092,7 @@ c. Penunjukan Langsung Pengadaan Barang/Pekerjaan Konstruksi/Jasa Konsultansi Ba
 
 (6) Kualifikasi pada prakualifikasi sebagaimana dimaksud pada ayat (5) dilakukan sebelum pemasukan penawaran dengan menggunakan metode:
 
-a. sistem gugur untuk Penyedia Barang/ Pekerjaan Konstruksi/Jasa Lainnya; atau
+a. sistem gugur untuk Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya; atau
 
 b. sistem pembobotan dengan ambang batas untuk Penyedia Jasa Konsultansi.
 
@@ -1145,13 +1102,11 @@ a. daftar peserta Tender Barang/Pekerjaan Konstruksi/Jasa Lainnya; atau
 
 b. daftar pendek peserta Seleksi Jasa Konsultansi.
 
-(8) Dalam
-
 (8) Dalam hal Pelaku Usaha telah terkualifikasi dalam Sistem Informasi Kinerja Penyedia, tidak diperlukan pembuktian kualifikasi.
 
 (9) Pokja Pemilihan dilarang menambah persyaratan kualifikasi yang diskriminatif dan tidak objektif.
 
-(10) Pengadaan Barang/Jasa yang bersifat kompleks sebagaimana dimaksud pada ayat (5) huruf a adalah pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang mempunyai risiko tinggi, memerlukan teknologi tinggi, mengguna.kan peralatan yang didesain khusus, dan/atau sulit mendefinisikan secara teknis bagaimana cara memenuhi kebutuhan dan tujuan Pengadaan Barang/Jasa.
+(10) Pengadaan Barang/Jasa yang bersifat kompleks sebagaimana dimaksud pada ayat (5) huruf a adalah pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang mempunyai risiko tinggi, memerlukan teknologi tinggi, menggunakan peralatan yang didesain khusus, dan/atau sulit mendefinisikan secara teknis bagaimana cara memenuhi kebutuhan dan tujuan Pengadaan Barang/Jasa.
 
 ### Pasal 45
 
@@ -1163,7 +1118,7 @@ Dokumen Pemilihan terdiri atas:
 
 a. Dokumen Kualifikasi; dan
 
-b. Dokumen Tender/ Seleksi/ Penunjukan Langsung/ Pengadaan Langsung.
+b. Dokumen Tender/Seleksi/Penunjukan Langsung/Pengadaan Langsung.
 
 ## BAB VI - PELAKSANAAN PENGADAAN BARANG/JASA MELALUI SWAKELOLA
 
@@ -1173,7 +1128,7 @@ b. Dokumen Tender/ Seleksi/ Penunjukan Langsung/ Pengadaan Langsung.
 
 (1) Pelaksanaan Swakelola tipe I dilakukan dengan ketentuan sebagai berikut:
 
-a. PA/KPA dapat menggunakan pegawai Kementerian/ Lembaga/ Perangkat Daerah lain dan/atau tenaga ahli;
+a. PA/KPA dapat menggunakan pegawai Kementerian/Lembaga/Perangkat Daerah lain dan/atau tenaga ahli;
 
 b. Penggunaan tenaga ahli tidak boleh melebihi 50% (lima puluh persen) dari jumlah Tim Pelaksana; dan
 
@@ -1181,13 +1136,11 @@ c. Dalam hal dibutuhkan Pengadaan Barang/Jasa melalui Penyedia, dilaksanakan ses
 
 (2) Pelaksanaan Swakelola tipe II dilakukan dengan ketentuan sebagai berikut:
 
-a. PA/ KPA melakukan kesepakatan kerj a sama dengan Kementerian/ Lembaga/ Perangkat Daerah lain pelaksana Swakelola; dan
+a. PA/KPA melakukan kesepakatan kerja sama dengan Kementerian/Lembaga/Perangkat Daerah lain pelaksana Swakelola; dan
 
 b. PPK menandatangani Kontrak dengan Ketua Tim Pelaksana Swakelola sesuai dengan kesepakatan kerja sama sebagaimana dimaksud pada huruf a.
 
 (3) Pelaksanaan Swakelola tipe III dilakukan berdasarkan Kontrak PPK dengan pimpinan Ormas.
-
-(4) Pelaksanaan
 
 (4) Pelaksanaan Swakelola tipe IV dilakukan berdasarkan Kontrak PPK dengan pimpinan Kelompok Masyarakat.
 
@@ -1239,15 +1192,15 @@ h. Sanggah.
 
 (4) Pelaksanaan pemilihan melalui Tender Cepat dengan ketentuan sebagai berikut:
 
-a. peserta telah terkualifikasi dalam Sistem Informasi Kinerja Penyedia; peserta hanya memasukan penawaran harga;
+a. peserta telah terkualifikasi dalam Sistem Informasi Kinerja Penyedia;
 
-c. evaluasi
+b. peserta hanya memasukan penawaran harga;
 
 c. evaluasi penawaran harga dilakukan melalui aplikasi; dan
 
-d. penetapan pemenang berdasarkan harga penawaran terendah. wajib dilakukan untuk
+d. penetapan pemenang berdasarkan harga penawaran terendah.
 
-(5) Pelaksanaan E-purchasing barang/jasa yang menyangkut pemenuhan kebutuhan nasional dan/atau strategis yang ditetapkan oleh menteri, kepala lembaga, atau kepala daerah.
+(5) Pelaksanaan E-purchasing wajib dilakukan untuk barang/jasa yang menyangkut pemenuhan kebutuhan nasional dan/atau strategis yang ditetapkan oleh menteri, kepala lembaga, atau kepala daerah.
 
 (6) Pelaksanaan Penunjukan Langsung dilakukan dengan mengundang 1 (satu) Pelaku Usaha yang dipilih, dengan disertai negosiasi teknis maupun harga.
 
@@ -1261,11 +1214,9 @@ b. permintaan penawaran yang disertai dengan klarifikasi serta negosiasi teknis 
 
 (9) Untuk barang/jasa yang kontraknya harus ditandatangani pada awal tahun, pemilihan dapat dilaksanakan setelah:
 
-a. penetapan Pagu Anggaran K/ L; atau
+a. penetapan Pagu Anggaran K/L; atau
 
 b. persetujuan RKA Perangkat Daerah sesuai dengan ketentuan peraturan perundang-undangan.
-
-(10) Pelaksanaan
 
 (10) Pelaksanaan pemilihan sebagaimana dimaksud pada ayat (9) dilakukan setelah RUP diumumkan terlebih dahulu melalui aplikasi SIRUP.
 
@@ -1295,25 +1246,23 @@ e. seluruh peserta terlibat Korupsi, Kolusi, dan Nepotisme (KKN);
 
 f. seluruh peserta terlibat persaingan usaha tidak sehat;
 
-g. seluruh
-
 g. seluruh penawaran harga Tender Barang/Pekerjaan Konstruksi/Jasa Lainnya di atas HPS;
 
 h. negosiasi biaya pada Seleksi tidak tercapai; dan/atau
 
-i. KKN melibatkan Pokja Pemilihan/ PPK.
+i. KKN melibatkan Pokja Pemilihan/PPK.
 
-(3) Prakualifikasi gagal sebagaimana dimaksud pada ayat (1) dan Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf a sampai dengan huruf h dinyatakan oleh Pokja Pemilihan.
+(3) Prakualifikasi gagal sebagaimana dimaksud pada ayat (1) dan Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf a sampai dengan huruf h dinyatakan oleh Pokja Pemilihan.
 
-(4) Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf i dinyatakan oleh PA/ KPA.
+(4) Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf i dinyatakan oleh PA/KPA.
 
 (5) Tindak lanjut dari prakualifikasi gagal sebagaimana dimaksud pada ayat (1), Pokja Pemilihan segera melakukan prakualifikasi ulang dengan ketentuan:
 
-a. setelah prakualifikasi ulang jumlah peserta yang lulus 2 (dua) peserta, proses Tender/ Seleksi dilanjutkan; atau
+a. setelah prakualifikasi ulang jumlah peserta yang lulus 2 (dua) peserta, proses Tender/Seleksi dilanjutkan; atau
 
 b. setelah prakualifikasi ulang jumlah peserta yang lulus 1 (satu) peserta, dilanjutkan dengan proses Penunjukan Langsung.
 
-(6) Tindak lanjut dari Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2), Pokja Pemilihan segera melakukan:
+(6) Tindak lanjut dari Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2), Pokja Pemilihan segera melakukan:
 
 a. evaluasi penawaran ulang;
 
@@ -1323,17 +1272,15 @@ c. Tender/Seleksi ulang.
 
 (7) Evaluasi penawaran ulang sebagaimana dimaksud pada ayat (6) huruf a, dilakukan dalam hal ditemukan kesalahan evaluasi penawaran.
 
-(8) Penyampaian
+(8) Penyampaian penawaran ulang sebagaimana dimaksud pada ayat (6) huruf b dilakukan untuk Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf d dan huruf h.
 
-(8) Penyampaian penawaran ulang sebagaimana dimaksud pada ayat (6) huruf b dilakukan untuk Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf d dan huruf h.
+(9) Tender/Seleksi ulang sebagaimana dimaksud pada ayat (6) huruf c, dilakukan untuk Tender/Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf b, huruf c, huruf e, huruf f, huruf g, dan huruf i.
 
-(9) Tender/ Seleksi ulang sebagaimana dimaksud pada ayat (6) huruf c, dilakukan untuk Tender/ Seleksi gagal sebagaimana dimaksud pada ayat (2) huruf b, huruf c, huruf e, huruf f, huruf g, dan huruf i.
-
-(10) Dalam hal Tender/ Seleksi ulang sebagaimana dimaksud pada ayat (9) gagal, Pokja Pemilihan dengan persetujuan PA/ KPA melakukan Penunjukan Langsung dengan kriteria:
+(10) Dalam hal Tender/Seleksi ulang sebagaimana dimaksud pada ayat (9) gagal, Pokja Pemilihan dengan persetujuan PA/KPA melakukan Penunjukan Langsung dengan kriteria:
 
 a. kebutuhan tidak dapat ditunda; dan
 
-b. tidak cukup waktu untuk melaksanakan Tender/ Seleksi.
+b. tidak cukup waktu untuk melaksanakan Tender/Seleksi.
 
 **Bagian Ketiga** **Pelaksanaan Kontrak**
 
@@ -1355,8 +1302,6 @@ f. Penyesuaian harga;
 
 g. Penghentian Kontrak atau Berakhirnya Kontrak;
 
-h. Pemutusan
-
 h. Pemutusan Kontrak;
 
 i. Serah Terima Hasil Pekerjaan; dan/atau
@@ -1373,15 +1318,13 @@ j. Penanganan Keadaan Kahar.
 
 (2) Retensi sebagaimana dimaksud pada ayat (1) sebesar 5% (lima persen) digunakan sebagai Jaminan Pemeliharaan Pekerjaan Konstruksi atau Jaminan Pemeliharaan Jasa Lainnya yang membutuhkan masa pemeliharaan.
 
-(3) Dalam hal Penyedia menyerahkan sebagian pekerjaan kepada subkontraktor, permintaan pembayaran harus dilengkapi bukti pembayaran kepada subkontraktor se suai dengan realisasi pekerjaannya.
+(3) Dalam hal Penyedia menyerahkan sebagian pekerjaan kepada subkontraktor, permintaan pembayaran harus dilengkapi bukti pembayaran kepada subkontraktor sesuai dengan realisasi pekerjaannya.
 
 (4) Pembayaran prestasi pekerjaan dapat diberikan dalam bentuk:
 
 a. pembayaran bulanan;
 
-b. pembayaran b e rd a sarkan tahapan penyele saian pekerjaan / termin; atau
-
-c. pembayaran
+b. pembayaran berdasarkan tahapan penyelesaian pekerjaan/termin; atau
 
 c. pembayaran secara sekaligus setelah penyelesaian pekerjaan.
 
@@ -1425,8 +1368,6 @@ d. mengubah jadwal pelaksanaan.
 
 (1) Dalam hal Penyedia gagal menyelesaikan pekerjaan sampai masa pelaksanaan Kontrak berakhir, namun PPK menilai bahwa Penyedia mampu menyelesaikan pekerjaan, PPK memberikan kesempatan Penyedia untuk menyelesaikan pekerjaan.
 
-(2) Pemberian
-
 (2) Pemberian kesempatan kepada Penyedia untuk menyelesaikan pekerjaan sebagaimana dimaksud pada ayat (1), dimuat dalam adendum kontrak yang didalamnya mengatur waktu penyelesaian pekerjaan, pengenaan sanksi denda keterlambatan kepada Penyedia, dan perpanjangan Jaminan Pelaksanaan.
 
 (3) Pemberian kesempatan kepada Penyedia untuk menyelesaikan pekerjaan sebagaimana dimaksud pada ayat (1), dapat melampaui Tahun Anggaran.
@@ -1445,7 +1386,7 @@ d. mengubah jadwal pelaksanaan.
 
 (1) PPK menyerahkan barang/jasa sebagaimana dimaksud dalam Pasal 57 kepada PA/KPA.
 
-(2) PA / KPA meminta PjPHP/ PPHP untuk melakukan pemeriksaan administratif terhadap barang/jasa yang akan diserahterimakan.
+(2) PA/KPA meminta PjPHP/PPHP untuk melakukan pemeriksaan administratif terhadap barang/jasa yang akan diserahterimakan.
 
 (3) Hasil pemeriksaan sebagaimana dimaksud pada ayat (2) dituangkan dalam Berita Acara.
 
@@ -1463,15 +1404,13 @@ a. bencana alam, bencana non-alam, dan/atau bencana sosial;
 
 b. pelaksanaan operasi pencarian dan pertolongan;
 
-c. kerusakan sarana/ prasarana yang dapat mengganggu kegiatan pelayanan publik;
+c. kerusakan sarana/prasarana yang dapat mengganggu kegiatan pelayanan publik;
 
 d. bencana alam, bencana non-alam, bencana sosial, perkembangan situasi politik dan keamanan di luar negeri, dan/atau pemberlakuan kebijakan pemerintah asing yang memiliki dampak langsung terhadap keselamatan dan ketertiban warga negara Indonesia di luar negeri; dan/atau
 
 e. pemberian bantuan kemanusiaan kepada negara lain yang terkena bencana.
 
 (3) Penetapan keadaan darurat sebagaimana dimaksud pada ayat (2) huruf a dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
-
-(4) Keadaan
 
 (4) Keadaan darurat sebagaimana dimaksud pada ayat (2) huruf a meliputi siaga darurat, tanggap darurat, dan transisi darurat ke pemulihan.
 
@@ -1489,7 +1428,7 @@ e. pemberian bantuan kemanusiaan kepada negara lain yang terkena bencana.
 
 (2) Dalam hal ketentuan dalam Peraturan Presiden sebagaimana dimaksud pada ayat (1) tidak dapat dilaksanakan, pelaksanaan Pengadaan Barang/Jasa menyesuaikan dengan ketentuan Pengadaan Barang/Jasa di negara setempat.
 
-(3) Ketentuan lebih lanjut mengenai tata cara Pengadaan Barang/Jasa di Luar Negeri diatur oleh menteri yang menyelenggarakan urusan pemerintahan di bidang luar negeri setelah berkonsultasi dengan LKPP. Bagian
+(3) Ketentuan lebih lanjut mengenai tata cara Pengadaan Barang/Jasa di Luar Negeri diatur oleh menteri yang menyelenggarakan urusan pemerintahan di bidang luar negeri setelah berkonsultasi dengan LKPP.
 
 **Bagian Ketiga** **Pengecualian**
 
@@ -1515,11 +1454,9 @@ d. Pengadaan Barang/Jasa yang diatur dengan ketentuan peraturan perundang-undang
 
 (1) Penelitian dilakukan oleh:
 
-a. PA/ KPA pada Kementerian/Lembaga/Perangkat Daerah sebagai penyelenggara penelitian; dan
+a. PA/KPA pada Kementerian/Lembaga/Perangkat Daerah sebagai penyelenggara penelitian; dan
 
 b. pelaksana penelitian.
-
-(2) Penyelenggara
 
 (2) Penyelenggara penelitian sebagaimana dimaksud pada ayat (1) huruf a memiliki kewenangan:
 
@@ -1533,7 +1470,7 @@ c. melakukan penjaminan mutu pelaksanaan penelitian.
 
 a. Individu/kumpulan individu meliputi Pegawai Aparatur Sipil Negara/non-Pegawai Aparatur Sipil Negara;
 
-b. Kementerian/Lembaga/ Perangkat Daerah;
+b. Kementerian/Lembaga/Perangkat Daerah;
 
 c. Perguruan Tinggi;
 
@@ -1547,11 +1484,9 @@ e. Badan Usaha.
 
 (6) Penugasan sebagaimana dimaksud pada ayat (4) ditetapkan oleh penyelenggara penelitian untuk penelitian yang bersifat khusus.
 
-(7) Penelitian dapat menggunakan anggaran belanj a dan/atau fasilitas yang berasal dari 1 (satu) atau lebih dari 1 (satu) penyelenggara penelitian.
+(7) Penelitian dapat menggunakan anggaran belanja dan/atau fasilitas yang berasal dari 1 (satu) atau lebih dari 1 (satu) penyelenggara penelitian.
 
 (8) Penelitian dapat dilakukan dengan kontrak penelitian selama 1 (satu) Tahun Anggaran atau melebihi 1 (satu) Tahun Anggaran.
-
-(9) Pembayaran
 
 (9) Pembayaran pelaksanaan penelitian dapat dilakukan secara bertahap atau sekaligus sesuai dengan kontrak penelitian.
 
@@ -1563,7 +1498,7 @@ e. Badan Usaha.
 
 ### Pasal 63
 
-(1 ) Tender/ Seleksi Internasional dapat dilaksanakan untuk:
+(1) Tender/Seleksi Internasional dapat dilaksanakan untuk:
 
 a. Pengadaan Pekerjaan Konstruksi dengan nilai paling sedikit di atas Rp1.000.000.000.000,00 (satu triliun rupiah);
 
@@ -1573,17 +1508,15 @@ c. Pengadaan Jasa Konsultansi dengan nilai paling sedikit di atas Rp25.000.000.0
 
 d. Pengadaan Barang/Jasa yang dibiayai oleh Lembaga Penjamin Kredit Ekspor atau Kreditor Swasta Asing.
 
-(2) Tender/ Seleksi Internasional dilaksanakan untuk nilai kurang dari batasan sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c, dalam hal tidak ada Pelaku Usaha dalam negeri yang mampu dan memenuhi persyaratan.
+(2) Tender/Seleksi Internasional dilaksanakan untuk nilai kurang dari batasan sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c, dalam hal tidak ada Pelaku Usaha dalam negeri yang mampu dan memenuhi persyaratan.
 
-(3) Badan Usaha
-
-(3) Badan usaha asing yang mengikuti Tender/ Seleksi Internasional sebagaimana dimaksud pada ayat (1), harus melakukan kerja sama usaha dengan badan usaha nasional dalam bentuk konsorsium, subkontrak, atau bentuk kerja sama lainnya.
+(3) Badan usaha asing yang mengikuti Tender/Seleksi Internasional sebagaimana dimaksud pada ayat (1), harus melakukan kerja sama usaha dengan badan usaha nasional dalam bentuk konsorsium, subkontrak, atau bentuk kerja sama lainnya.
 
 (4) Badan usaha asing yang melaksanakan Pengadaan Barang/Pekerjaan Konstruksi, harus bekerja sama dengan industri dalam negeri dalam pembuatan suku cadang dan pelaksanaan pelayanan purnajual.
 
-(5) Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Konsultansi/Jasa Lainnya yang dilaksanakan melalui Tender/ Seleksi Internasional diumumkan dalam situs web Kementerian/ Lembaga/ Pemerintah Daerah dan situs web komunitas internasional.
+(5) Pengadaan Barang/Pekerjaan Konstruksi/Jasa Konsultansi/Jasa Lainnya yang dilaksanakan melalui Tender/Seleksi Internasional diumumkan dalam situs web Kementerian/Lembaga/Pemerintah Daerah dan situs web komunitas internasional.
 
-(6) Dokumen Pemilihan melalui Tender/ Seleksi Internasional paling sedikit ditulis dalam 2 (dua) bahasa, yaitu Bahasa Indonesia dan Bahasa Inggris.
+(6) Dokumen Pemilihan melalui Tender/Seleksi Internasional paling sedikit ditulis dalam 2 (dua) bahasa, yaitu Bahasa Indonesia dan Bahasa Inggris.
 
 (7) Dalam hal terjadi penafsiran arti yang berbeda terhadap Dokumen Pemilihan sebagaimana dimaksud pada ayat (6), dokumen yang berbahasa Indonesia dijadikan acuan.
 
@@ -1605,15 +1538,13 @@ d. Pengadaan Barang/Jasa yang dibiayai oleh Lembaga Penjamin Kredit Ekspor atau 
 
 (1) Usaha kecil terdiri atas Usaha Mikro dan Usaha Kecil.
 
-(2) Dalam Pengadaan Barang/Jasa, PA/ KPA memperluas peran serta usaha kecil.
+(2) Dalam Pengadaan Barang/Jasa, PA/KPA memperluas peran serta usaha kecil.
 
 (3) Pemaketan dilakukan dengan menetapkan sebanyak-banyaknya paket untuk usaha kecil tanpa mengabaikan prinsip efisiensi, persaingan usaha yang sehat, kesatuan sistem, dan kualitas kemampuan teknis.
 
 (4) Nilai paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya paling banyak Rp2.500.000.000,00 (dua miliar lima ratus juta rupiah), dicadangkan dan peruntukannya bagi usaha kecil, kecuali untuk paket pekerjaan yang menuntut kemampuan teknis yang tidak dapat dipenuhi oleh usaha kecil.
 
-(5) LKPP dan Kementerian/ Lembaga/ Pemerintah Daerah memperluas peran serta usaha kecil dengan mencantumkan barang/jasa produksi usaha kecil dalam katalog elektronik.
-
-(6) Penyedia
+(5) LKPP dan Kementerian/Lembaga/Pemerintah Daerah memperluas peran serta usaha kecil dengan mencantumkan barang/jasa produksi usaha kecil dalam katalog elektronik.
 
 (6) Penyedia usaha non-kecil yang melaksanakan pekerjaan dapat melakukan kerja sama usaha dengan usaha kecil dalam bentuk kemitraan, subkontrak, atau bentuk kerja sama lainnya, jika ada usaha kecil yang memiliki kemampuan di bidang yang bersangkutan.
 
@@ -1621,13 +1552,13 @@ d. Pengadaan Barang/Jasa yang dibiayai oleh Lembaga Penjamin Kredit Ekspor atau 
 
 ### Pasal 66
 
-(1) Kementerian/ Lembaga/ Perangkat Daerah wajib menggunakan produk dalam negeri, termasuk rancang bangun dan perekayasaan nasional.
+(1) Kementerian/Lembaga/Perangkat Daerah wajib menggunakan produk dalam negeri, termasuk rancang bangun dan perekayasaan nasional.
 
 (2) Kewajiban penggunaan produk dalam negeri sebagaimana dimaksud pada ayat (1) dilakukan jika terdapat peserta yang menawarkan barang/jasa dengan nilai Tingkat Komponen Dalam Negeri (TKDN) ditambah nilai Bobot Manfaat Perusahaan (BMP) paling rendah 40% (empat puluh persen).
 
 (3) Perhitungan TKDN dan BMP sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
-(4) Ketentuan sebagaimana,dimaksud pada ayat (2) dan ayat (3) dicantumkan dalam RUP, spesifikasi teknis/KAK, dan Dokumen Pemilihan.
+(4) Ketentuan sebagaimana dimaksud pada ayat (2) dan ayat (3) dicantumkan dalam RUP, spesifikasi teknis/KAK, dan Dokumen Pemilihan.
 
 (5) Pengadaan barang impor dapat dilakukan, dalam hal:
 
@@ -1635,9 +1566,7 @@ a. barang tersebut belum dapat diproduksi di dalam negeri; atau
 
 b. volume produksi dalam negeri tidak mampu memenuhi kebutuhan.
 
-(6) LKPP
-
-(6) LKPP dan/atau Kementerian/ Lembaga/ Pemerintah Daerah memperbanyak pencantuman produk dalam negeri dalam katalog elektronik.
+(6) LKPP dan/atau Kementerian/Lembaga/Pemerintah Daerah memperbanyak pencantuman produk dalam negeri dalam katalog elektronik.
 
 ### Pasal 67
 
@@ -1645,17 +1574,25 @@ b. volume produksi dalam negeri tidak mampu memenuhi kebutuhan.
 
 (2) Preferensi harga diberlakukan untuk Pengadaan Barang/Jasa yang bernilai paling sedikit di atas Rp1.000.000.000,00 (satu miliar rupiah).
 
-(3) Preferensi harga diberikan terhadap barang/jasa yang memiliki TKDN paling rendah 25% (dua puluh lima persen). Preferensi harga untuk barang/jasa paling tinggi 25% (dua puluh lima persen). Preferensi harga untuk Pekerjaan Konstruksi yang dikerjakan oleh badan usaha nasional paling tinggi 7,5% (tujuh koma lima persen) di atas harga penawaran terendah dari badan usaha asing.
+(3) Preferensi harga diberikan terhadap barang/jasa yang memiliki TKDN paling rendah 25% (dua puluh lima persen).
+
+(4) Preferensi harga untuk barang/jasa paling tinggi 25% (dua puluh lima persen).
+
+(5) Preferensi harga untuk Pekerjaan Konstruksi yang dikerjakan oleh badan usaha nasional paling tinggi 7,5% (tujuh koma lima persen) di atas harga penawaran terendah dari badan usaha asing.
 
 (6) Preferensi harga diperhitungkan dalam evaluasi harga penawaran yang telah memenuhi persyaratan administrasi dan teknis.
 
 (7) Penetapan pemenang berdasarkan urutan harga terendah Hasil Evaluasi Akhir (HEA).
 
-(8) HEA dihitung dengan rumus HEA = (1 — KP) x HP dengan: KP = TKDN x preferensi tertinggi KP adalah Koefisien Preferensi HP adalah Harga Penawaran setelah koreksi aritmatik.
+(8) HEA dihitung dengan rumus HEA = (1 - KP) x HP dengan:
 
-(9) Dalam
+KP = TKDN x preferensi tertinggi
 
-(9) Dalam hal terdapat 2 (dua) atau lebih penawaran dengan HEA terendah yang sama, penawar dengan. TKDN lebih besar ditetapkan sebagai pemenang.
+KP adalah Koefisien Preferensi
+
+HP adalah Harga Penawaran setelah koreksi aritmatik.
+
+(9) Dalam hal terdapat 2 (dua) atau lebih penawaran dengan HEA terendah yang sama, penawar dengan TKDN lebih besar ditetapkan sebagai pemenang.
 
 **Bagian Ketiga** **Pengadaan Berkelanjutan**
 
@@ -1677,7 +1614,7 @@ a. PA/KPA dalam merencanakan dan menganggarkan Pengadaan Barang/Jasa;
 
 b. PPK dalam menyusun spesifikasi teknis/KAK dan rancangan kontrak dalam Pengadaan Barang/Jasa; dan
 
-c. Pokja Pemilihan/ Pejabat Pengadaan/Agen Pengadaan dalam menyusun Dokumen Pemilihan.
+c. Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan dalam menyusun Dokumen Pemilihan.
 
 ## BAB X - PENGADAAN BARANG/JASA SECARA ELEKTRONIK
 
@@ -1702,8 +1639,6 @@ b. Toko Daring; dan
 c. Pemilihan Penyedia.
 
 (3) LKPP mempunyai kewenangan untuk mengembangkan, membina, mengelola, dan mengawasi penyelenggaraan E-marketplace Pengadaan Barang/Jasa.
-
-(4) Dalam
 
 (4) Dalam rangka pengembangan dan pengelolaan E-marketplace Pengadaan Barang/Jasa, LKPP dapat bekerja sama dengan UKPBJ dan/atau Pelaku Usaha.
 
@@ -1741,7 +1676,7 @@ d. Pengelolaan peran serta masyarakat;
 
 e. Pengelolaan sumber daya pembelajaran; dan
 
-f. Monitoring dan Evaluasi. Pasal
+f. Monitoring dan Evaluasi.
 
 ### Pasal 72
 
@@ -1749,7 +1684,7 @@ f. Monitoring dan Evaluasi. Pasal
 
 (2) Katalog elektronik sebagaimana dimaksud pada ayat (1) memuat informasi berupa daftar, jenis, spesifikasi teknis, TKDN, produk dalam negeri, produk SNI, produk industri hijau, negara asal, harga, Penyedia, dan informasi lainnya terkait barang/jasa.
 
-(3) Pemilihan produk yang dicantumkan dalam katalog elektronik dilaksanakan oleh Kementerian/ Lembaga/ Pemerintah Daerah atau LKPP.
+(3) Pemilihan produk yang dicantumkan dalam katalog elektronik dilaksanakan oleh Kementerian/Lembaga/Pemerintah Daerah atau LKPP.
 
 (4) Pemilihan produk katalog elektronik dilakukan dengan metode:
 
@@ -1757,7 +1692,7 @@ a. Tender; atau
 
 b. Negosiasi.
 
-(5) Ketentuan lebih lanjut mengenai pengelolaan katalog elektronik sebagaimana dimaksud pada ayat (1) diatur dengan. Peraturan Kepala Lembaga.
+(5) Ketentuan lebih lanjut mengenai pengelolaan katalog elektronik sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Kepala Lembaga.
 
 **Bagian Kedua** **Layanan Pengadaan Secara Elektronik**
 
@@ -1768,8 +1703,6 @@ b. Negosiasi.
 (2) Fungsi layanan pengadaan secara elektronik sebagaimana dimaksud pada ayat (1) meliputi:
 
 a. pengelolaan seluruh sistem informasi Pengadaan Barang/Jasa dan infrastrukturnya;
-
-b. pelaksanaan
 
 b. pelaksanaan registrasi dan verifikasi pengguna seluruh sistem informasi Pengadaan Barang/Jasa; dan
 
@@ -1789,13 +1722,11 @@ c. pengembangan sistem informasi yang dibutuhkan oleh pemangku kepentingan.
 
 (1) Sumber Daya Manusia Pengadaan Barang/Jasa terdiri atas:
 
-a. Pengelola Pengadaan Barang/Jasa di lingkungan Kementerian/ Lembaga/ Pemerintah Daerah;
+a. Pengelola Pengadaan Barang/Jasa di lingkungan Kementerian/Lembaga/Pemerintah Daerah;
 
-b. Aparatur Sipil Negara/Tentara Nasional Indonesia/ Kepolisian Negara Republik Indonesia di lingkungan Kementerian Pertahanan dan Kepolisian Negara Republik Indonesia; dan/atau
+b. Aparatur Sipil Negara/Tentara Nasional Indonesia/Kepolisian Negara Republik Indonesia di lingkungan Kementerian Pertahanan dan Kepolisian Negara Republik Indonesia; dan/atau
 
 c. personel selain yang dimaksud pada huruf a dan huruf b.
-
-(2) Sumber
 
 (2) Sumber Daya Manusia Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat (1) huruf b dan ayat (1) huruf c memiliki kompetensi di bidang Pengadaan Barang/Jasa.
 
@@ -1807,7 +1738,7 @@ c. personel selain yang dimaksud pada huruf a dan huruf b.
 
 ### Pasal 75
 
-(1) Menteri/ kepala lembaga/ kepala daerah membentuk UKPBJ memiliki tugas menyelenggarakan dukungan pengadaan barang/jasa pada Kementerian/Lembaga/Pemerintah Daerah.
+(1) Menteri/kepala lembaga/kepala daerah membentuk UKPBJ memiliki tugas menyelenggarakan dukungan pengadaan barang/jasa pada Kementerian/Lembaga/Pemerintah Daerah.
 
 (2) Dalam rangka pelaksanaan tugas UKPBJ sebagaimana dimaksud pada ayat (1), UKPBJ memiliki fungsi:
 
@@ -1818,8 +1749,6 @@ b. pengelolaan layanan pengadaan secara elektronik;
 c. pembinaan Sumber Daya Manusia dan Kelembagaan Pengadaan Barang/Jasa;
 
 d. pelaksanaan pendampingan, konsultasi, dan/atau bimbingan teknis; dan
-
-e. pelaksanaan
 
 e. pelaksanaan tugas lain yang diberikan oleh menteri/kepala lembaga/kepala daerah.
 
@@ -1847,15 +1776,13 @@ b. kepatuhan terhadap peraturan;
 
 c. pencapaian TKDN;
 
-d. penggunaan
-
 d. penggunaan produk dalam negeri;
 
 e. pencadangan dan peruntukan paket untuk usaha kecil; dan
 
 f. Pengadaan Berkelanjutan.
 
-(5) Pengawasan sebagaimana dimaksud pada ayat (4) dapat dilakukan bersama dengan kementerian teknis terkait dan/atau lembaga yang mempunyai tugas menyelenggarakan urus an p eme rin tah an di bid ang pengawasan keuangan negara/ daerah dan pembangunan nasional.
+(5) Pengawasan sebagaimana dimaksud pada ayat (4) dapat dilakukan bersama dengan kementerian teknis terkait dan/atau lembaga yang mempunyai tugas menyelenggarakan urusan pemerintahan di bidang pengawasan keuangan negara/daerah dan pembangunan nasional.
 
 (6) Hasil pengawasan digunakan sebagai alat pengendalian pelaksanaan Pengadaan Barang/Jasa.
 
@@ -1863,11 +1790,17 @@ f. Pengadaan Berkelanjutan.
 
 ### Pasal 77
 
-Masyarakat menyampaikan pengaduan kepada APIP disertai bukti yang faktual, kredibel, dan autentik. Aparat Penegak Hukum meneruskan pengaduan masyarakat kepada APIP untuk ditindaklanjuti. APIP sebagaimana dimaksud pada ayat (1) dan ayat (2) menindaklanjuti pengaduan sesuai kewenangannya. APIP melaporkan hasil tindak lanjut pengaduan kepada menteri/kepala lembaga/kepala daerah. Menteri/ kepala lembaga/ kepala daerah melaporkan kepada instansi yang berwenang, dalam hal diyakini adanya indikasi KKN yang merugikan keuangan negara.
+(1) Masyarakat menyampaikan pengaduan kepada APIP disertai bukti yang faktual, kredibel, dan autentik.
+
+(2) Aparat Penegak Hukum meneruskan pengaduan masyarakat kepada APIP untuk ditindaklanjuti.
+
+(3) APIP sebagaimana dimaksud pada ayat (1) dan ayat (2) menindaklanjuti pengaduan sesuai kewenangannya.
+
+(4) APIP melaporkan hasil tindak lanjut pengaduan kepada menteri/kepala lembaga/kepala daerah.
+
+(5) Menteri/kepala lembaga/kepala daerah melaporkan kepada instansi yang berwenang, dalam hal diyakini adanya indikasi KKN yang merugikan keuangan negara.
 
 (6) Menteri/kepala lembaga/kepala daerah memfasilitasi masyarakat dalam melakukan pengawasan terhadap pelaksanaan Pengadaan Barang/Jasa.
-
-(7) LKPP
 
 (7) LKPP mengembangkan sistem pengaduan Pengadaan Barang/Jasa.
 
@@ -1894,8 +1827,6 @@ a. tidak melaksanakan Kontrak, tidak menyelesaikan pekerjaan, atau tidak melaksa
 b. menyebabkan kegagalan bangunan;
 
 c. menyerahkan Jaminan yang tidak dapat dicairkan;
-
-d. melakukan
 
 d. melakukan kesalahan dalam perhitungan volume hasil pekerjaan berdasarkan hasil audit;
 
@@ -1927,17 +1858,17 @@ d. ayat (3) huruf a dikenakan sanksi pencairan Jaminan Pelaksanaan atau sanksi p
 
 e. ayat (3) huruf b sampai dengan huruf e dikenakan sanksi ganti kerugian sebesar nilai kerugian yang ditimbulkan; atau
 
-f. ayat (3) huruf f dikenakan sanksi denda keterlambatan. Pasal
+f. ayat (3) huruf f dikenakan sanksi denda keterlambatan.
 
 ### Pasal 79
 
-(1) Pengenaan Sanksi Daftar Hitam sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf a ditetapkan oleh PA/ KPA atas usulan Pejabat Pengadaan/Pokja Pemilihan/Agen Pengadaan.
+(1) Pengenaan Sanksi Daftar Hitam sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf a ditetapkan oleh PA/KPA atas usulan Pejabat Pengadaan/Pokja Pemilihan/Agen Pengadaan.
 
-(2) Pengenaan Sanksi Daftar Hitam sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf b ditetapkan oleh PA/ KPA atas usulan Pejabat Pengadaan/ Pokja Pemilihan/Agen Pengadaan.
+(2) Pengenaan Sanksi Daftar Hitam sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf b ditetapkan oleh PA/KPA atas usulan Pejabat Pengadaan/Pokja Pemilihan/Agen Pengadaan.
 
-(3) Pengenaan Sanksi Daftar Hitam sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf c dan Pasal 78 ayat (5) huruf d, ditetapkan oleh PA/ KPA atas usulan PPK.
+(3) Pengenaan Sanksi Daftar Hitam sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf c dan Pasal 78 ayat (5) huruf d, ditetapkan oleh PA/KPA atas usulan PPK.
 
-(4) Pengenaan sanksi denda keterlambatan sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf f ditetapkan oleh PPK dalam Kontrak sebesar 1%0 (satu permil) dari nilai kontrak atau nilai bagian kontrak untuk setiap hari keterlambatan.
+(4) Pengenaan sanksi denda keterlambatan sebagaimana dimaksud dalam Pasal 78 ayat (5) huruf f ditetapkan oleh PPK dalam Kontrak sebesar 1‰ (satu permil) dari nilai kontrak atau nilai bagian kontrak untuk setiap hari keterlambatan.
 
 (5) Nilai kontrak atau nilai bagian kontrak sebagaimana dimaksud pada ayat (4) tidak termasuk Pajak Pertambahan Nilai (PPN).
 
@@ -1945,7 +1876,7 @@ f. ayat (3) huruf f dikenakan sanksi denda keterlambatan. Pasal
 
 ### Pasal 80
 
-(1) Perbuatan atau tindakan peserta pemilihan yang dikenakan sanksi dalam proses katalog berupa :
+(1) Perbuatan atau tindakan peserta pemilihan yang dikenakan sanksi dalam proses katalog berupa:
 
 a. menyampaikan dokumen atau keterangan palsu/tidak benar untuk memenuhi persyaratan yang ditentukan dalam Dokumen Pemilihan;
 
@@ -1957,7 +1888,7 @@ d. mengundurkan diri dengan alasan yang tidak dapat diterima Pokja Pemilihan/Age
 
 e. mengundurkan diri atau tidak menandatangani kontrak katalog.
 
-(2) Perbuatan atau tindakan Penyedia yang dikenakan sanksi dalam proses. E-purchasing berupa tidak memenuhi kewajiban dalam kontrak pada katalog elektronik atau surat pesanan.
+(2) Perbuatan atau tindakan Penyedia yang dikenakan sanksi dalam proses E-purchasing berupa tidak memenuhi kewajiban dalam kontrak pada katalog elektronik atau surat pesanan.
 
 (3) Perbuatan atau tindakan sebagaimana dimaksud pada ayat (1) dan ayat (2) dikenakan:
 
@@ -1979,9 +1910,7 @@ c. ayat (2) atas pelanggaran surat pesanan dikenakan sanksi penghentian sementar
 
 d. ayat (2) atas pelanggaran kontrak pada katalog elektronik dikenakan sanksi penurunan pencantuman Penyedia dari katalog elektronik selama 1 (satu) tahun.
 
-(5) Pengenaan
-
-(5) Pengenaan sanksi sebagaimana dimaksud pada ayat (4) ditetapkan oleh Kementerian/ Lembaga/ Perangkat Daerah atas usulan Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan dan/atau PPK.
+(5) Pengenaan sanksi sebagaimana dimaksud pada ayat (4) ditetapkan oleh Kementerian/Lembaga/Perangkat Daerah atas usulan Pokja Pemilihan/Pejabat Pengadaan/Agen Pengadaan dan/atau PPK.
 
 ### Pasal 81
 
@@ -1989,11 +1918,11 @@ Dalam hal terjadi pelanggaran sebagaimana dimaksud dalam Pasal 78 ayat (1) huruf
 
 ### Pasal 82
 
-(1) Sanksi administratif dikenakan kepada PA/ KPA/ PPK/ Pejabat Pengadaan/Pokja Pemilihan/ PjPHP/PPHP yang lalai melakukan suatu perbuatan yang menjadi kewajibannya.
+(1) Sanksi administratif dikenakan kepada PA/KPA/PPK/Pejabat Pengadaan/Pokja Pemilihan/PjPHP/PPHP yang lalai melakukan suatu perbuatan yang menjadi kewajibannya.
 
 (2) Pemberian sanksi administratif sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Pejabat Pembina Kepegawaian/pejabat yang berwenang sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Sanksi hukuman disiplin ringan, sedang, atau berat dikenakan kepada PA/ KPA/ PPK/ Pejabat Peng4daan/Pokja Pemilihan/ PjPHP/ PPHP yang terbukti melanggar pakta integritas berdasarkan putusan Komisi Pengawas Persaingan Usaha, Peradilan Umum, atau Peradilan Tata Usaha Negara. Bagian
+(3) Sanksi hukuman disiplin ringan, sedang, atau berat dikenakan kepada PA/KPA/PPK/Pejabat Pengadaan/Pokja Pemilihan/PjPHP/PPHP yang terbukti melanggar pakta integritas berdasarkan putusan Komisi Pengawas Persaingan Usaha, Peradilan Umum, atau Peradilan Tata Usaha Negara.
 
 **Bagian Keempat** **Daftar Hitam Nasional**
 
@@ -2001,7 +1930,7 @@ Dalam hal terjadi pelanggaran sebagaimana dimaksud dalam Pasal 78 ayat (1) huruf
 
 (1) PA/KPA menyampaikan identitas peserta pemilihan/Penyedia yang dikenakan Sanksi Daftar Hitam kepada unit kerja yang melaksanakan fungsi layanan pengadaan secara elektronik, untuk ditayangkan dalam Daftar Hitam Nasional.
 
-(2) LKPP menyelenggarakan. Daftar Hitam Nasional.
+(2) LKPP menyelenggarakan Daftar Hitam Nasional.
 
 **Bagian Kelima** **Pelayanan Hukum Bagi Pelaku Pengadaan Barang/Jasa**
 
@@ -2011,7 +1940,7 @@ Dalam hal terjadi pelanggaran sebagaimana dimaksud dalam Pasal 78 ayat (1) huruf
 
 (2) Pelayanan hukum sebagaimana dimaksud pada ayat (1) diberikan sejak proses penyelidikan hingga tahap putusan pengadilan.
 
-(3) Pelaku Pengadaan sebagaimana dimaksud pada ayat (1) dikecualikan untuk Penyedia, Ormas, kelompok masyarakat penyelenggara swakelola, dan Pelaku Usaha yang bertindak sebagai Agen Pengadaan. Bagian
+(3) Pelaku Pengadaan sebagaimana dimaksud pada ayat (1) dikecualikan untuk Penyedia, Ormas, kelompok masyarakat penyelenggara swakelola, dan Pelaku Usaha yang bertindak sebagai Agen Pengadaan.
 
 **Bagian Keenam** **Penyelesaian Sengketa Kontrak**
 
@@ -2025,13 +1954,13 @@ Dalam hal terjadi pelanggaran sebagaimana dimaksud dalam Pasal 78 ayat (1) huruf
 
 ### Pasal 86
 
-(1) Menteri/ kepala lembaga dapat menindaklanjuti pelaksanaan Peraturan Presiden ini untuk pengadaan yang dibiayai APBN dengan peraturan menteri/peraturan kepala lembaga.
+(1) Menteri/kepala lembaga dapat menindaklanjuti pelaksanaan Peraturan Presiden ini untuk pengadaan yang dibiayai APBN dengan peraturan menteri/peraturan kepala lembaga.
 
 (2) Kepala Daerah dapat menindaklanjuti pelaksanaan Peraturan Presiden ini untuk pengadaan yang dibiayai APBD dengan peraturan daerah/peraturan kepala daerah.
 
 ### Pasal 87
 
-(1) LKPP mengembangkan sistem dan kebijakan Pengadaan Barang/Jasa se suai dengan perkembangan dan kebutuhan, dengan mempertimbangkan tujuan, kebijakan, prinsip, dan etika Pengadaan Barang/Jasa.
+(1) LKPP mengembangkan sistem dan kebijakan Pengadaan Barang/Jasa sesuai dengan perkembangan dan kebutuhan, dengan mempertimbangkan tujuan, kebijakan, prinsip, dan etika Pengadaan Barang/Jasa.
 
 (2) Hasil pengembangan sistem dan kebijakan sebagaimana dimaksud pada ayat (1) ditetapkan dalam Peraturan Kepala Lembaga.
 
@@ -2047,13 +1976,13 @@ b. PPK/Pokja Pemilihan/Pejabat Pengadaan yang dijabat oleh Aparatur Sipil Negara
 
 c. PPK/Pokja Pemilihan/Pejabat Pengadaan yang dijabat oleh personel lain sebagaimana dimaksud dalam Pasal 74 ayat (1) huruf c wajib memiliki sertifikat kompetensi di bidang Pengadaan Barang/Jasa paling lambat 31 Desember 2023;
 
-d. PPK/Pokja Pemilihan/Pejabat Pengadaan wajib memiliki Sertifikat Keahlian Tingkat Dasar di bidang Pengadaan Barang/Jasa sepanjang belum memiliki sertifikat kompetensi di bidang Pengadaan Barang/Jasa sampai dengan 31 Desember 2023. Pasal
+d. PPK/Pokja Pemilihan/Pejabat Pengadaan wajib memiliki Sertifikat Keahlian Tingkat Dasar di bidang Pengadaan Barang/Jasa sepanjang belum memiliki sertifikat kompetensi di bidang Pengadaan Barang/Jasa sampai dengan 31 Desember 2023.
 
 ### Pasal 89
 
 Dengan berlakunya Peraturan Presiden ini:
 
-1. Pengadaan Barang/Jasa yang persiapan dan pelaksanaan dilakukan sebelum tanggal 1 Juli 2018 dapat dilakukan berdasarkan Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Presiden Nomor 4 Tahun 2015 tentang Perubahan Keempat atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Bara.ng/Jasa Pemerintah.
+1. Pengadaan Barang/Jasa yang persiapan dan pelaksanaan dilakukan sebelum tanggal 1 Juli 2018 dapat dilakukan berdasarkan Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Presiden Nomor 4 Tahun 2015 tentang Perubahan Keempat atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah.
 
 2. Kontrak yang ditandatangani berdasarkan Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Presiden Nomor 4 Tahun 2015 tentang Perubahan Keempat atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, tetap berlaku sampai dengan berakhirnya Kontrak.
 
@@ -2085,13 +2014,13 @@ g. persiapan Pengadaan Barang/Jasa melalui Penyedia sebagaimana dimaksud dalam P
 
 h. jenis Kontrak Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 27;
 
-i. metode pemilihan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya sebagaimana dimaksud dalam Pasal 38, dan Jasa Konsultansi sebagaimana dimaksud dalam Pasal 41; metode evaluasi penawaran Penyedia Barang/ Pekerjaan Konstruksi/Jasa Lainnya sebagaimana dimaksud dalam Pasal 39, dan Jasa Konsultansi sebagaimana dimaksud dalam Pasal 42;
+i. metode pemilihan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya sebagaimana dimaksud dalam Pasal 38, dan Jasa Konsultansi sebagaimana dimaksud dalam Pasal 41;
 
-k. metode
+j. metode evaluasi penawaran Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya sebagaimana dimaksud dalam Pasal 39, dan Jasa Konsultansi sebagaimana dimaksud dalam Pasal 42;
 
-k. metode penyampaian dokumen penawaran dalam pemilihan Penyedia Barang/Pekerjaan Konstruksi/ Jasa Lainnya sebagaimana dimaksud dalam Pasal 40, dan Jasa Konsultansi sebagaimana dimaksud dalam Pasal 43;
+k. metode penyampaian dokumen penawaran dalam pemilihan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya sebagaimana dimaksud dalam Pasal 40, dan Jasa Konsultansi sebagaimana dimaksud dalam Pasal 43;
 
-1. kualifikasi Penyedia sebagaimana dimaksud dalam Pasal 44;
+l. kualifikasi Penyedia sebagaimana dimaksud dalam Pasal 44;
 
 m. jadwal pemilihan Penyedia sebagaimana dimaksud dalam Pasal 45;
 
@@ -2109,23 +2038,23 @@ s. katalog elektronik sebagaimana dimaksud dalam Pasal 72;
 
 t. Sumber Daya Manusia Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 74;
 
-u. kelembagaan Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pa sal 75;
+u. kelembagaan Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 75;
 
 v. sanksi sebagaimana dimaksud dalam Pasal 78 sampai dengan Pasal 82;
 
-w. Daftar Hitam NasiOnal sebagaimana dimaksud dalam Pasal 83;
+w. Daftar Hitam Nasional sebagaimana dimaksud dalam Pasal 83;
 
 x. layanan penyelesaian sengketa kontrak sebagaimana dimaksud dalam Pasal 85; dan
 
-y. pengembangan pengembangan sistem dan kebijakan dalam Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 87, ditetapkan dengan Peraturan Kepala Lembaga paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
+y. pengembangan sistem dan kebijakan dalam Pengadaan Barang/Jasa sebagaimana dimaksud dalam Pasal 87,
+
+ditetapkan dengan Peraturan Kepala Lembaga paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
 
 (2) Ketentuan lebih lanjut mengenai bentuk Kontrak dan dokumen pendukung Kontrak sebagaimana dimaksud dalam Pasal 28 untuk pendanaan yang bersumber dari APBN, dan pemberian kesempatan kepada Penyedia untuk menyelesaikan pekerjaan sebagaimana dimaksud dalam Pasal 56 ditetapkan dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
 
 (3) Ketentuan lebih lanjut mengenai dokumen pendukung Kontrak sebagaimana dimaksud dalam Pasal 28 untuk pendanaan yang bersumber dari APBD, dan pemberian kesempatan kepada Penyedia untuk menyelesaikan pekerjaan sebagaimana dimaksud dalam Pasal 56 ditetapkan dengan peraturan menteri yang menyelenggarakan urusan di bidang pemerintahan dalam negeri paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
 
-(4) Ketentuan lebih lanjut mengenai pedoman dan tata cara Pengadaan Barang/Jasa di Luar Negeri sebagaimana dimaksud dalam Pasal 60 ditetapkan dengan peraturan menteri yang menyelenggarakan• urusan pemerintahan di bidang luar negeri paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
-
-(5) Ketentuan
+(4) Ketentuan lebih lanjut mengenai pedoman dan tata cara Pengadaan Barang/Jasa di Luar Negeri sebagaimana dimaksud dalam Pasal 60 ditetapkan dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang luar negeri paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
 
 (5) Ketentuan lebih lanjut mengenai penelitian sebagaimana dimaksud dalam Pasal 62 ditetapkan dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang riset dan pendidikan tinggi paling lama 90 (sembilan puluh) hari terhitung sejak Peraturan Presiden ini diundangkan.
 
@@ -2161,4 +2090,4 @@ LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 33
 Salinan sesuai dengan aslinya
 SEKRETARIAT KABINET RI
 Deputi Bidang Perekonomian,
-gtina iMurbahingsih
+Agustina Murbahingsih
