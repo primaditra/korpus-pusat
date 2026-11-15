@@ -10,13 +10,13 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-PERATURANPRESIDEN REPUBLIKINDONESIA
-NOMOR82 TAHUN2018
+PERATURAN PRESIDEN REPUBLIK INDONESIA
+NOMOR 82 TAHUN 2018
 TENTANG
-JAMINANKESEHATAN
-DENGANRAHMATTUHANYANGMAHAESA
-PRESIDEN REPUBLIKINDONESIA,
-Menimbang a. bahwa untuk melaksanakan ketentuan Pasal 13
+JAMINAN KESEHATAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+PRESIDEN REPUBLIK INDONESIA,
+Menimbang : a. bahwa untuk melaksanakan ketentuan Pasal 13
 ayat (2), Pasal 21 ayat (4), Pasal 22 ayat (3), Pasal 23
 ayat (5), Pasal 26, Pasal 27 ayat (5), dan Pasal 28
 ayat (2) Undang-Undang Nomor 40 Tahun 2004
@@ -42,20 +42,20 @@ c. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a dan huruf b, perlu
 menetapkan Peraturan Presiden tentang Jaminan
 Kesehatan;
-Mengingat 1. Pasal 4 ayat ( 1) Undang-Undang Dasar Negara
+Mengingat : 1. Pasal 4 ayat (1) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 40 Tahun 2004 tentang
 Sistem Jaminan Sosial Nasional (Lembaran Negara
 Republik Indonesia Tahun 2004 Nomor 150,
 Tambahan Lembaran Negara Republik Indonesia
 Nomor 4456);
-3. Undang-Undang Nomor 24 Tahun 2011 ten tang
+3. Undang-Undang Nomor 24 Tahun 2011 tentang
 Badan Penyelenggara Jaminan Sosial (Lembaran
 Negara Republik Indonesia Tahun 2011 Nomor 116,
 Tambahan Lembaran Negara Republik Indonesia
 Nomor 5256);
 MEMUTUSKAN:
-Menetapkan PERATURAN PRESIDEN TENT ANG JAMIN AN
+Menetapkan : PERATURAN PRESIDEN TENTANG JAMINAN
 KESEHATAN.
 
 ## BAB I - KETENTUAN UMUM
@@ -68,11 +68,11 @@ Dalam Peraturan Presiden ini yang dimaksud dengan:
 
 2. Peserta adalah setiap orang, termasuk orang asing yang bekerja paling singkat 6 (enam) bulan di Indonesia, yang telah membayar Iuran Jaminan Kesehatan.
 
-3. Iuran Jaminan Kesehatan yang selanjutnya disebut Iuran adalah sejumlah uang yang dibayarkan secara teratur oleh Peserta, Pemberi Kerja, dan/ a tau Pemerintah Pusat atau Pemerintah Daerah untuk program Jaminan Kesehatan.
+3. Iuran Jaminan Kesehatan yang selanjutnya disebut Iuran adalah sejumlah uang yang dibayarkan secara teratur oleh Peserta, Pemberi Kerja, dan/atau Pemerintah Pusat atau Pemerintah Daerah untuk program Jaminan Kesehatan.
 
 4. Manfaat adalah faedah jaminan sosial yang menjadi hak Peserta dan/atau anggota keluarganya.
 
-5. Penerima Bantuan Iuran Jaminan Kesehatan yang selanjutnya disebut PSI Jaminan Kesehatan adalah fakir miskin dan orang tidak mampu sebagai Peserta program Jaminan Kesehatan.
+5. Penerima Bantuan Iuran Jaminan Kesehatan yang selanjutnya disebut PBI Jaminan Kesehatan adalah fakir miskin dan orang tidak mampu sebagai Peserta program Jaminan Kesehatan.
 
 6. Pekerja adalah setiap orang yang bekerja dengan menerima Gaji, Upah, atau imbalan dalam bentuk lain.
 
@@ -80,25 +80,25 @@ Dalam Peraturan Presiden ini yang dimaksud dengan:
 
 8. Pekerja Bukan Penerima Upah yang selanjutnya disingkat PBPU adalah setiap orang yang bekerja atau berusaha atas risiko sendiri.
 
-9. Bukan Pekerja yang selanjutnya disingkat BP adalah setiap orang yang bukan termasuk kelompok PPU, PBPU, PSI Jaminan Kesehatan, dan penduduk yang didaftarkan oleh Pemerintah Daerah.
+9. Bukan Pekerja yang selanjutnya disingkat BP adalah setiap orang yang bukan termasuk kelompok PPU, PBPU, PBI Jaminan Kesehatan, dan penduduk yang didaftarkan oleh Pemerintah Daerah.
 
 10. Pejabat Negara adalah pimpinan dan anggota lembaga negara sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan pejabat lainnya yang ditentukan oleh Undang-Undang.
 
-11. Pegawai Negeri Sipil yang selanjutnya disingkat PNS adalah warga negara Indonesia yang memenuhi syarat tertentu, diangkat sebagai Pegawai Aparatur Sipil Negara secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerin tahan.
+11. Pegawai Negeri Sipil yang selanjutnya disingkat PNS adalah warga negara Indonesia yang memenuhi syarat tertentu, diangkat sebagai Pegawai Aparatur Sipil Negara secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan.
 
 12. Prajurit adalah anggota Tentara Nasional Indonesia.
 
-13. Anggota Kepolisian Negara Republik Indonesia yang selanjutnya disebut Anggota Polri adalah Anggota Polri sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Kepolisian Negara
+13. Anggota Kepolisian Negara Republik Indonesia yang selanjutnya disebut Anggota Polri adalah Anggota Polri sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Kepolisian Negara Republik Indonesia.
 
 14. Veteran adalah Veteran Republik Indonesia sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Veteran Republik Indonesia.
 
-15. Perintis Kemerdekaan adalah Perintis Kemerdekaan sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Perintis Kemerdekaan atau pemberian penghargaan/tunjangan kepada Perintis Pergerakan Ke bangsaan/ Kemerdekaan.
+15. Perintis Kemerdekaan adalah Perintis Kemerdekaan sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Perintis Kemerdekaan atau pemberian penghargaan/tunjangan kepada Perintis Pergerakan Kebangsaan/Kemerdekaan.
 
 16. Pemberi Kerja adalah orang perseorangan, pengusaha, badan hukum, atau badan lainnya yang mempekerjakan tenaga kerja, atau penyelenggara negara yang mempekerjakan Pegawai Aparatur Sipil Negara dengan membayar gaji, upah, atau imbalan dalam bentuk lainnya.
 
-17. Gaji atau Upah adalah hak Pekerja yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari Pemberi Kerja kepada Pekerja yang ditetapkan dan dibayar menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang-undangan, termasuk tunjangan bagi Pekerja dan keluarganya atas suatu pekerjaan dan/ a tau jasa yang telah a tau akan dilakukan.
+17. Gaji atau Upah adalah hak Pekerja yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari Pemberi Kerja kepada Pekerja yang ditetapkan dan dibayar menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang-undangan, termasuk tunjangan bagi Pekerja dan keluarganya atas suatu pekerjaan dan/atau jasa yang telah atau akan dilakukan.
 
-18. Pemutusan Hubungan Kerja yang selanjutnya disingkat PHK adalah pengakhiran hubungan kerja karena suatu hal tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara Pekerja/ buruh dan Pemberi Kerja berdasarkan per a turan perundang- undangan.
+18. Pemutusan Hubungan Kerja yang selanjutnya disingkat PHK adalah pengakhiran hubungan kerja karena suatu hal tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara Pekerja/buruh dan Pemberi Kerja berdasarkan peraturan perundang-undangan.
 
 19. Fasilitas Kesehatan adalah fasilitas pelayanan kesehatan yang digunakan untuk menyelenggarakan upaya pelayanan kesehatan perorangan, baik promotif, preventif, kuratif, maupun rehabilitatif yang dilakukan oleh Pemerintah Pusat, Pemerintah Daerah, dan/atau masyarakat.
 
@@ -118,13 +118,13 @@ Dalam Peraturan Presiden ini yang dimaksud dengan:
 
 27. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang kesehatan.
 
-28. Badan Penyelenggara Jaminan Sosial Kesehatan yang selanjutnya disingkat BPJS Kesehatan adalah bad an hukum yang dibentuk untuk menyelenggarakan program Jaminan Kesehatan.
+28. Badan Penyelenggara Jaminan Sosial Kesehatan yang selanjutnya disingkat BPJS Kesehatan adalah badan hukum yang dibentuk untuk menyelenggarakan program Jaminan Kesehatan.
 
 29. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
 
-30. Daerah Otonom yang selanjutnya disebut Daerah adalah kesatuan masyarakat hukum yang mempunyai batas-batas wilayah yang berwenang mengatur dan mengurus Urusan Pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyaraka t dalam sistem Negara Kesatuan Republik Indonesia.
+30. Daerah Otonom yang selanjutnya disebut Daerah adalah kesatuan masyarakat hukum yang mempunyai batas-batas wilayah yang berwenang mengatur dan mengurus Urusan Pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem Negara Kesatuan Republik Indonesia.
 
-## BAB II - PESERTADAN KEPESERTAAN
+## BAB II - PESERTA DAN KEPESERTAAN
 
 **Bagian Kesatu** **Peserta Jaminan Kesehatan**
 
@@ -166,7 +166,7 @@ f. kepala desa dan perangkat desa;
 
 g. pegawai swasta; dan
 
-h. Pekerja/ pegawai yang tidak termasuk huruf a sampai dengan huruf g yang menerima Gaji atau Upah.
+h. Pekerja/pegawai yang tidak termasuk huruf a sampai dengan huruf g yang menerima Gaji atau Upah.
 
 (3) PBPU sebagaimana dimaksud pada ayat (1) huruf b terdiri atas:
 
@@ -198,17 +198,17 @@ b. PNS yang berhenti dengan hak pensiun;
 
 c. Prajurit dan Anggota Polri yang berhenti dengan hak pensiun;
 
-d. janda, duda, atau anak yatim dan/ a tau piatu dari penerima pensiun sebagaimana dimaksud pada huruf a, huruf b, dan huruf c yang mendapat hak pensiun;
+d. janda, duda, atau anak yatim dan/atau piatu dari penerima pensiun sebagaimana dimaksud pada huruf a, huruf b, dan huruf c yang mendapat hak pensiun;
 
-e. penerima pensiun selain huruf a, huruf b, dan hurufc; dan
+e. penerima pensiun selain huruf a, huruf b, dan huruf c; dan
 
-f. janda, duda, a tau anak yatim dan/ a tau piatu dari penerima pensiun sebagaimana dimaksud pada huruf e yang mendapat hak pensiun.
+f. janda, duda, atau anak yatim dan/atau piatu dari penerima pensiun sebagaimana dimaksud pada huruf e yang mendapat hak pensiun.
 
 ### Pasal 5
 
-(1) Anggota keluarga dari Peserta PPU meliputi istri/ suami yang sah, anak kandung, anak tiri dari perkawinan yang sah, dan anak angkat yang sah, paling banyak 4 (empat) orang.
+(1) Anggota keluarga dari Peserta PPU meliputi istri/suami yang sah, anak kandung, anak tiri dari perkawinan yang sah, dan anak angkat yang sah, paling banyak 4 (empat) orang.
 
-(2) Anak kandung, anak tiri dari perkawinan yang sah, clan anak angkat yang sah sebagaimana dimaksud pada ayat (1), dengan kriteria:
+(2) Anak kandung, anak tiri dari perkawinan yang sah, dan anak angkat yang sah sebagaimana dimaksud pada ayat (1), dengan kriteria:
 
 a. tidak atau belum pernah menikah atau tidak mempunyai penghasilan sendiri; dan
 
@@ -228,29 +228,31 @@ b. belum berusia 21 (dua puluh satu) tahun atau belum berusia 25 (dua puluh lima
 
 (2) Ikut serta dalam program Jaminan Kesehatan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara mendaftar atau didaftarkan pada BPJS Kesehatan.
 
-(3) Pada saat mendaftar atau didaftarkan pada BPJS Kesehatan sebagaimana dimaksud pada ayat (2), calon Peserta berhak menen tukan FKTP yang diinginkannya.
+(3) Pada saat mendaftar atau didaftarkan pada BPJS Kesehatan sebagaimana dimaksud pada ayat (2), calon Peserta berhak menentukan FKTP yang diinginkannya.
 
 ### Pasal 7
 
 (1) Peserta dapat mengganti FKTP tempat Peserta terdaftar setelah jangka waktu 3 (tiga) bulan.
 
-(2) Penggantian FKTP oleh Peserta sebagaimana dimaksud pada ayat ( 1) dapat dilakukan dalam jangka waktu kurang dari 3 (tiga) bulan dengan kondisi sebagai berikut:
+(2) Penggantian FKTP oleh Peserta sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam jangka waktu kurang dari 3 (tiga) bulan dengan kondisi sebagai berikut:
 
 a. Peserta pindah domisili dalam jangka waktu kurang dari 3 (tiga) bulan setelah terdaftar di FKTP awal, yang dibuktikan dengan surat keterangan domisili; atau
 
-b. Peserta dalam penugasan dinas atau pelatihan dalam jangka waktu kurang dari 3 ( tiga) bulan, yang dibuktikan dengan surat keterangan penugasan atau pelatihan.
+b. Peserta dalam penugasan dinas atau pelatihan dalam jangka waktu kurang dari 3 (tiga) bulan, yang dibuktikan dengan surat keterangan penugasan atau pelatihan.
 
-(3) Penggantian FKTPsebagaimana dimaksud pada ayat ( 1) dan ayat (2) mulai berlaku sejak tanggal 1 pada bulan berikutnya. ( 4) Dalam hal kondisi Peserta yang terdaftar di FKTP belum merata, BPJS Kesehatan dapat melakukan pemindahan Peserta ke FKTPlain.
+(3) Penggantian FKTP sebagaimana dimaksud pada ayat (1) dan ayat (2) mulai berlaku sejak tanggal 1 pada bulan berikutnya.
 
-(5) Pemindahan Peserta ke FKTP lain sebagaimana dimaksud pada ayat (4) harus mempertimbangkan jumlah Peserta yang terdaftar, ketersediaan dokter, tenaga kesehatan selain dokter, dan saran a prasarana di FKTP.
+(4) Dalam hal kondisi Peserta yang terdaftar di FKTP belum merata, BPJS Kesehatan dapat melakukan pemindahan Peserta ke FKTP lain.
+
+(5) Pemindahan Peserta ke FKTP lain sebagaimana dimaksud pada ayat (4) harus mempertimbangkan jumlah Peserta yang terdaftar, ketersediaan dokter, tenaga kesehatan selain dokter, dan sarana prasarana di FKTP.
 
 (6) Dalam hal Peserta yang dipindahkan sebagaimana dimaksud pada ayat (4) keberatan maka Peserta dapat meminta untuk dipindahkan ke FKTP yang diinginkan.
 
 (7) Pemindahan Peserta sebagaimana dimaksud pada ayat (4) dilakukan setelah berkoordinasi dengan:
 
-a. dinas kesehatan kabupaten/kota untuk pemindahan antar FKTPmilik pemerintah;
+a. dinas kesehatan kabupaten/kota untuk pemindahan antar FKTP milik pemerintah;
 
-b. asosiasi fasilitas kesehatan untuk pemindahan antar FKTPbukan milik pemerintah; atau
+b. asosiasi fasilitas kesehatan untuk pemindahan antar FKTP bukan milik pemerintah; atau
 
 c. dinas kesehatan kabupaten/kota dan asosiasi fasilitas kesehatan untuk pemindahan antara FKTP milik pemerintah dengan FKTP bukan milik pemerintah.
 
@@ -260,9 +262,9 @@ c. dinas kesehatan kabupaten/kota dan asosiasi fasilitas kesehatan untuk peminda
 
 ### Pasal 8
 
-( 1) Setiap Peserta yang telah terdaftar pada BPJS Kesehatan berhak mendapatkan identitas Peserta.
+(1) Setiap Peserta yang telah terdaftar pada BPJS Kesehatan berhak mendapatkan identitas Peserta.
 
-(2) Identitas Peserta sebagaimana dimaksud pada ayat ( 1) berupa Kartu Indonesia Se hat yang paling sediki t memuat nama dan nomor identitas Peserta yang terintegrasi dengan Nomor Identitas Kependudukan, kecuali untuk bayi baru lahir.
+(2) Identitas Peserta sebagaimana dimaksud pada ayat (1) berupa Kartu Indonesia Sehat yang paling sedikit memuat nama dan nomor identitas Peserta yang terintegrasi dengan Nomor Identitas Kependudukan, kecuali untuk bayi baru lahir.
 
 (3) Kartu Indonesia Sehat sebagaimana dimaksud pada ayat (2) diberikan kepada Peserta secara bertahap.
 
@@ -280,7 +282,7 @@ Bayi yang dilahirkan oleh ibu kandung yang terdaftar sebagai Peserta PBI Jaminan
 
 (1) Peserta bukan PBI Jaminan Kesehatan yang mengalami Cacat Total Tetap dan tidak mampu, berhak menjadi Peserta PBI Jaminan Kesehatan.
 
-(2) Penetapan Cacat Total Tetap sebagaimana dimaksud pada ayat ( 1) dilakukan oleh dokter yang berwenang.
+(2) Penetapan Cacat Total Tetap sebagaimana dimaksud pada ayat (1) dilakukan oleh dokter yang berwenang.
 
 (3) Penetapan orang dengan Cacat Total Tetap dan tidak mampu sebagai Peserta PBI Jaminan Kesehatan sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -294,13 +296,13 @@ Penduduk yang belum terdaftar sebagai Peserta Jaminan Kesehatan dapat didaftarka
 
 (2) Dalam hal Pemberi Kerja secara nyata tidak mendaftarkan Pekerjanya kepada BPJS Kesehatan, Pekerja yang bersangkutan berhak mendaftarkan dirinya sebagai Peserta Jaminan Kesehatan.
 
-(3) Pendaftaran oleh Pekerja sebagaimana dimaksud pada ayat (2) dilakukan dengan melampirkan dokumen yang membuktikan status ketenagakerj aannya.
+(3) Pendaftaran oleh Pekerja sebagaimana dimaksud pada ayat (2) dilakukan dengan melampirkan dokumen yang membuktikan status ketenagakerjaannya.
 
 (4) Pekerja yang mendaftarkan dirinya sebagai Peserta Jaminan Kesehatan sebagaimana dimaksud pada ayat (2), Iurannya dibayar sesuai dengan ketentuan Peraturan Presiden ini.
 
 (5) Dalam hal Pemberi Kerja belum mendaftarkan dan membayar Iuran bagi Pekerjanya kepada BPJS Kesehatan, Pemberi Kerja wajib bertanggung jawab pada saat Pekerjanya membutuhkan pelayanan kesehatan sesuai dengan Manfaat yang diberikan oleh BPJS Kesehatan.
 
-(6) Pemberi Kerja selain penyelenggara negara yang melanggar ketentuan sebagaimana dimaksud pada ayat ( 1) dikenai sanksi administratif berupa:
+(6) Pemberi Kerja selain penyelenggara negara yang melanggar ketentuan sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif berupa:
 
 a. teguran tertulis;
 
@@ -312,7 +314,7 @@ c. tidak mendapat pelayanan publik tertentu.
 
 ### Pasal 14
 
-( 1) Dalam hal pasangan suami istri yang masing-masing merupakan Pekerja maka keduanya wajib didaftarkan sebagai Peserta PPU oleh masing-masing Pemberi Kerja dan membayar Iuran.
+(1) Dalam hal pasangan suami istri yang masing-masing merupakan Pekerja maka keduanya wajib didaftarkan sebagai Peserta PPU oleh masing-masing Pemberi Kerja dan membayar Iuran.
 
 (2) Suami, istri, dan anak dari Peserta PPU sebagaimana dimaksud pada ayat (1) berhak memilih kelas perawatan tertinggi.
 
@@ -330,13 +332,13 @@ c. tidak mendapat pelayanan publik tertentu.
 
 (2) Peserta yang tidak mendaftarkan bayi sebagaimana dimaksud pada ayat (1) dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Ketentuan lebih lanjut mengenai pendaftaran bayi baru lahir sebagaimana dimaksud pada ayat ( 1) diatur dalam Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/ lembaga terkait.
+(3) Ketentuan lebih lanjut mengenai pendaftaran bayi baru lahir sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/lembaga terkait.
 
 ### Pasal 17
 
 (1) Kewajiban melakukan pendaftaran sebagai Peserta Jaminan Kesehatan yang telah ditentukan sesuai dengan batas waktunya namun belum dilakukan maka dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
 
-(2) Kewajiban melakukan pendaftaran sebagai Peserta Jaminan Kesehatan bagi PBPU dan BP dilaksanakan paling lam bat tanggal 1 Januari 2019.
+(2) Kewajiban melakukan pendaftaran sebagai Peserta Jaminan Kesehatan bagi PBPU dan BP dilaksanakan paling lambat tanggal 1 Januari 2019.
 
 ### Pasal 18
 
@@ -344,15 +346,15 @@ Dalam rangka pendaftaran Peserta, BPJS Kesehatan wajib mengembangkan sistem untu
 
 ### Pasal 19
 
-Ketentuan lebih lanjut mengenai prosedur pendaftaran dan administrasi kepesertaan diatur dengan Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/ lembaga terkait.
+Ketentuan lebih lanjut mengenai prosedur pendaftaran dan administrasi kepesertaan diatur dengan Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/lembaga terkait.
 
 **Paragraf 2** **Perubahan Status Kepesertaan**
 
 ### Pasal 20
 
-( 1) Status kepesertaan dapat berubah untuk menjamin keberlanjutan kepesertaan.
+(1) Status kepesertaan dapat berubah untuk menjamin keberlanjutan kepesertaan.
 
-(2) Perubahan status kepesertaan se bagaimana dimaksud pada ayat (1) tidak menghapuskan kewajiban Peserta, Pemberi Kerja, atau Pemerintah Daerah untuk melunasi tunggakan Iuran.
+(2) Perubahan status kepesertaan sebagaimana dimaksud pada ayat (1) tidak menghapuskan kewajiban Peserta, Pemberi Kerja, atau Pemerintah Daerah untuk melunasi tunggakan Iuran.
 
 (3) Kewajiban Peserta, Pemberi Kerja, atau Pemerintah Daerah untuk melunasi tunggakan Iuran sebagaimana dimaksud pada ayat (2) dilakukan paling lama 6 (enam) bulan sejak status kepesertaan berubah.
 
@@ -362,7 +364,7 @@ Ketentuan lebih lanjut mengenai prosedur pendaftaran dan administrasi kepesertaa
 
 ### Pasal 21
 
-( 1) Perubahan status kepesertaan dari Peserta PBI Jaminan Kesehatan menjadi bukan Peserta PBI Jaminan Kesehatan dilakukan melalui pendaftaran ke BPJS Kesehatan dengan membayar Iuran pertama.
+(1) Perubahan status kepesertaan dari Peserta PBI Jaminan Kesehatan menjadi bukan Peserta PBI Jaminan Kesehatan dilakukan melalui pendaftaran ke BPJS Kesehatan dengan membayar Iuran pertama.
 
 (2) Perubahan status kepesertaan sebagaimana dimaksud pada ayat (1) tidak mengakibatkan terputusnya Manfaat Jaminan Kesehatan.
 
@@ -370,7 +372,7 @@ Ketentuan lebih lanjut mengenai prosedur pendaftaran dan administrasi kepesertaa
 
 ### Pasal 22
 
-(1) Peserta PPU wajib menyampaikan perubahan data kepesertaan kepada Pem beri Kerja termasuk perubahan status kepesertaan dan seluruh tunggakan Iuran.
+(1) Peserta PPU wajib menyampaikan perubahan data kepesertaan kepada Pemberi Kerja termasuk perubahan status kepesertaan dan seluruh tunggakan Iuran.
 
 (2) Pemberi Kerja wajib melaporkan perubahan data kepesertaan sebagaimana dimaksud pada ayat (1) kepada BPJS Kesehatan paling lambat 7 (tujuh) hari sejak terjadinya perubahan data oleh Pekerja.
 
@@ -396,11 +398,11 @@ Ketentuan lebih lanjut mengenai tata cara perubahan status kepesertaan diatur de
 
 ### Pasal 27
 
-( 1) Peserta PPU yang mengalami PHK tetap memperoleh hak Manfaat Jaminan Kesehatan paling lama 6 (enam) bulan sejak di PHK, tanpa membayar Iuran.
+(1) Peserta PPU yang mengalami PHK tetap memperoleh hak Manfaat Jaminan Kesehatan paling lama 6 (enam) bulan sejak di PHK, tanpa membayar Iuran.
 
-(2) PHK sebagaimana dimaksud pada ayat ( 1) harus memenuhi kriteria:
+(2) PHK sebagaimana dimaksud pada ayat (1) harus memenuhi kriteria:
 
-a. PHK yang sudah ada putusan pengadilan hubungan industrial, dibuktikan dengan putusan/ akta pengadilan hubungan industrial;
+a. PHK yang sudah ada putusan pengadilan hubungan industrial, dibuktikan dengan putusan/akta pengadilan hubungan industrial;
 
 b. PHK karena penggabungan perusahaan, dibuktikan dengan akta notaris;
 
@@ -408,13 +410,15 @@ c. PHK karena perusahaan pailit atau mengalami kerugian, dibuktikan dengan putus
 
 d. PHK karena Pekerja mengalami sakit yang berkepanjangan dan tidak mampu bekerja, dibuktikan dengan surat dokter.
 
-(3) Dalam hal terjadi sengketa atas PHK yang diajukan melalui lembaga penyelesaian perselisihan hubungan industrial, baik Pemberi Kerja maupun Pekerja harus tetap melaksanakan kewajiban membayar Iuran sampai dengan adanya putusan yang berkekuatan hukum tetap. ( 4) Manfaat J aminan Kesehatan se bagaimana dimaksud pada ayat (1) diberikan berupa Manfaat pelayanan di ruang perawatan kelas III.
+(3) Dalam hal terjadi sengketa atas PHK yang diajukan melalui lembaga penyelesaian perselisihan hubungan industrial, baik Pemberi Kerja maupun Pekerja harus tetap melaksanakan kewajiban membayar Iuran sampai dengan adanya putusan yang berkekuatan hukum tetap.
+
+(4) Manfaat Jaminan Kesehatan sebagaimana dimaksud pada ayat (1) diberikan berupa Manfaat pelayanan di ruang perawatan kelas III.
 
 (5) Peserta sebagaimana dimaksud pada ayat (1) yang telah bekerja kembali wajib memperpanjang status kepesertaannya dengan membayar Iuran.
 
-(6) Dalam hal Peserta sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak bekerja kembali clan tidak mampu, didaftarkan menjadi Peserta PBI Jaminan Kesehatan.
+(6) Dalam hal Peserta sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak bekerja kembali dan tidak mampu, didaftarkan menjadi Peserta PBI Jaminan Kesehatan.
 
-## BAB III - I URAN
+## BAB III - IURAN
 
 **Bagian Kesatu** **Besaran Iuran**
 
@@ -442,7 +446,7 @@ Iuran bagi Peserta PBI Jaminan Kesehatan dan penduduk yang didaftarkan oleh Peme
 
 ### Pasal 30
 
-( 1) Iuran bagi Peserta PPU yang terdiri atas Pejabat Negara, pimpinan dan anggota Dewan Perwakilan Rakyat Daerah, PNS, Prajurit, Anggota Polri, kepala desa dan perangkat desa, dan Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h yaitu sebesar 5% (lima persen) dari Gaji atau Upah per bulan.
+(1) Iuran bagi Peserta PPU yang terdiri atas Pejabat Negara, pimpinan dan anggota Dewan Perwakilan Rakyat Daerah, PNS, Prajurit, Anggota Polri, kepala desa dan perangkat desa, dan Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h yaitu sebesar 5% (lima persen) dari Gaji atau Upah per bulan.
 
 (2) Iuran sebagaimana dimaksud pada ayat (1) dibayar dengan ketentuan sebagai berikut:
 
@@ -464,15 +468,15 @@ b. Pemerintah Daerah untuk Iuran bagi kepala daerah dan wakil kepala daerah, pim
 
 a. 4% (empat persen) dibayar oleh Pemberi Kerja; dan
 
-b. 1 % (satu persen) dibayar oleh Peserta.
+b. 1% (satu persen) dibayar oleh Peserta.
 
 (2) Iuran sebagaimana dimaksud pada ayat (1) dibayarkan secara langsung oleh Pemberi Kerja kepada BPJS Kesehatan.
 
 ### Pasal 32
 
-(1) Batas paling tinggi Gaji atau Upah per bulan yang digunakan sebagai dasar perhitungan besaran Iuran bagi Peserta PPU sebagaimana dimaksud dalam Pasal 31 ayat ( 1), kepala desa dan perangkat desa, dan Pekerja/ pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h yaitu sebesar Rp8.000.000,00 (delapan juta rupiah).
+(1) Batas paling tinggi Gaji atau Upah per bulan yang digunakan sebagai dasar perhitungan besaran Iuran bagi Peserta PPU sebagaimana dimaksud dalam Pasal 31 ayat (1), kepala desa dan perangkat desa, dan Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h yaitu sebesar Rp8.000.000,00 (delapan juta rupiah).
 
-(2) Batas paling rendah Gaji atau Upah per bulan yang digunakan sebagai dasar perhitungan besaran Iuran bagi Peserta PPU selain penyelenggara negara, kepala desa dan perangkat desa, dan Pekerja/ pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h yaitu sebesar upah minimum kabupaten/ kota.
+(2) Batas paling rendah Gaji atau Upah per bulan yang digunakan sebagai dasar perhitungan besaran Iuran bagi Peserta PPU selain penyelenggara negara, kepala desa dan perangkat desa, dan Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h yaitu sebesar upah minimum kabupaten/kota.
 
 (3) Dalam hal Pemerintah Daerah tidak menetapkan upah minimum kabupaten/kota maka yang menjadi dasar perhitungan besaran Iuran sebagaimana dimaksud pada ayat (2) yaitu sebesar upah minimum provinsi.
 
@@ -480,9 +484,9 @@ b. 1 % (satu persen) dibayar oleh Peserta.
 
 ### Pasal 33
 
-( 1) Gaji atau Upah yang digunakan sebagai dasar perhitungan Iuran bagi Peserta PPU untuk Pejabat Negara, pimpinan dan anggota Dewan Perwakilan Rakyat Daerah, PNS, Prajurit, atau Anggota Polri sebagaimana dimaksud dalam Pasal 30 ayat ( 1) terdiri atas Gaji atau Upah pokok dan tunjangan keluarga.
+(1) Gaji atau Upah yang digunakan sebagai dasar perhitungan Iuran bagi Peserta PPU untuk Pejabat Negara, pimpinan dan anggota Dewan Perwakilan Rakyat Daerah, PNS, Prajurit, atau Anggota Polri sebagaimana dimaksud dalam Pasal 30 ayat (1) terdiri atas Gaji atau Upah pokok dan tunjangan keluarga.
 
-(2) Gaji atau Upah yang digunakan sebagai dasar perhitungan Iuran bagi Peserta PPU untuk kepala desa dan perangkat desa serta Pekerja/ pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h dihitung berdasarkan penghasilan tetap.
+(2) Gaji atau Upah yang digunakan sebagai dasar perhitungan Iuran bagi Peserta PPU untuk kepala desa dan perangkat desa serta Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h dihitung berdasarkan penghasilan tetap.
 
 (3) Gaji atau Upah yang digunakan sebagai dasar perhitungan Iuran bagi Peserta PPU selain Peserta sebagaimana dimaksud pada ayat (1) dan ayat (2) terdiri atas Gaji atau Upah pokok dan tunjangan tetap.
 
@@ -494,13 +498,13 @@ Iuran bagi Peserta PBPU dan Peserta BP yaitu sebesar:
 
 a. Rp25.500,00 (dua puluh lima ribu lima ratus rupiah) per orang per bulan dengan Manfaat pelayanan di ruang perawatan Kelas III;
 
-b. Rp5 l .OOO,OO (lima puluh satu ribu rupiah) per orang per bulan dengan Manfaat pelayanan di ruang perawatan Kelas II; atau
+b. Rp51.000,00 (lima puluh satu ribu rupiah) per orang per bulan dengan Manfaat pelayanan di ruang perawatan Kelas II; atau
 
 c. Rp80.000,00 (delapan puluh ribu rupiah) per orang per bulan dengan Manfaat pelayanan di ruang perawatan Kelas I.
 
 ### Pasal 35
 
-( 1) Iuran bagi penerima pensiun sebagaimana dimaksud dalam Pasal 4 ayat (5) huruf a, huruf b, huruf c, dan huruf d yaitu sebesar 5% (lima persen) dari besaran pensiun pokok dan tunjangan keluarga yang diterima per bulan.
+(1) Iuran bagi penerima pensiun sebagaimana dimaksud dalam Pasal 4 ayat (5) huruf a, huruf b, huruf c, dan huruf d yaitu sebesar 5% (lima persen) dari besaran pensiun pokok dan tunjangan keluarga yang diterima per bulan.
 
 (2) Iuran sebagaimana dimaksud pada ayat (1) dibayar oleh Pemerintah Pusat dan penerima pensiun dengan ketentuan sebagai berikut:
 
@@ -510,13 +514,13 @@ b. 2% (dua persen) dibayar oleh penerima pensiun.
 
 (3) Iuran bagi penerima pensiun sebagaimana dimaksud dalam Pasal 4 ayat (5) huruf e dan huruf f mengikuti ketentuan sebagaimana dimaksud dalam Pasal 34.
 
-(4) Iuran bagi Veteran, Perintis Kemerdekaan, janda, duda, a tau anak yatim dan/ a tau piatu dari Veteran atau Perintis Kemerdekaan yaitu sebesar 5% (lima persen) dari 45% (empat puluh lima persen) Gaji pokok PNS golongan ruang III/ a dengan masa kerja 14 (empat belas) tahun per bulan, dibayar oleh Pemerintah Pusat.
+(4) Iuran bagi Veteran, Perintis Kemerdekaan, janda, duda, atau anak yatim dan/atau piatu dari Veteran atau Perintis Kemerdekaan yaitu sebesar 5% (lima persen) dari 45% (empat puluh lima persen) Gaji pokok PNS golongan ruang III/a dengan masa kerja 14 (empat belas) tahun per bulan, dibayar oleh Pemerintah Pusat.
 
 ### Pasal 36
 
-( 1) I uran bagi anggota keluarga yang lain dari Peserta PPU dibayar oleh Peserta.
+(1) Iuran bagi anggota keluarga yang lain dari Peserta PPU dibayar oleh Peserta.
 
-(2) Besaran Iuran bagi anggota keluarga yang lain sebagaimana dimaksud pada ayat (1) yaitu sebesar 1 % (satu persen) dari Gaji atau Upah Peserta PPU per orang per bulan.
+(2) Besaran Iuran bagi anggota keluarga yang lain sebagaimana dimaksud pada ayat (1) yaitu sebesar 1% (satu persen) dari Gaji atau Upah Peserta PPU per orang per bulan.
 
 (3) Besaran Iuran bagi anggota keluarga yang lain sebagaimana dimaksud pada ayat (1) bagi Peserta PBPU dan Peserta BP ditetapkan sesuai Manfaat ruang perawatan yang dipilih mengacu pada ketentuan sebagaimana dimaksud dalam Pasal 34.
 
@@ -524,7 +528,7 @@ b. 2% (dua persen) dibayar oleh penerima pensiun.
 
 ### Pasal 37
 
-( 1) Peserta warga negara Indonesia yang tinggal di luar negeri selama 6 (enam) bulan berturut-turut dapat menghen tikan kepesertaannya semen tara.
+(1) Peserta warga negara Indonesia yang tinggal di luar negeri selama 6 (enam) bulan berturut-turut dapat menghentikan kepesertaannya sementara.
 
 (2) Dalam hal Peserta menghentikan kepesertaannya sementara sebagaimana dimaksud pada ayat (1), Peserta yang bersangkutan tidak mendapatkan Manfaat.
 
@@ -536,19 +540,19 @@ b. 2% (dua persen) dibayar oleh penerima pensiun.
 
 (1) Besaran Iuran ditinjau paling lama 2 (dua) tahun sekali.
 
-(2) Ketentuan mengenai besaran Iuran sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan
+(2) Ketentuan mengenai besaran Iuran sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Presiden.
 
-**Bagian Kedua** **Ta ta Cara Pem bayaran I uran**
+**Bagian Kedua** **Tata Cara Pembayaran Iuran**
 
 ### Pasal 39
 
 (1) Pemberi Kerja wajib memungut Iuran dari Pekerjanya, membayar Iuran yang menjadi tanggung jawabnya, dan menyetor Iuran tersebut kepada BPJS Kesehatan paling lambat tanggal 10 setiap bulan.
 
-(2) Jika Pemberi Kerja merupakan Pemerintah Pusat atau Pemerintah Daerah, penyetoran Iuran kepada BPJS Kesehatan sebagaimana dimaksud pada ayat ( 1) dilakukan melalui rekening kas negara paling lambat tanggal 10 setiap bulan.
+(2) Jika Pemberi Kerja merupakan Pemerintah Pusat atau Pemerintah Daerah, penyetoran Iuran kepada BPJS Kesehatan sebagaimana dimaksud pada ayat (1) dilakukan melalui rekening kas negara paling lambat tanggal 10 setiap bulan.
 
 (3) Iuran bagi Peserta PPU untuk kepala desa dan perangkat desa dipungut dan dibayarkan oleh Pemerintah Daerah kabupaten/kota sebagai Pemberi Kerja langsung kepada BPJS Kesehatan paling lambat tanggal 10 setiap bulan.
 
-(4) Dalam hal tanggal 10 sebagaimana dimaksud pada ayat ( 1) jatuh pada hari libur maka Iuran dibayarkan pada hari kerja berikutnya.
+(4) Dalam hal tanggal 10 sebagaimana dimaksud pada ayat (1) jatuh pada hari libur maka Iuran dibayarkan pada hari kerja berikutnya.
 
 (5) Ketentuan mengenai penerusan Iuran Pemberi Kerja Pemerintah Daerah dari rekening kas negara kepada BPJS Kesehatan diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
 
@@ -574,7 +578,7 @@ b. 2% (dua persen) dibayar oleh penerima pensiun.
 
 (1) Dalam hal Peserta dan/atau Pemberi Kerja tidak membayar Iuran sampai dengan akhir bulan berjalan maka penjaminan Peserta diberhentikan sementara sejak tanggal 1 bulan berikutnya.
 
-(2) Dalam hal pemberi kerja belum melunasi tunggakan Iuran sebagaimana dimaksud pada ayat (1) kepada BPJS Kesehatan, Pemberi Kerja wajib bertanggung jawab pada saat Pekerjanya membutuhkan pelayanan kesehatan sesuai dengan Manfaat yang diberikan. . - 29 -
+(2) Dalam hal pemberi kerja belum melunasi tunggakan Iuran sebagaimana dimaksud pada ayat (1) kepada BPJS Kesehatan, Pemberi Kerja wajib bertanggung jawab pada saat Pekerjanya membutuhkan pelayanan kesehatan sesuai dengan Manfaat yang diberikan.
 
 (3) Pemberhentian sementara penjaminan Peserta sebagaimana dimaksud pada ayat (1) berakhir dan status kepesertaan aktif kembali, apabila Peserta:
 
@@ -604,11 +608,11 @@ BPJS Kesehatan wajib mencatat dan menagih tunggakan Iuran sebagai piutang BPJS K
 
 ### Pasal 44
 
-( 1) Ketentuan mengenai penyediaan, pencairan, dan pertanggungjawaban Iuran yang berasal dari Anggaran Pendapatan dan Belanja Negara diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
+(1) Ketentuan mengenai penyediaan, pencairan, dan pertanggungjawaban Iuran yang berasal dari Anggaran Pendapatan dan Belanja Negara diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
 
-(2) Ketentuan mengenai penyetoran Iuran dari PNS, Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h, dan Pemerintah Daerah diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan a tau Peraturan Menteri yang menyelenggarakan urusan pemerintahan dalam negeri sesuai dengan kewenangannya.
+(2) Ketentuan mengenai penyetoran Iuran dari PNS, Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h, dan Pemerintah Daerah diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan atau Peraturan Menteri yang menyelenggarakan urusan pemerintahan dalam negeri sesuai dengan kewenangannya.
 
-(3) Ketentuan lebih lanjut mengenai pemotongan, penyetoran, dan pembayaran Iuran bagi kepala desa dan perangkat desa diatur dengan Peraturan Men teri yang menyelenggarakan urusan pemerin tahan dalam negeri.
+(3) Ketentuan lebih lanjut mengenai pemotongan, penyetoran, dan pembayaran Iuran bagi kepala desa dan perangkat desa diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan dalam negeri.
 
 **Bagian Ketiga** **Kelebihan dan Kekurangan Iuran**
 
@@ -618,7 +622,7 @@ BPJS Kesehatan wajib mencatat dan menagih tunggakan Iuran sebagai piutang BPJS K
 
 (2) Perhitungan setiap kelebihan atau kekurangan Iuran sebagaimana dimaksud pada ayat (1) didasarkan pada daftar Gaji atau Upah Pekerja dan perubahan status kepesertaan atau data kepesertaan.
 
-(3) Dalam ha! terjadi kelebihan atau kekurangan pembayaran Iuran yang disebabkan oleh perubahan data kepesertaan maka BPJS Kesehatan harus memberitahukan kepada Pemberi Kerja dan/atau Peserta paling lambat 14 (empat belas) hari kerja sejak diterimanya Iuran.
+(3) Dalam hal terjadi kelebihan atau kekurangan pembayaran Iuran yang disebabkan oleh perubahan data kepesertaan maka BPJS Kesehatan harus memberitahukan kepada Pemberi Kerja dan/atau Peserta paling lambat 14 (empat belas) hari kerja sejak diterimanya Iuran.
 
 (4) Kelebihan atau kekurangan pembayaran Iuran sebagaimana dimaksud pada ayat (1) diperhitungkan dengan pembayaran Iuran bulan berikutnya.
 
@@ -628,7 +632,7 @@ BPJS Kesehatan wajib mencatat dan menagih tunggakan Iuran sebagai piutang BPJS K
 
 ### Pasal 46
 
-(1) Setiap Peserta berhak memperoleh Manfaat Jaminan Kesehatan yang bersifat pelayanan kesehatan perorangan, mencakup pelayanan promotif, preventif, kuratif, dan rehabilitatif, termasuk pelayanan obat, alat kesehatan, dan bahan medis habis pakai sesuai dengan kebutuhan medis yang di per 1 ukan.
+(1) Setiap Peserta berhak memperoleh Manfaat Jaminan Kesehatan yang bersifat pelayanan kesehatan perorangan, mencakup pelayanan promotif, preventif, kuratif, dan rehabilitatif, termasuk pelayanan obat, alat kesehatan, dan bahan medis habis pakai sesuai dengan kebutuhan medis yang diperlukan.
 
 (2) Manfaat Jaminan Kesehatan sebagaimana dimaksud pada ayat (1) terdiri atas Manfaat medis dan Manfaat nonmedis.
 
@@ -640,7 +644,7 @@ BPJS Kesehatan wajib mencatat dan menagih tunggakan Iuran sebagai piutang BPJS K
 
 ### Pasal 47
 
-( 1) Pelayanan kesehatan yang dijamin terdiri atas:
+(1) Pelayanan kesehatan yang dijamin terdiri atas:
 
 a. pelayanan kesehatan tingkat pertama, meliputi pelayanan kesehatan nonspesialistik yang mencakup:
 
@@ -666,7 +670,7 @@ b. pelayanan kesehatan rujukan tingkat lanjutan, meliputi pelayanan kesehatan ya
 
 3. pemeriksaan, pengobatan, dan konsultasi spesialistik;
 
-4. tindakan medis spesialistik, baik bedah maupun nonbedah sesuai dengan indikasi med is;
+4. tindakan medis spesialistik, baik bedah maupun nonbedah sesuai dengan indikasi medis;
 
 5. pelayanan obat, alat kesehatan, dan bahan medis habis pakai;
 
@@ -690,9 +694,9 @@ c. pelayanan ambulans darat atau air.
 
 (3) Alat kesehatan sebagaimana dimaksud pada ayat (1) huruf b angka 5 merupakan seluruh alat kesehatan yang digunakan dalam rangka penyembuhan, termasuk alat bantu kesehatan.
 
-(4) Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) huruf b angka 10, tidak termasuk pelayanan keluarga berencana yang telah dibiayai Pemerintah Pu sat.
+(4) Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) huruf b angka 10, tidak termasuk pelayanan keluarga berencana yang telah dibiayai Pemerintah Pusat.
 
-(5) Pelayanan ambulans darat a tau air sebagaimana dimaksud pad a ayat (1) huruf c merupakan pelayanan transportasi pasien rujukan dengan kondisi tertentu antar Fasilitas Kesehatan disertai dengan upaya menjaga kestabilan kondisi pasien untuk kepentingan keselamatan pasien.
+(5) Pelayanan ambulans darat atau air sebagaimana dimaksud pada ayat (1) huruf c merupakan pelayanan transportasi pasien rujukan dengan kondisi tertentu antar Fasilitas Kesehatan disertai dengan upaya menjaga kestabilan kondisi pasien untuk kepentingan keselamatan pasien.
 
 ### Pasal 48
 
@@ -722,9 +726,11 @@ e. peningkatan kesehatan bagi Peserta penderita penyakit kronis.
 
 (8) Pelayanan penapisan atau skrining kesehatan tertentu sebagaimana dimaksud pada ayat (1) huruf d diberikan secara selektif yang ditujukan untuk mendeteksi risiko penyakit dan mencegah dampak lanjutan risiko penyakit tertentu.
 
-(9) Jenis pelayanan penapisan atau skrining kesehatan tertentu sebagaimana dimaksud pada ayat (8) ditetapkan oleh Menteri. ( 10) Peningkatan kesehatan bagi Peserta penderita penyakit kronis sebagaimana dimaksud pada ayat ( 1) huruf e ditujukan kepada Peserta penderita penyakit kronis tertentu untuk mengurangi risiko akibat komplikasi penyakit yang dideritanya.
+(9) Jenis pelayanan penapisan atau skrining kesehatan tertentu sebagaimana dimaksud pada ayat (8) ditetapkan oleh Menteri.
 
-(11) Ketentuan lebih lanjut mengenai pelaksanaan skrining riwayat kesehatan dan pelayanan penapisan atau skrining kesehatan tertentu serta peningkatan kesehatan bagi Peserta penderita penyakit kronis sebagaimana dimaksud pada ayat (7), ayat (8), dan ayat ( 10) diatur dengan Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/lembaga terkait.
+(10) Peningkatan kesehatan bagi Peserta penderita penyakit kronis sebagaimana dimaksud pada ayat (1) huruf e ditujukan kepada Peserta penderita penyakit kronis tertentu untuk mengurangi risiko akibat komplikasi penyakit yang dideritanya.
+
+(11) Ketentuan lebih lanjut mengenai pelaksanaan skrining riwayat kesehatan dan pelayanan penapisan atau skrining kesehatan tertentu serta peningkatan kesehatan bagi Peserta penderita penyakit kronis sebagaimana dimaksud pada ayat (7), ayat (8), dan ayat (10) diatur dengan Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/lembaga terkait.
 
 ### Pasal 49
 
@@ -744,13 +750,13 @@ a. ruang perawatan kelas III bagi:
 
 b. ruang Perawatan kelas II bagi:
 
-1. PNS dan penerima pensiun PNS golongan ruang dan golongan ruang II beserta anggota keluarganya;
+1. PNS dan penerima pensiun PNS golongan ruang I dan golongan ruang II beserta anggota keluarganya;
 
-2. Prajurit dan penerima pensiun Prajurit yang setara PNS golongan ruang I dan golongan ruang [I beserta anggota keluarganya;
+2. Prajurit dan penerima pensiun Prajurit yang setara PNS golongan ruang I dan golongan ruang II beserta anggota keluarganya;
 
 3. Anggota Polri dan penerima pensiun Anggota Polri yang setara PNS golongan ruang I dan golongan ruang II beserta anggota keluarganya;
 
-4. Peserta PPU selain angka 1 sampai dengan angka 3, kepala desa dan perangkat desa, dan Pekerja/ pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h, dengan Gaji atau Upah sampai dengan Rp4.000.000,00 (empat juta rupiah); dan
+4. Peserta PPU selain angka 1 sampai dengan angka 3, kepala desa dan perangkat desa, dan Pekerja/pegawai sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h, dengan Gaji atau Upah sampai dengan Rp4.000.000,00 (empat juta rupiah); dan
 
 5. Peserta PBPU dan Peserta BP yang membayar Iuran untuk Manfaat pelayanan di ruang perawatan kelas II.
 
@@ -816,31 +822,35 @@ g. pelayanan untuk mengatasi infertilitas;
 
 h. pelayanan meratakan gigi atau ortodonsi;
 
-1. gangguan kesehatan/ penyakit akibat ketergantungan obat dan/atau alkohol; J· gangguan kesehatan akibat sengaja menyakiti diri sendiri atau akibat melakukan hobi yang membahayakan diri sendiri;
+i. gangguan kesehatan/penyakit akibat ketergantungan obat dan/atau alkohol;
 
-k. pengobatan komplementer, alternatif, dan tradisional, yang belum dinyatakan efektif berdasarkan penilaian teknologi kesehatan; I. pengobatan dan tindakan medis yang dikategorikan sebagai percobaan a tau eksperimen;
+j. gangguan kesehatan akibat sengaja menyakiti diri sendiri atau akibat melakukan hobi yang membahayakan diri sendiri;
+
+k. pengobatan komplementer, alternatif, dan tradisional, yang belum dinyatakan efektif berdasarkan penilaian teknologi kesehatan;
+
+l. pengobatan dan tindakan medis yang dikategorikan sebagai percobaan atau eksperimen;
 
 m. alat dan obat kontrasepsi, kosmetik;
 
 n. perbekalan kesehatan rumah tangga;
 
-o. pelayanan kesehatan akibat bencana pada masa tanggap darurat, kejadian luar biasa/ wabah;
+o. pelayanan kesehatan akibat bencana pada masa tanggap darurat, kejadian luar biasa/wabah;
 
 p. pelayanan kesehatan pada kejadian tak diharapkan yang dapat dicegah;
 
 q. pelayanan kesehatan yang diselenggarakan dalam rangka bakti sosial;
 
-r. pelayanan kesehatan akibat tindak pidana penganiayaan, kekerasan seksual, korban terorisme, dan tindak pidana perdagangan orang sesuai dengan ketentuan peraturan perundang- undangan;
+r. pelayanan kesehatan akibat tindak pidana penganiayaan, kekerasan seksual, korban terorisme, dan tindak pidana perdagangan orang sesuai dengan ketentuan peraturan perundang-undangan;
 
-s. pelayanan kesehatan tertentu yang berkaitan dengan Kementerian Pertahanan, Tentara Nasional Indonesia, dan Kepolisian Negara
+s. pelayanan kesehatan tertentu yang berkaitan dengan Kementerian Pertahanan, Tentara Nasional Indonesia, dan Kepolisian Negara Republik Indonesia;
 
 t. pelayanan lainnya yang tidak ada hubungan dengan Manfaat Jaminan Kesehatan yang diberikan; atau
 
 u. pelayanan yang sudah ditanggung dalam program lain.
 
-(2) Pelayanan kesehatan yang tidak sesuai dengan ketentuan peraturan perundang- undangan sebagaimana dimaksud pada ayat (1) huruf a meliputi rujukan atas permintaan sendiri dan pelayanan kesehatan lain yang tidak sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Pelayanan kesehatan yang tidak sesuai dengan ketentuan peraturan perundang-undangan sebagaimana dimaksud pada ayat (1) huruf a meliputi rujukan atas permintaan sendiri dan pelayanan kesehatan lain yang tidak sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Gangguan kesehatan akibat sengaja menyakiti diri sendiri atau akibat melakukan hobi yang membahayakan diri sendiri sebagaimana dimaksud pada ayat (1) huruf j, pengobatan dan tindakan medis yang dikategorikan sebagai percobaan atau eksperimen sebagaimana dimaksud pada ayat (1) huruf 1, dan kejadian tak diharapkan yang dapat dicegah sebagaimana dimaksud pada ayat (1) huruf p ditetapkan oleh Menteri.
+(3) Gangguan kesehatan akibat sengaja menyakiti diri sendiri atau akibat melakukan hobi yang membahayakan diri sendiri sebagaimana dimaksud pada ayat (1) huruf j, pengobatan dan tindakan medis yang dikategorikan sebagai percobaan atau eksperimen sebagaimana dimaksud pada ayat (1) huruf l, dan kejadian tak diharapkan yang dapat dicegah sebagaimana dimaksud pada ayat (1) huruf p ditetapkan oleh Menteri.
 
 **Bagian Ketiga** **Koordinasi Antar Penyelenggara Jaminan**
 
@@ -848,11 +858,11 @@ u. pelayanan yang sudah ditanggung dalam program lain.
 
 (1) BPJS Kesehatan dapat berkoordinasi dengan penyelenggara jaminan lainnya yang memberikan Manfaat pelayanan kesehatan.
 
-(2) Penyelenggara jaminan lainnya se bagaimana dimaksud pada ayat (1) meliputi:
+(2) Penyelenggara jaminan lainnya sebagaimana dimaksud pada ayat (1) meliputi:
 
 a. Badan Penyelenggara Jaminan Sosial Ketenagakerjaan, PT. Dana Tabungan dan Asuransi Pegawai Negeri (Persero), dan PT. Asuransi Sosial Angkatan Bersenjata Republik Indonesia (Persero) untuk program jaminan Kecelakaan Kerja dan penyakit akibat kerja;
 
-b. PT. J asa Raharj a (Persero) un tuk program jaminan kecelakaan lalu lintas; atau
+b. PT. Jasa Raharja (Persero) untuk program jaminan kecelakaan lalu lintas; atau
 
 c. penyelenggara jaminan lain yang memberikan Manfaat pelayanan kesehatan.
 
@@ -860,7 +870,7 @@ c. penyelenggara jaminan lain yang memberikan Manfaat pelayanan kesehatan.
 
 ### Pasal 54
 
-Ketentuan lebih lanjut mengenai koordinasi antar penyelenggara jaminan diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerin tahan di bidang keuangan.
+Ketentuan lebih lanjut mengenai koordinasi antar penyelenggara jaminan diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
 
 ## BAB V - PENYELENGGARAAN PELAYANAN KESEHATAN
 
@@ -890,7 +900,7 @@ b. dalam keadaan kegawatdaruratan medis.
 
 ### Pasal 56
 
-( 1) Fasilitas Kesehatan wajib menjamin Peserta mendapatkan obat, alat kesehatan, dan bahan medis habis pakai yang dibutuhkan sesuai dengan indikasi med is.
+(1) Fasilitas Kesehatan wajib menjamin Peserta mendapatkan obat, alat kesehatan, dan bahan medis habis pakai yang dibutuhkan sesuai dengan indikasi medis.
 
 (2) Fasilitas Kesehatan yang tidak memiliki sarana penunjang, wajib membangun jejaring dengan Fasilitas Kesehatan penunjang untuk menjamin ketersediaan obat, bahan medis habis pakai, dan pemeriksaan penunjang yang dibutuhkan.
 
@@ -898,7 +908,7 @@ b. dalam keadaan kegawatdaruratan medis.
 
 (1) BPJS Kesehatan dapat mengembangkan sistem pelayanan kesehatan.
 
-(2) Pengembangan sis tern pelayanan kesehatan sebagaimana dimaksud pada ayat ( 1) disampaikan kepada Menteri.
+(2) Pengembangan sistem pelayanan kesehatan sebagaimana dimaksud pada ayat (1) disampaikan kepada Menteri.
 
 (3) Menteri menetapkan sistem pelayanan kesehatan sebagaimana dimaksud pada ayat (2).
 
@@ -906,7 +916,7 @@ b. dalam keadaan kegawatdaruratan medis.
 
 ### Pasal 58
 
-( 1) Pemerintah Pusat, Pemerintah Daerah, dan Fasilitas Kesehatan bertanggung jawab atas ketersediaan obat, alat kesehatan, dan bahan medis habis pakai dalam penyelenggaraan program Jaminan Kesehatan sesuai dengan kewenangannya.
+(1) Pemerintah Pusat, Pemerintah Daerah, dan Fasilitas Kesehatan bertanggung jawab atas ketersediaan obat, alat kesehatan, dan bahan medis habis pakai dalam penyelenggaraan program Jaminan Kesehatan sesuai dengan kewenangannya.
 
 (2) Obat, alat kesehatan, dan bahan medis habis pakai yang digunakan dalam program pemerintah selain program Jaminan Kesehatan disediakan oleh Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -920,13 +930,13 @@ b. dalam keadaan kegawatdaruratan medis.
 
 (4) Daftar obat, alat kesehatan, dan bahan medis habis pakai sebagaimana dimaksud pada ayat (1) dituangkan dalam formularium nasional atau kompendium alat kesehatan.
 
-(5) Komite nasional dalam menyusun formularium nasional dan kompendium alat kesehatan harus mengutamakan obat, alat kesehatan, clan bahan medis habis pakai produksi dalam negeri.
+(5) Komite nasional dalam menyusun formularium nasional dan kompendium alat kesehatan harus mengutamakan obat, alat kesehatan, dan bahan medis habis pakai produksi dalam negeri.
 
 ### Pasal 60
 
 (1) Pengadaan obat, alat kesehatan, dan/atau bahan medis habis pakai oleh Fasilitas Kesehatan milik pemerintah maupun swasta untuk program Jaminan Kesehatan dilakukan melalui e-purchasing berdasarkan katalog elektronik.
 
-(2) Dalam hal pengadaan obat, alat kesehatan, dan/atau bahan medis ha bis pakai belum dapat dilakukan melalui e-purchasing se bagaimana dimaksud pada ayat (1) maka pengadaan dapat dilakukan secara manual berdasarkan katalog elektronik.
+(2) Dalam hal pengadaan obat, alat kesehatan, dan/atau bahan medis habis pakai belum dapat dilakukan melalui e-purchasing sebagaimana dimaksud pada ayat (1) maka pengadaan dapat dilakukan secara manual berdasarkan katalog elektronik.
 
 (3) Dalam hal obat, alat kesehatan, dan/atau bahan medis habis pakai yang dibutuhkan oleh Fasilitas Kesehatan tidak terdapat dalam katalog elektronik maka Fasilitas Kesehatan dalam mengadakan obat, alat kesehatan, dan/atau bahan medis habis pakai tetap mengacu pada formularium nasional atau kompendium alat kesehatan.
 
@@ -940,7 +950,7 @@ b. dalam keadaan kegawatdaruratan medis.
 
 ### Pasal 61
 
-Dalam hal terjadi permasalahan pengadaan obat, alat kesehatan, dan/ a tau bahan medis ha bis pakai yang dapat berpotensi terjadinya kekosongan obat maka Pemerintah Pusat, Pemerintah Daerah, atau Fasilitas Kesehatan melakukan upaya penyelesaian sesuai dengan permasalahan dan kewenangannya.
+Dalam hal terjadi permasalahan pengadaan obat, alat kesehatan, dan/atau bahan medis habis pakai yang dapat berpotensi terjadinya kekosongan obat maka Pemerintah Pusat, Pemerintah Daerah, atau Fasilitas Kesehatan melakukan upaya penyelesaian sesuai dengan permasalahan dan kewenangannya.
 
 ### Pasal 62
 
@@ -950,7 +960,7 @@ Fasilitas Kesehatan dalam memberikan pelayanan kesehatan untuk program Jaminan K
 
 ### Pasal 63
 
-( 1) Peserta yang memerlukan pelayanan gawat darurat dapat langsung memperoleh pelayanan di setiap Fasilitas Kesehatan baik yang bekerja sama maupun yang tidak bekerja sama dengan BPJS Kesehatan.
+(1) Peserta yang memerlukan pelayanan gawat darurat dapat langsung memperoleh pelayanan di setiap Fasilitas Kesehatan baik yang bekerja sama maupun yang tidak bekerja sama dengan BPJS Kesehatan.
 
 (2) Kriteria gawat darurat sebagaimana dimaksud pada ayat (1) yaitu:
 
@@ -974,7 +984,7 @@ e. memerlukan tindakan segera.
 
 ### Pasal 64
 
-( 1) Dalam hal di suatu Daerah belum tersedia Fasilitas Kesehatan yang memenuhi syarat guna memenuhi kebutuhan medis sejumlah Peserta, BPJS Kesehatan wajib memberikan kompensasi.
+(1) Dalam hal di suatu Daerah belum tersedia Fasilitas Kesehatan yang memenuhi syarat guna memenuhi kebutuhan medis sejumlah Peserta, BPJS Kesehatan wajib memberikan kompensasi.
 
 (2) Kompensasi sebagaimana dimaksud pada ayat (1) dapat berupa penggantian uang tunai.
 
@@ -994,13 +1004,13 @@ e. memerlukan tindakan segera.
 
 ### Pasal 66
 
-( 1) Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab atas ketersediaan Fasilitas Kesehatan sebagai penyelenggara pelayanan kesehatan untuk pelaksanaan program Jaminan Kesehatan.
+(1) Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab atas ketersediaan Fasilitas Kesehatan sebagai penyelenggara pelayanan kesehatan untuk pelaksanaan program Jaminan Kesehatan.
 
 (2) Pemerintah Pusat dan Pemerintah Daerah harus memberikan kesempatan kepada swasta untuk berperan serta memenuhi ketersediaan Fasilitas Kesehatan dan penyelenggaraan pelayanan kesehatan.
 
 ### Pasal 67
 
-( 1) Penyelenggara pelayanan kesehatan un tuk pelaksanaan program Jaminan Kesehatan meliputi semua Fasilitas Kesehatan yang menjalin kerja sama dengan BPJS Kesehatan.
+(1) Penyelenggara pelayanan kesehatan untuk pelaksanaan program Jaminan Kesehatan meliputi semua Fasilitas Kesehatan yang menjalin kerja sama dengan BPJS Kesehatan.
 
 (2) Fasilitas Kesehatan milik Pemerintah Pusat dan Pemerintah Daerah yang memenuhi persyaratan wajib bekerja sama dengan BPJS Kesehatan.
 
@@ -1020,13 +1030,13 @@ e. memerlukan tindakan segera.
 
 (3) Biaya pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditanggung oleh BPJS Kesehatan sesuai dengan ketentuan peraturan perundang-undangan.
 
-**Bagian Kedua** **S tandar Tarif dan Mekanisme Pembayaran ke Fasilitas Kesehatan**
+**Bagian Kedua** **Standar Tarif dan Mekanisme Pembayaran ke Fasilitas Kesehatan**
 
 ### Pasal 69
 
 (1) Standar tarif pelayanan kesehatan di FKTP dan FKRTL ditetapkan oleh Menteri.
 
-(2) Menteri menetapkan standar tarif sebagaimana dimaksud pad a ayat ( 1) setelah:
+(2) Menteri menetapkan standar tarif sebagaimana dimaksud pada ayat (1) setelah:
 
 a. mendapatkan masukan dari BPJS Kesehatan bersama dengan asosiasi fasilitas kesehatan; dan
 
@@ -1040,7 +1050,7 @@ Standar tarif yang ditetapkan oleh Menteri sebagaimana dimaksud dalam Pasal 69 d
 
 (1) BPJS Kesehatan melakukan pembayaran kepada:
 
-a. FKTP secara praupaya atau kapitasi berdasarkan jumlah Peserta yang terdaftar di FKTP;dan
+a. FKTP secara praupaya atau kapitasi berdasarkan jumlah Peserta yang terdaftar di FKTP; dan
 
 b. FKRTL secara Indonesian Case Based Groups.
 
@@ -1056,7 +1066,7 @@ b. FKRTL secara Indonesian Case Based Groups.
 
 ### Pasal 72
 
-(1) Cara pembayaran dengan Indonesian Case Based Groups sebagaimana dimaksud dalam Pasal 71 ayat ( 1) huruf b untuk FKRTL ditetapkan sesuai kelas rumah sakit.
+(1) Cara pembayaran dengan Indonesian Case Based Groups sebagaimana dimaksud dalam Pasal 71 ayat (1) huruf b untuk FKRTL ditetapkan sesuai kelas rumah sakit.
 
 (2) Dalam hal ditemukan ketidaksesuaian kelas rumah sakit berdasarkan ketentuan peraturan perundang-undangan pada saat kredensial atau re-kredensial maka BPJS Kesehatan harus melaporkan kepada Menteri untuk dilakukan reviu.
 
@@ -1076,7 +1086,7 @@ Asosiasi fasilitas kesehatan sebagaimana dimaksud dalam Pasal 69 ayat (2) huruf 
 
 ### Pasal 75
 
-(1) BPJS Kesehatan wajib membayar kapitasi kepada FKTPpaling lambat tanggal 15 setiap bulan berjalan.
+(1) BPJS Kesehatan wajib membayar kapitasi kepada FKTP paling lambat tanggal 15 setiap bulan berjalan.
 
 (2) FKTP mengajukan klaim nonkapitasi kepada BPJS Kesehatan secara periodik dan lengkap.
 
@@ -1084,13 +1094,13 @@ Asosiasi fasilitas kesehatan sebagaimana dimaksud dalam Pasal 69 ayat (2) huruf 
 
 (4) Dalam hal pembayaran sebagaimana dimaksud pada ayat (1) dan ayat (3) jatuh pada hari libur maka pembayaran pada FKTP dilakukan pada hari kerja berikutnya.
 
-(5) Dalam hal BPJS Kesehatan tidak melakukan pembayaran sebagaimana dimaksud pada ayat (3), BPJS Kesehatan wajib membayar denda kepada FKTP yaitu sebesar 1 % (satu persen) dari jumlah yang harus dibayarkan untuk setiap 1 (satu) bulan keterlam batan.
+(5) Dalam hal BPJS Kesehatan tidak melakukan pembayaran sebagaimana dimaksud pada ayat (3), BPJS Kesehatan wajib membayar denda kepada FKTP yaitu sebesar 1% (satu persen) dari jumlah yang harus dibayarkan untuk setiap 1 (satu) bulan keterlambatan.
 
 ### Pasal 76
 
 (1) FKRTL mengajukan klaim kolektif kepada BPJS Kesehatan secara periodik dan lengkap.
 
-(2) BPJS Kesehatan harus mengeluarkan berita acara kelengkapan berkas klaim paling lam bat 10 (sepuluh) hari sejak klaim diajukan oleh FKRTL dan diterima oleh BPJS Kesehatan.
+(2) BPJS Kesehatan harus mengeluarkan berita acara kelengkapan berkas klaim paling lambat 10 (sepuluh) hari sejak klaim diajukan oleh FKRTL dan diterima oleh BPJS Kesehatan.
 
 (3) Dalam hal BPJS Kesehatan tidak mengeluarkan berita acara kelengkapan berkas klaim dalam waktu 10 (sepuluh) hari sebagaimana dimaksud pada ayat (2) maka berkas klaim dinyatakan lengkap.
 
@@ -1102,7 +1112,7 @@ b. memenuhi ketentuan sebagaimana dimaksud pada ayat (3) paling lambat 15 (lima 
 
 (5) Dalam hal pembayaran kepada FKRTL sebagaimana dimaksud pada ayat (4) jatuh pada hari libur maka pembayaran pada FKRTL dilakukan pada hari kerja berikutnya.
 
-(6) Dalam hal BPJS Kesehatan tidak melakukan pembayaran sebagaimana dimaksud pada ayat (4), BPJS Kesehatan wajib membayar denda kepada FKRTL yaitu sebesar 1 % (satu persen) dari jumlah yang harus dibayarkan untuk setiap 1 (satu) bulan keterlambatan.
+(6) Dalam hal BPJS Kesehatan tidak melakukan pembayaran sebagaimana dimaksud pada ayat (4), BPJS Kesehatan wajib membayar denda kepada FKRTL yaitu sebesar 1% (satu persen) dari jumlah yang harus dibayarkan untuk setiap 1 (satu) bulan keterlambatan.
 
 ### Pasal 77
 
@@ -1128,23 +1138,23 @@ b. memenuhi ketentuan sebagaimana dimaksud pada ayat (3) paling lambat 15 (lima 
 
 ### Pasal 79
 
-(1) Pelayanan gawat darurat yang dilakukan oleh Fasilitas Kesehatan yang tidak menjalin kerja sama dengan BPJS Kesehatan dibayar dengan penggan tian biaya.
+(1) Pelayanan gawat darurat yang dilakukan oleh Fasilitas Kesehatan yang tidak menjalin kerja sama dengan BPJS Kesehatan dibayar dengan penggantian biaya.
 
 (2) Biaya sebagaimana dimaksud pada ayat (1) ditagihkan langsung oleh Fasilitas Kesehatan kepada BPJS Kesehatan.
 
-(3) BPJS Kesehatan memberikan pembayaran kepada Fasilitas Kesehatan sebagaimana dimaksud pada ayat (2) setara dengan tarif yang berlaku di wilayah terse but.
+(3) BPJS Kesehatan memberikan pembayaran kepada Fasilitas Kesehatan sebagaimana dimaksud pada ayat (2) setara dengan tarif yang berlaku di wilayah tersebut.
 
-(4) Ketentuan lebih lanjut mengenai prosedur penggantian biaya pelayanan gawat darurat dan pelayanan ambulans diatur dengan Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/ lembaga terkait.
+(4) Ketentuan lebih lanjut mengenai prosedur penggantian biaya pelayanan gawat darurat dan pelayanan ambulans diatur dengan Peraturan BPJS Kesehatan setelah berkoordinasi dengan kementerian/lembaga terkait.
 
 ### Pasal 80
 
-( 1) Untuk jenis pelayanan tertentu yang dapat menimbulkan penyalahgunaan pelayanan, Peserta dikenai Urun Biaya.
+(1) Untuk jenis pelayanan tertentu yang dapat menimbulkan penyalahgunaan pelayanan, Peserta dikenai Urun Biaya.
 
 (2) Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan bagi Peserta PBI Jaminan Kesehatan dan penduduk yang didaftarkan oleh Pemerintah Daerah.
 
 (3) Pelayanan yang dapat menimbulkan penyalahgunaan pelayanan sebagaimana dimaksud pada ayat (1) merupakan pelayanan yang dipengaruhi selera dan perilaku Peserta.
 
-(4) Jenis pelayanan sebagaimana dimaksud pada ayat ( 1) dan ayat (3) ditetapkan oleh Menteri.
+(4) Jenis pelayanan sebagaimana dimaksud pada ayat (1) dan ayat (3) ditetapkan oleh Menteri.
 
 ### Pasal 81
 
@@ -1152,23 +1162,25 @@ b. memenuhi ketentuan sebagaimana dimaksud pada ayat (3) paling lambat 15 (lima 
 
 a. nilai nominal tertentu setiap kali melakukan kunjungan untuk rawat jalan atau nilai nominal maksimal atas biaya pelayanan kesehatan untuk kurun waktu tertentu; dan
 
-b. 10% (sepuluh persen) atau paling tinggi dengan nominal tertentu untuk rawat inap dari biaya pelayanan, yang dibayarkan kepada Fasilitas Kesehatan saat mendapatkan pelayanan.
+b. 10% (sepuluh persen) atau paling tinggi dengan nominal tertentu untuk rawat inap dari biaya pelayanan,
 
-(2) BPJS Kesehataan membayarkan biaya pelayanan kesehatan kepada Fasilitas Kesehatan setelah dikurangi be saran Urun Bia ya se bagaimana dimaksud pada ayat ( 1).
+yang dibayarkan kepada Fasilitas Kesehatan saat mendapatkan pelayanan.
 
-(3) Fasilitas Kesehatan harus menginformasikan pelayanan yang dikenai Urun Biaya kepada Peserta se belum melaksanakan pem berian pelayanan yang dapat menimbulkan penyalahgunaan pelayanan.
+(2) BPJS Kesehataan membayarkan biaya pelayanan kesehatan kepada Fasilitas Kesehatan setelah dikurangi besaran Urun Biaya sebagaimana dimaksud pada ayat (1).
+
+(3) Fasilitas Kesehatan harus menginformasikan pelayanan yang dikenai Urun Biaya kepada Peserta sebelum melaksanakan pemberian pelayanan yang dapat menimbulkan penyalahgunaan pelayanan.
 
 (4) Ketentuan lebih lanjut mengenai penetapan pelayanan yang dapat menimbulkan penyalahgunaan pelayanan, besaran dan tata cara pengenaan Urun Biaya diatur dengan Peraturan Menteri.
 
-## BAB VII - KENDALI MUTU DAN KENDALI BIA YA PENYELENGGARAAN JAMINAN KESEHATAN
+## BAB VII - KENDALI MUTU DAN KENDALI BIAYA PENYELENGGARAAN JAMINAN KESEHATAN
 
 ### Pasal 82
 
-Dalam rangka kendali mutu dan kendali biaya penyelenggaraan Program Jaminan Kesehatan, Menteri meneta pkan ke bij akan penyelenggaraan:
+Dalam rangka kendali mutu dan kendali biaya penyelenggaraan Program Jaminan Kesehatan, Menteri menetapkan kebijakan penyelenggaraan:
 
 a. penilaian teknologi kesehatan;
 
-b. pertim bangan klinis;
+b. pertimbangan klinis;
 
 c. penghitungan standar tarif; dan
 
@@ -1182,7 +1194,7 @@ d. monitoring dan evaluasi penyelenggaraan pelayanan Jaminan Kesehatan.
 
 ### Pasal 84
 
-(1) Dalam rangka pengambilan kebijakan di bidang kesehatan di Daerah, BPJS Kesehatan wajib memberikan data dan informasi kepada Kepala Dinas Kesehatan kabupaten/kota dan Kepala Dinas Kesehatan provinsi setempat secara berkala setiap 3 ( tiga) bulan.
+(1) Dalam rangka pengambilan kebijakan di bidang kesehatan di Daerah, BPJS Kesehatan wajib memberikan data dan informasi kepada Kepala Dinas Kesehatan kabupaten/kota dan Kepala Dinas Kesehatan provinsi setempat secara berkala setiap 3 (tiga) bulan.
 
 (2) Data dan informasi sebagaimana dimaksud pada ayat (1) meliputi:
 
@@ -1198,7 +1210,7 @@ e. jumlah pembayaran dan/atau klaim.
 
 ### Pasal 85
 
-( 1) Penilaian teknologi kesehatan sebagaimana dimaksud dalam Pasal 82 huruf a dilakukan untuk menilai efektifitas dan efisiensi penggunaan teknologi atau produk teknologi berupa metode, obat, atau alat kesehatan dalam pelayanan kesehatan program Jaminan Kesehatan.
+(1) Penilaian teknologi kesehatan sebagaimana dimaksud dalam Pasal 82 huruf a dilakukan untuk menilai efektifitas dan efisiensi penggunaan teknologi atau produk teknologi berupa metode, obat, atau alat kesehatan dalam pelayanan kesehatan program Jaminan Kesehatan.
 
 (2) Penggunaan hasil penilaian teknologi kesehatan sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri setelah mendapat rekomendasi dari Komite Penilaian Teknologi Kesehatan.
 
@@ -1210,7 +1222,7 @@ e. jumlah pembayaran dan/atau klaim.
 
 (1) Dalam rangka kendali mutu dan kendali biaya penyelenggaraan program Jaminan Kesehatan, BPJS Kesehatan mengembangkan teknis operasionalisasi sistem pelayanan kesehatan, sistem kendali mutu pelayanan, dan sistem pembayaran pelayanan kesehatan untuk meningkatkan efisiensi dan efektivitas dalam penyelenggaraan program Jaminan Kesehatan.
 
-(2) Pengembangan teknis operasionalisasi sebagaimana dimaksud pada ayat ( 1) dilakukan melalui:
+(2) Pengembangan teknis operasionalisasi sebagaimana dimaksud pada ayat (1) dilakukan melalui:
 
 a. kredensial Fasilitas Kesehatan;
 
@@ -1218,31 +1230,33 @@ b. survei kepuasan Peserta; dan
 
 c. pemantauan dan pengawasan pemanfaatan.
 
-(3) Dalam melaksanakan pengembangan sebagaimana dimaksud pada ayat ( 1), BPJS Kesehatan berkoordinasi dengan kementerian/lembaga terkait.
+(3) Dalam melaksanakan pengembangan sebagaimana dimaksud pada ayat (1), BPJS Kesehatan berkoordinasi dengan kementerian/lembaga terkait.
 
 ### Pasal 87
 
 (1) Fasilitas Kesehatan dalam memberikan pelayanan kesehatan kepada Peserta Jaminan Kesehatan harus menerapkan kendali mutu dan kendali biaya dengan tetap memperhatikan keselamatan dan keamanan pasien serta mutu pelayanan.
 
-(2) Penerapan kendali mutu dan kendali biaya sebagaimana dimaksud pada ayat ( 1) dilakukan secara menyeluruh meliputi pemenuhan standar mutu Fasilitas Kesehatan, memastikan proses pelayanan kesehatan berjalan sesuai standar yang ditetapkan, dan pemantauan terhadap luaran kesehatan Peserta, serta efisiensi biaya.
+(2) Penerapan kendali mutu dan kendali biaya sebagaimana dimaksud pada ayat (1) dilakukan secara menyeluruh meliputi pemenuhan standar mutu Fasilitas Kesehatan, memastikan proses pelayanan kesehatan berjalan sesuai standar yang ditetapkan, dan pemantauan terhadap luaran kesehatan Peserta, serta efisiensi biaya.
 
 ### Pasal 88
 
-Ketentuan lebih lanjut mengenai kendali mutu dan kendali biaya pelayanan Jaminan Kesehatan diatur dengan Peraturan Menteri. BAB vm PELAYANANINFORMASIDAN PENANGANAN PENGADUAN
+Ketentuan lebih lanjut mengenai kendali mutu dan kendali biaya pelayanan Jaminan Kesehatan diatur dengan Peraturan Menteri.
+
+## BAB VIII - PELAYANAN INFORMASI DAN PENANGANAN PENGADUAN
 
 ### Pasal 89
 
-( 1) Peserta berhak untuk mendapatkan informasi mengenai penyelenggaraan Jaminan Kesehatan secara menyeluruh menyangkut hak dan kewajiban Peserta/Fasilitas Kesehatan/BPJS Kesehatan, dan mekanisme pelayanan di Fasilitas Kesehatan dan BPJS Kesehatan.
+(1) Peserta berhak untuk mendapatkan informasi mengenai penyelenggaraan Jaminan Kesehatan secara menyeluruh menyangkut hak dan kewajiban Peserta/Fasilitas Kesehatan/BPJS Kesehatan, dan mekanisme pelayanan di Fasilitas Kesehatan dan BPJS Kesehatan.
 
 (2) Peserta berhak untuk mengadukan ketidakpuasan terhadap pelayanan Jaminan Kesehatan yang diberikan oleh Fasilitas Kesehatan, dan terhadap pelayanan BPJS Kesehatan kepada unit pengaduan, baik yang terdapat di Fasilitas Kesehatan, BPJS Kesehatan, dinas kesehatan, maupun Kementerian Kesehatan.
 
-(3) Fasilitas Kesehatan dan BPJS Kesehatan wajib menyediakan unit pengaduan yang dikelola secara bersarna-sarna atau sendiri-seridiri oleh Fasilitas Kesehatan dan BPJS Kesehatan.
+(3) Fasilitas Kesehatan dan BPJS Kesehatan wajib menyediakan unit pengaduan yang dikelola secara bersama-sama atau sendiri-sendiri oleh Fasilitas Kesehatan dan BPJS Kesehatan.
 
 (4) Unit pengaduan sebagaimana dimaksud pada ayat (2) dapat berupa:
 
 a. unit pengendali mutu pelayanan dan penanganan pengaduan untuk BPJS Kesehatan;
 
-b. unit pengaduan masyarakat terpadu/tim monitoring dan evaluasi Jaminan Kesehatan untuk dinas kesehatan dan Kementerian Kesehatan; dan/ a tau
+b. unit pengaduan masyarakat terpadu/tim monitoring dan evaluasi Jaminan Kesehatan untuk dinas kesehatan dan Kementerian Kesehatan; dan/atau
 
 c. unit pengaduan masyarakat untuk Fasilitas Kesehatan.
 
@@ -1252,19 +1266,21 @@ c. unit pengaduan masyarakat untuk Fasilitas Kesehatan.
 
 Fasilitas Kesehatan dalam menyelenggarakan pelayanan kesehatan wajib menginformasikan ketersediaan ruang rawat inap kepada masyarakat.
 
-## BAB IX - PENYELESAIANSENGKETA
+## BAB IX - PENYELESAIAN SENGKETA
 
 ### Pasal 91
 
-(1) Dalam hal terjadi sengketa terkait penyelenggaraan J aminan Kesehatan an tara:
+(1) Dalam hal terjadi sengketa terkait penyelenggaraan Jaminan Kesehatan antara:
 
 a. Peserta dengan Fasilitas Kesehatan;
 
 b. Peserta dengan BPJS Kesehatan;
 
-c. BPJS Kesehatan dengan Fasilitas Kesehatan; a tau
+c. BPJS Kesehatan dengan Fasilitas Kesehatan; atau
 
-d. BPJS Kesehatan dengan asosiasi fasilitas kesehatan, penyelesaiannya dilakukan secara musyawarah.
+d. BPJS Kesehatan dengan asosiasi fasilitas kesehatan,
+
+penyelesaiannya dilakukan secara musyawarah.
 
 (2) Sengketa sebagaimana dimaksud pada ayat (1) termasuk pengaduan yang belum dapat diselesaikan oleh unit pengaduan sebagaimana dimaksud dalam Pasal 89.
 
@@ -1272,11 +1288,11 @@ d. BPJS Kesehatan dengan asosiasi fasilitas kesehatan, penyelesaiannya dilakukan
 
 (4) Dalam hal sengketa tidak dapat diselesaikan secara musyawarah, sengketa diselesaikan melalui Dewan Pertimbangan Klinis, dengan cara mediasi, atau pengadilan.
 
-(5) Cara penyelesaian sengketa melalui mediasi atau melalui pengadilan se bagaimana dimaksud pad a ayat (4) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+(5) Cara penyelesaian sengketa melalui mediasi atau melalui pengadilan sebagaimana dimaksud pada ayat (4) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 (6) Ketentuan lebih lanjut mengenai cara penyelesaian sengketa melalui Dewan Pertimbangan Klinis diatur dengan Peraturan Menteri.
 
-## BAB X - PENCEGAHAN DAN PENANGANAN KECURANGAN(FRAUD)DALAM PELAKSANAAN PROGRAM JAMINAN KESEHATAN
+## BAB X - PENCEGAHAN DAN PENANGANAN KECURANGAN (FRAUD) DALAM PELAKSANAAN PROGRAM JAMINAN KESEHATAN
 
 ### Pasal 92
 
@@ -1292,7 +1308,7 @@ d. penyedia obat dan alat kesehatan; dan
 
 e. pemangku kepentingan lainnya.
 
-(2) Kecurangan (fraud) sebagaimana dimaksud pada ayat ( 1) termasuk penyalahgunaan pelayanan kesehatan yang disebabkan karena perilaku pemberi pelayanan kesehatan.
+(2) Kecurangan (fraud) sebagaimana dimaksud pada ayat (1) termasuk penyalahgunaan pelayanan kesehatan yang disebabkan karena perilaku pemberi pelayanan kesehatan.
 
 (3) BPJS Kesehatan, dinas kesehatan kabupaten/kota, dan FKRTL yang bekerja sama dengan BPJS Kesehatan harus membangun sistem pencegahan Kecurangan (fraud) sebagaimana dimaksud pada ayat (1) melalui:
 
@@ -1304,11 +1320,11 @@ c. pengembangan pelayanan kesehatan yang berorientasi kepada kendali mutu dan ke
 
 d. pembentukan tim pencegahan Kecurangan (fraud).
 
-(4) Sistem pencegahan Kecurangan (fraud) sebagaimana dimaksud pada ayat (3) dilakukan secara sistematis, terstruktur, dan komprehensif dengan melibatkan seluruh sumber daya manusia di BPJS Kesehatan, Fasilitas Kesehatan, dinas kesehatan kabupaten/kota, din as kesehatan provinsi, Kementerian Kesehatan, dan pemangku kepentingan lainnya.
+(4) Sistem pencegahan Kecurangan (fraud) sebagaimana dimaksud pada ayat (3) dilakukan secara sistematis, terstruktur, dan komprehensif dengan melibatkan seluruh sumber daya manusia di BPJS Kesehatan, Fasilitas Kesehatan, dinas kesehatan kabupaten/kota, dinas kesehatan provinsi, Kementerian Kesehatan, dan pemangku kepentingan lainnya.
 
 ### Pasal 93
 
-( 1) Menteri, Kepala Dinas Kesehatan provinsi, Kepala Dinas Kesehatan kabupaten/ kota dapat memberikan sanksi administratif bagi setiap orang atau korporasi sebagaimana dimaksud dalam Pasal 92 ayat (1) yang melakukan Kecurangan (fraud).
+(1) Menteri, Kepala Dinas Kesehatan provinsi, Kepala Dinas Kesehatan kabupaten/kota dapat memberikan sanksi administratif bagi setiap orang atau korporasi sebagaimana dimaksud dalam Pasal 92 ayat (1) yang melakukan Kecurangan (fraud).
 
 (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
 
@@ -1316,9 +1332,9 @@ a. teguran lisan;
 
 b. teguran tertulis; dan/atau
 
-c. perintah pengem balian kerugian akibat Kecurangan (fraud) pada pihak yang dirugikan.
+c. perintah pengembalian kerugian akibat Kecurangan (fraud) pada pihak yang dirugikan.
 
-(3) Selain sanksi administratif sebagaimana dimaksud pad a ayat (2), terhadap petugas BPJS Kesehatan, pemberi pelayanan kesehatan, dan penyedia obat dan alat kesehatan dapat dikenai sanksi tambahan.
+(3) Selain sanksi administratif sebagaimana dimaksud pada ayat (2), terhadap petugas BPJS Kesehatan, pemberi pelayanan kesehatan, dan penyedia obat dan alat kesehatan dapat dikenai sanksi tambahan.
 
 (4) Sanksi administratif sebagaimana dimaksud pada ayat (2) tidak menghapus sanksi pidana sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -1328,7 +1344,7 @@ Untuk meningkatkan upaya pencegahan dan penanganan Kecurangan (fraud) dibentuk t
 
 ### Pasal 95
 
-Ketentuan lebih lanjut mengenai upaya pencegahan dan penanganan Kecurangan ifraud) dan pengenaan sanksi administrasi diatur dengan Peraturan Menteri.
+Ketentuan lebih lanjut mengenai upaya pencegahan dan penanganan Kecurangan (fraud) dan pengenaan sanksi administrasi diatur dengan Peraturan Menteri.
 
 ## BAB XI - PENGAWASAN, MONITORING, DAN EVALUASI
 
@@ -1338,11 +1354,11 @@ Ketentuan lebih lanjut mengenai upaya pencegahan dan penanganan Kecurangan ifrau
 
 (2) Pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dapat melibatkan Badan Pengawas Rumah Sakit, Dewan Pengawas Rumah Sakit, asosiasi fasilitas kesehatan, dan/atau organisasi profesi sesuai dengan kebutuhan.
 
-(3) Pelaksanaan pengawasan sebagaimana dimaksud pada ayat ( 1) dilakukan secara terkoordinasi dengan instansi terkait sesuai dengan ketentuan peraturan perundang-undangan.
+(3) Pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dilakukan secara terkoordinasi dengan instansi terkait sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 97
 
-( 1) Pengawas ketenagakerjaan pada instansi yang bertanggung jawab di bidang ketenagakerjaan melakukan pemeriksaan terhadap Pemberi Kerja yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 13 yang pelaksanaannya dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
+(1) Pengawas ketenagakerjaan pada instansi yang bertanggung jawab di bidang ketenagakerjaan melakukan pemeriksaan terhadap Pemberi Kerja yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 13 yang pelaksanaannya dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
 (2) BPJS Kesehatan melakukan pengawasan dan pemeriksaan atas kepatuhan Peserta dan Pemberi Kerja dalam memenuhi kewajibannya sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -1368,7 +1384,7 @@ f. organisasi dan kelembagaan; dan
 
 g. regulasi.
 
-(3) Monitoring dan evaluasi sebagaimana dimaksud pada ayat ( 1) dilakukan oleh Kernen terian Kesehatan, Kementerian Keuangan, Kementerian Sosial, Kementerian Dalam Negeri, Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional, Bad an Pemeriksa Keuangan, Badan Pengawasan Keuangan dan Pembangunan, Dewan Jaminan Sosial Nasional, Otoritas Jasa Keuangan, dan Pemerintah Daerah sesuai kewenangan masing-masing.
+(3) Monitoring dan evaluasi sebagaimana dimaksud pada ayat (1) dilakukan oleh Kementerian Kesehatan, Kementerian Keuangan, Kementerian Sosial, Kementerian Dalam Negeri, Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional, Badan Pemeriksa Keuangan, Badan Pengawasan Keuangan dan Pembangunan, Dewan Jaminan Sosial Nasional, Otoritas Jasa Keuangan, dan Pemerintah Daerah sesuai kewenangan masing-masing.
 
 (4) Monitoring dan evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan secara terpadu.
 
@@ -1376,9 +1392,9 @@ g. regulasi.
 
 ### Pasal 99
 
-( 1) Pemerin tah Daerah wajib mendukung penyelenggaraan program Jaminan Kesehatan.
+(1) Pemerintah Daerah wajib mendukung penyelenggaraan program Jaminan Kesehatan.
 
-(2) Dukungan Pemerintah Dae rah se bagaimana dimaksud pada ayat (1) dilakukan melalui:
+(2) Dukungan Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilakukan melalui:
 
 a. peningkatan pencapaian kepesertaan di wilayahnya;
 
@@ -1394,33 +1410,33 @@ d. dukungan lainnya sesuai dengan ketentuan peraturan perundang-undangan dalam r
 
 (5) Dukungan peningkatan pelayanan kesehatan sebagaimana dimaksud pada ayat (2) huruf c dilaksanakan melalui penyediaan Fasilitas Kesehatan, pemenuhan standar pelayanan minimal, dan peningkatan mutu layanan kesehatan.
 
-(6) Dukungan lainnya sebagaimana dimaksud pada ayat (2) huruf d dilaksanakan melalui kontribusi dari pajak rokok bagian hak masing-masing Daerah provinsi/ kabupaten/ kota.
+(6) Dukungan lainnya sebagaimana dimaksud pada ayat (2) huruf d dilaksanakan melalui kontribusi dari pajak rokok bagian hak masing-masing Daerah provinsi/kabupaten/kota.
 
 ### Pasal 100
 
-(1) Besaran kontribusi sebagaimana dimaksud dalam Pasal 99 ayat (6) ditetapkan 75% (tujuh puluh lima persen) dari 50% (lima puluh persen) realisasi penerimaan pajak rokok bagian hak masing-rnasing Daerah provinsi/kabupaten/kota.
+(1) Besaran kontribusi sebagaimana dimaksud dalam Pasal 99 ayat (6) ditetapkan 75% (tujuh puluh lima persen) dari 50% (lima puluh persen) realisasi penerimaan pajak rokok bagian hak masing-masing Daerah provinsi/kabupaten/kota.
 
 (2) Kontribusi sebagaimana dimaksud pada ayat (1) langsung dipotong untuk dipindahbukukan ke dalam rekening BPJS Kesehatan.
 
-(3) Ketentuan lebih lanjut mengenai kontribusi dan mekanisme pemotongan sebagaimana dimaksud pada ayat ( 1) dan ayat (2) diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
+(3) Ketentuan lebih lanjut mengenai kontribusi dan mekanisme pemotongan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
 
 ### Pasal 101
 
-( 1) Kontribusi Daerah untuk mendanai program Jaminan Kesehatan sebagaimana dimaksud dalam Pasal 99 ayat (6) dianggarkan sebagai belanja bantuan sosial fungsi kesehatan pada anggaran pendapatan dan belanja daerah provinsi/ kabupaten/ kota.
+(1) Kontribusi Daerah untuk mendanai program Jaminan Kesehatan sebagaimana dimaksud dalam Pasal 99 ayat (6) dianggarkan sebagai belanja bantuan sosial fungsi kesehatan pada anggaran pendapatan dan belanja daerah provinsi/kabupaten/kota.
 
-(2) Perencanaan, penganggaran, dan pertanggungj a waban kontribusi Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan dalam negeri yang mengatur mengenai pedoman penyusunan anggaran pendapatan dan belanja daerah.
+(2) Perencanaan, penganggaran, dan pertanggungjawaban kontribusi Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan Peraturan Menteri yang menyelenggarakan urusan pemerintahan dalam negeri yang mengatur mengenai pedoman penyusunan anggaran pendapatan dan belanja daerah.
 
 ### Pasal 102
 
 Pemerintah Daerah yang menyelenggarakan jaminan kesehatan Daerah wajib mengintegrasikannya ke dalam program Jaminan Kesehatan yang diselenggarakan oleh BPJS Kesehatan.
 
-## BAB XIII - KETENTUANPERALIHAN
+## BAB XIII - KETENTUAN PERALIHAN
 
 ### Pasal 103
 
 Pada saat Peraturan Presiden ini mulai berlaku, ketentuan mengenai Pegawai Pemerintah Non Pegawai Negeri termasuk dalam PPU sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf h sampai dengan ditetapkannya Peraturan Pemerintah mengenai Manajemen Pegawai Pemerintah dengan Perjanjian Kerja.
 
-## BAB XIV - KETENTUANPENUTUP
+## BAB XIV - KETENTUAN PENUTUP
 
 ### Pasal 104
 
@@ -1432,7 +1448,7 @@ Peraturan pelaksanaan dari Peraturan Presiden ini harus ditetapkan paling lama 6
 
 ### Pasal 106
 
-Pada saat Peraturan Presiden ini mulai berlaku, semua peraturan perundang- undangan yang merupakan peraturan pelaksanaan dari Peraturan Presiden Nomor 12 Tahun 2013 ten tang Jaminan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 29) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Presiden Nomor 28 Tahun 2016 tentang Perubahan Ketiga Atas Peraturan Presiden Nomor 12 Tahun 2013 tentang Jaminan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 62), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Presiden ini.
+Pada saat Peraturan Presiden ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Peraturan Presiden Nomor 12 Tahun 2013 tentang Jaminan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 29) sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Presiden Nomor 28 Tahun 2016 tentang Perubahan Ketiga Atas Peraturan Presiden Nomor 12 Tahun 2013 tentang Jaminan Kesehatan (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 62), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Presiden ini.
 
 ### Pasal 107
 
@@ -1440,12 +1456,12 @@ Pada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 12 Tahu
 
 ### Pasal 108
 
-Peraturan Presiden mi mulai berlaku pada tanggal diundangkan.
+Peraturan Presiden ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
 Agar setiap orang mengetahuinya, memerintahkan
-pengundangan Peraturan Presiden 1n1 dengan
+pengundangan Peraturan Presiden ini dengan
 penempatannya dalam Lembaran Negara Republik
 Indonesia.
 Ditetapkan di Jakarta
@@ -1455,11 +1471,13 @@ ttd.
 JOKO WIDODO
 Diundangkan di Jakarta
 pada tanggal 18 September 2018
-MENTER! HUKUM DAN HAK ASASI MANUSIA
+MENTERI HUKUM DAN HAK ASASI MANUSIA
 REPUBLIK INDONESIA,
 ttd.
 YASONNA H. LAOLY
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 165
 Salinan sesuai dengan aslinya
-SEKRETARIA T KABINET RI
+SEKRETARIAT KABINET RI
 Deputi Bidang Pembangunan
+Manusia dan Kebudayaan,
+Surat Indrijarso
