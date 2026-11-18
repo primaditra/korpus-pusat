@@ -126,6 +126,10 @@ Setiap naskah yang masuk melewati enam pemeriksaan: (1) identitas, (2) naskah fi
 - Semua lulus: `lolos-otomatis`.
 - Ada yang gagal: `perlu-dicek`; `catatan_cek` memuat nomor pemeriksaan yang gagal dan alasannya.
 - `terverifikasi` hanya diberikan setelah teks pasal dicocokkan dengan PDF.
+- Pencocokan tidak harus halaman per halaman. Teks indeks dibandingkan kata per kata dengan sumber teks kedua (lapisan teks PDF atau OCR ulang), lalu setiap selisih dicocokkan dengan gambar halaman PDF.
+- Pemeriksaan wajib saat pencocokan: tidak ada baris isi yang terbuang bersama kepala halaman, misalnya baris yang diawali "Republik Indonesia" atau "Presiden".
+- Lampiran lebih dari 100 halaman yang teks OCR-nya hanya dapat dipastikan lewat gambar tidak dicocokkan. Di bawah heading `## Lampiran` ditulis penanda: `> Lampiran belum dicocokkan dengan gambar halaman PDF (...). Cocokkan mandiri dengan PDF sebelum mengutip.` `status_review` ditentukan oleh batang tubuh dan Penjelasan.
+- Naskah yang teksnya belum dicocokkan karena terlalu panjang diberi penanda serupa di bawah judul (`# <judul>`) dan tetap `perlu-dicek`.
 
 ## tag.csv
 
