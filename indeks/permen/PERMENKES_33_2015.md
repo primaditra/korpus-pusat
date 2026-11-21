@@ -154,7 +154,7 @@ BERITA NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 705
 
 ## Lampiran
 
-Dokumen pendukung terbitan Kementerian Kesehatan (bukan bagian naskah peraturan, disimpan di Drive bersama naskah ini): Buku Manual 1 Perencanaan Kebutuhan SDM Kesehatan Berdasarkan Metode ABK Kes (Badan PPSDM Kesehatan, 2015) dan Buku Manual Pedoman Penyusunan Perencanaan Kebutuhan SDM Kesehatan (Revisi) (Badan PPSDM Kesehatan, 2016). Lampiran Peraturan Menteri ini merujuk "Buku Manual ABK Kesehatan", "Buku Manual Perencanaan Kebutuhan SDMK Berdasarkan Standar Ketenagaan Minimal", dan "Buku Manual Perencanaan Kebutuhan SDMK Berdasarkan Rasio" untuk rincian teknis.
+Dokumen pendukung terbitan Kementerian Kesehatan (bukan bagian naskah peraturan, disimpan di Drive bersama naskah ini): Buku Manual 1 Perencanaan Kebutuhan SDM Kesehatan Berdasarkan Metode ABK Kes (Badan PPSDM Kesehatan, 2015) dan Buku Manual Pedoman Penyusunan Perencanaan Kebutuhan SDM Kesehatan (Revisi) (Badan PPSDM Kesehatan, 2016). Lampiran Peraturan Menteri ini merujuk "Buku Manual ABK Kesehatan", "Buku Manual Perencanaan Kebutuhan SDMK Berdasarkan Standar Ketenagaan Minimal", dan "Buku Manual Perencanaan Kebutuhan SDMK Berdasarkan Rasio" untuk rincian teknis. Tautan: PERMENKES_33_2015_BUKU-MANUAL-1.pdf https://drive.google.com/file/d/1V6rEUWRO-cyUSY7Ds0GrC5pcZ0eKhLJz/view; PERMENKES_33_2015_BUKU-MANUAL-REVISI.pdf https://drive.google.com/file/d/1hPzY4sccLziceQmxC_BA4Dc3v3XrOPCA/view
 
 Isi lampiran disalin dari lapisan teks PDF; tabel dan format tidak terekstrak rapi, lihat PDF.
 

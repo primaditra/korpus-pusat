@@ -160,7 +160,7 @@ BERITA NEGARA REPUBLIK INDONESIA TAHUN 2011 NOMOR 378
 
 ## Lampiran
 
-Dokumen pendukung terbitan Kementerian Kesehatan (bukan bagian naskah peraturan, disimpan di Drive bersama naskah ini): Juknis SIRS 2011 (Buku Petunjuk Pengisian, Pengolahan dan Penyajian Data Rumah Sakit, Ditjen Bina Upaya Kesehatan). Sambutan buku menyatakan buku merupakan Lampiran Peraturan Menteri ini.
+Dokumen pendukung terbitan Kementerian Kesehatan (bukan bagian naskah peraturan, disimpan di Drive bersama naskah ini): Juknis SIRS 2011 (Buku Petunjuk Pengisian, Pengolahan dan Penyajian Data Rumah Sakit, Ditjen Bina Upaya Kesehatan). Sambutan buku menyatakan buku merupakan Lampiran Peraturan Menteri ini. Tautan: PERMENKES_1171_2011_JUKNIS-SIRS.pdf https://drive.google.com/file/d/18oJvdxAhrzdbi0ckKUkzckvIeXKqi2Mu/view
 
 Isi lampiran disalin dari lapisan teks PDF; tabel dan format tidak terekstrak rapi, lihat PDF.
 
