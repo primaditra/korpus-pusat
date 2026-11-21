@@ -100,9 +100,9 @@ Satu baris mewakili satu unsur naskah induk yang terkena oleh satu naskah pengub
 | Kolom | Isi |
 |---|---|
 | id_induk | ID peraturan yang teksnya berubah |
-| unsur | `pasal`, `bab`, `bagian`, `paragraf`, `judul-bagian`, `penjelasan`, atau `lampiran` |
+| unsur | `pasal`, `bab`, `bagian`, `paragraf`, `judul-bagian`, `penjelasan`, `lampiran`, atau `naskah` (seluruh naskah) |
 | rujukan | Alamat unsur di naskah induk, misalnya `12`, `9A`, `BAB VIII Bagian Keenam`, `Lampiran II` |
-| jenis_perubahan | `diubah`, `disisipkan`, `dihapus`, `dicabut`, atau `tidak-mengikat-mk` |
+| jenis_perubahan | `diubah`, `disisipkan`, `dihapus`, `dicabut`, `tidak-mengikat-mk`, atau `ditetapkan-menjadi-uu` |
 | id_pengubah | ID peraturan pengubah atau pencabut; untuk putusan Mahkamah Konstitusi (MK): `PUTUSANMK_<nomor>-PUU-<kode tahun register>_<tahun register>`, misalnya `PUTUSANMK_91-PUU-XVIII_2020` untuk perkara 91/PUU-XVIII/2020 |
 | lokasi | Letak perintah perubahan di naskah pengubah, ditulis persis, misalnya `Pasal I angka 5` atau `Pasal 176 angka 3`; untuk putusan MK: `Amar angka <n>` |
 | rincian | Kalimat perintah perubahan disalin dari naskah pengubah sampai sebelum kata "sehingga"; untuk putusan MK: bunyi amar yang menyangkut pasal itu |
@@ -117,7 +117,8 @@ Aturan pengisian:
 3. `id_induk` adalah naskah yang teksnya benar-benar berubah. Pasal sisipan tetap memakai `id_induk` peraturan asal, sehingga riwayatnya terbaca dengan mengurutkan baris per `id_induk` dan `rujukan` berdasarkan `berlaku_sejak`.
 4. Naskah perubahan yang disebut dalam frasa "sebagaimana telah diubah dengan" tidak ikut diubah. Perubahan berikutnya tercatat pada `id_induk` asal, bukan pada naskah perubahan sebelumnya. Aturan yang sama berlaku untuk kolom `diubah_dicabut_oleh` di katalog: naskah perubahan berstatus `diubah` hanya bila norma miliknya sendiri diubah.
 5. Isi diambil dari bunyi naskah pengubah yang dibaca, bukan dari judul atau ringkasan situs. Untuk putusan MK, isi diambil dari amar putusan yang dibaca (Pasal.id atau situs MK); putusan MK tidak diindeks dan tidak dicatat di katalog.
-6. Baris diberi `perlu-dicek` bila naskah pengubahnya berstatus `perlu-dicek` di katalog atau bila tanggal berlakunya tidak terbaca; alasannya ditulis di `catatan_cek`.
+6. Perppu (Peraturan Pemerintah Pengganti Undang-Undang) yang ditetapkan menjadi UU: penetapan tidak mengubah isi, jadi status Perppu di katalog tetap `berlaku` dan UU penetapan tidak dicatat di `diubah_dicabut_oleh`. Hubungannya dicatat satu baris: `unsur` = `naskah`, `rujukan` = `seluruh`, `jenis_perubahan` = `ditetapkan-menjadi-uu`, `id_pengubah` = UU penetapan, `lokasi` = pasal penetapan. Perppu yang ditolak DPR berstatus `dicabut`. Perubahan yang dibuat Perppu atas peraturan lain memakai ID Perppu sebagai `id_pengubah`, karena teksnya ada di naskah Perppu. Bila naskah Perppu tidak diindeks terpisah dan teksnya hanya ada sebagai lampiran UU penetapan, ID UU penetapan yang dipakai. Saat dikutip: "Pasal N Perppu X yang telah ditetapkan menjadi Undang-Undang dengan UU Y".
+7. Baris diberi `perlu-dicek` bila naskah pengubahnya berstatus `perlu-dicek` di katalog atau bila tanggal berlakunya tidak terbaca; alasannya ditulis di `catatan_cek`.
 
 Cara membaca rantai perubahan:
 
