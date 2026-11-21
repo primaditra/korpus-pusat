@@ -122,7 +122,7 @@ Aturan pengisian:
 
 Cara membaca rantai perubahan:
 
-- Ambil semua baris dengan `id_induk` dan `rujukan` yang dicari, lalu urutkan berdasarkan `berlaku_sejak`. Bunyi yang berlaku pada suatu tanggal adalah bunyi pada baris terakhir yang `berlaku_sejak`-nya tidak melewati tanggal itu. Bila tidak ada baris sebelum tanggal itu, pakai bunyi naskah induk.
+- Ambil semua baris dengan `id_induk` dan `rujukan` yang dicari, lalu urutkan berdasarkan `berlaku_sejak`. Ambil juga baris `unsur` = `naskah` untuk `id_induk` yang sama: baris itu berlaku untuk seluruh naskah, dengan batasan yang tertulis di `rincian` (misalnya "sepanjang mengatur ..."). Bunyi yang berlaku pada suatu tanggal adalah bunyi pada baris terakhir yang `berlaku_sejak`-nya tidak melewati tanggal itu. Bila tidak ada baris sebelum tanggal itu, pakai bunyi naskah induk.
 - Setiap kali mengutip pasal dari peta, baca juga ketentuan peralihan dan penutup setiap naskah pengubah dalam rantai (biasanya Pasal II), karena di sana dapat diatur penundaan, batas waktu, atau masa transisi untuk pasal tertentu.
 - Baca `rincian` setiap baris: bila yang terkena hanya sebagian pasal, bagian lain pasal itu tetap mengikuti bunyi sebelumnya.
 - Peta lengkap untuk suatu induk hanya bila setiap ID di `diubah_dicabut_oleh` pada katalog punya paling sedikit satu baris di perubahan.csv (putusan MK tidak tercatat di katalog, jadi tidak ikut pemeriksaan ini). Bila belum lengkap, misalnya karena naskah pengubah belum ada di korpus, sampaikan peringatan sebelum mengutip bunyi pasal induk.
