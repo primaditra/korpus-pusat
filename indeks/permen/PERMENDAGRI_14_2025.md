@@ -171,7 +171,6 @@ Salinan sesuai dengan aslinya
 Kepala Biro Hukum,
 R. Gani Muhamad, SH., MAP.
 Pembina Utama Madya (IV/d)
-NIP. 19690818 199603 1 001
 
 ## Lampiran
 
@@ -16300,4 +16299,4 @@ Salinan sesuai dengan aslinya
 Kepala Biro Hukum,
 R. Gani Muhamad, SH., MAP.
 Pembina Utama Madya (IV/d)
-NIP. 19690818 199603 1 001
+
