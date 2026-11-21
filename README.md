@@ -56,6 +56,7 @@ Peraturan/
 - ID ditulis huruf kapital dengan garis bawah sebagai pemisah: `<JENIS>_<NOMOR>_<TAHUN>`.
 - Untuk Permen, Kepmen, Peraturan Lembaga, dan SE, `<JENIS>` memuat singkatan penerbit agar unik: `PERMEN<PENERBIT>`, `KEPMEN<PENERBIT>`, `PER<LEMBAGA>`, `SE<PENERBIT>`.
 - Untuk keputusan pejabat, `<JENIS>` memuat jabatan dan unit atau lembaga penerbit: `KEPDIRJEN<UNIT>`, `KEPKA<LEMBAGA>`, `KEPDEPUTI<LEMBAGA>`. Contoh: `KEPKALKPP_<NOMOR>_<TAHUN>`.
+- Nomor peraturan yang memuat kode unit (misalnya Peraturan Menteri Keuangan Nomor 58/PMK.03/2022) memakai nomor urut dan tahun pada ID (`PERMENKEU_58_2022`); nomor lengkap dicatat di kolom `nomor` katalog. Singkatan penerbit Peraturan Menteri Keuangan: `PERMENKEU`.
 - Lampiran yang disimpan sebagai PDF terpisah diberi nama `<ID>_LAMPIRAN-I.pdf`, `<ID>_LAMPIRAN-II.pdf`, dan seterusnya, di folder yang sama dengan PDF induknya. Lampiran tunggal: `<ID>_LAMPIRAN.pdf`.
 - Singkatan penerbit yang belum pernah dipakai di katalog mengikuti singkatan yang tertulis di naskah atau di JDIH (Jaringan Dokumentasi dan Informasi Hukum) penerbitnya.
 - Tanggal ditulis `AAAA-BB-HH`.
