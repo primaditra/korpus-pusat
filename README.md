@@ -45,7 +45,7 @@ Peraturan/
 
 - Kotak-Masuk bukan bagian korpus dan tidak dicatat di katalog. Identitas naskah dibaca dari isi PDF, bukan dari nama file.
 - PDF yang sudah terindeks dipindah dari Kotak-Masuk ke folder korpusnya dengan nama `<ID>.pdf`.
-- PDF di Kotak-Masuk yang ID-nya sudah ada di katalog dipindah ke `Kotak-Masuk/duplikat/` dengan nama asli, bila korpus sudah memiliki PDF atau tautan sumber resmi. Bila salinan itu satu-satunya PDF, ia diproses sebagai PDF korpus. Bila versinya berbeda atau mutunya lebih baik dari yang terindeks, ia dibiarkan di Kotak-Masuk dan dicantumkan di daftar perlu dicek.
+- PDF di Kotak-Masuk yang identitasnya (dibaca dari isi naskah) cocok dengan ID yang sudah ada di katalog dan file indeksnya sudah di-push langsung dipindah ke `Kotak-Masuk/duplikat/` dengan nama asli, tanpa diproses ulang dan tanpa menunggu persetujuan, berapa pun jumlah filenya. Satu-satunya pengecualian: bila korpus belum memiliki PDF maupun tautan sumber resmi untuk ID itu, salinan tersebut diproses sebagai PDF korpus (`<ID>.pdf`). Setiap pemindahan dicatat di bagian "duplikat dipindah" pada laporan.
 - File yang bukan peraturan atau tidak terbaca dibiarkan di Kotak-Masuk dan dicantumkan di daftar perlu dicek.
 - PDF wajib disimpan hanya untuk naskah yang tidak tersedia di sumber resmi daring.
 - File di Drive tidak dihapus.
