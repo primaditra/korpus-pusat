@@ -9,6 +9,7 @@ Repositori ini hanya berisi teks peraturan publik dan metadatanya. Catatan penug
 ```
 indeks/<jenis>/<ID>.md   satu file per peraturan, dipecah per pasal
 katalog.csv              satu baris per peraturan
+perubahan.csv            peta perubahan per pasal
 tag.csv                  daftar tag isu (dipakai juga oleh korpus-daerah)
 laporan/AAAA-BB.md       laporan berkala
 ```
@@ -89,6 +90,39 @@ Kolom, berurutan:
 Nilai yang mengandung koma diapit tanda kutip ganda. Urutan dan nama kolom tidak diubah tanpa persetujuan pemilik korpus.
 
 Peraturan yang dicabut tidak dihapus. Masa berlakunya dicatat di katalog karena kriteria dipilih berdasarkan periode yang diperiksa.
+
+## perubahan.csv
+
+Peta perubahan per pasal. Peta ini tidak menyalin bunyi pasal; bunyi yang berlaku dikutip langsung dari naskah pengubah yang ditunjuk. Versi konsolidasi tidak disusun.
+
+Satu baris mewakili satu unsur naskah induk yang terkena oleh satu naskah pengubah. Kolom, berurutan:
+
+| Kolom | Isi |
+|---|---|
+| id_induk | ID peraturan yang teksnya berubah |
+| unsur | `pasal`, `bab`, `bagian`, `paragraf`, `judul-bagian`, `penjelasan`, atau `lampiran` |
+| rujukan | Alamat unsur di naskah induk, misalnya `12`, `9A`, `BAB VIII Bagian Keenam`, `Lampiran II` |
+| jenis_perubahan | `diubah`, `disisipkan`, `dihapus`, atau `dicabut` |
+| id_pengubah | ID peraturan pengubah atau pencabut |
+| lokasi | Letak perintah perubahan di naskah pengubah, ditulis persis, misalnya `Pasal I angka 5` atau `Pasal 176 angka 3` |
+| rincian | Kalimat perintah perubahan disalin dari naskah pengubah sampai sebelum kata "sehingga" |
+| berlaku_sejak | Tanggal mulai berlaku perubahan menurut ketentuan penutup atau peralihan naskah pengubah, `AAAA-BB-HH` |
+| status_review | `lolos-otomatis`, `perlu-dicek`, atau `terverifikasi` |
+| catatan_cek | Alasan singkat bila `perlu-dicek` |
+
+Aturan pengisian:
+
+1. Satuan baris adalah pasal. Ayat, huruf, atau angka yang terkena dicatat di `rincian`, karena naskah pengubah menulis ulang pasal itu secara utuh ("sehingga Pasal N berbunyi sebagai berikut").
+2. `diubah`: isi pasal berubah, termasuk ayat atau huruf yang disisipkan, ditambahkan, atau dihapus di dalamnya. `disisipkan`: pasal atau unsur baru. `dihapus`: pasal dihapus lewat perintah perubahan. `dicabut`: pasal dicabut atau dinyatakan tidak berlaku lewat ketentuan penutup peraturan lain.
+3. `id_induk` adalah naskah yang teksnya benar-benar berubah. Pasal sisipan tetap memakai `id_induk` peraturan asal, sehingga riwayatnya terbaca dengan mengurutkan baris per `id_induk` dan `rujukan` berdasarkan `berlaku_sejak`.
+4. Naskah perubahan yang disebut dalam frasa "sebagaimana telah diubah dengan" tidak ikut diubah. Perubahan berikutnya tercatat pada `id_induk` asal, bukan pada naskah perubahan sebelumnya. Aturan yang sama berlaku untuk kolom `diubah_dicabut_oleh` di katalog: naskah perubahan berstatus `diubah` hanya bila norma miliknya sendiri diubah.
+5. Isi diambil dari bunyi naskah pengubah yang dibaca, bukan dari judul atau ringkasan situs.
+
+Cara membaca rantai perubahan:
+
+- Ambil semua baris dengan `id_induk` dan `rujukan` yang dicari, lalu urutkan berdasarkan `berlaku_sejak`. Bunyi yang berlaku pada suatu tanggal adalah bunyi pada baris terakhir yang `berlaku_sejak`-nya tidak melewati tanggal itu. Bila tidak ada baris sebelum tanggal itu, pakai bunyi naskah induk.
+- Setiap kali mengutip pasal dari peta, baca juga ketentuan peralihan dan penutup setiap naskah pengubah dalam rantai (biasanya Pasal II), karena di sana dapat diatur penundaan, batas waktu, atau masa transisi untuk pasal tertentu.
+- Peta lengkap untuk suatu induk hanya bila setiap ID di `diubah_dicabut_oleh` pada katalog punya paling sedikit satu baris di perubahan.csv. Bila belum lengkap, misalnya karena naskah pengubah belum ada di korpus, sampaikan peringatan sebelum mengutip bunyi pasal induk.
 
 ## Format file indeks
 
