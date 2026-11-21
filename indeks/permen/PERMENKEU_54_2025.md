@@ -134,9 +134,9 @@ Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
 1. Undang-Undang Ketentuan Umum dan Tata Cara Perpajakan adalah Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
 
-2. Undang-Undang Pajak Penghasilan adalah Undang- Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
+2. Undang-Undang Pajak Penghasilan adalah Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
 
-3. Undang-Undang Pajak Pertambahan Nilai adalah Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang- Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
+3. Undang-Undang Pajak Pertambahan Nilai adalah Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
 
 4. Undang-Undang Pajak Bumi dan Bangunan adalah Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan sebagaimana telah diubah dengan Undang-Undang Nomor 12 Tahun 1994 tentang Perubahan atas Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi dan Bangunan.
 
@@ -152,7 +152,7 @@ Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
 10. Pajak Penjualan atas Barang Mewah adalah pajak penjualan atas barang mewah sebagaimana diatur dalam Undang-Undang Pajak Pertambahan Nilai.
 
-11. Pajak Bumi dan Bangunan adalah pajak bumi dan bangunan sebagaimana diatur dalam Undang- Undang Pajak Bumi dan Bangunan selain pajak bumi dan bangunan perdesaan dan perkotaan.
+11. Pajak Bumi dan Bangunan adalah pajak bumi dan bangunan sebagaimana diatur dalam Undang-Undang Pajak Bumi dan Bangunan selain pajak bumi dan bangunan perdesaan dan perkotaan.
 
 12. Bea Meterai adalah pajak atas dokumen sebagaimana diatur dalam Undang-Undang Bea Meterai.
 
@@ -520,7 +520,7 @@ b. Bendahara Pengeluaran Pembantu pada Unit Pelaksana Restitusi Pajak Pertambaha
 
 180. Ekspor Jasa Kena Pajak adalah setiap kegiatan penyerahan Jasa Kena Pajak yang dihasilkan di dalam Daerah Pabean untuk dimanfaatkan oleh penerima ekspor Jasa Kena Pajak di luar Daerah Pabean.
 
-181. Penggantian adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh Pengusaha karena penyerahan Jasa Kena Pajak, Ekspor Jasa Kena Pajak, atau ekspor Barang Kena Pajak tidak berwujud, tetapi tidak termasuk Pajak Pertambahan Nilai yang dipungut menurut Undang- Undang Pajak Pertambahan Nilai dan potongan harga yang dicantumkan dalam Faktur Pajak atau nilai berupa uang yang dibayar atau seharusnya dibayar oleh penerima jasa karena pemanfaatan Jasa Kena Pajak dan/atau oleh penerima manfaat Barang Kena Pajak tidak berwujud karena pemanfaatan Barang Kena Pajak tidak berwujud dari luar Daerah Pabean di dalam Daerah Pabean.
+181. Penggantian adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh Pengusaha karena penyerahan Jasa Kena Pajak, Ekspor Jasa Kena Pajak, atau ekspor Barang Kena Pajak tidak berwujud, tetapi tidak termasuk Pajak Pertambahan Nilai yang dipungut menurut Undang-Undang Pajak Pertambahan Nilai dan potongan harga yang dicantumkan dalam Faktur Pajak atau nilai berupa uang yang dibayar atau seharusnya dibayar oleh penerima jasa karena pemanfaatan Jasa Kena Pajak dan/atau oleh penerima manfaat Barang Kena Pajak tidak berwujud karena pemanfaatan Barang Kena Pajak tidak berwujud dari luar Daerah Pabean di dalam Daerah Pabean.
 
 182. Penerima Ekspor Jasa Kena Pajak adalah orang pribadi atau Badan yang melakukan perikatan dan menerima manfaat langsung atas Ekspor Jasa Kena Pajak, berada di luar Daerah Pabean, dan merupakan Wajib Pajak luar negeri yang tidak mempunyai bentuk usaha tetap di Indonesia sebagaimana diatur dalam Undang-Undang Pajak Penghasilan beserta perubahannya.
 
@@ -600,7 +600,7 @@ b. Bendahara Pengeluaran Pembantu pada Unit Pelaksana Restitusi Pajak Pertambaha
 
 220. Pemberi Kerja adalah Badan hukum atau Badan- Badan lainnya yang mempekerjakan Warga Negara Asing dengan membayar upah atau imbalan dalam bentuk lain.
 
-221. Norma Penghitungan Penghasilan Neto adalah pedoman untuk menentukan besarnya penghasilan neto yang dibuat dan disempurnakan secara terus menerus serta diterbitkan oleh Direktur Jenderal Pajak sebagaimana diatur dalam Pasal 14 Undang- Undang Pajak Penghasilan.
+221. Norma Penghitungan Penghasilan Neto adalah pedoman untuk menentukan besarnya penghasilan neto yang dibuat dan disempurnakan secara terus menerus serta diterbitkan oleh Direktur Jenderal Pajak sebagaimana diatur dalam Pasal 14 Undang-Undang Pajak Penghasilan.
 
 222. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara.
 

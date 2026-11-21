@@ -123,7 +123,7 @@ Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
 2. Undang-Undang Pajak Penghasilan adalah Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan beserta perubahannya.
 
-3. Undang-Undang Pajak Pertambahan Nilai adalah Undang- Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai atas Barang dan Jasa dan Pajak Penjualan atas Barang Mewah beserta perubahannya.
+3. Undang-Undang Pajak Pertambahan Nilai adalah Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai atas Barang dan Jasa dan Pajak Penjualan atas Barang Mewah beserta perubahannya.
 
 4. Pajak Penghasilan adalah Pajak Penghasilan sebagaimana dimaksud dalam Undang-Undang Pajak Penghasilan.
 
@@ -131,7 +131,7 @@ Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
 6. Pajak Pertambahan Nilai adalah Pajak Pertambahan Nilai sebagaimana dimaksud dalam Undang-Undang Pajak Pertambahan Nilai.
 
-7. Pajak Penjualan atas Barang Mewah adalah Pajak Penjualan atas Barang Mewah sebagaimana dimaksud dalam Undang- Undang Pajak Pertambahan Nilai.
+7. Pajak Penjualan atas Barang Mewah adalah Pajak Penjualan atas Barang Mewah sebagaimana dimaksud dalam Undang-Undang Pajak Pertambahan Nilai.
 
 8. Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong pajak, dan pemungut pajak, yang mempunyai hak dan kewajiban perpajakan sesuai dengan ketentuan peraturan perundangan-undangan di bidang perpajakan.
 

@@ -88,15 +88,15 @@ ORANG PRIBADI.
 
 Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
-1. Undang-Undang Pajak Penghasilan adalah Undang- Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan.
+1. Undang-Undang Pajak Penghasilan adalah Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan.
 
-2. Pajak Penghasilan Pasal 21 adalah pajak atas penghasilan berupa gaji, upah, honorarium, tunjangan, uang pensiun, dan pembayaran lain dengan nama dan dalam bentuk apa pun sehubungan dengan pekerjaan, jasa, atau kegiatan yang dilakukan oleh wajib pajak orang pribadi dalam negeri, sebagaimana dimaksud dalam Pasal 21 Undang- Undang Pajak Penghasilan.
+2. Pajak Penghasilan Pasal 21 adalah pajak atas penghasilan berupa gaji, upah, honorarium, tunjangan, uang pensiun, dan pembayaran lain dengan nama dan dalam bentuk apa pun sehubungan dengan pekerjaan, jasa, atau kegiatan yang dilakukan oleh wajib pajak orang pribadi dalam negeri, sebagaimana dimaksud dalam Pasal 21 Undang-Undang Pajak Penghasilan.
 
 3. Pajak Penghasilan Pasal 26 Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan adalah pajak atas penghasilan berupa gaji, upah, honorarium, tunjangan, pensiun, dan pembayaran berkala lainnya, serta pembayaran lain dengan nama dan dalam bentuk apa pun sehubungan dengan pekerjaan, jasa, dan kegiatan yang dilakukan oleh wajib pajak orang pribadi luar negeri, sebagaimana dimaksud dalam Pasal 26 Undang-Undang Pajak Penghasilan.
 
 4. Pemotong Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan yang selanjutnya disebut Pemotong Pajak adalah wajib pajak orang pribadi, instansi pemerintah, atau wajib pajak badan, termasuk bentuk usaha tetap, yang mempunyai kewajiban untuk melakukan pemotongan pajak atas penghasilan sehubungan dengan pekerjaan, jasa, atau kegiatan orang pribadi sebagaimana dimaksud dalam Pasal 21 dan Pasal 26 Undang-Undang Pajak Penghasilan.
 
-5. Badan adalah badan sebagaimana dimaksud dalam Pasal 1 angka 3 Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang- Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan.
+5. Badan adalah badan sebagaimana dimaksud dalam Pasal 1 angka 3 Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan.
 
 6. Instansi Pemerintah adalah instansi pemerintah pusat, instansi pemerintah daerah, termasuk instansi pemerintah desa, yang melaksanakan kegiatan pemerintahan serta memiliki kewenangan dan tanggung jawab penggunaan anggaran.
 
@@ -308,7 +308,7 @@ h. penghasilan atau imbalan yang diterima atau diperoleh Mantan Pegawai, yang da
 
 2. tantiem;
 
-3. gratifikasi sebagaimana diatur dalam Undang- Undang Pajak Penghasilan;
+3. gratifikasi sebagaimana diatur dalam Undang-Undang Pajak Penghasilan;
 
 4. bonus; dan
 
@@ -352,7 +352,7 @@ d. bantuan, sumbangan, zakat, infak, sedekah, dan sumbangan keagamaan yang sifat
 
 e. harta hibahan yang diterima oleh keluarga sedarah dalam garis keturunan lurus satu derajat atau orang pribadi yang menjalankan usaha mikro dan kecil, sepanjang tidak ada hubungan dengan usaha atau pekerjaan di antara pihak-pihak yang bersangkutan;
 
-f. beasiswa yang memenuhi persyaratan tertentu sebagaimana diatur dalam Pasal 4 ayat (3) huruf l Undang- Undang Pajak Penghasilan;
+f. beasiswa yang memenuhi persyaratan tertentu sebagaimana diatur dalam Pasal 4 ayat (3) huruf l Undang-Undang Pajak Penghasilan;
 
 g. bagian laba yang diberikan kepada anggota persekutuan, firma, atau perseroan komanditer yang modalnya tidak terbagi atas saham; dan
 
@@ -492,7 +492,7 @@ c. faktur tagihan dari pihak ketiga disertai dengan perjanjian tertulis, termasu
 
 a. tarif efektif pemotongan Pajak Penghasilan Pasal 21; dan
 
-b. tarif berdasarkan Pasal 17 ayat (1) huruf a Undang- Undang Pajak Penghasilan.
+b. tarif berdasarkan Pasal 17 ayat (1) huruf a Undang-Undang Pajak Penghasilan.
 
 (2) Tarif efektif pemotongan Pajak Penghasilan Pasal 21 sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:
 
@@ -630,7 +630,9 @@ c. penerima penghasilan membuat surat pernyataan yang menyatakan daftar pemberi 
 
 (6) Surat pernyataan sebagaimana dimaksud pada ayat (5) huruf c dibuat sesuai contoh format sebagaimana tercantum dalam Lampiran huruf A yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
 
-## BAB VIII - SAAT TERUTANG DAN TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN Pasal 19
+## BAB VIII - SAAT TERUTANG DAN TATA CARA PEMOTONGAN PAJAK PENGHASILAN PASAL 21 DAN/ATAU PAJAK PENGHASILAN PASAL 26 SEHUBUNGAN DENGAN PEKERJAAN, JASA, ATAU KEGIATAN
+
+### Pasal 19
 
 (1) Saat terutang Pajak Penghasilan Pasal 21 dan/atau Pajak Penghasilan Pasal 26 Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan bagi penerima penghasilan yaitu pada saat terjadinya:
 

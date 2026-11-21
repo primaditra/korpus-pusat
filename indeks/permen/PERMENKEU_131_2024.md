@@ -90,7 +90,7 @@ Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
 1. Pajak Pertambahan Nilai adalah pajak pertambahan nilai sebagaimana diatur dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
 
-2. Undang-Undang Pajak Pertambahan Nilai adalah Undang- Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
+2. Undang-Undang Pajak Pertambahan Nilai adalah Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang.
 
 3. Daerah Pabean adalah wilayah Republik Indonesia yang meliputi wilayah darat, perairan, dan ruang udara di atasnya, serta tempat-tempat tertentu di zona ekonomi eksklusif dan landas kontinen yang di dalamnya berlaku Undang-Undang yang mengatur mengenai kepabeanan.
 
@@ -106,7 +106,7 @@ Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
 9. Pengusaha adalah orang pribadi atau badan dalam bentuk apa pun yang dalam kegiatan usaha atau pekerjaannya menghasilkan Barang, mengimpor Barang, mengekspor Barang, melakukan usaha perdagangan, memanfaatkan Barang tidak berwujud dari luar Daerah Pabean, melakukan usaha Jasa termasuk mengekspor Jasa, atau memanfaatkan Jasa dari luar Daerah Pabean.
 
-10. Pengusaha Kena Pajak adalah Pengusaha yang melakukan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak yang dikenai pajak berdasarkan Undang- Undang Pajak Pertambahan Nilai.
+10. Pengusaha Kena Pajak adalah Pengusaha yang melakukan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak yang dikenai pajak berdasarkan Undang-Undang Pajak Pertambahan Nilai.
 
 11. Dasar Pengenaan Pajak adalah jumlah harga jual, penggantian, nilai impor, nilai ekspor, atau nilai lain yang dipakai sebagai dasar untuk menghitung pajak yang terutang.
 

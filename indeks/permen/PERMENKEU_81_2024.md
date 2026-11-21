@@ -4755,7 +4755,7 @@ b. nilai yang seharusnya diterima atau diperoleh, dalam hal pengalihan tanah dan
 
 (9) Pejabat yang berwenang sebagaimana dimaksud pada ayat (7) meliputi pejabat pembuat akta tanah, pejabat lelang, atau pejabat lain yang diberi wewenang sesuai dengan ketentuan peraturan perundang-undangan.
 
-(10) Orang pribadi atau Badan yang tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (5) dikenai sanksi sebagaimana diatur dalam Undang- Undang Ketentuan Umum dan Tata Cara Perpajakan,
+(10) Orang pribadi atau Badan yang tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (5) dikenai sanksi sebagaimana diatur dalam Undang-Undang Ketentuan Umum dan Tata Cara Perpajakan,
 
 ### Pasal 194
 
