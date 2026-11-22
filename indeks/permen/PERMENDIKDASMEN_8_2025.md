@@ -1096,7 +1096,6 @@ lainnya:
 pekerti, termasuk pencegahan dan penanggulangan tindak
 kekerasan, dan penguatan kebhinekaan di lingkungan
 Satuan Pendidikan:
-aa
 (9) pembiayaan diskusi perkembangan anak,
 (10) pelaksanaan pembelajaran melalui kunjungan rumah
 Peserta Didik, dan/atau
@@ -1152,7 +1151,6 @@ pendidikan, dan/atau
 profesi pendidik dan tenaga kependidikan:
 Pembiayaan langganan daya dan jasa merupakan komponen yang
 digunakan untuk pembiayaan dalam menyediakan daya dan jasa
-Aa
 untuk mendukung operasional rutin Satuan Pendidikan, seperti:
 sewa atau pembelian genset atau panel surya, termasuk
 peralatan pendukungnya sesuai dengan kebutuhan,
@@ -1376,7 +1374,6 @@ untuk pembelian pulsa, paket data, dan/atau layanan
 pendidikan daring berbayar bagi pendidik dan/atau Peserta
 Didik dalam rangka pelaksanaan pembelajaran jarak jauh,
 dan/atau
-sa
 (3) pembiayaan dalam rangka pembayaran daya dan/atau jasa
 yang mendukung operasional sekolah meliputi, pemasangan
 baru, penambahan kapasitas, pembayaran langganan rutin
