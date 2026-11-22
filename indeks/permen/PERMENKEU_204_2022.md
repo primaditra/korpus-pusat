@@ -10,16 +10,16 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-MENTERIKEUANGAN
-REPUBLIK INDONESIA
 SALINAN
+PRESIDEN
+REPUBLIK INDONESIA
 PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
-NOMOR 204/PMK.07 /2022
+NOMOR 204/PMK.07/2022
 TENTANG
 PENGELOLAAN DANA ALOKASI KHUSUS NONFISIK
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 MENTERI KEUANGAN REPUBLIK INDONESIA,
-Menimbang a. bahwa untuk meningkatkan efisiensi, efektivitas, dan
+Menimbang : a. bahwa untuk meningkatkan efisiensi, efektivitas, dan
 akuntabilitas pengelolaan dana alokasi khusus
 nonfisik serta berdasarkan ketentuan Pasal 7 ayat (2)
 Undang-Undang Nomor 1 Tahun 2004 tentang
@@ -35,7 +35,7 @@ b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, perlu menetapkan Peraturan
 Menteri Keuangan tentang Pengelolaan Dana Alokasi
 Khusus Nonfisik;
-Mengingat 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara
+Mengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
@@ -53,7 +53,6 @@ Negara Republik Indonesia Nomor 6757);
 5. Peraturan Pemerintah Nomor 45 Tahun 2013 tentang
 Tata Cara Pelaksanaan Anggaran Pendapatan dan
 Belanja Negara (Lembaran Negara Republik Indonesia
-I
 Tahun 2013 Nomor 103, Tambahan Lembaran Negara
 Republik Indonesia Nomor 5423) sebagaimana telah
 diubah dengan Peraturan Pemerintah Nomor 50
@@ -98,24 +97,21 @@ Fiskal dan Wakil Pemerintah dalam Kepemilikan
 Kekayaan Negara yang Dipisahkan (Berita Negara
 Republik Indonesia Tahun 2022 Nomor 236);
 MEMUTUSKAN:
-Menetapkan PERATURAN MENTERI KEUANGAN TENTANG
+Menetapkan : PERATURAN MENTERI KEUANGAN TENTANG
 PENGELOLAAN DANA ALOKASI KHUSUS NONFISIK.
 
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Menteri ini yang dimaksud dengan:
 
-1. Transfer ke Daerah yang selanjutnya disingkat TKD adalah dana yang bersumber dari anggaran
-
-I pendapatan dan belanja negara dan merupakan bagian dari belanja negara yang dialokasikan dan disalurkan kepada daerah otonom untuk dikelola oleh daerah otonom dalam rangka mendanai penyelenggaraan urusan pemerintahan yang menjadi kewenangan daerah.
+1. Transfer ke Daerah yang selanjutnya disingkat TKD adalah dana yang bersumber dari anggaran pendapatan dan belanja negara dan merupakan bagian dari belanja negara yang dialokasikan dan disalurkan kepada daerah otonom untuk dikelola oleh daerah otonom dalam rangka mendanai penyelenggaraan urusan pemerintahan yang menjadi kewenangan daerah.
 
 2. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
 
 3. Daerah Otonom yang selanjutnya disebut Daerah adalah kesatuan masyarakat hukum yang mempunyai batas-batas wilayah berwenang mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem Negara Kesatuan Republik Indonesia.
 
-4. Dana Alokasi Khusus yang selanjutnya disingkat DAK adalah bagian dari TKD yang dialokasikan dengan tujuan untuk mendanai program, kegiatan, dan/ a tau kebijakan tertentu yang menjadi prioritas nasional dan membantu operasionalisasi layanan publik, yang penggunaannya telah ditentukan oleh pemerintah.
+4. Dana Alokasi Khusus yang selanjutnya disingkat DAK adalah bagian dari TKD yang dialokasikan dengan tujuan untuk mendanai program, kegiatan, dan/atau kebijakan tertentu yang menjadi prioritas nasional dan membantu operasionalisasi layanan publik, yang penggunaannya telah ditentukan oleh pemerintah.
 
 5. Dana Alokasi Khusus Nonfisik yang selanjutnya disebut DAK Nonfisik adalah DAK yang dialokasikan untuk membantu operasionalisasi layanan publik Daerah yang penggunaannya telah ditentukan oleh pemerintah.
 
@@ -127,11 +123,9 @@ I pendapatan dan belanja negara dan merupakan bagian dari belanja negara yang di
 
 9. Dana Bantuan Operasional Sekolah Kinerja yang selanjutnya disebut Dana BOS Kinerja adalah dana yang digunakan untuk peningkatan mutu pendidikan satuan pendidikan yang menyelenggarakan pendidikan dasar dan pendidikan menengah yang dinilai berkinerja baik.
 
-10. Dana Bantuan Operasional Penyelenggaraan Pendidikan Anak Usia Dini yang selanjutnya disebut Dana BOP PAUD adalah Dana BOSP untuk operasional satuan pendidikan dalam menyelenggarakan layanan pendidikan anak usia dinL
+10. Dana Bantuan Operasional Penyelenggaraan Pendidikan Anak Usia Dini yang selanjutnya disebut Dana BOP PAUD adalah Dana BOSP untuk operasional satuan pendidikan dalam menyelenggarakan layanan pendidikan anak usia dini.
 
-11. Dana Bantuan Operasional Penyelenggaraan Pendidikan Anak Usia Dini Reguler yang selanjutnya
-
-I disebut Dana BOP PAUD Reguler adalah dana yang digunakan untuk membiayai kegiatan operasional rutin satuan pendidikan dalam menyelenggarakan layanan pendidikan anak usia dini.
+11. Dana Bantuan Operasional Penyelenggaraan Pendidikan Anak Usia Dini Reguler yang selanjutnya disebut Dana BOP PAUD Reguler adalah dana yang digunakan untuk membiayai kegiatan operasional rutin satuan pendidikan dalam menyelenggarakan layanan pendidikan anak usia dini.
 
 12. Dana Bantuan Operasional Penyelenggaraan Pendidikan Anak Usia Dini Kinerja yang selanjutnya disebut Dana BOP PAUD Kinerja adalah dana yang digunakan untuk peningkatan mutu satuan pendidikan yang menyelenggarakan pendidikan anak usia dini yang dinilai berkinerja baik.
 
@@ -139,7 +133,7 @@ I disebut Dana BOP PAUD Reguler adalah dana yang digunakan untuk membiayai kegia
 
 14. Dana Bantuan Operasional Penyelenggaraan Pendidikan Kesetaraan Reguler yang selanjutnya disebut Dana BOP Kesetaraan Reguler adalah dana yang digunakan untuk membiayai kegiatan operasional rutin satuan pendidikan dalam menyelenggarakan pendidikan kesetaraan program Paket A, Paket B, dan Paket C.
 
-15. Dana Bantuan · Operasional Penyelenggaraan Pendidikan Kesetaraan Kinerja yang selanjutnya disebut Dana BOP Kesetaraan Kinerja adalah dana yang digunakan untuk peningkatan mutu pendidikan satuan pendidikan yang menyelenggarakan pendidikan kesetaraan program Paket A, Paket B, dan Paket C yang dinilai berkinerja baik.
+15. Dana Bantuan Operasional Penyelenggaraan Pendidikan Kesetaraan Kinerja yang selanjutnya disebut Dana BOP Kesetaraan Kinerja adalah dana yang digunakan untuk peningkatan mutu pendidikan satuan pendidikan yang menyelenggarakan pendidikan kesetaraan program Paket A, Paket B, dan Paket C yang dinilai berkinerja baik.
 
 16. Aparatur Sipil Negara yang selanjutnya disingkat ASN adalah profesi bagi pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
 
@@ -149,9 +143,7 @@ I disebut Dana BOP PAUD Reguler adalah dana yang digunakan untuk membiayai kegia
 
 19. Dana Tambahan Penghasilan Guru Aparatur Sipil Negara Daerah yang selanjutnya disebut Dana Tamsil Guru ASN Daerah adalah tambahan penghasilan yang diberikan kepada guru pegawai negeri sipil Daerah dan guru pegawai pemerintah dengan perjanjian kerja yang belum memiliki sertifikat pendidik sesuai dengan ketentuan peraturan perundang-undangan.
 
-20. Dana Tunjangan Khusus Guru Aparatur Sipil Negara Daerah yang selanjutnya disebut Dana TKG ASN Daerah adalah tunjangan yang diberikan kepada guru
-
-I pegawai negeri sipil Daerah dan guru pegawai pemerintah dengan perJanJ1an kerja sebagai kompensasi atas kesulitan hidup dalam melaksanakan tugas di Daerah khusus yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
+20. Dana Tunjangan Khusus Guru Aparatur Sipil Negara Daerah yang selanjutnya disebut Dana TKG ASN Daerah adalah tunjangan yang diberikan kepada guru pegawai negeri sipil Daerah dan guru pegawai pemerintah dengan perjanjian kerja sebagai kompensasi atas kesulitan hidup dalam melaksanakan tugas di Daerah khusus yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
 
 21. Pusat Kesehatan Masyarakat yang selanjutnya disebut Puskesmas adalah fasilitas pelayanan kesehatan yang menyelenggarakan upaya kesehatan masyarakat dan upaya kesehatan perseorangan tingkat pertama, dengan lebih mengutamakan upaya promotif dan preventif, untuk mencapai derajat kesehatan masyarakat yang setinggi-tingginya di wilayah kerjanya.
 
@@ -193,9 +185,9 @@ I pegawai negeri sipil Daerah dan guru pegawai pemerintah dengan perJanJ1an kerj
 
 40. Rekening Kas Umum Daerah yang selanjutnya disingkat RKUD adalah rekening tempat penyimpanan uang Daerah yang ditentukan oleh gubernur, bupati, atau walikota untuk menampung seluruh penerimaan Daerah dan membayar seluruh pengeluaran Daerah pada bank yang ditetapkan.
 
-41. Rekening Satuan Pendidikan adalah rekening atas nama satuan pendidikan yang digunakan oleh satuan pendidikan untuk menerima Dana BOSP yang dibuka pada bank umum yang terdaftar dalam Sistem Kliring Nasional Bank Indonesia (SKNBI) dan/ atau Bank Indonesia Real Time Gross Settlement (BI-RTGS) sesuai dengan ketentuan peraturan perundang-undangan.
+41. Rekening Satuan Pendidikan adalah rekening atas nama satuan pendidikan yang digunakan oleh satuan pendidikan untuk menerima Dana BOSP yang dibuka pada bank umum yang terdaftar dalam Sistem Kliring Nasional Bank Indonesia (SKNBI) dan/atau Bank Indonesia Real Time Gross Settlement (BI-RTGS) sesuai dengan ketentuan peraturan perundang-undangan.
 
-42. Rekening Puskesmas adalah rekening atas nama Puskesmas yang digunakan oleh Puskesmas untuk menerima Dana BOK Puskesmas yang dibuka pada bank umum yang terdaftar dalam Sistem Kliring Nasional Bank Indonesia (SKNBI) dan/ atau Bank Indonesia Real Time Gross Settlement (BI-RTGS) sesuai dengan ketentuan peraturan perundang-undangan.
+42. Rekening Puskesmas adalah rekening atas nama Puskesmas yang digunakan oleh Puskesmas untuk menerima Dana BOK Puskesmas yang dibuka pada bank umum yang terdaftar dalam Sistem Kliring Nasional Bank Indonesia (SKNBI) dan/atau Bank Indonesia Real Time Gross Settlement (BI-RTGS) sesuai dengan ketentuan peraturan perundang-undangan.
 
 43. Surat Perintah Pencairan Dana yang selanjutnya disingkat SP2D adalah surat perintah yang diterbitkan oleh KPPN untuk pelaksanaan pengeluaran atas beban APBN berdasarkan surat perintah membayar.
 
@@ -204,7 +196,6 @@ I pegawai negeri sipil Daerah dan guru pegawai pemerintah dengan perJanJ1an kerj
 45. Supplier Puskesmas adalah informasi terkait dengan Puskesmas yang berhak menerima pembayaran Dana BOK Puskesmas yang memuat paling kurang informasi pokok, informasi lokasi, dan informasi rekening.
 
 ### Pasal 2
-
 (1) DAK Nonfisik terdiri atas:
 
 a. Dana BOSP;
@@ -241,9 +232,7 @@ a. Dana TPG ASN Daerah;
 
 b. Dana Tamsil Guru ASN Daerah; dan
 
-c. Dana TKG ASN Daerah.
-
-I
+c. Dana TKG ASN Daerah. P.
 
 (4) Dana BOK sebagaimana dimaksud pada ayat (1) huruf c terdiri atas:
 
@@ -251,10 +240,9 @@ a. Dana BOK Dinas; dan
 
 b. Dana BOK Puskesmas.
 
-## BAB II - PEJABAT PERBENDAHARAAN NEGARA PENGELOLMN DANA ALOKASI KHUSUS NONFISIK
+## BAB II - PEJABAT PERBENDAHARAAN NEGARA PENGELOLAAN DANA ALOKASI KHUSUS NONFISIK
 
 ### Pasal 3
-
 (1) Dalam rangka pengelolaan DAK Nonfisik, Menteri Keuangan selaku PA BUN Pengelolaan TKD menetapkan:
 
 a. Direktur Jenderal Perimbangan Keuangan sebagai Pemimpin PPA BUN Pengelolaan TKD;
@@ -267,9 +255,9 @@ d. Kepala KPPN sebagai KPA BUN Penyaluran Dana Transfer Khusus.
 
 (2) Dalam hal pejabat yang ditetapkan sebagai KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud pada ayat (1) huruf b berhalangan, Menteri Keuangan menunjuk Sekretaris Direktorat Jenderal Perimbangan Keuangan sebagai pelaksana tugas KPA BUN Pengelolaan Dana Transfer Khusus.
 
-(3) Dalam hal pejabat yang ditetapkan sebagai KPA BUN Penyaluran sebagaimana dimaksud pada ayat (1) huruf d berhalangan, Menteri Keuangan menunjuk pejabat pelaksana tugas / pelaksana harian Kepala KPPN sebagai pelaksana tugas KPA BUN Penyaluran Dana Transfer Khusus.
+(3) Dalam hal pejabat yang ditetapkan sebagai KPA BUN Penyaluran sebagaimana dimaksud pada ayat (1) huruf d berhalangan, Menteri Keuangan menunjuk pejabat pelaksana tugas/pelaksana harian Kepala KPPN sebagai pelaksana tugas KPA BUN Penyaluran Dana Transfer Khusus.
 
-(4) Keadaan berhalangan sebagaimana dimaksud pada ayat (2) dan ayat (3) merupakan suatu keadaan yang menyebabkan pejabat definitif yang ditetapkan sebagai KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud pada ayat (1) huruf b dan/ atau KPA BUN Penyaluran Dana Transfer Khusus sebagaimana dimaksud pada ayat (1) huruf d:
+(4) Keadaan berhalangan sebagaimana dimaksud pada ayat (2) dan ayat (3) merupakan suatu keadaan yang menyebabkan pejabat definitif yang ditetapkan sebagai KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud pada ayat (1) huruf b dan/atau KPA BUN Penyaluran Dana Transfer Khusus sebagaimana dimaksud pada ayat (1) huruf d:
 
 a. tidak terisi dan menimbulkan lowongan jabatan; atau
 
@@ -277,16 +265,15 @@ b. masih terisi namun pejabat definitif yang ditetapkan sebagai KPA BUN tidak da
 
 (5) Penunjukan:
 
-a. Sekretaris Direktorat Jenderal Perimbangan Keuangan sebagai pelaksana tugas KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud pada ayat (2); dan/ atau
+a. Sekretaris Direktorat Jenderal Perimbangan Keuangan sebagai pelaksana tugas KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud pada ayat (2); dan/atau
 
-b. pejabat pelaksana tugas/pelaksana harian kepala KPPN sebagai pelaksana tugas KPA BUN Penyaluran Dana Transfer Khusus sebagaimana dimaksud pada ayat (3), cf berakhir dalam hal Direktur Dana Transfer Khusus, sebagaimana dimaksud pada ayat (1) huruf b dan/ atau Kepala KPPN sebagaimana dimaksud pada ayat (1) huruf d telah terisi kembali oleh pejabat definitif atau dapat melaksanakan tugas kembali sebagai KPA BUN.
+b. pejabat pelaksana tugas/pelaksana harian kepala KPPN sebagai pelaksana tugas KPA BUN Penyaluran Dana Transfer Khusus sebagaimana dimaksud pada ayat (3), berakhir dalam hal Direktur Dana Transfer Khusus, sebagaimana dimaksud pada ayat (1) huruf b dan/atau Kepala KPPN sebagaimana dimaksud pada ayat (1) huruf d telah terisi kembali oleh pejabat definitif atau dapat melaksanakan tugas kembali sebagai KPA BUN.
 
 (6) Pemimpin PPA BUN Pengelolaan TKD dapat mengusulkan penggantian KPA BUN Pengelolaan Dana Transfer Khusus kepada Menteri Keuangan.
 
 (7) Penggantian KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud pada ayat (6) ditetapkan dengan Keputusan Menteri Keuangan.
 
 ### Pasal 4
-
 (1) KPA BUN Pengelolaan Dana Transfer Khusus sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b mempunyai tugas dan fungsi sebagai berikut:
 
 a. mengajukan usulan indikasi kebutuhan dana TKD untuk DAK Nonfisik kepada Pemimpin PPA BUN Pengelolaan TKD yang dilengkapi dengan dokumen pendukung;
@@ -299,9 +286,9 @@ d. menandatangani RKA BUN TKD untuk DAK Nonfisik yang telah direviu oleh Inspekt
 
 e. menyusun DIPA BUN TKD untuk Dana Transfer Khusus;
 
-f. menyampaikan rekomendasi penyaluran, pemotongan, penghentian penyaluran, dan/ a tau penyaluran kembali TKD untuk DAK Nonfisik kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD; dan
+f. menyampaikan rekomendasi penyaluran, pemotongan, penghentian penyaluran, dan/atau penyaluran kembali TKD untuk DAK Nonfisik kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD; dan
 
-g. menyampaikan informasi sisa dana dan/ a tau kurang salur TKD untuk DAK Nonfisik selain Dana BOSP dan Dana BOK Puskesmas secara berkala kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD untuk keperluan penyusunan laporan keuangan.
+g. menyampaikan informasi sisa dana dan/atau kurang salur TKD untuk DAK Nonfisik selain Dana BOSP dan Dana BOK Puskesmas secara berkala kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD untuk keperluan penyusunan laporan keuangan.
 
 (2) Koordinator KPA BUN Penyaluran TKD sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf c mempunyai tugas dan fungsi:
 
@@ -329,115 +316,103 @@ g. menyusun dan menyampaikan proyeksi penyaluran DAK Nonfisik sampai dengan akhi
 
 h. menyusun rencana penarikan dana DAK Nonfisik; dan
 
-1. melakukan penatausahaan dokumen yang berkaitan dengan penyaluran DAK Nonfisik.
+i. melakukan penatausahaan dokumen yang berkaitan dengan penyaluran DAK Nonfisik.
 
 (4) Penyaluran DAK Nonfisik sebagaimana dimaksud pada ayat (3) huruf c menggunakan aplikasi yang disediakan oleh Direktorat Jenderal Perbendaharaan.
 
-(5) Aplikasi sebagaimana dimaksud pada ayat (4) paling sedikit memuat informasi penyaluran, retur, pengembalian, dan notifikasi ke Pemerintah Daerah dan/ atau kementerian negara/lembaga terkait.
+(5) Aplikasi sebagaimana dimaksud pada ayat (4) paling sedikit memuat informasi penyaluran, retur, pengembalian, dan notifikasi ke Pemerintah Daerah dan/atau kementerian negara/lembaga terkait.
 
 (6) Pejabat pembuat komitmen dan pejabat penanda tangan surat perintah membayar sebagaimana dimaksud pada ayat (3) huruf a mempunyai tugas dan fungsi sesuai dengan Peraturan Menteri Keuangan mengenai tata cara pembayaran dalam rangka pelaksanaan APBN.
 
 ### Pasal 5
-
-KPA BUN Pengelolaan Dana Transfer Khusus, Koordinator KPA BUN Penyaluran TKD, dan KPA BUN Penyaluran Dana Transfer Khusus sebagaimana dimaksud dalam Pasal 3 ayat (1) tidak bertanggung jawab atas penggunaan DAK Nonfisik oleh Pemerintah Daerah, satuan pendidikan, dan/ a tau Puskesmas.
+KPA BUN Pengelolaan Dana Transfer Khusus, Koordinator KPA BUN Penyaluran TKD, dan KPA BUN Penyaluran Dana Transfer Khusus sebagaimana dimaksud dalam Pasal 3 ayat (1) tidak bertanggung jawab atas penggunaan DAK Nonfisik oleh Pemerintah Daerah, satuan pendidikan, dan/atau Puskesmas.
 
 ## BAB III - PERENCANAAN DAN PENGANGGARAN DANA ALOKASI KHUSUS NONFISIK
 
 ### Pasal 6
+(1) Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional mengoordinasikan penyusunan rancangan arah kebijakan DAK Nonfisik bersama Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
-(1) Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional mengoordinasikan penyusunan rancangan arah kebijakan DAK Nonfisik bersama Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
-
-(2) Berdasarkan rancangan arah kebijakan sebagaimana dimaksud pada ayat (1), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan bersama dengan Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional membahas dan menyepakati rancangan jenis DAK Nonfisik.
+(2) Berdasarkan rancangan arah kebijakan sebagaimana dimaksud pada ayat (1), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan bersama dengan Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional membahas dan menyepakati rancangan jenis DAK Nonfisik.
 
 (3) Pembahasan dan pengambilan kesepakatan arah kebijakan dan jenis DAK Nonfisik sebagaimana dimaksud pada ayat (1) dan ayat (2), dilakukan dengan mempertimbangkan pencapaian prioritas nasional, pengurangan kesenjangan layanan publik, dukungan operasional layanan publik, dan kemampuan keuangan negara.
 
-(4) Hasil kesepakatan sebagaimana dimaksud pada ayat
-
-(2) dituangkan dalam berita acara yang ditandatangani oleh pejabat berwenang.
+(4) Hasil kesepakatan sebagaimana dimaksud pada ayat (2) dituangkan dalam berita acara yang ditandatangani oleh pejabat berwenang.
 
 (5) Berdasarkan hasil kesepakatan sebagaimana dimaksud pada ayat (4), Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional menetapkan arah kebijakan DAK Nonfisik.
 
 ### Pasal 7
-
-(1) Kementerian negara/lembaga terkait menyampaikan perkiraan kebutuhan dana beserta kerangka acuan kerja masing-masing DAK Nonfisik kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat bulan Januari tahun anggaran sebelumnya.
+(1) Kementerian negara/lembaga terkait menyampaikan perkiraan kebutuhan dana beserta kerangka acuan kerja masing-masing DAK Nonfisik kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat bulan Januari tahun anggaran sebelumnya.
 
 (2) Kerangka acuan kerja sebagaimana dimaksud pada ayat (1) disusun dengan paling sedikit memuat:
 
 a. arah kebijakan dan prioritas DAK Nonfisik;
 
-I
-
-b. perkiraan kebutuhan belanja operasional dan/ a tau biaya satuan tahun anggaran berkenaan;
+b. perkiraan kebutuhan belanja operasional dan/atau biaya satuan tahun anggaran berkenaan;
 
 c. target sasaran; dan
 
 d. perkiraan kebutuhan dana 3 (tiga) tahun ke depan untuk masing-masing DAK Nonfisik.
 
 ### Pasal 8
+(1) Direktorat Jenderal Perimbangan Keuangan selaku PPA BUN Pengelolaan TKD menyusun IKD DAK Nonfisik berdasarkan perkiraan kebutuhan dana yang disampaikan oleh kementerian negara/lembaga terkait sebagaimana dimaksud dalam Pasal 7 ayat (1).
 
-(1) Direktorat Jenderal Perimbangan Keuangan selaku PPA BUN Pengelolaan TKD menyusun IKD DAK Nonfisik berdasarkan perkiraan kebutuhan dana yang disampaikan oleh kementerian negara/ lembaga terkait sebagaimana dimaksud dalam Pasal 7 ayat (1).
-
-(2) IKD DAK Nonfisik sebagaimana dimaksud pada ayat ( 1) disusun dengan memperhatikan:
+(2) IKD DAK Nonfisik sebagaimana dimaksud pada ayat (1) disusun dengan memperhatikan:
 
 a. arah kebijakan dan prioritas DAK Nonfisik;
 
-b. perkembangan dana transfer lainnya dan/ a tau DAK Nonfisik dalam 3 (tiga) tahun terakhir;
+b. perkembangan dana transfer lainnya dan/atau DAK Nonfisik dalam 3 (tiga) tahun terakhir;
 
-c. perkiraan kebutuhan belanja operasional dan/ atau biaya satuan untuk masing-masing DAK Nonfisik; dan/ atau
+c. perkiraan kebutuhan belanja operasional dan/atau biaya satuan untuk masing-masing DAK Nonfisik; dan/atau
 
 d. pengalihan belanja kementerian negara/lembaga terkait yang merupakan urusan Daerah.
 
-(3) IKD DAK Nonfisik sebagaimana dimaksud pada ayat
+(3) IKD DAK Nonfisik sebagaimana dimaksud pada ayat (1) disampaikan oleh Direktorat Jenderal Perimbangan Keuangan kepada Direktorat Jenderal Anggaran paling lambat minggu terakhir bulan Februari tahun anggaran sebelumnya.
 
-(1) disampaikan oleh Direktorat Jenderal Perimbangan Keuangan kepada Direktorat Jenderal Anggaran paling lambat minggu terakhir bulan Februari tahun anggaran sebelumnya.
-
-(4) Penyusunan dan penyampaian IKD DAK Nonfisik sebagaimana dimaksud pada ayat (1) dan ayat (3) dilaksanakan sesua1 dengan Peraturan Menteri Keuangan mengenai tata cara perencanaan, penelaahan, dan penetapan alokasi BA BUN, dan pengesahan DIPA BUN.
+(4) Penyusunan dan penyampaian IKD DAK Nonfisik sebagaimana dimaksud pada ayat (1) dan ayat (3) dilaksanakan sesuai dengan Peraturan Menteri Keuangan mengenai tata cara perencanaan, penelaahan, dan penetapan alokasi BA BUN, dan pengesahan DIPA BUN.
 
 ## BAB IV - PENGALOKASIAN
 
 ### Pasal 9
-
-(1) Kementerian negara/lembaga terkait melakukan penghitungan alokasi DAK Nonfisik sebagaimana dimaksud dalam Pasal 2 ayat (1) untuk provinsi/kabupaten/kota.
+(1) Kementerian negara/lembaga terkait melakukan penghitungan alokasi DAK Nonfisik sebagaimana dimaksud dalam Pasal 2 ayat (1) untuk provinsi/ kabupaten/kota.
 
 (2) Penghitungan alokasi sebagaimana dimaksud pada ayat (1) termasuk penghitungan alokasi dana cadangan.
 
-(3) Penghitungan alokasi sebagaimana dimaksud pada ayat (1) dan ayat (2) disampaikan kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan.
+(3) Penghitungan alokasi sebagaimana dimaksud pada ayat (1) dan ayat (2) disampaikan kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan.
 
 ### Pasal 10
-
-(1) Penghitungan alokasi sebagairnana dirnaksud dalarn Pasal 9 ayat (1) dilakukan dengan ketentuan sebagai berikut:
+(1) Penghitungan alokasi sebagaimana dimaksud dalam Pasal 9 ayat (1) dilakukan dengan ketentuan sebagai berikut:
 
 a. Dana BOSP:
 
-1. Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler dilakukan berdasarkan jurnlah peserta didik dikalikan dengan satuan biaya rnasing-rnasing Daerah yang ditetapkan oleh rnenteri yang rnenyelenggarakan urusan pernerintahan di bidang pendidikan; dan
+1. Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler dilakukan berdasarkan jumlah peserta didik dikalikan dengan satuan biaya masing-masing Daerah yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan; dan
 
-2. Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja dilakukan berdasarkan jurnlah satuan pendidikan berkinerja baik yang ditetapkan dalarn peraturan perundang-undangan dikalikan dengan satuan biaya yang ditetapkan oleh rnenteri yang rnenyelenggarakan urusan pernerintahan di bidang pendidikan.
+2. Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja dilakukan berdasarkan jumlah satuan pendidikan berkinerja baik yang ditetapkan dalam peraturan perundang-undangan dikalikan dengan satuan biaya yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
 
 b. Dana Tunjangan Guru ASN Daerah:
 
-1. Dana TPG ASN Daerah dilakukan berdasarkan jurnlah guru ASN Daerah yang sudah bersertifikasi pendidik dikalikan dengan gaji pokok guru pegawai negeri sipil Daerah atau gaji pegawai pernerintah dengan perJanJ1an kerja selarna 12 (dua belas) bulan;
+1. Dana TPG ASN Daerah dilakukan berdasarkan jumlah guru ASN Daerah yang sudah bersertifikasi pendidik dikalikan dengan gaji pokok guru pegawai negeri sipil Daerah atau gaji pegawai pemerintah dengan perjanjian kerja selama 12 (dua belas) bulan;
 
-2. Dana Tarnsil Guru ASN Daerah dilakukan berdasarkan jurnlah guru ASN Daerah yang belurn bersertifikasi pendidik dikalikan dengan alokasi dana tarnbahan penghasilan per orang per bulan selarna 12 (dua belas) bulan sesuai dengan yang ditetapkan dalarn peraturan perundang-undangan; dan
+2. Dana Tamsil Guru ASN Daerah dilakukan berdasarkan jumlah guru ASN Daerah yang belum bersertifikasi pendidik dikalikan dengan alokasi dana tambahan penghasilan per orang per bulan selama 12 (dua belas) bulan sesuai dengan yang ditetapkan dalam peraturan perundang-undangan; dan
 
-3. Dana TKG ASN Daerah dilakukan berdasarkan jurnlah guru ASN Daerah di Daerah khusus dikalikan dengan gaji pokok guru pegawai negeri sipil Daerah atau gaji pegawai pernerintah dengan perjanjian kerja selarna 12 (dua belas) bulan.
+3. Dana TKG ASN Daerah dilakukan berdasarkan jumlah guru ASN Daerah di Daerah khusus dikalikan dengan gaji pokok guru pegawai negeri sipil Daerah atau gaji pegawai pemerintah dengan perjanjian kerja selama 12 (dua belas) bulan.
 
-c. Dana BOK Dinas dan Dana BOK Puskesrnas dilakukan berdasarkan:
+c. Dana BOK Dinas dan Dana BOK Puskesmas dilakukan berdasarkan:
 
-1. jurnlah sasaran/kegiatan dikalikan dengan biaya satuan per sasaran/kegiatan; dan/atau
+1. jumlah sasaran/kegiatan dikalikan dengan biaya satuan per sasaran/kegiatan; dan/atau
 
-2. kebijakan lain yang ditetapkan bersarna oleh Kernenterian Perencanaan Pernbangunan Nasional/ Badan Perencanaan Pernbangunan Nasional, Kernenterian Keuangan, dan kernenterian negara/lernbaga terkait.
+2. kebijakan lain yang ditetapkan bersama oleh Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional, Kementerian Keuangan, dan kementerian negara/lembaga terkait.
 
 d. DAK Nonfisik Jenis Lainnya dilakukan berdasarkan:
 
-1. jurnlah sasaran/kegiatan dikalikan dengan biaya satuan per sasaran/kegiatan;
+1. jumlah sasaran/kegiatan dikalikan dengan biaya satuan per sasaran/kegiatan;
 
 2. bantuan operasional lainnya yang ditetapkan oleh kementerian negara/lembaga terkait; dan/atau
 
-3. kebijakan lain yang ditetapkan bersama oleh Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional, Kementerian Keuangan, dan kementerian negara/lembaga terkait.
+3. kebijakan lain yang ditetapkan bersama oleh Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional, Kementerian Keuangan, dan kementerian negara/lembaga terkait.
 
 (2) Penghitungan alokasi Dana BOSP sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:
 
-a. Dana BOS Reguler dan Dana BOS Kinerja provinsi untuk satuan pendidikan menengah negen, satuan pendidikan khusus negen, satuan pendidikan menengah swasta, dan satuan pendidikan khusus swasta;
+a. Dana BOS Reguler dan Dana BOS Kinerja provinsi untuk satuan pendidikan menengah negeri, satuan pendidikan khusus negeri, satuan pendidikan menengah swasta, dan satuan pendidikan khusus swasta;
 
 b. Dana BOS Reguler dan Dana BOS Kinerja kabupaten/kota untuk satuan pendidikan dasar negeri dan satuan pendidikan dasar swasta;
 
@@ -447,11 +422,9 @@ d. Dana BOP Kesetaraan Reguler dan Dana BOP Kesetaraan Kinerja provinsi/kabupate
 
 (3) Penghitungan alokasi Dana Tunjangan Guru ASN Daerah sebagaimana dimaksud pada ayat (1) huruf b dilakukan dengan memperhitungkan perkiraan kurang salur dan perkiraan sisa dana di RKUD atas penyaluran dana tahun anggaran sebelumnya.
 
-(4) Penghitungan perkiraan kurang salur dan perkiraan sisa dana di RKUD sebagaimana dimaksud pada ayat
+(4) Penghitungan perkiraan kurang salur dan perkiraan sisa dana di RKUD sebagaimana dimaksud pada ayat (3) dilakukan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
 
-(3) dilakukan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
-
-(5) Penghitungan sebagaimana dimaksud pada ayat (4) dapat dilakukan melalui rekonsiliasi dengan Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan Pemerintah Daerah.
+(5) Penghitungan sebagaimana dimaksud pada ayat (4) dapat dilakukan melalui rekonsiliasi dengan Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan Pemerintah Daerah.
 
 (6) Penghitungan alokasi dana cadangan sebagaimana dimaksud dalam Pasal 9 ayat (2) dilakukan dengan ketentuan sebagai berikut:
 
@@ -460,8 +433,6 @@ a. dana cadangan BOSP dilakukan berdasarkan proyeksi perubahan jumlah peserta di
 b. dana cadangan Tunjangan Guru ASN Daerah:
 
 1. TPG ASN Daerah dilakukan berdasarkan proyeksi perubahan jumlah guru ASN Daerah pada tahun anggaran bersangkutan yang memenuhi kriteria penerima sesuai dengan ketentuan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan;
-
-f
 
 2. Tamsil Guru ASN Daerah dilakukan berdasarkan proyeksi perubahan jumlah guru ASN Daerah pada tahun anggaran bersangkutan yang memenuhi kriteria penerima sesuai dengan ketentuan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan; dan
 
@@ -472,10 +443,9 @@ c. dana cadangan untuk DAK Nonfisik Jenis Lainnya dilakukan berdasarkan proyeksi
 (7) Penghitungan alokasi sebagaimana dimaksud pada ayat (2) huruf a dan huruf b, ayat (3), dan ayat (6) huruf a dan huruf b dilakukan dengan mempertimbangkan ketentuan peraturan perundangan-undangan.
 
 ### Pasal 11
+(1) Dalam melakukan penghitungan alokasi sebagaimana dimaksud dalam Pasal 9 ayat (1) dan ayat (2), kementerian negara/lembaga terkait berkoordinasi dengan Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
-(1) Dalam melakukan penghitungan alokasi sebagaimana dimaksud dalam Pasal 9 ayat (1) dan ayat (2), kementerian negara/lembaga terkait berkoordinasi dengan Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
-
-(2) Dalam pelaksanaan koordinasi sebagaimana dimaksud pada ayat (1), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dapat melibatkan Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional.
+(2) Dalam pelaksanaan koordinasi sebagaimana dimaksud pada ayat (1), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dapat melibatkan Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional.
 
 (3) Hasil koordinasi sebagaimana dimaksud pada ayat (1) dituangkan dan disepakati bersama dalam berita acara yang paling sedikit memuat:
 
@@ -493,17 +463,15 @@ f. formulasi pengalokasian;
 
 g. rencana alokasi per Daerah; dan
 
-h. kertas kerja penghitungan alokasi per provinsi/kabupaten/kota dan/ atau entitas penerima manfaat.
+h. kertas kerja penghitungan alokasi per provinsi/ kabupaten/kota dan/atau entitas penerima manfaat.
 
-(4) Berdasarkan berita acara sebagaimana dimaksud pada ayat (3), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan menyampaikan surat permintaan rincian alokasi DAK Nonfisik per provinsi/kabupaten/kota dan/ atau entitas penerima manfaat kepada kementerian negara/lembaga terkait.
+(4) Berdasarkan berita acara sebagaimana dimaksud pada ayat (3), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan menyampaikan surat permintaan rincian alokasi DAK Nonfisik per provinsi/ kabupaten/kota dan/atau entitas penerima manfaat kepada kementerian negara/lembaga terkait.
 
-(5) Berdasarkan surat permintaan sebagaimana dimaksud pada ayat (4), kementerian negara/lembaga terkait menyampaikan rincian alokasi DAK Nonfisik per provinsi/kabupaten/kota dan/ atau entitas penerima manfaat sebagaimana dimaksud pada ayat
-
-(3) kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 15 September tahun anggaran sebelumnya.
+(5) Berdasarkan surat permintaan sebagaimana dimaksud pada ayat (4), kementerian negara/ lembaga terkait menyampaikan rincian alokasi DAK Nonfisik per provinsi/kabupaten/kota dan/atau entitas penerima manfaat sebagaimana dimaksud pada ayat (3) kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 15 September tahun anggaran sebelumnya.
 
 (6) Rincian alokasi DAK Nonfisik per provinsi/kabupaten/kota sebagaimana dimaksud pada ayat (5) digunakan sebagai bahan penyusunan kebijakan alokasi DAK Nonfisik yang disampaikan oleh Pemerintah Pusat kepada Dewan Perwakilan Rakyat pada saat pembahasan Nota Keuangan dan Rancangan Undang-Undang mengenai APBN.
 
-(7) Berdasarkan pagu dalam Rancangan Undang-Undang mengenai APBN yang telah disetujui oleh Dewan Perwakilan Rakyat dan hasil pembahasan sebagaimana dimaksud pada ayat (6), ditetapkan alokasi DAK Nonfisik untuk masing-masing provinsi / kabupaten/ kota.
+(7) Berdasarkan pagu dalam Rancangan Undang-Undang mengenai APBN yang telah disetujui oleh Dewan Perwakilan Rakyat dan hasil pembahasan sebagaimana dimaksud pada ayat (6), ditetapkan alokasi DAK Nonfisik untuk masing-masing provinsi/ kabupaten/kota.
 
 (8) Alokasi DAK Nonfisik sebagaimana dimaksud pada ayat (7) tercantum dalam Peraturan Presiden mengenai rincian APBN.
 
@@ -518,46 +486,42 @@ h. kertas kerja penghitungan alokasi per provinsi/kabupaten/kota dan/ atau entit
 (13) Dalam hal tanggal 15 September tahun anggaran sebelumnya bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (5) pada hari kerja berikutnya.
 
 ### Pasal 12
+(1) Berdasarkan Peraturan Presiden mengenai rincian APBN sebagaimana dimaksud dalam Pasal 11 ayat (8), menteri/pimpinan lembaga terkait menetapkan petunjuk teknis DAK Nonfisik.
 
-(1) Berdasarkan Peraturan Presiden mengenai rincian APBN sebagaimana dimaksud dalam Pasal 11 ayat (8), menteri/ pimpinan lembaga terkait menetapkan petunjuk teknis DAK Nonfisik.
+(2) Dalam penyusunan petunjuk teknis DAK Nonfisik sebagaimana dimaksud pada ayat (1), kementerian negara/lembaga terkait berkoordinasi dengan Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan Kementerian Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional.
 
-(2) Dalam penyusunan petunjuk teknis DAK Nonfisik sebagaimana dimaksud pada ayat (1), kementerian f negara/lembaga terkait berkoordinasi dengan Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional.
-
-(3) Dalam hal petunjuk teknis DAK Nonfisik sebagaimana dimaksud pada ayat (1) menggunakan petunjuk teknis DAK Nonfisik tahun anggaran sebelumnya, kementerian negara/lembaga terkait menyampaikan surat pemberitahuan kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
+(3) Dalam hal petunjuk teknis DAK Nonfisik sebagaimana dimaksud pada ayat (1) menggunakan petunjuk teknis DAK Nonfisik tahun anggaran sebelumnya, kementerian negara/lembaga terkait menyampaikan surat pemberitahuan kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
 ### Pasal 13
-
 (1) Berdasarkan petunjuk teknis yang telah ditetapkan sebagaimana dimaksud dalam Pasal 12 ayat (1) dan ayat (3), pemerintah Daerah menyusun rencana penggunaan DAK Nonfisik untuk Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya.
 
-(2) Rencana penggunaan Dana BOK Dinas dan DAK Nonfisik J enis Lainnya sebagaimana dimaksud pada ayat (1) disampaikan oleh pemerintah Daerah kepada kementerian negara/lembaga terkait dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy).
+(2) Rencana penggunaan Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) disampaikan oleh pemerintah Daerah kepada kementerian negara/lembaga terkait dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy).
 
-(3) Rencana penggunaan Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (2) disampaikan oleh kementerian negara/lembaga terkait kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/ a tau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan.
+(3) Rencana penggunaan Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (2) disampaikan oleh kementerian negara/lembaga terkait kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat — Jenderal Perimbangan Keuangan.
 
 ### Pasal 14
-
 (1) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan:
 
-a. surat penyampaian data pagu Dana BOSP per Satuan Pendidikan penenma, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan;dan
+a. surat penyampaian data pagu Dana BOSP per Satuan Pendidikan penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan, dan
 
-b. data Supplier Satuan Pendidikan dan perubahannya kepada KPA BUN Penyaluran Dana Transfer Khusus.
+b. data Supplier — Satuan Pendidikan dan perubahannya kepada KPA BUN Penyaluran Dana Transfer Khusus.
 
 (2) Data pagu per satuan pendidikan sebagaimana dimaksud pada ayat (1) huruf a disampaikan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 31 Oktober tahun anggaran sebelumnya.
 
-(3) Tata cara penyampaian dan perubahan Supplier Satuan Pendidikan dilaksanakan sesuai dengan ketentuan mengenai pengelolaan data supplier dan t data kontrak dalam sistem perbendaharaan dan anggaran negara.
+(3) Tata cara penyampaian dan perubahan Supplier Satuan Pendidikan dilaksanakan sesuai dengan ketentuan mengenai pengelolaan data supplier dan data kontrak dalam sistem perbendaharaan dan anggaran negara.
 
-(4) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan data supplier dan/ atau perubahannya sebagaimana dimaksud pada ayat (3) yang sudah sesuai dengan ketentuan yang mengatur mengenai pengelolaan Rekening Satuan Pendidikan.
+(4) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan data supplier dan/atau perubahannya sebagaimana dimaksud pada ayat (3) yang sudah sesuai dengan ketentuan yang mengatur mengenai pengelolaan Rekening Satuan Pendidikan.
 
 (5) Dalam hal tanggal 31 Oktober tahun anggaran sebelumnya bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (2) pada hari kerja berikutnya.
 
 ### Pasal 15
-
 (1) Kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan menyampaikan:
 
-a. surat penyampaian data pagu Dana BOK Puskesmas per Puskesmas penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan;dan
+a. surat penyampaian data pagu Dana BOK Puskesmas per Puskesmas penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan, dan
 
 b. data Supplier Puskesmas dan perubahannya kepada KPA BUN Penyaluran Dana Transfer Khusus.
 
-(2) Data pagu per Puskesmas sebagaimana dimaksud pada ayat (1) huruf a disampaikan dalam bentuk dokumen fisik (hardcopy) dan/ a tau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 15 Desember tahun anggaran sebelumnya.
+(2) Data pagu per Puskesmas sebagaimana dimaksud pada ayat (1) huruf a disampaikan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui media yang ditentukan oleh Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 15 Desember tahun anggaran sebelumnya.
 
 (3) Tata cara penyampaian dan perubahan Supplier Puskesmas dilaksanakan sesuai dengan ketentuan mengenai pengelolaan data supplier dan data kontrak dalam sistem perbendaharaan dan anggaran negara.
 
@@ -565,12 +529,11 @@ b. data Supplier Puskesmas dan perubahannya kepada KPA BUN Penyaluran Dana Trans
 
 (5) Dalam hal tanggal 15 Desember tahun anggaran sebelumnya bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (2) pada hari kerja berikutnya.
 
-BABV PENYALURAN DAN PELAPORAN
+## BAB V - PENYALURAN DAN PELAPORAN
 
 **Bagian Kesatu - Dokumen Pelaksanaan Penyaluran Paragraf 1**
 
 ### Pasal 16
-
 (1) KPA BUN Pengelolaan Dana Transfer Khusus menyusun RKA BUN DAK Nonfisik sesuai dengan ketentuan peraturan perundang-undangan.
 
 (2) RKA BUN DAK Nonfisik sebagaimana dimaksud pada ayat (1) disusun berdasarkan Penetapan Alokasi Anggaran BUN.
@@ -583,7 +546,7 @@ BABV PENYALURAN DAN PELAPORAN
 
 (6) Pemimpin PPA BUN Pengelolaan TKD menyusun Rencana Dana Pengeluaran BUN TKD berdasarkan pagu anggaran BUN yang ditetapkan oleh Menteri Keuangan.
 
-(7) Pemimpin PPA BUN Pengelolaan TKD menetapkan Rencana Dana Pengeluaran BUN TKD sebagaimana dimaksud pada ayat (6) dan menyampaikannya kepada Direktur J enderal Anggaran untuk dilakukan penelaahan.
+(7) Pemimpin PPA BUN Pengelolaan TKD menetapkan Rencana Dana Pengeluaran BUN TKD sebagaimana dimaksud pada ayat (6) dan menyampaikannya kepada Direktur Jenderal Anggaran untuk dilakukan penelaahan.
 
 (8) Hasil penelaahan atas Rencana Dana Pengeluaran BUN TKD sebagaimana dimaksud pada ayat (7), berupa Daftar Hasil Penelaahan Rencana Dana Pengeluaran BUN TKD.
 
@@ -593,22 +556,18 @@ BABV PENYALURAN DAN PELAPORAN
 
 (11) Direktur Jenderal Anggaran atas nama Menteri Keuangan mengesahkan DIPA BUN TKD sebagaimana dimaksud pada ayat (10) dan menyampaikan DIPA BUN TKD yang telah disahkan kepada Pemimpin PPA BUN Pengelolaan TKD.
 
-(12) Direktur Jenderal Perimbangan Keuangan selaku Pemimpin PPA BUN Pengelolaan TKD menyampaikan
+(12) Direktur Jenderal Perimbangan Keuangan selaku Pemimpin PPA BUN Pengelolaan TKD menyampaikan DIPA Induk/DIPA Petikan BUN TKD untuk DAK Nonfisik kepada Kepala KPPN selaku KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD.
 
-DIPA Induk/DIPA Petikan BUN TKD untuk DAK Nonfisik kepada Kepala KPPN selaku KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD.
-
-(13) DIPA BUN TKD dan DIPA Induk/DIPA Petikan BUN TKD untuk DAK Nonfisik sebagaimana dimaksud pada ayat (11) dan ayat (12) digunakan sebagai dasar pelaksanaan kegiatan satuan kerja bendahara umum negara dan pencairan dana/ pengesahan bagi bendahara umum negara/kuasa bendahara umum negara.
+(13) DIPA BUN TKD dan DIPA Induk/DIPA Petikan BUN TKD untuk DAK Nonfisik sebagaimana dimaksud pada ayat (11) dan ayat (12) digunakan sebagai dasar pelaksanaan kegiatan satuan kerja bendahara umum negara dan pencairan dana/pengesahan bagi bendahara umum negara/kuasa bendahara umum negara.
 
 ### Pasal 17
-
 (1) KPA BUN Pengelolaan Dana Transfer Khusus dapat menyusun perubahan DIPA BUN TKD.
 
-(2) Tata cara perubahan DIPA BUN TKD dilakukan sesuai dengan Peraturan Menteri Keuangan mengenai tata cara rev1s1 anggaran.
+(2) Tata cara perubahan DIPA BUN TKD dilakukan sesuai dengan Peraturan Menteri Keuangan mengenai tata cara revisi anggaran.
 
 **Paragraf 2 - Surat Permintaan Pembayaran, Surat Perintah Membayar, dan Surat Perintah Pencairan Dana**
 
 ### Pasal 18
-
 (1) Dalam rangka penyaluran TKD untuk DAK Nonfisik, KPA BUN Pengelolaan Dana Transfer Khusus menyusun dan menyampaikan rekomendasi sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf f kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD.
 
 (2) Rekomendasi sebagaimana dimaksud pada ayat (1) disampaikan dengan mempertimbangkan waktu proses penerbitan surat permintaan pembayaran, surat perintah membayar, dan SP2D BUN serta ketentuan mengenai rencana penarikan dana.
@@ -621,20 +580,16 @@ DIPA Induk/DIPA Petikan BUN TKD untuk DAK Nonfisik kepada Kepala KPPN selaku KPA
 
 (6) Penerbitan surat permintaan pembayaran, surat perintah membayar, dan SP2D BUN dilaksanakan sesuai dengan Peraturan Menteri Keuangan mengenai tata cara pembayaran dalam rangka pelaksanaan APBN.
 
-I-
-
 **Bagian Kedua - Wilayah Kerja Kuasa Pengguna Anggaran Bendahara Umum Negara Penyaluran Dana Transfer Khusus**
 
 ### Pasal 19
-
-(1) KPA BUN Penyaluran Dana Transfer Khusus melaksanakan penyaluran DAK Nonfisik berdasarkan wilayah kerjanya yang meliputi provinsi/kabupaten/kota penenma alokasi DAK Nonfisik.
+(1) KPA BUN Penyaluran Dana Transfer Khusus melaksanakan penyaluran DAK Nonfisik berdasarkan wilayah kerjanya yang meliputi provinsi/kabupaten/kota penerima alokasi DAK Nonfisik.
 
 (2) Penetapan wilayah kerja sebagaimana dimaksud pada ayat (1) berdasarkan Peraturan Menteri Keuangan mengenai organisasi dan tata kerja instansi vertikal Direktorat Jenderal Perbendaharaan.
 
 **Bagian Ketiga - Bentuk Penyaluran**
 
 ### Pasal 20
-
 (1) Penyaluran Dana BOSP sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a dilakukan dengan cara pemindahbukuan dari RKUN ke Rekening Satuan Pendidikan.
 
 (2) Penyaluran Dana BOK Puskesmas sebagaimana dimaksud dalam Pasal 2 ayat (4) huruf b dilakukan dengan cara pemindahbukuan dari RKUN ke Rekening Puskesmas.
@@ -647,17 +602,13 @@ I-
 
 (6) Penyaluran DAK Nonfisik sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf b dan huruf d dan Pasal 2 ayat (4) huruf a dilakukan dengan cara pemindahbukuan dari RKUN ke RKUD.
 
-(7) Dalam hal terdapat perubahan RKUD sebagaimana dimaksud pada ayat (6), Kepala Daerah menyampaikan permohonan perubahan RKUD kepada Menteri Keuangan c.q. Direktur Jenderal Perimbangan Keuangan dengan dilampiri:
+(7) Dalam hal terdapat perubahan RKUD sebagaimana dimaksud pada ayat (6), Kepala Daerah menyampaikan permohonan perubahan RKUD kepada Menteri Keuangan c.g. Direktur Jenderal Perimbangan Keuangan dengan dilampiri:
 
 a. asli rekening koran dari RKUD; dan
 
 b. salinan keputusan Kepala Daerah mengenai penunjukan bank tempat menampung RKUD.
 
-(8) KPA BUN Penyaluran Dana Transfer Khusus melakukan perubahan RKUD berdasarkan nota dinas rekomendasi perubahan dari Direktur Jenderal
-
-I
-
-Perimbangan Keuangan melalui Koordinator KPA BUN Penyaluran TKD.
+(8) KPA BUN Penyaluran Dana Transfer Khusus melakukan perubahan RKUD berdasarkan nota dinas rekomendasi perubahan dari Direktur Jenderal Perimbangan Keuangan melalui Koordinator KPA BUN Penyaluran TKD.
 
 (9) Dalam hal terdapat perubahan Supplier Satuan Pendidikan sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b, kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan pemberitahuan perubahan Supplier Satuan Pendidikan kepada KPA BUN Penyaluran Dana Transfer Khusus melalui aplikasi.
 
@@ -668,15 +619,13 @@ Perimbangan Keuangan melalui Koordinator KPA BUN Penyaluran TKD.
 **Bagian Keempat - Penyaluran dan Pelaporan Dana Alokasi Khusus Nonfisik Paragraf 1**
 
 ### Pasal 21
-
 Penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler dilakukan secara bertahap dengan ketentuan sebagai berikut:
 
-a. tahap I, disalurkan paling banyak 50% (lima puluh persen) dari pagu alokasi provinsi/kabupaten/kota, paling cepat bulan Januari tahun anggaran berjalan; dan
+a. tahap I, disalurkan paling banyak 50% (lima puluh persen) dari pagu alokasi provinsi/ kabupaten/kota, paling cepat bulan Januari tahun anggaran berjalan; dan
 
 b. tahap II, disalurkan sebesar sisa dari pagu alokasi provinsi/kabupaten/kota yang belum disalurkan, paling cepat bulan Juli tahun anggaran berjalan.
 
 ### Pasal 22
-
 (1) Satuan pendidikan menyampaikan laporan realisasi Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan melalui aplikasi pengelolaan Dana BOSP dengan ketentuan sebagai berikut:
 
 a. laporan realisasi tahap I, yang menunjukkan paling sedikit 50% (lima puluh persen) dari dana yang ada di satuan pendidikan; dan
@@ -689,7 +638,7 @@ b. laporan realisasi tahap II yang menunjukkan realisasi penggunaan sampai denga
 
 (4) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan melakukan verifikasi terhadap satuan pendidikan penerima Dana BOSP yang telah menyampaikan laporan.
 
-(5) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (4), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
+(5) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (4), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
 
 a. paling lambat tanggal 30 Juni tahun anggaran berjalan untuk penyaluran tahap I; dan
 
@@ -697,52 +646,47 @@ b. paling lambat tanggal 31 Oktober tahun anggaran berjalan untuk penyaluran tah
 
 (6) Berdasarkan rekomendasi sebagaimana dimaksud pada ayat (5), Direktorat Jenderal Perimbangan Keuangan melakukan verifikasi nilai penyaluran per provinsi, kabupaten, dan kota.
 
-(7) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (6), Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy).
+(7) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (6), Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy).
 
 (8) Berdasarkan rekomendasi penyaluran sebagaimana dimaksud pada ayat (7), KPA BUN Penyaluran Dana Transfer Khusus melakukan penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler.
 
-(9) Dalam hal rekomendasi dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (5), penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler tidak dapat dilakukan.
+(9) Dalam hal rekomendasi dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat penyaluran Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler tidak dapat dilakukan.
 
 (10) Dalam hal satuan Pendidikan tidak menerima penyaluran tahap I, penyaluran tahap II tidak dapat dilakukan.
 
-(11) Berdasarkan laporan realisasi sebagaimana dimaksud pada ayat (1), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan laporan rekapitulasi penggunaan Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler per tahapan per provinsi, kabupaten, dan kota kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan Direktorat Jenderal Perbendaharaan.
+(11) Berdasarkan laporan realisasi sebagaimana dimaksud pada ayat (1), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan laporan rekapitulasi penggunaan Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler per tahapan per provinsi, kabupaten, dan kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan Direktorat Jenderal Perbendaharaan.
 
 (12) Dalam hal tanggal 30 Juni dan 31 Oktober tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (5) pada hari kerja berikutnya.
 
 **Paragraf 2 - Dana Bantuan Operasional Sekolah Kinerja, Dana Bantuan Operasional Penyelenggaraan Pendidikan Anak**
 
 ### Pasal 23
-
 Penyaluran Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja dilakukan secara sekaligus paling cepat bulan April tahun anggaran berjalan.
 
 ### Pasal 24
-
 (1) Satuan pendidikan menyampaikan laporan realisasi Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan melalui aplikasi pengelolaan Dana BOSP.
 
 (2) Penyampaian laporan realisasi sebagaimana dimaksud pada ayat (1) dikecualikan untuk satuan pendidikan yang baru pertama kali menerima Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja.
 
 (3) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan melakukan verifikasi terhadap satuan pendidikan penerima Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja yang telah menyampaikan laporan.
 
-(4) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi Penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 31 Agustus tahun anggaran berjalan.
+(4) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi Penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 31 Agustus tahun anggaran berjalan.
 
-(5) Berdasarkan rekomendasi sebagaimana yang dimaksud pada ayat (4), Direktorat Jenderal
+(5) Berdasarkan rekomendasi sebagaimana yang dimaksud pada ayat (4), Direktorat Jenderal Perimbangan Keuangan melakukan verifikasi nilai penyaluran per provinsi, kabupaten, dan kota.
 
-Perimbangan Keuangan melakukan verifikasi nilai penyaluran per provinsi, kabupaten, dan kota.
+(6) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (5), Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy).
 
-(6) Berdasarkan hasil Verifikasi sebagaimana dimaksud pada ayat (5), Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy).
-
-(7) Berdasarkan rekomendasi penyaluran sebagaimana · dimaksud pada ayat (6), KPA BUN Penyaluran Dana Transfer Khusus melakukan penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja.
+(7) Berdasarkan rekomendasi penyaluran sebagaimana dimaksud pada ayat (6), KPA BUN Penyaluran Dana Transfer Khusus melakukan penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja.
 
 (8) Dalam hal rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (4), penyaluran Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja tidak dapat dilakukan.
 
-(9) Berdasarkan laporan realisasi sebagaimana dimaksud pada ayat (1) kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan laporan rekapitulasi penggunaan Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja per provinsi, kabupaten, dan kota kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan Direktorat Jenderal Perbendaharaan.
+(9) Berdasarkan laporan realisasi sebagaimana dimaksud pada ayat (1) kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan laporan rekapitulasi penggunaan Dana BOS Kinerja, BOP PAUD Kinerja, dan BOP Kesetaraan Kinerja per provinsi, kabupaten, dan kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan Direktorat Jenderal Perbendaharaan.
 
 (10) Dalam hal tanggal 31 Agustus tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (4) pada hari kerja berikutnya.
 
 **Paragraf 3 - Dana Tunjangan Guru ASN Daerah**
 
 ### Pasal 25
-
 Penyaluran Dana Tunjangan Guru ASN Daerah dilaksanakan secara triwulanan, dengan ketentuan sebagai berikut:
 
 a. triwulan I, disalurkan sebesar 30% (tiga puluh persen) dari pagu alokasi, paling cepat bulan Maret tahun anggaran berjalan;
@@ -754,8 +698,7 @@ c. triwulan III, disalurkan sebesar 25% (dua puluh lima persen) dari pagu alokas
 d. triwulan IV, disalurkan sebesar 20% (dua puluh persen) dari pagu alokasi, paling cepat bulan November tahun anggaran berjalan.
 
 ### Pasal 26
-
-(1) Pemerintah Daerah menyampaikan laporan realisasi pembayaran Dana Tunjangan Guru ASN Daerah kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan dan Kernenterian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan secara semesteran, dengan ketentuan sebagai berikut:
+(1) Pemerintah Daerah menyampaikan laporan realisasi pembayaran Dana Tunjangan Guru ASN Daerah kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan dan Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan secara semesteran, dengan ketentuan sebagai berikut:
 
 a. laporan realisasi semester II tahun anggaran sebelumnya sebagai syarat penyaluran triwulan I; dan
 
@@ -763,13 +706,13 @@ b. laporan realisasi semester I sebagai syarat penyaluran triwulan III.
 
 (2) Penyampaian laporan realisasi pembayaran sebagaimana dimaksud pada ayat (1) disertai dengan rekapitulasi SP2D penyaluran Dana Tunjangan Guru ASN Daerah.
 
-(3) Laporan realisasi pembayaran sebagaimana dimaksud pada ayat (1) disampaikan dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy) melalui aplikasi.
+(3) Laporan realisasi pembayaran sebagaimana dimaksud pada ayat (1) disampaikan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui aplikasi.
 
 (4) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan melakukan verifikasi atas laporan realisasi pembayaran Dana Tunjangan Guru ASN Daerah serta melakukan verifikasi dan validasi atas kebutuhan riil Dana Tunjangan Guru ASN Daerah tahun anggaran berkenaan.
 
-(5) Verifikasi kebutuhan riil Dana Tunjangan Guru ASN Daerah sebagaimana dimaksud pada ayat (4) dilakukan dengan mempertimbangkan sisa dana dan/ atau kurang bayar tahun anggaran sebelumnya.
+(5) Verifikasi kebutuhan riil Dana Tunjangan Guru ASN Daerah sebagaimana dimaksud pada ayat (4) dilakukan dengan mempertimbangkan sisa dana dan/atau kurang bayar tahun anggaran sebelumnya.
 
-(6) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (4), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi penyaluran Dana Tunjangan Guru ASN Daerah kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
+(6) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (4), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi penyaluran Dana Tunjangan Guru ASN Daerah kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
 
 a. triwulan I paling lambat 31 Juli tahun anggaran berjalan;
 
@@ -795,37 +738,32 @@ e. jumlah kebutuhan tahun berkenaan per Daerah; dan
 
 f. jumlah penyesuaian salur per Daerah.
 
-(9) Berdasarkan rekomendasi sebagaimana dimaksud pada ayat (6), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan melakukan verifikasi nilai penyaluran per provinsi, kabupaten, dan kota.
+(9) Berdasarkan rekomendasi sebagaimana dimaksud pada ayat (6), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan melakukan verifikasi nilai penyaluran per provinsi, kabupaten, dan kota.
 
-(10) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (9), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran Dana Tunjangan Guru ASN Daerah kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy).
+(10) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (9), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran Dana Tunjangan Guru ASN Daerah kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy).
 
 (11) Berdasarkan rekomendasi penyaluran sebagaimana dimaksud pada ayat (10), KPA BUN Penyaluran Dana Transfer Khusus melakukan penyaluran Dana Tunjangan Guru ASN Daerah.
 
 (12) Dalam hal:
 
-a. rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (6) huruf a dan huruf b, penyaluran Dana Tunjangan Guru ASN Daerah dapat dilakukan setelah Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan menerima rekomendasi dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan paling lambat tanggal 30 November tahun anggaran berjalan.
+a. rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (6) huruf a dan huruf b, penyaluran Dana Tunjangan Guru ASN Daerah dapat dilakukan setelah Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan menerima rekomendasi dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan paling lambat tanggal 30 November tahun anggaran berjalan.
 
-b. rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (6) huruf c, penyaluran Dana Tunjangan Guru ASN Daerah dapat dilakukan setelah Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan menerima rekomendasi dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan paling lambat tanggal 10 Desember tahun anggaran berjalan.
+b. rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (6) huruf c, penyaluran Dana Tunjangan Guru ASN Daerah dapat dilakukan setelah Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan menerima rekomendasi dari kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan paling lambat tanggal 10 Desember tahun anggaran berjalan.
 
 c. rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat (6) huruf d dan ayat (12) huruf a dan huruf b, penyaluran Dana Tunjangan Guru ASN Daerah tidak dapat dilakukan.
 
-I
-
 (13) Rekomendasi sebagaimana dimaksud pada ayat (12) huruf a tidak dapat dilaksanakan sekaligus untuk tiap triwulan.
 
-(14) Dalam hal tanggal 31 Juli, 31 Agustus, 30 November, dan 10 Desember tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (6) dan ayat
-
-(12) pada hari kerja berikutnya.
+(14) Dalam hal tanggal 31 Juli, 31 Agustus, 30 November, dan 10 Desember tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (6) dan ayat (12) pada hari kerja berikutnya.
 
 **Paragraf 4 - Dana Bantuan Operasional Kesehatan Puskesmas**
 
 ### Pasal 27
-
 (1) Penyaluran Dana BOK Puskesmas dilakukan secara bertahap dengan ketentuan sebagai berikut:
 
 a. tahap I, disalurkan sebesar 30% (tiga puluh persen) dari pagu alokasi BOK Puskesmas provinsi/kabupaten/kota, paling cepat bulan Februari tahun anggaran berjalan;
 
-b. tahap II, disalurkan sebesar 40 % (empat puluh persen) dari pagu alokasi BOK Puskesmas provinsi/kabupaten/kota, paling cepat bulan Mei tahun anggaran berjalan; dan
+b. tahap II, disalurkan sebesar 40 Yo (empat puluh persen) dari pagu alokasi BOK Puskesmas provinsi/ kabupaten/kota, paling cepat bulan Mei tahun anggaran berjalan; dan
 
 c. tahap III, disalurkan sebesar 30% (tiga puluh persen) dari pagu alokasi BOK Puskemas provinsi/kabupaten/kota, paling cepat bulan September tahun anggaran berjalan.
 
@@ -843,13 +781,11 @@ c. penyaluran tahap III berupa laporan realisasi penggunaan Dana BOK Puskesmas s
 
 (5) Ketentuan mengenai penyampaian laporan realisasi Dana BOK Puskesmas sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang kesehatan.
 
-I
-
 (6) Berdasarkan laporan realisasi Dana BOK Puskesmas sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan melakukan perhitungan penyaluran untuk setiap Puskesmas.
 
 (7) Kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan melakukan verifikasi terhadap Puskesmas penerima Dana BOK Puskesmas yang telah menyampaikan laporan.
 
-(8) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (7), kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan menyampaikan rekomendasi penyaluran Dana BOK Puskesmas kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
+(8) Berdasarkan hasil verifikasi sebagaimana dimaksud pada ayat (7), kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan menyampaikan rekomendasi penyaluran Dana BOK Puskesmas kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
 
 a. paling lambat tanggal 30 April tahun anggaran berjalan untuk penyaluran tahap I;
 
@@ -871,19 +807,18 @@ a. tahap I, maka penyaluran tahap II dan tahap III tidak dapat dilakukan; dan
 
 b. tahap II, maka penyaluran tahap III tidak dapat dilakukan.
 
-(14) Berdasarkan laporan realisasi sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan menyampaikan laporan rekapitulasi penggunaan Dana BOK Puskesmas per tahapan per provinsi, kabupaten, dan kota kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan Direktorat Jenderal Perbendaharaan.
+(14) Berdasarkan laporan realisasi sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan menyampaikan laporan rekapitulasi penggunaan Dana BOK Puskesmas per tahapan per provinsi, kabupaten, dan kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan Direktorat Jenderal Perbendaharaan.
 
 (15) Dalam hal tanggal 30 April, 31 Agustus, dan 30 November tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (8) pada hari kerja berikutnya.
 
 **Paragraf 5 - Dana Bantuan Operasional Kesehatan Dinas dan Dana Alokasi Khusus Nonfisik Jenis Lainnya**
 
 ### Pasal 28
-
 (1) Penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya dilakukan secara bertahap dengan ketentuan sebagai berikut:
 
 a. tahap I, disalurkan sebesar 50% (lima puluh persen) dari pagu alokasi provinsi/kabupaten/kota, paling cepat bulan Februari tahun anggaran berjalan; dan
 
-b. tahap II, disalurkan sebesar 50% (lima puluh persen) dari pagu alokasi provinsi/kabupaten/kota, paling cepat bulan Juli tahun anggaran berjalan.
+b. tahap II, disalurkan sebesar 50% (lima puluh persen) dari pagu alokasi provinsi/ kabupaten/kota, paling cepat bulan Juli tahun anggaran berjalan.
 
 (2) Penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) untuk tahap I dilakukan setelah terdapat:
 
@@ -894,8 +829,7 @@ b. petunjuk teknis DAK Nonfisik; dan
 c. rencana penggunaan DAK Nonfisik untuk satu tahun anggaran yang disampaikan oleh kementerian negara/lembaga terkait.
 
 ### Pasal 29
-
-(1) Pemerintah Daerah menyampaikan laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan/atau kementerian negara/lembaga terkait.
+(1) Pemerintah Daerah menyampaikan laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan/atau kementerian negara/ lembaga terkait.
 
 (2) Laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) terdiri atas:
 
@@ -903,17 +837,17 @@ a. laporan realisasi penyerapan dana; dan
 
 b. laporan realisasi penggunaan dana yang telah diverifikasi oleh kementerian/lembaga terkait.
 
-(3) Laporan realisasi Dana BOK Dinas dan DAK Nonfisik J enis Lainnya sebagaimana dimaksud pada ayat (1) diterima oleh Kementerian Keuangan c.q. Direktorat J enderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
+(3) Laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) diterima oleh Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dengan ketentuan sebagai berikut:
 
 a. paling lambat tanggal 30 Juni tahun anggaran berjalan untuk laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya tahun anggaran sebelumnya; dan
 
 b. paling lambat tanggal 30 November tahun anggaran berjalan untuk laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya tahap I.
 
-(4) Penyampaian laporan realisasi penyerapan dana sebagaimana dimaksud pada ayat (2) huruf a masing­ masing disertai dengan rekapitulasi SP2D penyaluran Dana BOKDinas dan DAK Nonfisik Jenis Lainnya.
+(4) Penyampaian laporan realisasi penyerapan dana sebagaimana dimaksud pada ayat (2) huruf a masingmasing disertai dengan rekapitulasi SP2D penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya.
 
-(5) Laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) disampaikan dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy) melalui aplikasi pengelolaan DAK Nonfisik.
+(5) Laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) disampaikan dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy) melalui aplikasi pengelolaan DAK Nonfisik.
 
-(6) Penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud dalam Pasal 28 dilaksanakan setelah Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan menerima laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya dengan ketentuan sebagai berikut:
+(6) Penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud dalam Pasal 28 dilaksanakan setelah Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan menerima laporan realisasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya dengan ketentuan sebagai berikut:
 
 a. penyaluran tahap I berupa:
 
@@ -929,21 +863,21 @@ b. penyaluran tahap II berupa:
 
 (7) Dalam hal diperlukan, penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (6) dapat mempertimbangkan rekomendasi dari kementerian negara/lembaga terkait.
 
-(8) Dalam hal laporan realisasi sebagaimana dimaksud pada ayat (6) huruf a diterima melampaui batas waktu sebagaimana dimaksud pada ayat (3) huruf a, penyaluran Tahap I Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya dapat dilakukan setelah Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan menerima rekomendasi dari kementerian negara/lembaga terkait paling lambat tanggal 15 Agustus tahun anggaran berjalan.
+(8) Dalam hal laporan realisasi sebagaimana dimaksud pada ayat (6) huruf a diterima melampaui batas waktu sebagaimana dimaksud pada ayat (3) huruf a, penyaluran Tahap I Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya dapat dilakukan setelah Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan menerima rekomendasi dari kementerian negara/lembaga terkait paling lambat tanggal 15 Agustus tahun anggaran berjalan.
 
-(9) Berdasarkan laporan yang disampaikan oleh·Daerah, Direktorat Jenderal Perimbangan Keuangan menyusun dan menyampaikan rekomendasi penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/ atau dokumen elektronik (softcopy).
+(9) Berdasarkan laporan yang disampaikan oleh Daerah, Direktorat Jenderal Perimbangan Keuangan menyusun dan menyampaikan rekomendasi penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD dalam bentuk dokumen fisik (hardcopy) dan/atau dokumen elektronik (softcopy).
 
 (10) Berdasarkan rekomendasi penyaluran sebagaimana dimaksud pada ayat (9), KPA BUN Penyaluran Dana Transfer Khusus melakukan penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya.
 
 (11) Dalam hal rekomendasi belum diterima sampai dengan batas waktu sebagaimana dimaksud pada ayat
 
-(8), penyaluran Tahap I Dana BOK Dinas dan OAK Nonfisik Jenis Lainnya, tidak dapat dilakukan.
+(8), penyaluran Tahap I Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya, tidak dapat dilakukan.
 
 (12) Dalam hal daerah tidak menerima penyaluran Tahap I, maka penyaluran Tahap II tidak dapat dilakukan.
 
-(13) Dalam hal Dana BOK Dinas dan OAK Nonfisik Jenis Lainnya tidak disalurkan atau disalurkan sebagian, pendanaan untuk penyelesaian kegiatan dan/ atau kewajiban pada pihak ketiga menjadi tanggung jawab Pemerintah Daerah.
+(13) Dalam hal Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya tidak disalurkan atau disalurkan sebagian, pendanaan untuk penyelesaian kegiatan dan/atau kewajiban pada pihak ketiga menjadi tanggung jawab Pemerintah Daerah.
 
-(14) Dalam hal Daerah baru pertama kali menerima Dana BOK Dinas dan OAK Nonfisik Jenis Lainnya, persyaratan penyaluran tahap I mengikuti ketentuan sebagaimana dimaksud dalam Pasal 28 ayat (2).
+(14) Dalam hal Daerah baru pertama kali menerima Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya, persyaratan penyaluran tahap I mengikuti ketentuan sebagaimana dimaksud dalam Pasal 28 ayat (2).
 
 (15) Penyaluran DAK Nonfisik untuk Daerah sebagaimana dimaksud pada ayat (14), dapat dilakukan dengan rekomendasi kementerian negara/lembaga terkait paling cepat bulan Februari tahun anggaran berjalan dan paling lambat bulan Desember tahun anggaran berjalan sebesar kebutuhan riil dengan besaran persentase.
 
@@ -952,24 +886,21 @@ b. penyaluran tahap II berupa:
 **Paragraf 6 - Penyelesaian Retur dan Pengembalian Dana Bantuan Operasional Satuan Pendidikan atau Dana Bantuan**
 
 ### Pasal 30
-
 (1) Dalam hal terdapat retur SP2D penyaluran Dana BOSP atau Dana BOK Puskesmas, KPA BUN Penyaluran Dana Transfer Khusus menyampaikan surat pemberitahuan retur SP2D kepada pimpinan organisasi perangkat Daerah terkait disertai dengan daftar satuan pendidikan atau Puskesmas yang mengalami retur SP2D.
 
 (2) Berdasarkan surat pemberitahuan retur SP2D sebagaimana dimaksud pada ayat (1), pimpinan organisasi perangkat Daerah terkait menyampaikan surat permintaan perbaikan data Rekening Satuan Pendidikan atau Puskesmas kepada satuan pendidikan penerima Dana BOSP atau Puskesmas penerima Dana BOK Puskesmas untuk melakukan penyelesaian retur SP2D.
 
-(3) Berdasarkan surat permintaan perbaikan data rekening sebagaimana dimaksud pada ayat (2), satuan
-
-I pendidikan penerima Dana BOSP atau Puskesmas penerima Dana BOK Puskesmas melakukan proses perbaikan data Rekening Satuan Pendidikan atau Puskesmas pada aplikasi yang disediakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan atau bidang kesehatan.
+(3) Berdasarkan surat permintaan perbaikan data rekening sebagaimana dimaksud pada ayat (2), satuan pendidikan penerima Dana BOSP atau Puskesmas penerima Dana BOK Puskesmas melakukan proses perbaikan data Rekening Satuan Pendidikan atau Puskesmas pada aplikasi yang disediakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan atau bidang kesehatan.
 
 (4) Satuan pendidikan penerima Dana BOSP atau Puskesmas penerima Dana BOK Puskesmas menyampaikan data perbaikan Rekening Satuan Pendidikan atau Puskesmas kepada pimpinan organisasi perangkat Daerah terkait dilampiri dengan asli rekening koran atau fotokopi buku tabungan Rekening Satuan Pendidikan atau Puskesmas melalui aplikasi yang disediakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan atau bidang kesehatan, dengan ketentuan sebagai berikut:
 
 a. untuk satuan pendidikan dasar negeri dan satuan pendidikan dasar swasta disampaikan kepada pimpinan organisasi perangkat Daerah kabupaten/kota yang menyelenggarakan urusan pemerintahan di bidang pendidikan;
 
-b. untuk satuan pendidikan menengah negen, satuan pendidikan khusus negeri, satuan pendidikan menengah swasta, dan/ atau satuan pendidikan khusus swasta disampaikan kepada pimpinan organisasi perangkat Daerah provinsi yang menyelenggarakan urusan pemerintahan di bidang pendidikan;
+b. untuk satuan pendidikan menengah negeri, satuan pendidikan khusus negeri, satuan pendidikan menengah swasta, dan/atau satuan pendidikan khusus swasta disampaikan kepada pimpinan organisasi perangkat Daerah provinsi yang menyelenggarakan urusan pemerintahan di bidang pendidikan;
 
 c. untuk satuan pendidikan anak usia dini dan satuan pendidikan kesetaraan negeri dan swasta disampaikan kepada pimpinan organisasi perangkat Daerah provinsi/kabupaten/kota yang menyelenggarakan urusan pemerintahan di bidang pendidikan;
 
-d. untuk satuan pendidikan yang diatur dalam peraturan perundangan lainnya, disampaikan kepada pimpinan organisasi perangkat Daerah provinsi/kabupaten/kota yang menyelenggarakan urusan pemerintahan di bidang pendidikan; dan
+d. untuk satuan pendidikan yang diatur dalam peraturan perundangan lainnya, disampaikan kepada pimpinan organisasi perangkat Daerah provinsi/ kabupaten/kota yang menyelenggarakan urusan pemerintahan di bidang pendidikan; dan
 
 e. untuk Puskesmas, disampaikan kepada pimpinan organisasi perangkat Daerah provinsi/ kabupaten/kota yang menyelenggarakan urusan pemerintahan di bidang kesehatan.
 
@@ -979,19 +910,16 @@ e. untuk Puskesmas, disampaikan kepada pimpinan organisasi perangkat Daerah prov
 
 (7) Dalam hal verifikasi data perbaikan rekening sebagaimana dimaksud pada ayat (5) telah sesuai, pimpinan organisasi perangkat Daerah terkait menyampaikan surat ralat/perbaikan retur SP2D ke KPA BUN Penyaluran Dana Transfer Khusus dan kementerian negara/lembaga terkait serta melakukan validasi pada aplikasi.
 
-(8) Penyampaian surat ralat/ perbaikan retur SP2D sebagaimana dimaksud pada ayat (7) dilakukan untuk satuan pendidikan atau Puskesmas yang sudah selesai di verifikasi tanpa perlu menunggu seluruh satuan pendidikan a tau Puskesmas selesai melakukan perbaikan data rekening.
+(8) Penyampaian surat ralat/perbaikan retur SP2D sebagaimana dimaksud pada ayat (7) dilakukan untuk satuan pendidikan atau Puskesmas yang sudah selesai di verifikasi tanpa perlu menunggu seluruh satuan pendidikan atau Puskesmas selesai melakukan perbaikan data rekening.
 
 (9) Berdasarkan surat ralat/perbaikan retur SP2D sebagaimana dimaksud pada ayat (7), KPA BUN Penyaluran Dana Transfer Khusus menyelesaikan retur SP2D berpedoman pada ketentuan mengenai tata cara penyelesaian retur SP2D.
 
 (10) KPA BUN Penyaluran Dana Transfer Khusus menyampaikan surat penyelesaian retur SP2D kepada pimpinan organisasi perangkat Daerah terkait.
 
 ### Pasal 31
+(1) Satuan pendidikan penerima Dana BOSP atau Puskesmas penerima Dana BOK Puskesmas melakukan pengembalian Dana BOSP atau Dana BOK Puskesmas yang telah diterima ke RKUD sesuai dengan ketentuan peraturan perundang-undangan.
 
-(1) Satuan pendidikan penerima Dana BOSP a tau Puskesmas penerima Dana BOK Puskesmas melakukan pengembalian Dana BOSP atau Dana BOK Puskesmas yang telah diterima ke RKUD sesuai dengan ketentuan peraturan perundang-undangan.
-
-(2) Pengembalian dana sebagaimana dimaksud pada ayat
-
-(1) apabila satuan pendidikan penerima dana BOSP atau Puskesmas penerima Dana BOK Puskesmas memenuhi ketentuan sebagai berikut:
+(2) Pengembalian dana sebagaimana dimaksud pada ayat (1) apabila satuan pendidikan penerima dana BOSP atau Puskesmas penerima Dana BOK Puskesmas memenuhi ketentuan sebagai berikut:
 
 a. kriteria pengembalian sesuai dengan petunjuk teknis yang ditetapkan oleh kemeterian negara/lembaga terkait; atau
 
@@ -1004,8 +932,6 @@ b. rekomendasi aparat pengawas terhadap Satuan Pendidikan atau Puskesmas.
 (5) Pengembalian Dana BOSP atau Dana BOK Puskesmas dari RKUD sebagaimana dimaksud pada ayat (1) ke Kas Negara dilakukan oleh bendahara umum Daerah setelah dilakukan verifikasi dan validasi oleh Inspektorat Daerah.
 
 (6) Pengembalian Dana BOSP atau Dana BOK Puskesmas ke Kas Negara sebagaimana dimaksud pada ayat (5) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
-
-t
 
 (7) Dalam rangka pembuatan billing setoran Dana BOSP atau Dana BOK Puskesmas, bendahara umum Daerah berkoordinasi dengan KPA BUN Penyaluran Dana Transfer Khusus mengenai:
 
@@ -1030,22 +956,19 @@ f. alasan dilakukan penyetoran.
 **Paragraf 1 - Kurang Salur Dana Alokasi Khusus Nonfisik**
 
 ### Pasal 32
-
 (1) Dalam hal:
 
 a. Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler yang telah disalurkan ke Rekening Satuan Pendidikan; atau
 
-b. Dana TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, Dana TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya yang telah disalurkan ke RKUD, tidak mencukupi untuk pembayaran tiap triwulan/ semester/ tahap berkenaan, kekurangan dana dapat dipenuhi melalui dana cadangan masing­ masing DAK Nonfisik.
+b. Dana TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, Dana TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya yang telah disalurkan ke RKUD, tidak mencukupi untuk pembayaran tiap triwulan/semester/tahap berkenaan, kekurangan dana dapat dipenuhi melalui dana cadangan masingmasing DAK Nonfisik.
 
-(2) Satuan pendidikan menyampaikan data jumlah peserta didik yang menjadi penghitungan Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler atau Pemerintah Daerah menyampaikan permohonan penyaluran dana cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) kepada kementerian negara/lembaga terkait disertai dengan perhitungan kurang salur.
+(2) Satuan pendidikan menyampaikan data jumlah peserta didik yang menjadi penghitungan Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler atau Pemerintah Daerah menyampaikan permohonan penyaluran dana cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (i) kepada kementerian negara/lembaga terkait disertai dengan perhitungan kurang salur.
 
-(3) Berdasarkan data jumlah peserta didik yang menjadi penghitungan Dana BOS Reguler, Dana BOP PAUD
-
-Reguler, dan Dana BOP Kesetaraan Reguler atau permohonan penyaluran dana cadangan sebagaimana dimaksud pada ayat (2), kementerian negara/lembaga terkait melakukan perhitungan kebutuhan penyaluran dana cadangan BOSP, TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya.
+(3) Berdasarkan data jumlah peserta didik yang menjadi penghitungan Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler atau permohonan penyaluran dana cadangan sebagaimana dimaksud pada ayat (2), kementerian negara/ lembaga terkait melakukan perhitungan kebutuhan penyaluran dana cadangan BOSP, TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya.
 
 (4) Berdasarkan hasil perhitungan kebutuhan dana cadangan BOSP per satuan pendidikan sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi penyaluran dana cadangan BOSP paling kurang memuat:
 
-a. nama daerah (provinsi/kabupaten/kota);
+a. nama daerah (provinsi/ kabupaten/kota);
 
 b. jumlah satuan pendidikan;
 
@@ -1053,7 +976,7 @@ c. jumlah peserta didik;
 
 d. jumlah pagu per Daerah; dan
 
-e. jumlah salur dana cadangan BOS Reguler, BOP PAUD Reguler dan/ a tau BOP Kesetaraan Reguler per provinsi/kabupaten/kota, kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan yang diterima paling lambat tanggal 7 September tahun anggaran berjalan.
+e. jumlah salur dana cadangan BOS Reguler, BOP PAUD Reguler dan/atau BOP Kesetaraan Reguler per provinsi/ kabupaten/kota, kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan yang diterima paling lambat tanggal 7 September tahun anggaran berjalan.
 
 (5) Berdasarkan hasil perhitungan kebutuhan dana cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah sebagaimana dimaksud pada ayat (3), kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekomendasi penyaluran dana cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah paling kurang memuat:
 
@@ -1063,146 +986,128 @@ b. jumlah sasaran per Daerah;
 
 c. jumlah pagu per Daerah;
 
-d. jumlah sisa dana dan/ atau kurang bayar per Daerah tahun anggaran sebelumnya;
+d. jumlah sisa dana dan/atau kurang bayar per Daerah tahun anggaran sebelumnya;
 
 e. jumlah kebutuhan tahun berkenaan per Daerah; dan
 
-f. jumlah salur dana cadangan per daerah, kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan yang diterima paling lambat tanggal 7. September tahun anggaran berjalan.
+f. jumlah salur dana cadangan per daerah, kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan yang diterima paling lambat tanggal 7. September tahun anggaran berjalan.
 
-(6) Berdasarkan usulan kebutuhan penyaluran dana cadangan sebagaimana dimaksud pada ayat (4) dan ayat (5), Direktorat Jenderal Perimbangan Keuangan melakukan revisi anggaran Dana Cadangan BOSP dan/ atau Dana Cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah ke DIPA satuan kerja penyaluran TKD sesuai dengan ketentuan peraturan perundang-undangan.
+(6) Berdasarkan usulan kebutuhan penyaluran dana cadangan sebagaimana dimaksud pada ayat (4) dan ayat (5), Direktorat Jenderal Perimbangan Keuangan melakukan revisi anggaran Dana Cadangan BOSP dan/atau Dana Cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah ke DIPA satuan kerja penyaluran TKD sesuai dengan ketentuan peraturan perundang-undangan.
 
-(7) Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran dana cadangan BOSP, TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah sebagaimana dimaksud pada ayat (4) dan/ atau ayat (5) kepada KPA f
-
-BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD sebagai dasar penyaluran dana cadangan BOSP dan/ atau Dana Cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah.
+(7) Direktorat Jenderal Perimbangan Keuangan menyampaikan rekomendasi penyaluran dana cadangan BOSP, TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah sebagaimana dimaksud pada ayat (4) dan/atau ayat (5) kepada KPA BUN Penyaluran Dana Transfer Khusus melalui Koordinator KPA BUN Penyaluran TKD sebagai dasar penyaluran dana cadangan BOSP dan/atau Dana Cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah.
 
 (8) Dalam hal terdapat sisa dana cadangan BOSP sebagaimana dimaksud pada ayat (7), satuan pendidikan wajib melaporkan kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
 
-(9) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekapitulasi atas laporan sisa dana cadangan BOSP sebagaimana dimaksud pada ayat (8) kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
+(9) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan rekapitulasi atas laporan sisa dana cadangan BOSP sebagaimana dimaksud pada ayat (8) kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
 (10) Penyampaian rekomendasi penyaluran dana cadangan BOSP, TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah sebagaimana dimaksud pada ayat (4) dan (5) hanya bisa dilakukan 1 (satu) kali selama 1 (satu) tahun anggaran.
 
-(11) Dalam hal terdapat sisa dana cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah, dan/ atau DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) huruf b, Pemerintah Daerah wajib melaporkan kepada kementerian negara/lembaga terkait dan Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
+(11) Dalam hal terdapat sisa dana cadangan TPG ASN Daerah, Dana Tamsil Guru ASN Daerah, dan TKG ASN Daerah, dan/atau DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (1) huruf b, Pemerintah Daerah wajib melaporkan kepada kementerian negara/lembaga terkait dan Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
 (12) Dalam hal tanggal 7 September tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (4) dan ayat (5) pada hari kerja berikutnya.
 
 **Paragraf 2 - Sisa Dana Alokasi Khusus Nonfisik**
 
 ### Pasal 33
+(1) Sisa DAK Nonfisik yang terdapat di RKUD sampai dengan akhir tahun wajib dianggarkan kembali oleh Pemerintah Daerah dalam APBD/perubahan APBD tahun anggaran berikutnya sesuai dengan ketentuan peraturan perundang-undangan.
 
-(1) Sisa DAK Nonfisik yang terdapat di RKUD sampai dengan akhir tahun wajib dianggarkan kembali oleh Pemerintah Daerah dalam APBD / perubahan APBD tahun anggaran berikutnya sesuai dengan ketentuan peraturan perundang-undangan.
-
-(2) Sisa DAK Nonfisik sebagaimana dimaksud pada ayat
-
-(1) yang meliputi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya diperhitungkan dengan penyaluran masing-masing dana pada tahun anggaran berikutnya.
+(2) Sisa DAK Nonfisik sebagaimana dimaksud pada ayat (1) yang meliputi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya diperhitungkan dengan penyaluran masing-masing dana pada tahun anggaran berikutnya.
 
 (3) Kementerian negara/lembaga terkait melakukan perhitungan sisa Dana BOS Reguler, Dana BOP PAUD Reguler, dan Dana BOP Kesetaraan Reguler berdasarkan laporan Satuan Pendidikan dan sisa Dana BOK Puskesmas berdasarkan laporan Puskesmas untuk diperhitungkan mulai rekomendasi penyaluran tahap I pada tahun anggaran berikutnya.
 
-(4) Kementerian negara/lembaga terkait bertanggung jawab atas kebenaran perhitungan s1sa dana sebagaimana dimaksud pada ayat (3).
+(4) Kementerian negara/lembaga terkait bertanggung jawab atas kebenaran perhitungan sisa dana sebagaimana dimaksud pada ayat (3).
 
 (5) Dalam hal:
 
 a. satuan pendidikan tidak mendapatkan alokasi Dana BOSP pada tahun anggaran berikutnya dan masih terdapat sisa dana BOSP di Rekening Satuan Pendidikan, satuan pendidikan wajib melakukan pengembalian sisa dana BOSP ke RKUD sesuai dengan ketentuan peraturan perundang-undangan; dan
 
-b. Puskesmas tidak mendapatkan alokasi dana BOK Puskesmas pada tahun anggaran berikutnya dan masih terdapat sisa dana BOK Puskesmas di rekening Puskesmas, Puskesmas wajib melakukan pengembalian sisa dana BOK Puskesmas ke RKUD sesuai dengan ketentuan peraturan perundang­ perundangan.
+b. Puskesmas tidak mendapatkan alokasi dana BOK Puskesmas pada tahun anggaran berikutnya dan masih terdapat sisa dana BOK Puskesmas di rekening Puskesmas, Puskesmas wajib melakukan pengembalian sisa dana BOK Puskesmas ke RKUD sesuai dengan ketentuan peraturan perundangperundangan.
 
-(6) Sisa DAK Nonfisik sebagaimana dimaksud pada ayat
-
-(1) yang meliputi Dana Tunjangan Guru ASN Daerah, Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja tidak diperhitungkan dengan penyaluran masing-masing dana pada tahun anggaran berikutnya.
+(6) Sisa DAK Nonfisik sebagaimana dimaksud pada ayat (1) yang meliputi Dana Tunjangan Guru ASN Daerah, Dana BOS Kinerja, Dana BOP PAUD Kinerja, dan Dana BOP Kesetaraan Kinerja tidak diperhitungkan dengan penyaluran masing-masing dana pada tahun anggaran berikutnya.
 
 (7) Dalam hal terdapat sisa dana di RKUD:
 
-a. untuk jenis DAK Nonfisik yang tidak dialokasikan pada tahun anggaran berikutnya; dan/ a tau
+a. untuk jenis DAK Nonfisik yang tidak dialokasikan pada tahun anggaran berikutnya; dan/atau
 
-b. untuk Daerah yang tidak mendapatkan alokasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya pada tahun anggaran berikutnya, Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan dana alokasi umum dan/ a tau dana bagi hasil sesuai dengan ketentuan peraturan perundang­ undangan.
+b. untuk Daerah yang tidak mendapatkan alokasi Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya pada tahun anggaran berikutnya, Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan dana alokasi umum dan/atau dana bagi hasil sesuai dengan ketentuan peraturan perundangundangan.
 
-(8) Besaran sisa dana di RKUD sebagaimana dimaksud pada ayat (7) berdasarkan laporan yang disampaikan oleh Daerah dan/ atau berita acara penghitungan sisa dana.
+(8) Besaran sisa dana di RKUD sebagaimana dimaksud pada ayat (7) berdasarkan laporan yang disampaikan oleh Daerah dan/atau berita acara penghitungan sisa dana.
 
 (9) Dalam hal terdapat Daerah yang masuk kriteria penerima Dana Tunjangan Guru ASN Daerah namun tidak mendapatkan alokasi pada tahun anggaran berikutnya dan terdapat sisa dana, Pemerintah Daerah dapat menggunakan sisa dana dimaksud sesuai dengan petunjuk teknis tahun berkenaan.
 
 (10) Dalam hal terdapat Daerah yang tidak mendapatkan alokasi Dana Tunjangan Guru ASN Daerah pada tahun anggaran berikutnya karena sudah tidak masuk kriteria penerima namun masih terdapat sisa dana, Pemerintah Daerah dapat menggunakan sisa dimaksud untuk membayarkan kinerja guru ASN Daerah tahun sebelumnya sesuai dengan petunjuk teknis tahun berkenaan.
 
-(11) Dalam hal sisa dana Tunjangan Guru ASN Daerah sebagaimana dimaksud pada ayat (10) tidak habis
-
-I digunakan, Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan Dana Alokasi Umum dan/ atau Dana Bagi Hasil sebesar sisa DAK Nonfisik sesuai dengan ketentuan peraturan perundang-undangan setelah mendapatkan rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
+(11) Dalam hal sisa dana Tunjangan Guru ASN Daerah sebagaimana dimaksud pada ayat (10) tidak habis digunakan, Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan Dana Alokasi Umum dan/atau Dana Bagi Hasil sebesar sisa DAK Nonfisik sesuai dengan ketentuan peraturan perundang-undangan setelah mendapatkan rekomendasi kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan.
 
 (12) Dalam hal Pemerintah Daerah mempunyai sisa dana sebagaimana dimaksud pada ayat (7) dan ayat (11), Pemerintah Daerah wajib menyampaikan laporan realisasi penggunaan sisa dana kepada Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 31 Januari tahun anggaran berikutnya.
 
-(13) Dalam hal terdapat Pemerintah Daerah yang mempunyai sisa DAK Nonfisik lebih besar dari pagu DAK Nonfisik tahun anggaran berikutnya, Pemerintah Daerah menggunakan sisa DAK Nonfisik paling tinggi sebesar pagu DAK Nonfisik tahun anggaran berikutnya.
+(13) Dalam hal terdapat Pemerintah Daerah yang mempunyai sisa DAK Nonfisik lebih besar dari pagu DAK Nonfisik tahun anggaran berikutnya, Pemerintah Daerah menggunakan sisa DAK Nonfisik paling tinggi sebesar pagu DAK Nonfisik tahun . anggaran berikutnya.
 
 **Paragraf 3 - Sisa Dana Alokasi Khusus Nonfisik sampai dengan Tahun Anggaran 2021**
 
 ### Pasal 34
+(1) Dalam hal terdapat sisa DAK Nonfisik sampai dengan tahun anggaran 2021 pada RKUD, Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan dana alokasi umum dan/atau dana bagi hasil sebesar sisa dana tersebut berdasarkan laporan dan/atau berita acara yang telah disampaikan oleh Pemerintah Daerah.
 
-(1) Dalam hal terdapat sisa DAK Nonfisik sampai dengan tahun anggaran 2021 pada RKUD, Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan dana alokasi umum dan/atau dana bagi hasil sebesar sisa dana tersebut berdasarkan laporan dan/ atau berita acara yang telah disampaikan oleh Pemerintah Daerah.
+(2) Dalam hal tidak terdapat laporan atau berita acara sebagaimana pada ayat (1), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dapat meminta badan yang melaksanakan tugas dan fungsi atau memiliki kewenangan dalam melaksanakan pengawasan keuangan dan pembangunan untuk melakukan perhitungan sisa dana DAK Nonfisik.
 
-(2) Dalam hal tidak terdapat laporan atau berita acara sebagaimana pada ayat (1), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dapat meminta badan yang melaksanakan tugas dan fungsi atau memiliki kewenangan dalam melaksanakan pengawasan keuangan dan pembangunan untuk melakukan perhitungan sisa dana DAK Nonfisik.
-
-(3) Dalam hal tidak diperoleh hasil penghitungan sisa DAK Nonfisik sebagaimana dimaksud pada ayat (2), Kementerian Keuangan c.q Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan dana alokasi umum dan/ atau dana bagi hasil dengan memperhatikan rata-rata sisa DAK Nonfisik jenis dana tertentu atau nasional setelah berkoordinasi dengan kementerian negara/lembaga terkait dan kementerian yang menyelenggarakan urusan pemerintahan di bidang pemerintahan dalam negen.
+(3) Dalam hal tidak diperoleh hasil penghitungan sisa DAK Nonfisik sebagaimana dimaksud pada ayat (2), Kementerian Keuangan c.g Direktorat Jenderal Perimbangan Keuangan dapat melakukan pemotongan dana alokasi umum dan/atau dana bagi hasil dengan memperhatikan rata-rata sisa DAK Nonfisik jenis dana tertentu atau nasional setelah berkoordinasi dengan kementerian negara/lembaga terkait dan kementerian yang menyelenggarakan urusan pemerintahan di bidang pemerintahan dalam negeri.
 
 **Bagian Keenam - Penghentian dan Penyesuaian Penyaluran**
 
 ### Pasal 35
-
 (1) Penghentian dan penyesuaian penyaluran Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya dilakukan dalam hal:
 
 a. terdapat perkiraan lebih salur; atau
 
 b. pengelolaan atau penggunaan yang tidak sejalan dengan petunjuk teknis.
 
-(2) Informasi perkiraan lebih salur sebagaimana dimaksud pada ayat (1) huruf a diperoleh berdasarkan laporan realisasi penyerapan dan laporan realisasi penggunaan untuk Dana BOK Dinas dan DAK Nonfisik J enis Lainnya.
+(2) Informasi perkiraan lebih salur sebagaimana dimaksud pada ayat (1) huruf a diperoleh berdasarkan laporan realisasi penyerapan dan laporan realisasi penggunaan untuk Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya.
 
 (3) Berdasarkan laporan realisasi penyerapan dan laporan realisasi penggunaan untuk Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud pada ayat (2), kementerian negara/lembaga terkait melakukan verifikasi atas kebutuhan riil DAK Nonfisik.
 
-(4) Dalam hal berdasarkan hasil verifikasi terdapat perkiraan lebih salur sebagaimana dimaksud pada ayat (3), kementerian negara/lembaga terkait menyampaikan rekomendasi penghentian penyaluran dan/atau penyesuaian jumlah penyaluran DAK Nonfisik periode berikutnya kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
+(4) Dalam hal berdasarkan hasil verifikasi terdapat perkiraan lebih salur sebagaimana dimaksud pada ayat (3), kementerian negara/lembaga terkait menyampaikan rekomendasi penghentian penyaluran dan/atau penyesuaian jumlah penyaluran DAK Nonfisik periode berikutnya kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
 (5) Informasi pengelolaan atau penggunaan yang tidak sejalan dengan petunjuk teknis sebagaimana dimaksud pada ayat (1) huruf b diperoleh dari kementerian negara/lembaga terkait.
 
-(6) Dalam hal terjadi pengelolaan atau penggunaan yang tidak sejalan dengan petunjuk teknis sebagaimana dimaksud pada ayat (1) huruf b, kementerian negara/lembaga terkait menyampaikan rekomendasi penghentian penyaluran dan/ a tau penyesuaian jumlah penyaluran DAK Nonfisik periode berikutnya kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan.
+(6) Dalam hal terjadi pengelolaan atau penggunaan yang tidak sejalan dengan petunjuk teknis sebagaimana dimaksud pada ayat (1) huruf b, kementerian negara/lembaga terkait menyampaikan rekomendasi penghentian penyaluran dan/atau penyesuaian jumlah penyaluran DAK Nonfisik periode berikutnya kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan.
 
-(7) Rekomendasi sebagaimana dimaksud pada ayat (4) dan ayat (6) diterima oleh Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 30 November tahun anggaran berjalan untuk BOK Dinas dan DAK Nonfisik Jenis Lainnya.
+(7) Rekomendasi sebagaimana dimaksud pada ayat (4) dan ayat (6) diterima oleh Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan paling lambat tanggal 30 November tahun anggaran berjalan untuk BOK Dinas dan DAK Nonfisik Jenis Lainnya.
 
-(8) Berdasarkan rekomendasi sebagaimana dimaksud pada ayat (4) dan ayat (6) setelah berkoordinasi dengan kementerian negara/lembaga terkait dan/ atau Pemerintah Daerah, Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan melakukan penghentian penyaluran periode berikutnya dan/ atau penyesuaian jumlah penyaluran DAK Nonfisik periode berikutnya sesuai kebutuhan riil untuk memenuhi pembayaran DAK Nonfisik sampai dengan akhir tahun anggaran.
+(8) Berdasarkan rekomendasi sebagaimana dimaksud pada ayat (4) dan ayat (6) setelah berkoordinasi dengan kementerian negara/lembaga terkait dan/atau Pemerintah Daerah, Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan melakukan penghentian penyaluran periode berikutnya dan/atau penyesuaian jumlah penyaluran DAK Nonfisik periode berikutnya sesuai kebutuhan riil untuk memenuhi pembayaran DAK Nonfisik sampai dengan akhir tahun anggaran.
 
 (9) Dalam hal tanggal 30 November tahun anggaran berjalan bertepatan dengan hari libur atau hari yang diliburkan, batas waktu sebagaimana dimaksud pada ayat (7) pada hari kerja berikutnya.
 
 **Bagian Ketujuh - Penyaluran Dana Alokasi Khusus Nonfisik di Daerah**
 
 ### Pasal 36
-
-(1) Pemerintah Daerah provinsi/kabupaten/kota menyalurkan DAK Nonfisik kepada masing-masing penerima paling lama 14 (empat belas) hari kerja terhitung sejak tanggal diterimanya DAK Nonfisik di RKUD.
+(1) Pemerintah Daerah provinsi / kabupaten/kota menyalurkan DAK Nonfisik kepada masing-masing penerima paling lama 14 (empat belas) hari kerja terhitung sejak tanggal diterimanya DAK Nonfisik di RKUD.
 
 (2) Penyaluran DAK Nonfisik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 **Bagian Kedelapan - Penyaluran pada Akhir Tahun Anggaran**
 
 ### Pasal 37
-
 (1) PPA BUN Pengelolaan TKD dapat menyusun pedoman pelaksanaan DAK Nonfisik pada akhir tahun anggaran.
 
-(2) Pedoman pelaksanaan DAK Nonfisik pada akhir tahun anggaran sebagaimana dimaksud pada ayat (1) paling sedikit memuat informasi mengena1 tata cara penyampaian dan penerimaan laporan realisasi penggunaan dana dari Daerah dan batas akhir penerimaan dokumen persyaratan penyaluran DAK Nonfisik.
+(2) Pedoman pelaksanaan DAK Nonfisik pada akhir tahun anggaran sebagaimana dimaksud pada ayat (1) paling sedikit memuat informasi mengenai tata cara penyampaian dan penerimaan laporan realisasi penggunaan dana dari Daerah dan batas akhir penerimaan dokumen persyaratan penyaluran DAK Nonfisik.
 
 (3) Pedoman pelaksanaan DAK Nonfisik pada akhir tahun sebagaimana dimaksud pada ayat (1) ditetapkan oleh Direktur Jenderal Perimbangan Keuangan.
 
-**Bagian Kesembilan - Penundaan Penyaluran Dana Alokasi Umum dan/ atau Dana Bagi Hasil**
+**Bagian Kesembilan - Penundaan Penyaluran Dana Alokasi Umum dan/atau Dana Bagi Hasil**
 
 ### Pasal 38
+(1) Dalam hal Pemerintah Daerah menyalurkan DAK Nonfisik kepada masing-masing penerima melebihi batas waktu sebagaimana dimaksud dalam Pasal 36 ayat (1), Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dapat melakukan penundaan penyaluran dana alokasi umum dan/atau dana bagi hasil sesuai dengan ketentuan peraturan perundang-undangan.
 
-(1) Dalam hal Pemerintah Daerah menyalurkan DAK Nonfisik kepada masing-masing penerima melebihi batas waktu sebagaimana dimaksud dalam Pasal 36 ayat (1), Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dapat melakukan penundaan penyaluran dana alokasi umum dan/ atau dana bagi hasil sesuai dengan ketentuan peraturan perundang-undangan.
-
-(2) Penundaan penyaluran dana alokasi umum dan/ atau dana bagi hasil sebagaimana dimaksud pada ayat (1) dilaksanakan setelah berkoordinasi dengan kementerian negara/lembaga terkait.
-
-f
+(2) Penundaan penyaluran dana alokasi umum dan/atau dana bagi hasil sebagaimana dimaksud pada ayat (1) dilaksanakan setelah berkoordinasi dengan kementerian negara/lembaga terkait.
 
 (3) Hasil koordinasi sebagaimana dimaksud pada ayat (2) dituangkan dalam berita acara yang ditandatangani oleh masing-masing pihak.
 
 ### Pasal 39
-
-Dalam hal Pemerintah Daerah tidak menyampaikan laporan/ dokumen persyaratan penyaluran sebagaimana dimaksud dalam Pasal 26 dan Pasal 29 sehingga Dana Tunjangan Guru ASN Daerah, Dana BOK Dinas, dan DAK Nonfisik Jenis Lainnya tidak dapat disalurkan dari RKUN ke RKUD sampai dengan akhir tahun anggaran, Menteri Keuangan dapat merekomendasikan kepada menteri yang menangani urusan pemerintahan di bidang dalam negeri untuk memberikan sanksi administratif kepada Kepala Daerah yang bersangkutan sesuai dengan ketentuan peraturan perundang-undangan.
+Dalam hal Pemerintah Daerah tidak menyampaikan laporan/dokumen persyaratan penyaluran sebagaimana dimaksud dalam Pasal 26 dan Pasal 29 sehingga Dana Tunjangan Guru ASN Daerah, Dana BOK Dinas, dan DAK Nonfisik Jenis Lainnya tidak dapat disalurkan dari RKUN ke RKUD sampai dengan akhir tahun anggaran, Menteri Keuangan dapat merekomendasikan kepada menteri yang menangani urusan pemerintahan di bidang dalam negeri untuk memberikan sanksi administratif kepada Kepala Daerah yang bersangkutan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## BAB VI - PERTANGGUNGJAWABAN DAN PELAPORAN
 
 ### Pasal 40
-
 (1) Dalam rangka penatausahaan, akuntansi, dan pertanggungjawaban atas pelaksanaan DAK Nonfisik, KPA BUN Penyaluran Dana Transfer Khusus menyusun dan menyampaikan laporan keuangan tingkat KPA sebagaimana dimaksud dalam Pasal 4 ayat (3) huruf f kepada Koordinator KPA Penyaluran TKD.
 
 (2) Koordinator KPA BUN Penyaluran TKD sebagaimana dimaksud pada ayat (1) menyusun dan menyampaikan konsolidasi laporan keuangan sebagaimana dimaksud dalam pasal 4 ayat (2) huruf c kepada Direktur Jenderal Perimbangan Keuangan selaku Pemimpin PPA BUN Pengelolaan TKD.
@@ -1216,7 +1121,6 @@ Dalam hal Pemerintah Daerah tidak menyampaikan laporan/ dokumen persyaratan peny
 ## BAB VII - PENGGUNAAN DANA ALOKASI KHUSUS NONFISIK
 
 ### Pasal 41
-
 (1) Kepala Daerah bertanggung jawab secara formal dan materiil atas penggunaan DAK Nonfisik.
 
 (2) DAK Nonfisik digunakan untuk mendanai urusan yang menjadi kewenangan pemerintah provinsi, kabupaten, dan kota sesuai dengan ketentuan peraturan perundang-undangan.
@@ -1225,57 +1129,47 @@ Dalam hal Pemerintah Daerah tidak menyampaikan laporan/ dokumen persyaratan peny
 
 (4) Pelaksanaan DAK Nonfisik di Daerah berpedoman pada petunjuk teknis DAK Nonfisik yang ditetapkan oleh kementerian negara/lembaga terkait.
 
-(5) Kementerian negara/lembaga terkait sesuai kewenangannya melakukan pembinaan, bimbingan teknis, monitoring dan evaluasi atas pelaksanaan DAK Nonfisik.
+(5) Kementerian negara/ lembaga terkait sesuai kewenangannya melakukan pembinaan, bimbingan teknis, monitoring dan evaluasi atas pelaksanaan DAK Nonfisik.
 
 ## BAB VIII - PEMANTAUAN DAN EVALUASI
 
 ### Pasal 42
+(1) Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan bersama dengan kementerian negara/ lembaga melakukan pemantauan dan evaluasi atas DAK Nonfisik di Daerah secara sendiri-sendiri atau bersama-sama sesuai tugas dan fungsi masingmasing.
 
-(1) Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan bersama dengan kementerian negara/lembaga melakukan pemantauan dan evaluasi atas DAK Nonfisik di Daerah secara sendiri-sendiri atau bersama-sama sesuai tugas dan fungsi masing­ mas1ng.
+(2) Pemantauan dan evaluasi sebagaimana dimaksud pada ayat (1) dapat menggunakan data laporan yang telah disampaikan oleh Pemerintah Daerah kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dan/atau menggunakan data lainnya sesuai dengan kebutuhan yang diperoleh dari kementerian negara/lembaga terkait dan Pemerintah Daerah.
 
-(2) Pemantauan dan evaluasi sebagaimana dimaksud pada ayat (1) dapat menggunakan data laporan yang telah disampaikan oleh Pemerintah Daerah kepada Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dan/atau menggunakan data lainnya sesuai dengan kebutuhan yang diperoleh dari kementerian negara/lembaga terkait dan Pemerintah Daerah.
-
-(3) Kementerian Keuangan c.q. Direktorat Jenderal Perimbangan Keuangan dapat meminta instansi pengawas internal Pemerintah Pusat dan instansi pengawas internal Pemerintah Daerah untuk melakukan pemantauan dan evaluasi terhadap pengelolaan DAK Nonfisik.
+(3) Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan dapat meminta instansi pengawas internal Pemerintah Pusat dan instansi pengawas internal Pemerintah Daerah untuk melakukan pemantauan dan evaluasi terhadap pengelolaan DAK Nonfisik.
 
 (4) Pemantauan dan evaluasi yang dilakukan Kementerian Keuangan sebagaimana dimaksud pada ayat (1) dilakukan oleh Direktorat Jenderal Perimbangan Keuangan terhadap:
 
-a. realisasi penyerapan DAK Nonfisik; dan/ atau
+a. realisasi penyerapan DAK Nonfisik; dan/atau
 
-b. hasil penggunaan DAK Nonfisik, dengan berkoordinasi dengan kementerian negara/lembaga terkait.
-
-I-
+b. hasil penggunaan DAK Nonfisik, dengan berkoordinasi dengan kementerian negara/ lembaga terkait.
 
 (5) Pemantauan dan evaluasi sebagaimana dimaksud pada ayat (4) dilakukan dengan menggunakan indikator yang ditentukan oleh Kementerian Keuangan.
 
 ### Pasal 43
-
-Hasil pemantauan dan evaluasi sebagaimana dimaksud dalam Pasal 42 ayat (4) disampaikan kepada Menteri Keuangan c.q Inspektorat Jenderal sebagai bahan masukan dalam melakukan pengawasan atas kegiatan kementerian/lembaga negara/Pemerintah Daerah/ lembaga lainnya yang didanai dengan BA BUN.
+Hasil pemantauan dan evaluasi sebagaimana dimaksud dalam Pasal 42 ayat (4) disampaikan kepada Menteri Keuangan c.g Inspektorat Jenderal sebagai bahan masukan dalam melakukan pengawasan atas kegiatan kementerian /lembaga negara/ Pemerintah Daerah/ lembaga lainnya yang didanai dengan BA BUN.
 
 ## BAB IX - PENGAWASAN
 
 ### Pasal 44
-
 (1) Menteri Keuangan selaku bendahara umum negara melakukan pengawasan atas pengelolaan DAK Nonfisik.
 
-(2) Pengawasan atas pengelolaan DAK Nonfisik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang­ undangan.
+(2) Pengawasan atas pengelolaan DAK Nonfisik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
 
-BABX KETENTUAN LAIN-LAIN
+## BAB X - KETENTUAN LAIN-LAIN
 
 ### Pasal 45
-
 Persyaratan penyaluran DAK Nonfisik berupa laporan realisasi DAK Nonfisik tahun anggaran sebelumnya sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf a dan Pasal 29 ayat (6) huruf a dikecualikan untuk Daerah yang baru pertama kali menerima penyaluran DAK Nonfisik.
 
 ### Pasal 46
-
-(1) Dalam hal terdapat perubahan kebijakan penyaluran DAK Nonfisik, Direktur Jenderal Perimbangan Keuangan dapat mengusulkan perubahan penyaluran dan pelaporan DAK Nonfisik kepada Menteri Keuangan setelah berkoordinasi dengan Direktorat Jenderal Perbendaharaan dan kementerian negara/lembaga terkait.
+(1) Dalam hal terdapat perubahan kebijakan penyaluran DAK Nonfisik, Direktur Jenderal Perimbangan Keuangan dapat mengusulkan perubahan penyaluran dan pelaporan DAK Nonfisik kepada Menteri Keuangan setelah berkoordinasi dengan Direktorat Jenderal Perbendaharaan dan kementerian negara/ lembaga terkait.
 
 (2) Dalam hal Menteri Keuangan menyetujui usulan sebagaimana dimaksud pada ayat (1), perubahan penyaluran dan pelaporan DAK Nonfisik ditetapkan dengan Keputusan Menteri Keuangan yang ditandatangani oleh Direktur Jenderal Perimbangan Keuangan atas nama Menteri Keuangan.
 
 ### Pasal 47
-
-(1) Dalam hal Daerah mengalami bencana, kerusuhan, kejadian luar biasa, dan/ atau wabah penyakit menular, Direktur Jenderal Perimbangan Keuangan dapat mengusulkan kemudahan penyaluran DAK
-
-Nonfisik dengan jangka waktu tertentu bagi Daerah tersebut kepada Menteri Keuangan setelah berkoordinasi dengan kementerian negara/lembaga terkait.
+(1) Dalam hal Daerah mengalami bencana, kerusuhan, kejadian luar biasa, dan/atau wabah penyakit menular, Direktur Jenderal Perimbangan Keuangan dapat mengusulkan kemudahan penyaluran DAK Nonfisik dengan jangka waktu tertentu bagi Daerah tersebut kepada Menteri Keuangan setelah berkoordinasi dengan kementerian negara/lembaga terkait.
 
 (2) Hasil koordinasi sebagaimana dimaksud pada ayat (1) dituangkan dalam berita acara yang ditandatangani oleh Direktur Jenderal Perimbangan Keuangan dan kementerian negara/lembaga terkait.
 
@@ -1292,19 +1186,17 @@ d. persyaratan penyaluran.
 (4) Dalam hal Menteri Keuangan menyetujui usulan kemudahan penyaluran DAK Nonfisik sebagaimana dimaksud pada ayat (1), kemudahan penyaluran DAK Nonfisik ditetapkan dengan Keputusan Menteri Keuangan yang ditandatangani oleh Direktur Jenderal Perimbangan Keuangan atas nama Menteri Keuangan.
 
 ### Pasal 48
-
 Ketentuan mengenai:
 
 a. format rencana penggunaan Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud dalam Pasal 13 ayat (1);
 
 b. format laporan realisasi pembayaran Dana Tunjangan Guru ASN Daerah sebagaimana dimaksud dalam Pasal 26 ayat (1);
 
-c. format laporan realisasi penyerapan dan laporan realisasi penggunaan Dana BOK Dinas dan DAK Nonfisik J enis Lainnya sebagaimana dimaksud dalam Pasal 29 ayat (2); dan
+c. format laporan realisasi penyerapan dan laporan realisasi penggunaan Dana BOK Dinas dan DAK Nonfisik Jenis Lainnya sebagaimana dimaksud dalam Pasal 29 ayat (2); dan
 
 d. format rekapitulasi SP2D sebagaimana dimaksud dalam Pasal 26 ayat (2) dan Pasal 29 ayat (4), tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
 
 ### Pasal 49
-
 (1) Dalam hal terdapat sisa BOK sampai dengan tahun anggaran 2022 pada Rekening Puskesmas, Puskesmas melakukan pengembalian sisa dana dimaksud ke RKUD paling lambat tanggal 31 Januari 2023 yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan daerah.
 
 (2) Penghitungan sisa BOK sebagaimana dimaksud pada ayat (1) dilakukan melalui reviu aparat pengawasan internal pemerintah Daerah.
@@ -1314,14 +1206,10 @@ d. format rekapitulasi SP2D sebagaimana dimaksud dalam Pasal 26 ayat (2) dan Pas
 ## BAB XI - KETENTUAN PENUTUP
 
 ### Pasal 50
-
 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Keuangan Nomor 119/PMK.07/2021 tentang Pengelolaan Dana Alokasi Khusus Nonfisik (Berita Negara Republik Indonesia Tahun 2021 Nomor 1032), dicabut dan dinyatakan tidak berlaku.
 
 ### Pasal 51
-
 Peraturan Menteri ini mulai berlaku pada tanggal 1 Januari 2023.
-
-f
 
 ## Penutup
 
@@ -1336,457 +1224,22 @@ SRI MULYANI INDRAWATI
 Diundangkan di Jakarta
 pada tanggal 23 Desember 2022
 MENTERI HUKUM DAN HAK ASASI MANUSIA
-REPUBLIK INDONESIA,
 ttd.
 YASONNA H. LAOLY
 BERITA NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 1319
-Salinan sesuai dengan aslinya
-Kepala Biro Umum
-u.b.
-inistrasi Kementerian
 
 ## Lampiran
 
-Isi lampiran disalin dari lapisan teks PDF (hasil OCR penerbit); tabel dan format tidak terekstrak rapi, lihat PDF.
+Lampiran berisi format laporan (tabel isian); isi format tidak disalin, lihat PDF.
 
 LAMPIRAN
 PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
 NOMOR 204/PMK.07/2022
 TENTANG
 PENGELOLAAN DANA ALOKASI KHUSUS NONFISIK
-A. FORMAT RENCANA PENGGUNAAN DANA BOK DINAS DAN DAK NONFISIK JENIS LAINNYA
-LAPORAN RENCANA PENGGUNAAN DANA
-DAK NONFISIK (DANA..... ) (ll
-PROVINSI/KABUPATEN/KOTA... l2 lTAHUN ANGGARAN ... !3 l
-Perencanaan Kegiatan
-No. Kegiatan/ Periode Pelaksanaan Jumlah Penerima Manfaat/ Output Pagu APBN
-Jumlah Satuan (Roi
-1 2 3 4 5
-I Menu Kee:iatan
-1 Sub Menu Kegiatan
-2 Sub Menu Kee:iatan
-3 Sub Menu Kegiatan
-dst... (dst...l
-II Menu Kegiatan
-1 Sub Menu Kee:iatan
-2 Sub Menu Kegiatan
-3 Sub Menu Kee:iatan
-dst... (dst...)
-Total
-Pagu APBN
-Tempat (4 1, Tanggal (5)
-Pejabat penandatangan (6)
-(tanda tangan asli dan cap dinas) l7 l
-Nama ....................... (8)
-NIP .......................... 191
-f
-PETUNJUK PENGISIAN
-NO. URAIAN
-1 Diisi sesuai jenis DAK Nonfisik.
-2 Diisi sesuai nama provinsi/kabupaten/kota.
-3 Diisi sesuai tahun anggaran berkenaan.
-Kolom 2 Diisi dengan kegiatan dalam lingkup DAK Nonfisik
-sebagaimana poin 1, masing-masing jenis kegiatan dapat
-diuraikan secara singkat dan jelas atau diisi periode
-pelaksanaan per bulan untuk kegiatan tertentu.
-Kolom 3 Diisi jumlah target (perencanaan) penenma manfaat pada
-masing-masing ienis kegiatan.
-Kolom 4 Diisi satuan target (perencanaan) penenma manfaat pada
-masing-masing ienis kegiatan.
-Kolom 5 Diisi jumlah total pagu per masing-masing jenis kegiatan
-berdasarkan alokasi tahun berkenaan.
-4 Diisi tempat dibuatnya laporan.
-5 Diisi tanggal dibuatnya laporan.
-6 Diisi oleh iabatan penandatangan laporan.
-7 Diisi tanda tangan asli dan cap dinas.
-8 Diisi nama lengkap penandatangan laporan.
-9 Diisi NIP penandatangan laporan.
-B. FORMAT LAPORAN REALISASI PEMBAYARAN DANA TUNJANGAN GURU ASN DAERAH
-1. BAGIAN I
-LAPORAN REALISASI PEMBAYARAN
-NAMA JENIS DANAl 11
-PROVINSI/KABfiKOTA: .................. (21
-SEMESTER ........ J lTA. 20 .... J4l (BAGIAN I)
-Yang bertanda tangan di bawah ini .. .(5l menyatakan bahwa saya bertanggung jawab penuh atas kebenaran Laporan Realisasi Pembayaran Dana... (11ini dengan rincian, sebagai berikut:
-Triwulan I
-Penyaluran ke Kas Realisasi Pembayaran oleh Kas Daerah Kekurangan Pembayaran Triwulan I
-Daerah
-Sisa Pengembalian Sisa Total
-Lebih/Kurang Jumlah Tanggal & Tnwulan I Lebih/Kurang Poto;~~\PPh
-di RKUD Carry Nomor SP2D Triwulan I Januari Februari Maret Carry Total
-Penyalur P~";Jffifan Jenjang Januari Februari Maret Over Total (Rp) Jenjang Over
-(Rp) an
-(Rp) Triwulan I Pend1dikan (Rp) (Rp) (Rp) (Rp) (Rp)
-PT~!~r:r (Rp) (Rp) Pend1dikan (Rp) (Rp) (Rp) (Rp) (Rp)
-(I) (2) (3) (4) (5) (6) (7) (8) (9)=(5)+(6)+(7)+(8) (10) (11) (12);(1)~\2)- (13) (14) (15) (16) (17) (18) (19)=v5)t6J
-r, ll+fl I +ll 'l+ll 11
-TK TK
-SD SD
-SMP SMP
-SLB SLB
-SMA SMA
-SMK SMK
-JUMLAH JUMLAH
-Triwulan II
-Penyaluran ke Kas Realisasi Pembayaran oleh Kas Daerah Kekurangan Pembayaran Triwulan II
-Sisa Daerah
-Pengembalian Sisa Lebih/ Total
-Lebih6_Kurang Kurang
-di KUD Jumlah Carry Tanggal & Tnwulan II Triwulan II /?~(Rp)
-0
-~s1'f1 April Juni Carry Total
-Triwulan I
-(Rp)
-Penyalu
-ran
-(Rp)
-Pe~Jlifan
-Triwulan I
-Jenjang
-Pend1dikan 1i~ 1
-Mei
-(Rp)
-Juni
-(Rp) Over
-(Rp)
-Total
-(Rp)
-NomorSP2D
-p+:rJtr~'W
-(Rp) (Rp)
-Jenjang
-Pend1dikan (Rp)
-Mei
-(Rp) (Rp) Over
-(Rp) (Rp)
-(I) (2) (3) (4) (5) (6) (7) (8) (9)=(5)+(6)+(7)+(8) (10) (11) (12i=(ln2)- (13) (14) (15) (16) (17) (18) b19)=v5)+kl
-( )+( 1 )+(1 )+(1 )
-TK TK
-SD SD
-SMP SMP
-SLB SLB
-SMA SMA
-SMK SMK
-JUMLAH JUMLAH
-Bukti-bukti realisasi pembayaran kepada pihak ketiga yang tercantum dalam laporan ini, disimpan sesuai dengan ketentuan yang berlaku untuk kelengkapan administrasi dan keperluan
-pemeriksaan aparat pengawas fungsional.
-Demikian laporan im dibuat dengan sebenamya.
-Tempat, ........ .l61••••••• 20.... (71
-Kepala Biro/Badan/Dinas Pengelola Keuangan (81
-(tanda tangan dan cap dinas) (9 1
-Nama Jelas (101
-NIP (I
-PETUNJUK PENGISIAN
-NO URAIAN
-1 Diisi sesuai dengan nama ienis dana yang dilaporkan.
-2 Diisi sesuai nama provinsi/kabupaten/kota.
-3 Diisi sesuai semester yang dilaporkan.
-4 Diisi tahun anggaran berkenaan.
-5 Diisi oleh jabatan penandatangan laporan.
-6 Diisi tempat dibuatnya laporan.
-7 Diisi tanggal dibuatnya laporan.
-8 Diisi sesuai Jabatan.
-9 Diisi tanda tangan asli dan cap dinas.
-10 Diisi nama lengkap penandatangan laporan.
-11 Diisi NIP penandatangan laporan.
-Kolom (1) Diisi sisa lebih/kurang dana tunjangan sesuai dengan jenis
-dana yang dilaporkan yang ada di RKUD.
-Kolom (2) Diisi jumlah penyaluran dana tunjangan sesuai dengan jenis
-dana yang dilaporkan dari RKUN ke RKUD sesuai periode.
-Kolom (3) Diisi tanggal penyaluran dana tunjangan sesuai dengan jenis
-dana yang dilaporkan dari RKUN ke RKUD sesuai periode.
-Kolom (5), (6), Diisi jumlah realisasi Dana dana tunjangan sesuai dengan
-(7) jenis dana yang dilaporkan.
-Kolom (8) Diisi jumlah realisasi carry over dana tunjangan sesuai
-dengan Jen1s dana yang dilaporkan sesua1 JenJang
-pendidikan.
-Kolom (10) Diisi tanggal dan nomor SP2D realisasi dana tunjangan
-sesuai dengan jenis dana yang dilaporkan (realisasi SP2D
-pertama sesuai periode) sedangkan apabila terdapat SP2D
-lainnya diisi di Laporan Rekapitulasi SP2D dana tunjangan
-sesuai dengan jenis dana yang dilaporkan.
-Kolom (11) Diisi pengembalian dana tunjangan sesuai dengan jenis dana
-yang dilaporkan ke RKUD sesuai periode.
-Kolom (12) Diisi sisa lebih/kurang dana tunjangan sesuai dengan jenis
-dana yang dilaporkan sesuai periode.
-Kolom (13) Diisi total potongan PPh Pasal 21 sesuai periode.
-Kolom (15), Diisi jumlah kekurangan pembayaran dana tunjangan sesuai
-(16), (17) dengan jenis dana yang dilaporkan sesuai jenjang pendidikan
-dan bulan dimaksud.
-Kolom (18) Diisi jumlah kekurangan pembayaran carry over dana
-tunjangan sesuai dengan jenis dana yang dilaporkan sesuai
-jenjang pendidikan.
-Kolom (19) Diisi jumlah total kekurangan pembayaran dana tunjangan
-sesuai dengan jenis dana yang dilaporkan sesuai jenjang
-pendidikan.
-Keterangan:
-1. Format laporan tersebut di atas adalah untuk periode laporan Semester I
-(Januari s.d. Juni) dan Semester II (Juli s.d. Desember).
-r/-
-2. Format Laporan tersebut diatas adalah contoh untuk Semester I,
-sedangkan untuk format laporan semester II perlu disesuaikan penamaan
-bulannya.
-3. Dalam hal yang berwenang terkait laporan adalah di bawah eselon II maka
-yang bertanda tangan adalah pejabat eselon II atau pejabat eselon I atas
-nama Kepala Daerah.
-4. Daerah dapat menambahkan keterangan yang diperlukan dalam lembar
-tersendiri.
-I
-2. BAGIAN II
-LAPORAN REALISASI PEMBAYARAN
-NAMA JENIS DANA1 1,
-PROVINSI/KAB/KOTA: .................. (2)
-SEMESTER ... !3 lTA. 20...... !4 l (BAGIAN II)
-Yang bertanda tangan di bawah ini ... !5l menyatakan bahwa saya bertanggungjawab penuh atas kebenaran Laporan Realisasi Pembayaran Dana... 11) ini dengan rincian, sebagai berikut:
-Triwulan I
-BULAN : JANUARI BULAN : FEBRUARI BULAN : MARET CARRYOVER
-JENJANG JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH KETERANGAN
-PENDIDIKAN GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG
-TELAH BELUM TOTAL TELAH BELUM TOTAL TELAH BELUM TOTAL TELAH BELUM TOTAL
-MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA
-(1) (2) (3) (4)=(2)+(3) (5) (6) (7)=(5)+(6) (8) (9) (10)=(8)+(9) (11) (12) (13)=(11)+(12) (14)
-TK *) dapat ditambahkan
-keterangan yang dianggap
-SD perlu
-SMP
-SLB
-SMA
-SMK
-JUMLAH
-Triwulan II
-BULAN : APRIL BULAN: MEI BULAN: JUN! CARRY OVER
-JENJANG JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH JUMLAH
-PENDIDIKAN GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG GURU YANG KETERANGAN
-TELAH BELUM TOTAL TELAH BELUM TOTAL TELAH BELUM TOTAL TELAH BELUM TOTAL
-MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA MENERIMA
-(1) (2) (3) (4)=(2)+(3) (5) (6) (7)=(5)+(6) (8) (9) (10)=(8)+(9) (11) (12) (13)=(11)+(12) (14)
-TK *I dapat ditambahkan
-keterangan yang dianggap
-SD perlu
-SMP
-SLB
-SMA
-SMK
-JUMLAH
-Bukti-bukti realisasi pembayaran kepada pihak ketiga yang tercantum dalam laporan ini, disimpan sesuai dengan ketentuan yang berlaku untuk kelengkapan administrasi dan keperluan
-pemeriksaan aparat pengawas fungsional.
-Demikian laporan in1 dibuat dengan sebenarnya.
-Tempat, ............... 16 l•.....•. 20... .17)
-Kepala Biro/Badan/Dinas Pengelola Keuangan 18)
-(tanda tangan dan cap dinas) (9 l
-Nama Jelas 110)
-NIP (11l
-f
-PETUNJUK PENGISIAN
-NO. URAIAN
-1 Diisi sesuai dengan nama jenis dana yang dilaporkan.
-2 Diisi sesuai nama provinsi/kabupaten/kota.
-3 Diisi sesuai semester yang dilaporkan.
-4 Diisi tahun anggaran berkenaan.
-5 Diisi oleh jabatan penandatangan laporan.
-6 Diisi tempat dibuatnya laporan.
-7 Diisi tanggal dibuatnya laporan.
-8 Diisi sesuai jabatan.
-9 Diisi tanda tangan asli dan cap dinas.
-10 Diisi nama lengkap penandatangan laporan.
-11 Diisi NIP penandatangan laporan.
-Kolom (2), Diisi jumlah guru yang telah menerima dana tunjangan
-(5), (8) sesuai dengan jenis dana yang dilaporkan sesuai jenjang
-pendidikan dan bulan dimaksud.
-Kolom (3), Diisi jumlah guru yang belum menerima dana tunjangan
-(6), (9) sesuai dengan jenis dana yang dilaporkan sesuai jenjang
-pendidikan dan bulan dimaksud.
-Kolom (11) Diisi jumlah guru yang telah menerima carry over dana
-tunjangan sesuai dengan jenis dana yang dilaporkan sesuai
-jenjang pendidikan dan bulan dimaksud.
-Kolom (12) Diisi jumlah guru yang belum menerima carry over dana
-tunjangan sesuai dengan jenis dana yang dilaporkan sesuai
-jenjang pendidikan dan bulan dimaksud.
-Kolom (14) Diisi keterangan yang dianggap perlu.
-Keterangan:
-1. Format laporan tersebut di atas adalah untuk periode laporan
-Semester I (Januari s.d. Juni) dan Semester II (Juli s.d. Desember).
-2. Format Laporan tersebut diatas adalah contoh untuk Semester I,
-sedangkan untuk format laporan semester II perlu disesuaikan
-penamaan bulannya.
-3. Jumlah guru adalah jumlah guru yang berhak menenma dana
-tunjangan sesua1 dengan jenis dana yang dilaporkan dan telah
-memenuhi persyaratan.
-C. FORMAT LAPORAN REALISASI PENYERAPAN DAN LAPORAN REALISASI
-PENGGUNAAN DANA BOK DINAS DAN DAK NONFISIK JENIS LAINNYA
-1. LAPORAN REALISASI PENYERAPAN DANA BOK DINAS DAN DAK NONFISIK
-JENIS LAINNYA
-LAPORAN REALISASI PENYERAPAN
-DANA BOK DINAS/DAK NONFISIK JENIS LAINNYA (DANA..... ) !ll
-PROVINSI/KABUPATEN/KOTA ... !2lTAHUN ANGGARAN .. .!3l
-SAMPAI DENGAN TAHAP ... !4l
-Yang bertanda tangan di bawah ini ... 5l menyatakan bahwa saya bertanggung jawab penuh
-atas kebenaran Laporan Realisasi Penyerapan Dana !6l ini dengan rincian, sebagai
-berikut:
-A. Sisa ........... .!7l di Rekening Kas Umum Daerah tahun sebelumnya Rp !8l
-B. Penerimaan dari Rekening Kas Umum Negara
-Tahap I Rp !9)
-Tahap II Rp !10)
-Total Penerimaan dari RKUN Rp 111i = (9l+!l0l
-Jumlah A+B : Rp 112i = (11)+(8)
-C. Realisasi Penyaluran Dana ..... (13)
-Tahap I Rp !14)
-Tahap II Rp (15)
-Kumulatif s.d. Tahap ini Rp (16) (14)+(15)
-Pengembalian ke RKUD Rp !17)
-Realisasi Penyaluran setelah dikurangi Pengembalian ke Rp !18l = !16l-! 17l
-RKUD
-D. Persentase penyaluran Rp (19) = (18) / (12)
-E. Sisa Dana ...... !20l di RKUD s.d. Tahap ini Rp !2 1l = !12l-! 19l
-Bukti-bukti realisasi pembayaran kepada pihak ketiga yang tercantum dalam laporan ini,
-disimpan sesuai dengan ketentuan yang berlaku untuk kelengkapan administrasi dan
-keperluan pemeriksaan aparat pengawas fungsional.
-Demikian laporan ini dibuat dengan sebenarnya.
-Tempat ... !22l, Tanggal !23l
-Kepala Biro/ Badan/ Dinas pengelola
-keuangan! 24l
-(tanda tangan asli dan cap dinas) !25l
-Nama ........................... (26)
-NIP ............................. .
-I
-PETUNJUK PENGISIAN
-NO. URAIAN
-1. Diisi jenis Dana BOK Dinas/DAK Nonfisik Jenis Lainnya.
-2. Diisi nama provinsi/kabupaten/kota.
-3. Diisi tahun anggaran.
-4. Diisi tahap berkenaan.
-5. Diisi oleh Kepala Biro/Badan/Dinas Pengelola Keuangan.
-6. Diisi jenis Dana BOK Dinas/DAK Nonfisik Jenis Lainnya.
-7. Diisi jenis Dana BOK Dinas/DAK Nonfisik Jenis Lainnya.
-8. Diisi sesuai dengan jumlah sisa dana sebagaimana poin 1 diRKUD
-yang belum digunakan pada tahun anggaran sebelumnya.
-9. Diisi sesuai dengan jumlah transfer dana sebagaimana poin 1 dari
-Rekening Kas Negara ke Rekening Kas Umum Daerah pada tahap I.
-10. Diisi sesuai dengan jumlah transfer dana sebagaimana poin 1 dari
-Rekening Kas Negara ke Rekening Kas Umum Daerah pada tahap II.
-11. Diisi sesuai dengan jumlah keseluruhan dana sebagaimana poin 1
-yang disalurkan dari Rekening Kas Negara ke RKUD sampai dengan
-tahap akhir laporan.
-12. Diisi sesuai dengan jumlah keseluruhan dana sebagaimana poin 1
-yang terdapat Rekening Kas Umum Daerah.
-13. Diisi jenis Dana BOK Dinas/DAK Nonfisik Jenis Lainnya.
-14. Diisi jumlah penyaluran dana sebagaimana poin 1 tahap I.
-Jumlah ini harus sama dengan jumlah yang tercantum pada Daftar
-SP2D yang diterbitkan untuk penyaluran dana sebagaimana poin 1
-Tahun Anggaran berkenaan pada tahap I.
-15. Diisi jumlah penyaluran dana sebagaimana poin 1 tahap II.
-Jumlah ini harus sama dengan jumlah yang tercantum pada Daftar
-SP2D yang diterbitkan untuk penyaluran dana sebagaimana poin 1
-Tahun Anggaran berkenaan pada tahap II.
-16. Diisi jumlah kumulatif penyaluran dana sebagaimana poin 1 melalui
-SP2D Provinsi/Kabupaten/Kota s.d. tahap akhir laporan.
-17. Diisi dengan jumlah dana dana sebagaimana poin 1 yang tidak
-terpakai dan dikembalikan ke RKUD.
-18. Diisi jumlah kumulatif penyaluran dana sebagaimana poin 1 s.d.
-tahap berkenaan dikurangi dengan jumlah dana yang tidak terpakai
-dan yang dikembalikan ke RKUD.
-19. Diisi jumlah kumulatif realisasi penyaluran dana sebagaimana poin
-1 setelah dikurangi Pengembalian ke RKUD dibagi dengan jumlah
-penerimaan dari RKUN s.d. tahap I atau II di tambah dengan Sisa
-dana sebagaimana poin 1 di RKUD Tahun sebelumnya.
-20. Diisi jenis Dana BOK Dinas/DAK Nonfisik Jenis Lainnya.
-21. Diisi jumlah sisa dana sebagaimana poin 1 tahap I dan/ a tau tahap
-II.
-22. Diisi tempat dibuatnya laporan.
-23. Diisi tanggal dibuatnya laporan.
-24. Diisi nama jabatan.
-25. Diisi tanda tangan asli dan cap dinas.
-26. Diisi nama lengkap dan NIP penandatangan laporan.
-2. LAPORAN REALISASI PENGGUNAAN DANA BOK DINAS DAN DAK NONFISIK JENIS LAINNYA
-LAPORAN REALISASI PENGGUNAAN
-DANA BOK DINAS/DAK NONFISIK JENIS LAINNYA (DANA..... ) (1l
-PROVINSI/KABUPATEN/KOTA ... (2lTAHUN ANGGARAN ... (3l
-SAMPAI DENGAN TAHAP ... (4 l
-Perencanaan Kegiatan Pelaksanaan Kegiatan
-No Kegiatan/ Periode Pelaksanaan Jumlah Penerima Pagu Jumlah Penerima Realisasi
-Persentase Output
-Manfaat/ Output APBN Manfaat/ Output Penggunaan
-Jumlah Satuan (Rp) Jumlah Satuan (Rp) %
-(1) (2) (3) (4) (5) (6) (7) (8) (9}=(8)/(5)
-I Menu Kegiatan
-1 Sub Menu Kegiatan
-2 Sub Menu Kegiatan
-3 Sub Menu Kegiatan
-dst... (dst... )
-II Menu Kegiatan
-1 Sub Menu Kegiatan
-2 Sub Menu Kegiatan
-3 Sub Menu Kegiatan
-dst... (dst... )
-Total
-PaguAPBN
-Tempat ... (5 l, Tanggal (6)
-Kepala SKPD Teknis(7 l
-(tanda tangan asli dan cap dinas) (8l
-Total SP2D:
-Nama ........................... (9)
-Total Retur:
-NIP .......................... .
-SP2D Netto:
-~
-PETUNJUK PENGISIAN
-NO. URAIAN
-1. Diisi jenis Dana BOK Dinas/DAK Nonfisik Jenis Lainnya
-2. Diisi nama provinsi/kabupaten/kota.
-3. Diisi tahun anggaran.
-4. Diisi tahap berkenaan.
-Kolom Diisi jenis kegiatan dalam lingkup Dana BOK Dinas/DAK Nonfisik
-2 Jenis Lainnya sebagaimana poin 1, masing-masing jenis kegiatan
-dapat diuraikan secara singkat dan jelas atau diisi Periode
-pelaksanaan per bulan untuk kegiatan tertentu.
-Kolom Diisi jumlah target (perencanaan) penerima manfaat pada masing-
-3 masing jenis kegiatan.
-Kolom Diisi satuan target (perencanaan) penerima manfaat pada masing-
-4 masing jenis kegiatan.
-. .
-Kolom Diisi jumlah total pagu per masmg-masmg Jems kegiatan
-5 berdasarkan alokasi tahun berkenaan.
-Kolom Diisi jumlah target (yang telah dilaksanakan sampai dengan periode
-6 pelaporan) penerima manfaat pada masing-masing jenis kegiatan.
-Kolom Diisi satuan target (yang telah dilaksanakan sampai dengan periode
-7 pelaporanf penerima manfaat pada masing-masing jenis kegiatan.
-Kolom Diisijumlah realisasi penggunaan permasing-masingjenis kegiatan
-8 sampai dengan periode pelaporan.
-Kolom Diisi persentase output yang merupakan perbandingan antara
-• ■ • •
-9 realisasi penggunaan per masmg-masmg Jen1s kegiatan sampai
-dengan periode pelaporan (kolom 8) terhadap pagu alokasi (kolom
-5).
-5. Diisi tempat dibuatnya laporan.
-6. Diisi tanggal dibuatnya laporan.
-7. Diisi nama jabatan.
-8. Diisi tanda tangan asli dan cap dinas.
-9. Diisi nama lengkap dan NIP penandatangan laporan.
-D. FORMAT REKAPITULASI SP2D DAK NONFISIK
-REKAPITULASI
-SURAT PERINTAH PENCAIRAN DANA (SP2D) YANG DITERBITKAN
-UNTUK PENYALURAN DANA ... .
-SAMPAI DENGAN TAHAP ... TAHUN ANGGARAN ...
-SP2D
-No. Nilai (Rp) Ket.
-Nomor Tanggal
-Jumlah
-Pengembalian Sisa Dana ke RKUD
-Pengembalian
-No. Nilai (Rp) Ket.
-Nomor Tanggal
-Jumlah
-Tempat ... , tanggal ...
-Kepala Biro/Badan/Dinas
-pengelola keuangan ... 1l
-(tanda tangan asli dan cap dinas)
-Nama ...
-NIP
-1) Diisi sesuai nomenklatur instansi pengelola keuangan
-MENTERI KEUANGAN REPUBLIK INDONESIA,
-ttd.
-SRI MULYANI INDRAWATI
-Salinan sesuai dengan aslinya
-Kepala Biro Umum
-u.b.
-Kepa asi Kementerian
+
+A. FORMAT RENCANA PENGGUNAAN DANA BOK DINAS DAN DAK NONFISIK JENIS LAINNYA (lihat PDF)
+
+B. FORMAT LAPORAN REALISASI PEMBAYARAN DANA TUNJANGAN GURU ASN DAERAH (lihat PDF)
+
+C. FORMAT LAPORAN REALISASI PENYERAPAN DAN LAPORAN REALISASI PENGGUNAAN DANA BOK DINAS DAN DAK NONFISIK JENIS LAINNYA (lihat PDF)

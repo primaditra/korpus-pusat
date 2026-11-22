@@ -279,7 +279,11 @@ Unit Pemeliharaan Alat Kesehatan yang diselenggarakan oleh Pemerintah Daerah dap
 
 Untuk melaksanakan penyelenggaraan Pemeliharaan Alat Kesehatan di Fasilitas Pelayanan Kesehatan secara optimal dan berkesinambungan maka diperlukan pedoman sebagai acuan bagi Pemerintah Pusat, Pemerintah Daerah, Fasilitas Pelayanan Kesehatan, dan penyelenggara Pemeliharaan Alat Kesehatan, serta pemangku kepentingan terkait lainnya, sehingga dapat mendukung pelaksanaan pelayanan kesehatan secara efektif dan efisien yang sesuai dengan kebutuhan pelayanan
 
-kesehatan kepada masyarakat. Tujuan 1. memberikan acuan bagi Pemerintah Pusat, Pemerintah Daerah,
+kesehatan kepada masyarakat.
+
+B. Tujuan
+
+1. memberikan acuan bagi Pemerintah Pusat, Pemerintah Daerah,
 
 Fasilitas Pelayanan Kesehatan, dan masyarakat/swasta dalam
 
@@ -289,9 +293,7 @@ pelayanan, persyaratan mutu, keamanan, manfaat, keselamatan, dan laik pakai di F
 
 3. menjamin keselamatan pengguna, pasien, dan lingkungan di Fasilitas Pelayanan Kesehatan,
 
-C. Sasaran 1. Pemerintah Pusat 2. Pemerintah Daerah Provinsi dan Pemerintah Daerah Kabupaten / Kota 3. puskesmas, rumah sakit, dan Fasilitas Pelayanan Kesehatan lainnya 4. penyelenggara Pemeliharaan Alat Kesehatan
-
-1. 2023, No.204
+C. Sasaran 1. Pemerintah Pusat 2. Pemerintah Daerah Provinsi dan Pemerintah Daerah Kabupaten/Kota 3. puskesmas, rumah sakit, dan Fasilitas Pelayanan Kesehatan lainnya 4. penyelenggara Pemeliharaan Alat Kesehatan
 
 BAB II PENYELENGGARAAN PEMELIHARAAN ALAT KESEHATAN
 
@@ -328,8 +330,6 @@ c. Pemeliharaan Pemantauan Fungsi/Inspeksi Pemeliharaan Pemantauan Fungsi/Inspek
 d. Pemeliharaan Preventif Pemeliharaan Preventif adalah kegiatan pemeliharaan yang dilakukan secara terjadwal, untuk memperpanjang umur peralatan dan mencegah kegagalan (yaitu dengan kalibrasi, penggantian bagian, pelumasan, pembersihan, dan lainnya).
 
 e. Pemeliharaan Korektif/ Perbaikan Pemeliharaan Korektif merupakan kegiatan perbaikan terhadap peralatan dengan tujuan mengembalikan fungsi peralatan sesuai dengan kondisi awalnya. Ciri dari kegiatan pemeliharaan korektif biasanya tidak terjadwal, berdasarkan permintaan dari pengguna peralatan atau dari personel yang melakukan kegiatan performing maintenance.
-
-13. 2023, No.204
 
 BAB III PENYELENGGARA PEMELIHARAAN ALAT KESEHATAN
 
@@ -383,11 +383,7 @@ B. Unit Pemeliharaan Alat Kesehatan Milik Pemerintah Daerah
 
 Fasilitas Pelayanan Kesehatan khususnya Fasilitas Pelayanan Kesehatan tingkat pertama seperti puskesmas dan klinik belum memiliki perhatian yang cukup besar dalam Pemeliharaan Alat Kesehatan, hal ini antara lain diakibatkan karena jumlah Alat Kesehatan yang digunakan tidak dalam jumlah yang besar/terbatas sehingga timbul anggapan lebih mudah melakukan penggantian jika terjadi kerusakan ataupun ketidakberfungsian suatu Alat Kesehatan dibandingkan dengan melakukan Pemeliharaan Alat Kesehatan yang telah dimiliki. Selain itu juga terdapat keterbatasan unit dan tenaga yang menyelenggarakan Pemeliharaan Alat Kesehatan,
 
-Kurangnya perhatian terhadap Pemeliharaan Alat Kesehatan dapat menimbulkan terganggunya kualitas pelayanan kesehatan, bahkan dapat menimbulkan risiko Kejadian yang Tidak Diharapkan (KTD) di Fasilitas
-
-45. 2023, No.204
-
-Pelayanan Kesehatan yang dapat menimbulkan cedera bagi pasien, sumber daya manusia di Fasilitas Pelayanan Kesehatan, pengunjung, maupun lingkungan Fasilitas Pelayanan Kesehatan.
+Kurangnya perhatian terhadap Pemeliharaan Alat Kesehatan dapat menimbulkan terganggunya kualitas pelayanan kesehatan, bahkan dapat menimbulkan risiko Kejadian yang Tidak Diharapkan (KTD) di Fasilitas Pelayanan Kesehatan yang dapat menimbulkan cedera bagi pasien, sumber daya manusia di Fasilitas Pelayanan Kesehatan, pengunjung, maupun lingkungan Fasilitas Pelayanan Kesehatan.
 
 Untuk mencegah terjadinya risiko tersebut maka diperlukan optimalisasi Pemeliharaan Alat Kesehatan melalui pembentukan unit Pemeliharaan Alat Kesehatan milik Pemerintah Daerah. Unit Pemeliharaan Alat Kesehatan juga dapat meningkatkan efisiensi penggunaan Alat Kesehatan di Fasilitas Pelayanan Kesehatan karena Alat Kesehatan dilakukan perawatan dan perbaikan sesuai dengan kebutuhan dan analisis yang mengategorikan bahwa Alat Kesehatan tersebut rusak berat, rusak sedang, dan/atau rusak ringan. Apabila Alat Kesehatan tersebut tergolong rusak sedang ataupun rusak ringan maka dapat dilakukan perbaikan, sehingga tidak perlu membeli yang baru.
 
@@ -409,7 +405,7 @@ Unit Pemeliharaan Alat Kesehatan milik Pemerintah Daerah atau yang disebut denga
 
 Ketentuan teknis mengenai penyelenggaraan Pemeliharaan Alat Kesehatan di Unit Pemeliharaan Alat Kesehatan milik Pemerintah Daerah atau Unit Regional Alat Kesehatan (Regional Maintenance Center) diatur lebih lanjut dalam pedoman yang ditetapkan oleh Direktur Jenderal yang memiliki tugas dan fungsi di bidang pelayanan kesehatan.
 
-Unit Pemeliharaan Alat Kesehatan Milik Swasta/Masyarakat
+C. Unit Pemeliharaan Alat Kesehatan Milik Swasta/Masyarakat
 
 Dalam pelaksanaan Pemeliharaan Alat Kesehatan khususnya pemeliharaan tingkat lanjut, tidak semua Fasilitas Pelayanan Kesehatan atau dinas kesehatan daerah provinsi/dinas kesehatan daerah kabupaten/kota memiliki sumber daya sendiri dalam pelaksanaan Pemeliharaan Alat Kesehatan. Untuk itu diperlukan unit pemelihara yang dilakukan oleh pihak lain dalam hal ini milik swasta/masyarakat.
 
