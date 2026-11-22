@@ -24,12 +24,12 @@ Menimbang : a. bahwa untuk percepatan pelaksanaan konsolidasi
 Pengadaan Barang/Jasa Pemerintah untuk katalog
 elektronik, perlu menyusun ketentuan pelaksanaan
 konsolidasi Pengadaan Barang/Jasa Pemerintah untuk
-katalog elektronik,
+katalog elektronik;
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud
 dalam huruf a, perlu menetapkan Keputusan Kepala
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
 tentang Pelaksanaan Konsolidasi Pengadaan Barang/Jasa
-Pemerintah untuk Katalog Elektronik,
+Pemerintah untuk Katalog Elektronik;
 Mengingat : 1. Peraturan Presiden Nomor 106 Tahun 2007 tentang
 Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
 sebagaimana telah beberapa kali diubah terakhir dengan
@@ -37,7 +37,7 @@ Peraturan Presiden Nomor 93 Tahun 2022 tentang
 Perubahan Kedua atas Peraturan Presiden Nomor 106
 Tahun 2007 tentang Lembaga Kebijakan Pengadaan
 Barang/Jasa Pemerintah (Lembaran Negara Republik
-Indonesia Tahun 2022 Nomor 114),
+Indonesia Tahun 2022 Nomor 114);
 2. Peraturan Presiden Nomor 16 Tahun 2018 tentang
 Pengadaan Barang/Jasa Pemerintah (Lembaran Negara
 Republik Indonesia Tahun 2018 Nomor 33) sebagaimana
@@ -45,7 +45,7 @@ telah diubah dengan Peraturan Presiden Nomor 12 tahun
 2021 tentang Perubahan atas Peraturan Presiden Nomor
 16 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah (Lembar Negara Republik Indonesia Tahun
-2021 Nomor 63),
+2021 Nomor 63);
 3. Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa
 Pemerintah Nomor 9 Tahun 2021 tentang Toko Daring dan
 Katalog Elektronik dalam Pengadaan Barang/Jasa
@@ -71,9 +71,9 @@ Pelaksanaan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektroni
 
 Pelaksanaan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik dilaksanakan oleh:
 
-a.  Menteri/Kepala Lembaga yang membidangi/membina sektor terkait,
+a.  Menteri/Kepala Lembaga yang membidangi/membina sektor terkait;
 
-b. Gubernur/Walikota/Bupati, atau
+b. Gubernur/Walikota/Bupati; atau
 
 c. Deputi Bidang Transformasi Pengadaan Digital Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah.
 
@@ -93,15 +93,15 @@ Dalam hal dibutuhkan percepatan pelaksanaan konsolidasi Pengadaan Barang/Jasa Pe
 
 Pelaksanaan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik sebagaimana dimaksud pada diktum KEDUA, antara lain meliputi:
 
-a. penetapan tata cara penyelenggaraan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik,
+a. penetapan tata cara penyelenggaraan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik;
 
-b. penetapan tim pelaksana konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik sesuai jenis barang/jasa yang dikonsolidasikan,
+b. penetapan tim pelaksana konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik sesuai jenis barang/jasa yang dikonsolidasikan;
 
-c. pelaksanaan konsolidasi Pengadaan Barang/Jasa Pemerintah secara Nasional untuk katalog elektronik,
+c. pelaksanaan konsolidasi Pengadaan Barang/Jasa Pemerintah secara Nasional untuk katalog elektronik;
 
-d. penandatanganan kontrak payung konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik,
+d. penandatanganan kontrak payung konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik;
 
-e. pemantauan dan evaluasi atas pelaksanaan hasil konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik, dan
+e. pemantauan dan evaluasi atas pelaksanaan hasil konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik; dan
 
 f. pelaporan pelaksanaan hasil konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik.
 
@@ -109,7 +109,7 @@ f. pelaporan pelaksanaan hasil konsolidasi Pengadaan Barang/Jasa Pemerintah untu
 
 Tata cara penyelenggaraan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik sebagaimana dimaksud pada diktum KETUJUH huruf a, antara lain meliputi:
 
-a. analisis kebutuhan barang/jasa yang akan dikonsolidasikan,
+a. analisis kebutuhan barang/jasa yang akan dikonsolidasikan;
 
 b. analisis pasar, C. persiapan konsolidasi, antara lain meliputi:
 
@@ -117,7 +117,7 @@ b. analisis pasar, C. persiapan konsolidasi, antara lain meliputi:
 
 2) penetapan Harga Perkiraan Sendiri (jika diperlukan), dan
 
-3) penetapan rancangan Kontrak Payung,
+3) penetapan rancangan Kontrak Payung;
 
 d. pelaksanaan konsolidasi, antara lain meliputi:
 
@@ -129,9 +129,9 @@ b) Negosiasi.
 
 2) penyusunan Dokumen Pemilihan, dan
 
-3) pelaksanaan Pemilihan Penyedia,
+3) pelaksanaan Pemilihan Penyedia;
 
-e. penandatanganan Kontrak Payung, dan
+e. penandatanganan Kontrak Payung; dan
 
 f. pencantuman barang/jasa dalam katalog elektronik.
 
@@ -143,7 +143,7 @@ Ketentuan lebih lanjut tentang pedoman tata cara penyelenggaraan — konsolidasi
 
 Hasil pelaksanaan konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik, antara lain meliputi:
 
-a. penetapan pemenang konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik, yang dapat terdiri atas 1 (satu) pemenang atau lebih dari 1 (satu) pemenang,
+a. penetapan pemenang konsolidasi Pengadaan Barang/Jasa Pemerintah untuk katalog elektronik, yang dapat terdiri atas 1 (satu) pemenang atau lebih dari 1 (satu) pemenang;
 
 b. penetapan harga konsolidasi Pengadaan Barang/Jasa Pemerintah, yang dapat berupa antara lain:
 

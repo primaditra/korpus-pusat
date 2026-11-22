@@ -649,7 +649,7 @@ j. pembayaran honor.
 
 Dalam hal, satuan pendidikan menggunakan komponen pembayaran honor sebagaimana dimaksud pada ayat (1) huruf j, maka penggunaannya paling banyak:
 
-a. 20% {dua puluh persen) dari keseluruhan jumlah alokasi Dana BOP Kesetaraan Reguler yang diterima untuk Satuan Pendidikan Kesetaraan negeri, dan
+a. 20% {dua puluh persen) dari keseluruhan jumlah alokasi Dana BOP Kesetaraan Reguler yang diterima untuk Satuan Pendidikan Kesetaraan negeri; dan
 
 b. 4070 tempat puluh persen) dari keseluruhan jumlah alokasi Dana BOP Kesetaraan Reguler yang diterima untuk Satuan Pendidikan Kesetaraan yang diselenggarakan masyarakat;
 
@@ -690,7 +690,7 @@ Ketentuan mengenai rincian komponen penggunaan Dana BOSP sebagaimana dimaksud da
 
 (3) Sisa dana BOSP yang telah dicatatkan oleh Satuan Pendidikan dalam RKAS:
 
-a. divalidasi dan diverifikasi oleh Pemerintah Daerah sesuai dengan ketentuan peraturan menteri yang menyelenggarakan urusan di bidang pemerintahan dalam negeri mengenai pengelolaan dana BOSP pada Pemerintah Daerah, dan
+a. divalidasi dan diverifikasi oleh Pemerintah Daerah sesuai dengan ketentuan peraturan menteri yang menyelenggarakan urusan di bidang pemerintahan dalam negeri mengenai pengelolaan dana BOSP pada Pemerintah Daerah; dan
 
 b. diperhitungkan dalam penyaluran Dana BOSP tahun anggaran berikutnya sesuai dengan ketentuan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan mengenai penyaluran dana alokasi khusus nonfisik.
 
@@ -848,7 +848,7 @@ b. membungakan untuk kepentingan pribadi;
 
 c. meminjamkan kepada pihak lain;
 
-d. ' membeli perangkat lunak untuk pelaporan keuangan Dana BOSP atau perangkat lunak lainnya yang sejenis,
+d. ' membeli perangkat lunak untuk pelaporan keuangan Dana BOSP atau perangkat lunak lainnya yang sejenis;
 
 e. menyewa aplikasi pendataan atau aplikasi penerimaan Peserta Didik baru dalam jaringan;
 

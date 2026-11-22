@@ -502,7 +502,7 @@ h. kertas kerja penghitungan alokasi per provinsi/ kabupaten/kota dan/atau entit
 ### Pasal 14
 (1) Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendidikan menyampaikan:
 
-a. surat penyampaian data pagu Dana BOSP per Satuan Pendidikan penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan, dan
+a. surat penyampaian data pagu Dana BOSP per Satuan Pendidikan penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan; dan
 
 b. data Supplier — Satuan Pendidikan dan perubahannya kepada KPA BUN Penyaluran Dana Transfer Khusus.
 
@@ -517,7 +517,7 @@ b. data Supplier — Satuan Pendidikan dan perubahannya kepada KPA BUN Penyalura
 ### Pasal 15
 (1) Kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan menyampaikan:
 
-a. surat penyampaian data pagu Dana BOK Puskesmas per Puskesmas penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan, dan
+a. surat penyampaian data pagu Dana BOK Puskesmas per Puskesmas penerima, per provinsi/kabupaten/kota kepada Kementerian Keuangan c.g. Direktorat Jenderal Perimbangan Keuangan; dan
 
 b. data Supplier Puskesmas dan perubahannya kepada KPA BUN Penyaluran Dana Transfer Khusus.
 
