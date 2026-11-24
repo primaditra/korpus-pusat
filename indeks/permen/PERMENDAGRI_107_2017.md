@@ -1,0 +1,346 @@
+---
+id: PERMENDAGRI_107_2017
+jenis: Permen
+nomor: 107
+tahun: 2017
+judul: Peraturan Menteri Dalam Negeri Nomor 107 Tahun 2017 tentang Pedoman Nomenklatur Inspektorat Daerah Provinsi dan Kabupaten/Kota
+sumber_teks: teks-digital
+---
+# Peraturan Menteri Dalam Negeri Nomor 107 Tahun 2017 tentang Pedoman Nomenklatur Inspektorat Daerah Provinsi dan Kabupaten/Kota
+
+## Pembukaan
+
+BERITA NEGARA
+REPUBLIK INDONESIA
+No.1605, 2017 KEMENDAGRI. Nomenklatur Inspektorat Daerah.
+Prov. dan Kab/Kota. Pedoman. Pencabutan.
+PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+NOMOR 107 TAHUN 2017
+TENTANG
+PEDOMAN NOMENKLATUR INSPEKTORAT DAERAH PROVINSI
+DAN KABUPATEN/KOTA
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+Menimbang : bahwa untuk melaksanakan ketentuan Pasal 109 ayat (3)
+Peraturan Pemerintah Nomor 18 Tahun 2016 tentang
+Perangkat Daerah, perlu menetapkan Peraturan Menteri
+Dalam Negeri tentang Pedoman Nomenklatur Inspektorat
+Daerah Provinsi dan Kabupaten/Kota;
+Mengingat : 1. Undang-Undang Nomor 39 Tahun 2008 tentang
+Kementerian Negara (Lembaran Negara Republik Indonesia
+Tahun 2008 Nomor 166, Tambahan Lembaran Negara
+Republik Indonesia Nomor 4916);
+2. Undang-Undang Nomor 23 Tahun 2014 tentang
+Pemerintahan Daerah (Lembaran Negara Republik
+Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
+Negara Republik Indonesia Nomor 5587) sebagaimana telah
+beberapa kali diubah terakhir dengan Undang-Undang
+Nomor 9 Tahun 2015 tentang Perubahan Kedua atas
+Undang-Undang Nomor 23 Tahun 2014 tentang
+Pemerintahan Daerah (Lembaran Negara Republik
+Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran
+Negara Republik Indonesia Nomor 5679);
+3. Peraturan Pemerintah Nomor 18 Tahun 2016 tentang
+Perangkat Daerah (Lembaran Negara Republik Indonesia
+Tahun 2016 Nomor 114 Tambahan Lembaran Negara
+Republik Indonesia Nomor 5887);
+MEMUTUSKAN:
+Menetapkan : PERATURAN MENTERI DALAM NEGERI TENTANG PEDOMAN
+NOMENKLATUR INSPEKTORAT DAERAH PROVINSI DAN
+KABUPATEN/KOTA.
+
+## BAB I - KETENTUAN UMUM
+
+### Pasal 1
+
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+
+1. Perangkat Daerah adalah unsur pembantu kepala daerah dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.
+
+2. Perangkat Daerah Provinsi adalah unsur pembantu gubernur dan Dewan Perwakilan Rakyat Daerah provinsi dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah provinsi.
+
+3. Perangkat Daerah kabupaten/kota adalah unsur pembantu bupati/wali kota dan Dewan Perwakilan Rakyat Daerah kabupaten/kota dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah kabupaten/kota.
+
+4. Aparatur Sipil Negara yang selanjutnya disingkat ASN adalah profesi bagi pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+5. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan dalam negeri.
+
+6. Inspektorat Daerah provinsi merupakan unsur pengawas penyelenggaraan Pemerintah Daerah Provinsi.
+
+7. Inspektorat Daerah kabupaten/kota merupakan unsur pengawas penyelenggaraan Pemerintah Daerah kabupaten/kota.
+
+## BAB II - KEDUDUKAN, PEMBENTUKAN, NOMENKLATUR, DAN TIPE
+
+**Bagian Kesatu - Kedudukan**
+
+### Pasal 2
+
+(1) Inspektorat Daerah provinsi dan kabupaten/kota merupakan unsur pengawas penyelenggaraan Pemerintahan Daerah.
+
+(2) Inspektorat Daerah sebagaimana dimaksud pada ayat (1) dipimpin oleh inspektur.
+
+(3) Inspektur Daerah sebagaimana dimaksud pada ayat (2) dalam melaksanakan tugasnya bertanggung jawab kepada kepala daerah melalui sekretaris daerah.
+
+### Pasal 3
+
+(1) Inspektorat daerah provinsi dan kabupaten/kota mempunyai tugas membantu kepala daerah dalam membina dan mengawasi pelaksanaan Urusan Pemerintahan yang menjadi kewenangan Daerah dan Tugas Pembantuan oleh Perangkat Daerah.
+
+(2) Inspektorat Daerah provinsi dan kabupaten/kota dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) menyelenggarakan fungsi:
+
+a. perumusan kebijakan teknis bidang pengawasan dan fasilitasi pengawasan;
+
+b. pelaksanaan pengawasan internal terhadap kinerja dan keuangan melalui audit, reviu, evaluasi, pemantauan, dan kegiatan pengawasan lainnya;
+
+c. pelaksanaan pengawasan untuk tujuan tertentu atas penugasan dari kepala daerah;
+
+d. penyusunan laporan hasil pengawasan;
+
+e. pelaksanaan administrasi inspektorat Daerah; dan
+
+f. pelaksanaan fungsi lain yang diberikan oleh kepala daerah terkait dengan tugas dan fungsinya.
+
+**Bagian Kedua - Pembentukan dan Nomenklatur**
+
+### Pasal 4
+
+(1) Pembentukan dan susunan Perangkat Daerah inspektorat daerah ditetapkan dengan Perda dengan berpedoman pada peraturan pemerintah yang mengatur tentang perangkat daerah.
+
+(2) Nomenklatur perangkat daerah inspektorat daerah sebagaimana dimaksud pada ayat (1) bagi daerah provinsi disebut Inspektorat Daerah Provinsi dan bagi daerah kabupaten/kota disebut Inspektorat Daerah Kabupaten/Kota.
+
+**Bagian Ketiga - Tipe**
+
+### Pasal 5
+
+(1) Inspektorat daerah provinsi dan kabupaten/kota sebagaimana dimaksud dalam Pasal 2 diklasifikasikan atas tipe A, tipe B, dan tipe C.
+
+(2) Klasifikasi inspektorat daerah provinsi dan kabupaten/kota sebagaimana dimaksud pada ayat (1), dilaksanakan berdasarkan ketentuan peraturan pemerintah yang mengatur tentang perangkat daerah.
+
+## BAB III - SUSUNAN ORGANISASI, TUGAS DAN FUNGSI
+
+**Bagian Kesatu - Susunan Organisasi**
+
+### Pasal 6
+
+(1) Susunan Organisasi Inspektorat daerah provinsi dan kabupaten/kota terdiri atas
+
+a. Sekretariat;
+
+b. Inspektorat Pembantu; dan
+
+c. Kelompok Jabatan Fungsional.
+
+(2) Inspektorat Daerah provinsi dan kabupaten/kota tipe A terdiri atas 1 (satu) sekretariat, paling banyak 4 (empat) inspektur pembantu, dan kelompok jabatan fungsional.
+
+(3) Sekretariat sebagaimana dimaksud pada ayat (2) terdiri atas 3 (tiga) subbagian.
+
+(4) Inspektorat Daerah provinsi dan kabupaten/kota tipe B terdiri atas 1 (satu) sekretariat, paling banyak 3 (tiga) inspektur pembantu, dan kelompok jabatan fungsional.
+
+(5) Sekretariat sebagaimana dimaksud pada ayat (4) terdiri atas 2 (dua) subbagian.
+
+(6) Inspektorat Daerah provinsi dan kabupaten/kota tipe C terdiri atas 1 (satu) sekretariat, paling banyak 2 (dua) inspektur pembantu, dan kelompok jabatan fungsional.
+
+(7) Sekretariat sebagaimana dimaksud pada ayat (5) terdiri atas 2 (dua) subbagian.
+
+Bagian kedua Tugas dan Fungsi
+
+**Paragraf 1 - Sekretariat**
+
+### Pasal 7
+
+Sekretariat Inspektorat daerah provinsi dan kabupaten/kota sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a mempunyai tugas melaksanakan pembinaan teknis dan administratif ke dalam semua unsur di lingkungan Inspektorat Daerah
+
+### Pasal 8
+
+Sekretariat Inspektorat daerah provinsi dan kabupaten/kota dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 7, menyelenggarakan fungsi:
+
+a. pengkoordinasian perumusan rencana program kerja dan anggaran pengawasan, penyiapan penyusunan rancangan peraturan perundang-undangan dan pengadministrasian kerja sama;
+
+b. pelaksanaan evaluasi pengawasan, pengumpulan, pengelolaan, analisis dan penyajian laporan hasil pengawasan serta monitoring dan evaluasi pencapaian kinerja;
+
+c. pelaksanaan pengelolaan keuangan; dan
+
+d. pengelolaan kepegawaian, tata usaha, perlengkapan dan rumah tangga.
+
+### Pasal 9
+
+(1) Sekretariat Inspektorat daerah provinsi dan kabupaten/kota sebagaimana dimaksud dalam Pasal 8 terdiri atas subbagian yang menjalankan fungsi:
+
+a. perencanaan;
+
+b. analisis dan evaluasi; dan
+
+c. administrasi umum dan keuangan.
+
+(2) Penggabungan subbagian sebagaimana dimaksud pada ayat (1) untuk perangkat daerah Tipe B dan C dengan memperhatikan beban kerja.
+
+### Pasal 10
+
+(1) Subbagian yang menjalankan fungsi Perencanaan sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a mempunyai tugas menyiapkan bahan penyusunan dan pengendalian rencana/program kerja pengawasan, menghimpun dan menyiapkan rancangan peraturan perundang-undangan, kerjasama pengawasan, dan dokumentasi.
+
+(2) Subbagian sebagaimana dimaksud pada ayat (1) mempunyai fungsi:
+
+a. pengkoordinasian penyiapan rencana program dan anggaran Inspektorat Daerah;
+
+b. pengkoordinasian penyiapan rencana program kerja pengawasan;
+
+c. koordinasi dan penyusunan peraturan perundangundangan serta pengelolaan dokumentasi hukum; dan
+
+d. koordinasi dan kerja sama pengawasan dengan APIP lainnya dan Aparat Penegak Hukum.
+
+(3) Subbagian yang menjalankan fungsi analisis dan evaluasi sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf b mempunyai tugas melaksanakan administrasi, inventarisasi, analisis, evaluasi, pendokumentasian dan menyajikan hasil pengawasan serta pendokumentasian pemutakhiran tindak lanjut hasil pengawasan.
+
+(4) Subbagian sebagaimana dimaksud pada ayat (3) mempunyai fungsi:
+
+a. penginventarisasian hasil pengawasan;
+
+b. koordinasi evaluasi laporan hasil pengawasan;
+
+c. penyusunan laporan dan pendokumentasian hasil analisis dan evaluasi pengawasan;
+
+d. pendokumentasian hasil pemutakhiran tindak lanjut hasil pengawasan; dan
+
+e. pelaksanaan evaluasi kegiatan dan penyusunan laporan kinerja Inspektorat Daerah.
+
+(5) Subbagian yang menjalankan fungsi administrasi umum dan keuangan sebagaimana dimaksud dalam Pasal 9 ayat
+
+(1) huruf c mempunyai tugas melaksanakan urusan kepegawaian, tata usaha, perlengkapan dan rumah tangga, pengelolaan keuangan, penatausahaan, akuntansi, verifikasi, pembukuan dan pelaporan keuangan.
+
+(6) Subbagian sebagaimana dimaksud pada ayat (5) mempunyai fungsi
+
+a. pelaksanaan administrasi kepegawaian;
+
+b. pelaksanaan tata usaha dan pembinaan tata usaha Inspektorat;
+
+c. Pelaksanaan urusan perlengkapan;
+
+d. pelaksanaan urusan rumah tangga.
+
+e. pelaksanaan anggaran dan penyiapan bahan tanggapan atas laporan pemeriksaan keuangan.
+
+f. pelaksanaan perbendaharaan; dan
+
+g. pelaksanaan verifkasi, akuntasi dan pelaporan keuangan.
+
+### Pasal 11
+
+Inspektorat pembantu sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b, mempunyai tugas melaksanakan pembinaan dan pengawasan fungsional terhadap pengelolaan keuangan, kinerja dan urusan pemerintahan daerah pada peranagkat daerah.
+
+### Pasal 12
+
+(1) Inspektorat pembantu dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 11, menyelenggarakan fungsi:
+
+a. penyiapan penyusunan kebijakan terkait pembinaan dan pengawasan terhadap perangkat daerah;
+
+b. perencanaan program pembinaan dan pengawasan terhadap pelaksana tugas dan fungsi perangkat daerah;
+
+c. pengkoordinasian pelaksanaan pengawasan fungsional penyelenggaraan urusan pemerintahan daerah;
+
+d. pengawasan keuangan dan kinerja perangkat daerah;
+
+e. pengawasan terhadap penyelenggaraan urusan pemerintahan daerah yang meliputi bidang tugas perangkat daerah;
+
+f. penyiapan perumusan kebijakan dan fasilitasi pengawasan penyelenggaraan urusan pemerintahan daerah;
+
+g. kerja sama pelaksanaan pengawasan dengan Aparat Pengawas Internal Pemerintah lainnya;
+
+h. pemantauan dan pemutakhiran tindak lanjut hasil pengawasan; dan
+
+i. pelaksanaan pengawasan untuk tujuan tertentu atas penugasan Inspektur Jenderal.
+
+j. penyusunan laporan hasil pengawasan.
+
+(2) Pembagian tugas dan fungsi ke dalam masing-masing unit kerja Inspektorat pembantu didasarkan pada rumpun urusan yang dilaksanakan oleh perangkat daerah dengan memperhatikan beban kerja dan kebutuhan.
+
+### Pasal 13
+
+(1) Kelompok jabatan fungsional sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c terdiri atas tenaga fungsional pengawas penyelenggaraan urusan pemerintahan daerah, auditor, dan jabatan fungsional lainnya yang terbagi dalam beberapa kelompok jabatan fungsional sesuai dengan bidang keahliannya.
+
+(2) Kelompok Jabatan Fungsional mempunyai tugas melakukan kegiatan bidang tenaga fungsional masingmasing sesuai dengan ketentuan peraturan perundangundangan.
+
+(3) Jumlah Tenaga Fungsional ditentukan sesuai kebutuhan dan beban kerja.
+
+(4) Jenis dan jenjang Tenaga Fungsional diatur sesuai dengan peraturan perundang-undangan.
+
+## BAB IV - KETENTUAN PERALIHAN
+
+### Pasal 14
+
+Penyesuaian nomenklatur, tugas dan fungsi Inspektorat Daerah Provinsi dan Kabupaten/Kota dilaksanakan paling lambat 6 (enam) bulan setelah Peraturan Menteri ini diundangkan.
+
+## BAB V - KETENTUAN PENUTUP
+
+### Pasal 15
+
+Bagan struktur inspektorat daerah provinsi dan kabupaten/kota tipe A, tipe B, dan tipe C, tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+### Pasal 16
+
+Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Dalam Negeri Nomor 64 Tahun 2007 tentang Pedoman Teknis Organisasi Dan Tata Kerja Inspektorat Provinsi Dan Kabupaten/Kota dicabut dan dinyatakan tidak berlaku.
+
+### Pasal 17
+
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
+## Penutup
+
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Menteri ini dengan penempatannya
+dalam Berita Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 1 November 2017
+MENTERI DALAM NEGERI
+REPUBLIK INDONESIA,
+ttd
+TJAHJO KUMOLO
+Diundangkan di Jakarta
+pada tanggal 13 November 2017
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+ttd
+WIDODO EKATJAHJANA
+3:lliij
+o
+Ol
+Ol
+::J
+(fJ
+Z
+m
+-1:1;
+z!;:
+o OE-< Q0212
+o:l
+o:l rr: f--- zwCi
+::J (;r.llll
+CIJ
+u:
+z~oil
+CIJ(;r.l
+;:s miii
+(;r.l f--
+0:::
+(;r.l
+CIJ
+m
+L- o
+o:l
+o:
+OZU
+(;r.lO
+o...o:::t:
+ClJo...
+Z
+z;:
+°z
+Cii0212
+f---
+(;r.llll
+;50:08
+CIJ(;r.l
+o:l0
+
+## Lampiran
+
+Isi lampiran tidak disalin; lihat PDF.
